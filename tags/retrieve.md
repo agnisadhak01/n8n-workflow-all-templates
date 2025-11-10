@@ -1,0 +1,18 @@
+# retrieve : 14
+
+|id|file|
+|----|----|
+|920|[920_Generate__retrieve_and_download_a_report_using_the_SecurityScorecard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/920_Generate__retrieve_and_download_a_report_using_the_SecurityScorecard.json)|
+|934|[934_Insert_and_retrieve_data_from_a_table_in_Stackby.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/934_Insert_and_retrieve_data_from_a_table_in_Stackby.json)|
+|1068|[1068_Create__update__and_retrieve_a_record_from_FileMaker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1068_Create__update__and_retrieve_a_record_from_FileMaker.json)|
+|2086|[2086_Retrieve_a_Monday.com_row_and_all_data_in_a_single_node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2086_Retrieve_a_Monday.com_row_and_all_data_in_a_single_node.json)|
+|2795|[2795_Programmatically_Retrieve_Embeddable_Getty_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2795_Programmatically_Retrieve_Embeddable_Getty_Images.json)|
+|3026|[3026_Run_Apache_Airflow_DAG_and_Retrieve_XCom_Value.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3026_Run_Apache_Airflow_DAG_and_Retrieve_XCom_Value.json)|
+|3391|[3391_Stripe_Payment_Order_Sync___Auto_Retrieve_Customer___Product_Purchased.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3391_Stripe_Payment_Order_Sync___Auto_Retrieve_Customer___Product_Purchased.json)|
+|3573|[3573_Create_a_RAG_System_with_Paul_Essays__Milvus__and_OpenAI_for_Cited_Answers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3573_Create_a_RAG_System_with_Paul_Essays__Milvus__and_OpenAI_for_Cited_Answers.json)|
+|3834|[3834_Retrieve_NASA_Space_Weather___Asteroid_Data_with_GPT-4o-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3834_Retrieve_NASA_Space_Weather___Asteroid_Data_with_GPT-4o-mini_and_Telegram.json)|
+|4571|[4571_Retrieve_Deadlock_Game_Match_Statistics_and_Send_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4571_Retrieve_Deadlock_Game_Match_Statistics_and_Send_to_Telegram.json)|
+|5317|[5317_AI_Agents_can_retrieve_assetts_with____Contentful_Tool_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5317_AI_Agents_can_retrieve_assetts_with____Contentful_Tool_MCP_Server.json)|
+|5566|[5566_Search_and_Retrieve_eBay_Product_Data_with_Catalog_API_for_AI_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5566_Search_and_Retrieve_eBay_Product_Data_with_Catalog_API_for_AI_Agents.json)|
+|6671|[6671_Retrieve___Share_NFL_Fantasy_Football_Draft_Results_from_Sleeper_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6671_Retrieve___Share_NFL_Fantasy_Football_Draft_Results_from_Sleeper_to_Telegram.json)|
+|9318|[9318_Retrieve_and_Filter_Kagi_News_by_Category.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9318_Retrieve_and_Filter_Kagi_News_by_Category.json)|

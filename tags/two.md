@@ -1,0 +1,17 @@
+# two : 13
+
+|id|file|
+|----|----|
+|687|[687_Read_RSS_feed_from_two_different_sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/687_Read_RSS_feed_from_two_different_sources.json)|
+|1333|[1333_Two-way_sync_between_Pipedrive_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1333_Two-way_sync_between_Pipedrive_and_HubSpot.json)|
+|1822|[1822_Two_way_sync_Pipedrive_and_MySQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/18/1822_Two_way_sync_Pipedrive_and_MySQL.json)|
+|1930|[1930_Sync_new_data_between_two_apps.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/19/1930_Sync_new_data_between_two_apps.json)|
+|5436|[5436_Two-Stage_Document_Retrieval_Chatbot_with_OpenAI_and_Supabase_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5436_Two-Stage_Document_Retrieval_Chatbot_with_OpenAI_and_Supabase_Vector_Search.json)|
+|5899|[5899_Automatic_Typebot_Flows_Two-Way_Sync_with_GitHub_using_Typebot_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5899_Automatic_Typebot_Flows_Two-Way_Sync_with_GitHub_using_Typebot_API.json)|
+|6519|[6519_Create_Content_Strategies_with_Dual_AI_Research_Agents_using_SerpApi__GPT-4___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6519_Create_Content_Strategies_with_Dual_AI_Research_Agents_using_SerpApi__GPT-4___Sheets.json)|
+|6560|[6560_YouTube-Airtable_Two-Way_Sync_for_Channel_Management___Video_Analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6560_YouTube-Airtable_Two-Way_Sync_for_Channel_Management___Video_Analytics.json)|
+|8350|[8350_Create_a_Two-Way_WhatsApp___Telegram_Integration_for_10k__Customer_Support_Chats.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8350_Create_a_Two-Way_WhatsApp___Telegram_Integration_for_10k__Customer_Support_Chats.json)|
+|8639|[8639_Audio_to_Executive_Brief__Transcribe___Analyze_with_AssemblyAI_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8639_Audio_to_Executive_Brief__Transcribe___Analyze_with_AssemblyAI_and_GPT-4.json)|
+|8712|[8712_Two-Factor_Authentication_with_ClickSend_Voice_Calls_and_Email_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8712_Two-Factor_Authentication_with_ClickSend_Voice_Calls_and_Email_Verification.json)|
+|10004|[10004_Two-way_Property_Repair_Management_System_with_Google_Sheets___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10004_Two-way_Property_Repair_Management_System_with_Google_Sheets___Drive.json)|
+|10295|[10295_Synchronize_Events___Attendees_Between_KlickTipp_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10295_Synchronize_Events___Attendees_Between_KlickTipp_and_Google_Calendar.json)|

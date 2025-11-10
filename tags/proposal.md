@@ -1,0 +1,15 @@
+# proposal : 11
+
+|id|file|
+|----|----|
+|4359|[4359_AI-Powered_Post-Sales_Call_Automated_Proposal_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4359_AI-Powered_Post-Sales_Call_Automated_Proposal_Generator.json)|
+|4804|[4804_AI_Premium_Proposal_Generator_with_OpenAI__Google_Slides___PandaDoc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4804_AI_Premium_Proposal_Generator_with_OpenAI__Google_Slides___PandaDoc.json)|
+|5082|[5082_AI-Powered_Proposal_Automation_Using_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5082_AI-Powered_Proposal_Automation_Using_Google_Slides.json)|
+|5656|[5656_Auto-Generate_WhatsApp_Proposals_from_Voice_or_Text_using_GPT___APITemplate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5656_Auto-Generate_WhatsApp_Proposals_from_Voice_or_Text_using_GPT___APITemplate.json)|
+|6297|[6297_Generate_Professional_Proposals_with_GPT-4o_and_PDFMonkey.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6297_Generate_Professional_Proposals_with_GPT-4o_and_PDFMonkey.json)|
+|6534|[6534_AI_Proposal_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6534_AI_Proposal_Generator.json)|
+|7558|[7558_Generate_Client_Proposals_from_Call_Transcripts_with_AI__Google_Slides_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7558_Generate_Client_Proposals_from_Call_Transcripts_with_AI__Google_Slides_and_Airtable.json)|
+|7667|[7667_PDF_Proposal_Knowledge_Base_with_S3__OpenAI_GPT-4o___Qdrant_RAG_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7667_PDF_Proposal_Knowledge_Base_with_S3__OpenAI_GPT-4o___Qdrant_RAG_Agent.json)|
+|8015|[8015_Automate_AI_Upwork_Proposal_Generation_with_Apify__Google_Gemini___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8015_Automate_AI_Upwork_Proposal_Generation_with_Apify__Google_Gemini___Sheets.json)|
+|8480|[8480_Generate_Business_Proposals_with_Azure_GPT-4o___Save_as_Gmail_Drafts_from_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8480_Generate_Business_Proposals_with_Azure_GPT-4o___Save_as_Gmail_Drafts_from_Sheets.json)|
+|9270|[9270_GPT_4.1_-_Freelancer.com_Job_Alert_System_with_Auto_Proposal_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9270_GPT_4.1_-_Freelancer.com_Job_Alert_System_with_Auto_Proposal_Generator.json)|

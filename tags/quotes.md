@@ -1,0 +1,15 @@
+# quotes : 11
+
+|id|file|
+|----|----|
+|3328|[3328_Automatically_Create_and_Upload_YouTube_Videos_with_Quotes_in_Thai_Using_FFmpeg.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3328_Automatically_Create_and_Upload_YouTube_Videos_with_Quotes_in_Thai_Using_FFmpeg.json)|
+|4065|[4065_Serve_Inspirational_Quotes_On-Demand_via_Webhook_using_ZenQuotes_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4065_Serve_Inspirational_Quotes_On-Demand_via_Webhook_using_ZenQuotes_API.json)|
+|4438|[4438_Goodreads_Quote_Extraction_with_Bright_Data_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4438_Goodreads_Quote_Extraction_with_Bright_Data_and_Gemini.json)|
+|5492|[5492_Generate___Send_Spare_Parts_Price_Quotes_with_Gmail__Sheets_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5492_Generate___Send_Spare_Parts_Price_Quotes_with_Gmail__Sheets_and_Gemini_AI.json)|
+|6737|[6737_Transform_Quotes_to_Viral_Videos_with_Gemini__GPT___ElevenLabs_for_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6737_Transform_Quotes_to_Viral_Videos_with_Gemini__GPT___ElevenLabs_for_Social_Media.json)|
+|7425|[7425_Send_Daily_AI-Generated_Quotes___Images_to_Telegram_with_GPT-4o_and_Flux-pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7425_Send_Daily_AI-Generated_Quotes___Images_to_Telegram_with_GPT-4o_and_Flux-pro.json)|
+|7688|[7688_Send_Daily_Inspirational_Quotes_with_Gemini_Translation_to_Telegram_Subscribers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7688_Send_Daily_Inspirational_Quotes_with_Gemini_Translation_to_Telegram_Subscribers.json)|
+|8029|[8029_Daily_Motivational_Quotes_from_ZenQuotes_to_Slack_Channels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8029_Daily_Motivational_Quotes_from_ZenQuotes_to_Slack_Channels.json)|
+|8402|[8402_Generate_AI-Curated_Sales_Quotes_with_OpenAI__Qdrant___CraftMyPDF_PDF_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8402_Generate_AI-Curated_Sales_Quotes_with_OpenAI__Qdrant___CraftMyPDF_PDF_Delivery.json)|
+|9608|[9608_Generate_Pro_Construction_Quotes_from_jotform_to_Email_with_Supabase_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9608_Generate_Pro_Construction_Quotes_from_jotform_to_Email_with_Supabase_CRM.json)|
+|9652|[9652_Generate_Instagram_Posts_with_AI_Quotes___Images_using_GPT___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9652_Generate_Instagram_Posts_with_AI_Quotes___Images_using_GPT___Gemini.json)|

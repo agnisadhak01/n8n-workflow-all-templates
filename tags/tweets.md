@@ -1,0 +1,15 @@
+# tweets : 11
+
+|id|file|
+|----|----|
+|875|[875_Send_tweets_every_minute_to_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/875_Send_tweets_every_minute_to_Mattermost.json)|
+|1403|[1403_Collect_posts_from_Twitter_and_send_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/14/1403_Collect_posts_from_Twitter_and_send_to_Airtable.json)|
+|4088|[4088_Extract_and_Merge_Twitter__X__Threads_using_TwitterAPI.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4088_Extract_and_Merge_Twitter__X__Threads_using_TwitterAPI.io.json)|
+|4851|[4851_Find_relevant_X_tweets_based_on_your_profile_and_suggest_responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4851_Find_relevant_X_tweets_based_on_your_profile_and_suggest_responses.json)|
+|6665|[6665_Generate_AI_Tweets_Mimicking_Any_Twitter_User_s_Style_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6665_Generate_AI_Tweets_Mimicking_Any_Twitter_User_s_Style_with_OpenAI.json)|
+|6981|[6981_Daily_Auto-Generated_Tweets_from_Trending_Topics_using_Perplexity___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6981_Daily_Auto-Generated_Tweets_from_Trending_Topics_using_Perplexity___GPT-4o.json)|
+|7027|[7027_Automate_Tweet_Filtering_and_Replies_on_X_with_GPT_and_Scheduled_Rotation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7027_Automate_Tweet_Filtering_and_Replies_on_X_with_GPT_and_Scheduled_Rotation.json)|
+|8630|[8630_Auto-like_Tweets_from_Selected_Profiles_with_Phantombuster___SharePoint_AI_Rotation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8630_Auto-like_Tweets_from_Selected_Profiles_with_Phantombuster___SharePoint_AI_Rotation.json)|
+|8655|[8655_Generate_Newsletter_Images_with_Nano_Banana___Post_Human-Approved_Tweets_to_X.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8655_Generate_Newsletter_Images_with_Nano_Banana___Post_Human-Approved_Tweets_to_X.json)|
+|9355|[9355_Daily_Competitor_Tweet_Summarizer_with_X_API__GPT-5-Nano__and_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9355_Daily_Competitor_Tweet_Summarizer_with_X_API__GPT-5-Nano__and_Gmail_Delivery.json)|
+|9395|[9395_Repurpose_Reddit_Posts_into_AI_Tweets_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9395_Repurpose_Reddit_Posts_into_AI_Tweets_with_Gemini_and_Google_Sheets.json)|

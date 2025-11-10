@@ -1,0 +1,18 @@
+# mailchimp : 14
+
+|id|file|
+|----|----|
+|413|[413_Create_a_new_member_on_Mailchimp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/413_Create_a_new_member_on_Mailchimp.json)|
+|429|[429_Gather_leads_in_Google_Sheet_and_Mailchimp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/429_Gather_leads_in_Google_Sheet_and_Mailchimp.json)|
+|516|[516_Catch_MailChimp_subscribe_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/05/516_Catch_MailChimp_subscribe_events.json)|
+|898|[898_Create_new_member_in_Mailchimp_from_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/898_Create_new_member_in_Mailchimp_from_Airtable.json)|
+|1770|[1770_Add_new_contacts_from_HubSpot_to_the_email_list_in_Mailchimp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/17/1770_Add_new_contacts_from_HubSpot_to_the_email_list_in_Mailchimp.json)|
+|1771|[1771_Send_or_update_new_Mailchimp_subscribers_in_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/17/1771_Send_or_update_new_Mailchimp_subscribers_in_HubSpot.json)|
+|3251|[3251_Sync_Squarespace_Newsletter_Signups_to_Mailchimp_via_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3251_Sync_Squarespace_Newsletter_Signups_to_Mailchimp_via_Google_Sheets.json)|
+|4918|[4918_AI-Powered_Restaurant_Newsletter_Creator_with_Mailchimp_and_Telegram_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4918_AI-Powered_Restaurant_Newsletter_Creator_with_Mailchimp_and_Telegram_Approval.json)|
+|5812|[5812_Auto-Import_Contacts_from_Google_Sheets_to_MailChimp_Subscriber_Lists.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5812_Auto-Import_Contacts_from_Google_Sheets_to_MailChimp_Subscriber_Lists.json)|
+|7603|[7603_Send_Daily_Mailchimp_Subscriber_Reports_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7603_Send_Daily_Mailchimp_Subscriber_Reports_to_Slack.json)|
+|7774|[7774_Automate_welcome_emails_with_discount_codes_via_Mailchimp_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7774_Automate_welcome_emails_with_discount_codes_via_Mailchimp_and_Gmail.json)|
+|8207|[8207_Automate_Product_Launch_Sequence_with_Notion__Mailchimp__Buffer__Google_Calendar___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8207_Automate_Product_Launch_Sequence_with_Notion__Mailchimp__Buffer__Google_Calendar___Telegram.json)|
+|8590|[8590_Automate_Lead_Qualification___Follow-up_with_Gemini__HubSpot__Zoom___Mailchimp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8590_Automate_Lead_Qualification___Follow-up_with_Gemini__HubSpot__Zoom___Mailchimp.json)|
+|8909|[8909_AI_Lead_Scoring___Enrichment_from_Mailchimp_to_HubSpot_and_Pipedrive_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8909_AI_Lead_Scoring___Enrichment_from_Mailchimp_to_HubSpot_and_Pipedrive_with_GPT-4o.json)|

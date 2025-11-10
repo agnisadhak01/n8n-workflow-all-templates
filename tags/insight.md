@@ -1,0 +1,12 @@
+# insight : 8
+
+|id|file|
+|----|----|
+|4621|[4621_Automated_Video_Analysis__AI-Powered_Insight_Generation_from_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4621_Automated_Video_Analysis__AI-Powered_Insight_Generation_from_Google_Drive.json)|
+|4654|[4654_Daily_Insight_Email_from_Structured_Web_Data_with_Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4654_Daily_Insight_Email_from_Structured_Web_Data_with_Firecrawl.json)|
+|6166|[6166_Automate_Website_Performance_Analysis_and_Comparison_using_Gemini_and_PageSpeed_Insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6166_Automate_Website_Performance_Analysis_and_Comparison_using_Gemini_and_PageSpeed_Insights.json)|
+|6294|[6294_Automate_Monthly_Finance_Reports_with_Google_Sheets__GPT-4_Analysis_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6294_Automate_Monthly_Finance_Reports_with_Google_Sheets__GPT-4_Analysis_and_Gmail.json)|
+|6489|[6489_Extract_Market_Cap_Data_from_Yahoo_Finance_with_Bright_Data___Visualize_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6489_Extract_Market_Cap_Data_from_Yahoo_Finance_with_Bright_Data___Visualize_in_Telegram.json)|
+|6606|[6606_Generate_Comprehensive_Financial_Reports_with_GPT-4_Analysis_and_Anomaly_Detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6606_Generate_Comprehensive_Financial_Reports_with_GPT-4_Analysis_and_Anomaly_Detection.json)|
+|7183|[7183_Auto-Analyze_Google_Analytics_Data_with_Gemini_AI___Smart_Gmail_Telegram_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7183_Auto-Analyze_Google_Analytics_Data_with_Gemini_AI___Smart_Gmail_Telegram_Routing.json)|
+|8369|[8369_Task_Time_Analysis__Automated_Overspend_Time_Insights_for_ClickUp_and_More.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8369_Task_Time_Analysis__Automated_Overspend_Time_Insights_for_ClickUp_and_More.json)|

@@ -1,0 +1,12 @@
+# repurpose : 8
+
+|id|file|
+|----|----|
+|3776|[3776_Turn_YouTube_RSS_videos_into_social_posts_with_Dumpling_AI_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3776_Turn_YouTube_RSS_videos_into_social_posts_with_Dumpling_AI_and_Airtable.json)|
+|5468|[5468_Multi-User_Telegram_Bot_to_Summarize___Repurpose_YouTube_Videos_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5468_Multi-User_Telegram_Bot_to_Summarize___Repurpose_YouTube_Videos_with_GPT-4o.json)|
+|6899|[6899_Repurpose_YouTube_Videos_to_Multiple_Content_Types_with_OpenRouter_AI_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6899_Repurpose_YouTube_Videos_to_Multiple_Content_Types_with_OpenRouter_AI_and_Airtable.json)|
+|7751|[7751_Repurpose_One_Idea_into_a_Week_of_Social_Content_with_Notion_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7751_Repurpose_One_Idea_into_a_Week_of_Social_Content_with_Notion_and_GPT-4o.json)|
+|8338|[8338_Repurpose_YouTube_Videos_Across_Social_Media_with_Gemini_AI_and_ContentDrips.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8338_Repurpose_YouTube_Videos_Across_Social_Media_with_Gemini_AI_and_ContentDrips.json)|
+|8800|[8800_Automate_RSS_News_to_Multi-Platform_Social_Media_Publishing_via_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8800_Automate_RSS_News_to_Multi-Platform_Social_Media_Publishing_via_PostPulse.json)|
+|9395|[9395_Repurpose_Reddit_Posts_into_AI_Tweets_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9395_Repurpose_Reddit_Posts_into_AI_Tweets_with_Gemini_and_Google_Sheets.json)|
+|9780|[9780_Cross-Post_Tiktok_Videos_to_Multiple_Social_Media_Platforms_with_RSS___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9780_Cross-Post_Tiktok_Videos_to_Multiple_Social_Media_Platforms_with_RSS___Blotato.json)|

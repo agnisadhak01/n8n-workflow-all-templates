@@ -1,0 +1,15 @@
+# startup : 11
+
+|id|file|
+|----|----|
+|3107|[3107_Startup_Funding_Research_Automation_with_Claude__Perplexity_AI__and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3107_Startup_Funding_Research_Automation_with_Claude__Perplexity_AI__and_Airtable.json)|
+|3824|[3824_Auto-Generate_MVP_Startup_Ideas_from_Reddit_with_AI___Excel_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3824_Auto-Generate_MVP_Startup_Ideas_from_Reddit_with_AI___Excel_Storage.json)|
+|4729|[4729_Startup_Founder_Discovery_and_AI-Powered_Outreach_with_CrunchBase_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4729_Startup_Founder_Discovery_and_AI-Powered_Outreach_with_CrunchBase_and_Gmail.json)|
+|4732|[4732_Daily_Startup_Intelligence__Crunchbase_Updates_to_Email_Digest_with_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4732_Daily_Startup_Intelligence__Crunchbase_Updates_to_Email_Digest_with_GPT.json)|
+|4792|[4792_Real-Time_Startup_Intelligence__Crunchbase_Monitoring_with_AI_Summaries___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4792_Real-Time_Startup_Intelligence__Crunchbase_Monitoring_with_AI_Summaries___Email_Alerts.json)|
+|5381|[5381_Automate_Startup_Research___Profiling_with_Extruct_AI_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5381_Automate_Startup_Research___Profiling_with_Extruct_AI_to_Google_Sheets.json)|
+|5825|[5825_Generate_Startup_Ideas___Business_Plans_with_GPT-4.1__Perplexity_Sonar___Claude_Sonnet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5825_Generate_Startup_Ideas___Business_Plans_with_GPT-4.1__Perplexity_Sonar___Claude_Sonnet.json)|
+|6094|[6094_Generate_Startup_Ideas_from_Reddit_Posts_Using_Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6094_Generate_Startup_Ideas_from_Reddit_Posts_Using_Gemini_AI_and_Google_Sheets.json)|
+|6775|[6775_Extract_Seed-Funded_Startup_Data_with_RSS__GPT-4.1-MINI___BrightData_to_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6775_Extract_Seed-Funded_Startup_Data_with_RSS__GPT-4.1-MINI___BrightData_to_Excel.json)|
+|7480|[7480_Generate_Personalized_Startup_Ideas_with_Claude_Analysis_and_Gmail_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7480_Generate_Personalized_Startup_Ideas_with_Claude_Analysis_and_Gmail_Reports.json)|
+|9503|[9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json)|

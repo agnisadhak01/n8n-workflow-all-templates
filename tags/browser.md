@@ -1,0 +1,14 @@
+# browser : 10
+
+|id|file|
+|----|----|
+|2038|[2038_Bookmarking_urls_in_your_browser_and_save_them_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2038_Bookmarking_urls_in_your_browser_and_save_them_to_Notion.json)|
+|3451|[3451_Browser_Recording_Audio_Transcribing_and_AI_Analysis_with_Deepgram_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3451_Browser_Recording_Audio_Transcribing_and_AI_Analysis_with_Deepgram_and_GPT-4o.json)|
+|3592|[3592_Automate_Web_Interactions_with_Claude_3.5_Haiku_and_Airtop_Browser_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3592_Automate_Web_Interactions_with_Claude_3.5_Haiku_and_Airtop_Browser_Agent.json)|
+|4054|[4054_Automated_Replies_to_X_Threads_with_Airtop_Browser_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4054_Automated_Replies_to_X_Threads_with_Airtop_Browser_Automation.json)|
+|4208|[4208_Extract_and_Structure_X_Post_Comments_with_Airtop_Browser_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4208_Extract_and_Structure_X_Post_Comments_with_Airtop_Browser_Automation.json)|
+|4521|[4521_Automate_Screenshot_Upload_to_Postimages.org_with_Airtop_Browser_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4521_Automate_Screenshot_Upload_to_Postimages.org_with_Airtop_Browser_Automation.json)|
+|4522|[4522_Automated_Video_Download_from_Sample.cat_using_Airtop_Browser_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4522_Automated_Video_Download_from_Sample.cat_using_Airtop_Browser_Automation.json)|
+|6638|[6638_Automate_Browser_Tasks_with_Airtop___GPT-4_-_Reddit_Posting_Example.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6638_Automate_Browser_Tasks_with_Airtop___GPT-4_-_Reddit_Posting_Example.json)|
+|7033|[7033_Automate_Competitor_Research___Intelligence_with_Browser_Use_Cloud_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7033_Automate_Competitor_Research___Intelligence_with_Browser_Use_Cloud_AI_and_Slack.json)|
+|7932|[7932_Automate_Cross-Posting_from_Telegram_to_Facebook_with_Airtop_Browser_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7932_Automate_Cross-Posting_from_Telegram_to_Facebook_with_Airtop_Browser_Automation.json)|

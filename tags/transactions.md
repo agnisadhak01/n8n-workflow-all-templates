@@ -1,0 +1,12 @@
+# transactions : 8
+
+|id|file|
+|----|----|
+|4128|[4128_Track_HDFC_Credit_Card_Transactions_with_Google_Sheets_and_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4128_Track_HDFC_Credit_Card_Transactions_with_Google_Sheets_and_Telegram_Notifications.json)|
+|4395|[4395_Track_Expenses_by_Parsing_Telegram_Transaction_Messages_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4395_Track_Expenses_by_Parsing_Telegram_Transaction_Messages_to_Google_Sheets.json)|
+|6266|[6266_Fraudulent_Booking_Detector__Identify_Suspicious_Travel_Transactions_with_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6266_Fraudulent_Booking_Detector__Identify_Suspicious_Travel_Transactions_with_Google_Gemini.json)|
+|6473|[6473_Track_Crypto_Prices__New_Listings___Transactions_with_CoinGecko___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6473_Track_Crypto_Prices__New_Listings___Transactions_with_CoinGecko___Google_Sheets.json)|
+|7566|[7566_Auto-Categorize_YNAB_Transactions_with_GPT-5-Mini_and_Discord_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7566_Auto-Categorize_YNAB_Transactions_with_GPT-5-Mini_and_Discord_Notifications.json)|
+|7704|[7704_Extract_Transactions_from_Images_using_unli.dev_Vision_API___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7704_Extract_Transactions_from_Images_using_unli.dev_Vision_API___Telegram.json)|
+|8807|[8807_Categorize_Revolut_Transactions_Automatically_with_GPT-4_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8807_Categorize_Revolut_Transactions_Automatically_with_GPT-4_and_Supabase.json)|
+|10110|[10110_Monitor_Bank_Transactions_with_Multi-Channel_Alerts_for_Accounting_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10110_Monitor_Bank_Transactions_with_Multi-Channel_Alerts_for_Accounting_Teams.json)|

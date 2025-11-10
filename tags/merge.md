@@ -1,0 +1,19 @@
+# merge : 15
+
+|id|file|
+|----|----|
+|100|[100_Using_the_Merge_Node_-_Merge_by_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/01/100_Using_the_Merge_Node_-_Merge_by_Key.json)|
+|655|[655_Merge_greetings_with_the_users_based_on_the_language.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/655_Merge_greetings_with_the_users_based_on_the_language.json)|
+|1160|[1160_Merge_data_for_multiple_executions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/11/1160_Merge_data_for_multiple_executions.json)|
+|1814|[1814_Merge_multiple_runs_into_one.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/18/1814_Merge_multiple_runs_into_one.json)|
+|1916|[1916_Merge_binary_objects_on_multiple_items_into_a_single_item.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/19/1916_Merge_binary_objects_on_multiple_items_into_a_single_item.json)|
+|2298|[2298_Merge_PDF_files_using_ConvertAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2298_Merge_PDF_files_using_ConvertAPI.json)|
+|2858|[2858_Automate_GitLab_Merge_Requests_Using_APIs_with_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2858_Automate_GitLab_Merge_Requests_Using_APIs_with_n8n.json)|
+|3281|[3281_Download_and_Merge_Multiple_PDFs_from_URLs_with_the_CustomJS_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3281_Download_and_Merge_Multiple_PDFs_from_URLs_with_the_CustomJS_API.json)|
+|3873|[3873_Merge_Multiple_PDF_Files_with_CustomJS_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3873_Merge_Multiple_PDF_Files_with_CustomJS_API.json)|
+|3997|[3997_GitLab_Merge_Request_Review___Risk_Analysis_with_Claude_GPT_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3997_GitLab_Merge_Request_Review___Risk_Analysis_with_Claude_GPT_AI.json)|
+|4088|[4088_Extract_and_Merge_Twitter__X__Threads_using_TwitterAPI.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4088_Extract_and_Merge_Twitter__X__Threads_using_TwitterAPI.io.json)|
+|5996|[5996_Learn_Workflow_Logic_with_Merge__IF___Switch_Operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5996_Learn_Workflow_Logic_with_Merge__IF___Switch_Operations.json)|
+|6753|[6753_Beginner_Data_Analysis__Merge__Filter___Summarize_in_Google_Sheets_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6753_Beginner_Data_Analysis__Merge__Filter___Summarize_in_Google_Sheets_with_GPT-4o.json)|
+|8149|[8149_Personalized_Email_Mail_Merge_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8149_Personalized_Email_Mail_Merge_with_Google_Sheets_and_Gmail.json)|
+|8373|[8373_Merge_Multiple_Excel_Files_into_a_Single_Multi-Sheet_File_with_Summary_Page.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8373_Merge_Multiple_Excel_Files_into_a_Single_Multi-Sheet_File_with_Summary_Page.json)|

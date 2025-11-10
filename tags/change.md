@@ -1,0 +1,12 @@
+# change : 8
+
+|id|file|
+|----|----|
+|3366|[3366_Webpage_Change_Detection___Alerts_with_Google_Suite_and_Hash_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3366_Webpage_Change_Detection___Alerts_with_Google_Suite_and_Hash_Tracking.json)|
+|3480|[3480_Get_notified_when_your_competitors_change_their_pricing_with_Airtop_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3480_Get_notified_when_your_competitors_change_their_pricing_with_Airtop_and_Slack.json)|
+|4382|[4382_Automated_Website_Change_Monitoring_with_Bright_Data__GPT-4.1___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4382_Automated_Website_Change_Monitoring_with_Bright_Data__GPT-4.1___Google_Workspace.json)|
+|4609|[4609_Automatic_Workflow___Credentials_Backup_to_GitHub_with_Change_Detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4609_Automatic_Workflow___Credentials_Backup_to_GitHub_with_Change_Detection.json)|
+|5155|[5155_Change_Binary_MimeType_Extension.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5155_Change_Binary_MimeType_Extension.json)|
+|7304|[7304_Automated_Workflow_Backup_with_Intelligent_Change_Detection_using_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7304_Automated_Workflow_Backup_with_Intelligent_Change_Detection_using_GitHub.json)|
+|9685|[9685_Automate_Change_Request_Approvals_with_Monday.com__Jira__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9685_Automate_Change_Request_Approvals_with_Monday.com__Jira__Slack___Google_Sheets.json)|
+|9825|[9825_Automate_Change_Request_Workflow__Monday.com_to_Jira_with_Slack___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9825_Automate_Change_Request_Workflow__Monday.com_to_Jira_with_Slack___Sheets.json)|

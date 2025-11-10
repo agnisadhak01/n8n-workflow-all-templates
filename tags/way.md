@@ -1,0 +1,23 @@
+# way : 19
+
+|id|file|
+|----|----|
+|1333|[1333_Two-way_sync_between_Pipedrive_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1333_Two-way_sync_between_Pipedrive_and_HubSpot.json)|
+|1334|[1334_One-way_sync_between_Pipedrive_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1334_One-way_sync_between_Pipedrive_and_HubSpot.json)|
+|1822|[1822_Two_way_sync_Pipedrive_and_MySQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/18/1822_Two_way_sync_Pipedrive_and_MySQL.json)|
+|2195|[2195_Simplest_way_to_create_a_Stripe_Payment_Link.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2195_Simplest_way_to_create_a_Stripe_Payment_Link.json)|
+|2351|[2351_2-way_sync_Notion_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2351_2-way_sync_Notion_and_Google_Calendar.json)|
+|2450|[2450_One-way_sync_Stripe_Invoice_PDFs_to_a_S3_Bucket.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2450_One-way_sync_Stripe_Invoice_PDFs_to_a_S3_Bucket.json)|
+|2544|[2544_2-Way-Sync_Assignments_Completion_between_Canvas_LMS_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2544_2-Way-Sync_Assignments_Completion_between_Canvas_LMS_and_Notion.json)|
+|2552|[2552_AI_Powered_Web_Scraping_with_Jina__Google_Sheets_and_OpenAI___the_EASY_way.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2552_AI_Powered_Web_Scraping_with_Jina__Google_Sheets_and_OpenAI___the_EASY_way.json)|
+|2772|[2772_Realtime_Notion_Todoist_2-way_Sync_with_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2772_Realtime_Notion_Todoist_2-way_Sync_with_Redis.json)|
+|2814|[2814_2-way_Sync_Google_Contacts_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2814_2-way_Sync_Google_Contacts_and_Notion.json)|
+|3084|[3084_Send_SMS_via_ClickSend_API_Worldwide_without_a_Phone_number.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3084_Send_SMS_via_ClickSend_API_Worldwide_without_a_Phone_number.json)|
+|4264|[4264_Discord_Message_Proxy__Bot_Mentions___AI_Actions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4264_Discord_Message_Proxy__Bot_Mentions___AI_Actions.json)|
+|4404|[4404_One-way_sync_between_Telegram__Notion__Google_Drive__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4404_One-way_sync_between_Telegram__Notion__Google_Drive__and_Google_Sheets.json)|
+|5803|[5803_One-way_Sync_Shopify_Customers_to_Baserow_using_GraphQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5803_One-way_Sync_Shopify_Customers_to_Baserow_using_GraphQL.json)|
+|5899|[5899_Automatic_Typebot_Flows_Two-Way_Sync_with_GitHub_using_Typebot_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5899_Automatic_Typebot_Flows_Two-Way_Sync_with_GitHub_using_Typebot_API.json)|
+|6560|[6560_YouTube-Airtable_Two-Way_Sync_for_Channel_Management___Video_Analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6560_YouTube-Airtable_Two-Way_Sync_for_Channel_Management___Video_Analytics.json)|
+|8350|[8350_Create_a_Two-Way_WhatsApp___Telegram_Integration_for_10k__Customer_Support_Chats.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8350_Create_a_Two-Way_WhatsApp___Telegram_Integration_for_10k__Customer_Support_Chats.json)|
+|10004|[10004_Two-way_Property_Repair_Management_System_with_Google_Sheets___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10004_Two-way_Property_Repair_Management_System_with_Google_Sheets___Drive.json)|
+|10295|[10295_Synchronize_Events___Attendees_Between_KlickTipp_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10295_Synchronize_Events___Attendees_Between_KlickTipp_and_Google_Calendar.json)|

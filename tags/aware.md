@@ -1,0 +1,13 @@
+# aware : 9
+
+|id|file|
+|----|----|
+|2871|[2871_RAG_Context-Aware_Chunking___Google_Drive_to_Pinecone_via_OpenRouter___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2871_RAG_Context-Aware_Chunking___Google_Drive_to_Pinecone_via_OpenRouter___Gemini.json)|
+|3692|[3692_Discord_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3692_Discord_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json)|
+|3713|[3713_Automated_Instagram_Comment_Replies_using_Gemini_AI_with_Context-Aware_Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3713_Automated_Instagram_Comment_Replies_using_Gemini_AI_with_Context-Aware_Responses.json)|
+|4043|[4043_Adaptive_RAG_with_Google_Gemini___Qdrant__Context-Aware_Query_Answering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4043_Adaptive_RAG_with_Google_Gemini___Qdrant__Context-Aware_Query_Answering.json)|
+|4231|[4231_Context-Aware_Google_Calendar_Management_with_MCP_Protocol.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4231_Context-Aware_Google_Calendar_Management_with_MCP_Protocol.json)|
+|5845|[5845_Slack_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5845_Slack_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json)|
+|6020|[6020_Create_a_Context-Aware_Slack_Assistant_with_Google_Sheets__Pinecone___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6020_Create_a_Context-Aware_Slack_Assistant_with_Google_Sheets__Pinecone___GPT-4o.json)|
+|7380|[7380_Automate_Order_Confirmations_with_VAPI_Voice_AI___Timezone_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7380_Automate_Order_Confirmations_with_VAPI_Voice_AI___Timezone_Intelligence.json)|
+|8602|[8602_Automated_Task_Generation_from_Blueprints_with_Baserow___Weekend-Aware_Scheduling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8602_Automated_Task_Generation_from_Blueprints_with_Baserow___Weekend-Aware_Scheduling.json)|

@@ -1,0 +1,16 @@
+# connect : 12
+
+|id|file|
+|----|----|
+|1997|[1997_Authenticate_a_user_in_a_workflow_with_openid_connect.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/19/1997_Authenticate_a_user_in_a_workflow_with_openid_connect.json)|
+|2841|[2841_Connect_AI_to_any_chats_in_Kommo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2841_Connect_AI_to_any_chats_in_Kommo.json)|
+|3803|[3803_Connect_Airtable_Contacts_to_telli_for_Automated_AI_Voice_Call_Scheduling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3803_Connect_Airtable_Contacts_to_telli_for_Automated_AI_Voice_Call_Scheduling.json)|
+|3805|[3805_Connect_Retell_Voice_Agents_to_Custom_Functions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3805_Connect_Retell_Voice_Agents_to_Custom_Functions.json)|
+|5564|[5564_Connect_AI_Agents_to_eBay_Deal_API_with_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5564_Connect_AI_Agents_to_eBay_Deal_API_with_MCP_Server.json)|
+|5572|[5572_Connect_AI_Agents_to_eBay_Seller_Metrics_API_via_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5572_Connect_AI_Agents_to_eBay_Seller_Metrics_API_via_MCP_Server.json)|
+|5573|[5573_Connect_AI_Agents_to_eBay_Compliance_API_for_Listing_Violation_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5573_Connect_AI_Agents_to_eBay_Compliance_API_for_Listing_Violation_Management.json)|
+|5624|[5624_Connect_AI_Agents_to_EPA_Clean_Air_Act_Data_with_MCP_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5624_Connect_AI_Agents_to_EPA_Clean_Air_Act_Data_with_MCP_Integration.json)|
+|7958|[7958_Automated_Outbound_Calls__connect_Ultravox_AI_Agents_to_Phone_Calls_with_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7958_Automated_Outbound_Calls__connect_Ultravox_AI_Agents_to_Phone_Calls_with_Twilio.json)|
+|8215|[8215_Connect_Pipedrive_Deal_Outcomes_to_GA4___Google_Ads_via_Measurement_Protocol.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8215_Connect_Pipedrive_Deal_Outcomes_to_GA4___Google_Ads_via_Measurement_Protocol.json)|
+|8449|[8449_Automate_Cold_Outreach_with_Apollo__LinkedIn___Gmail_Using_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8449_Automate_Cold_Outreach_with_Apollo__LinkedIn___Gmail_Using_GPT-4.json)|
+|9635|[9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json)|

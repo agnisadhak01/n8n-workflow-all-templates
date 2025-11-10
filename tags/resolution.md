@@ -1,0 +1,9 @@
+# resolution : 5
+
+|id|file|
+|----|----|
+|2468|[2468_Automate_Customer_Support_Issue_Resolution_using_AI_Text_Classifier.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2468_Automate_Customer_Support_Issue_Resolution_using_AI_Text_Classifier.json)|
+|3868|[3868_Automate_Support_Ticket_Triage_and_Resolution_with_JIRA_and_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3868_Automate_Support_Ticket_Triage_and_Resolution_with_JIRA_and_AI.json)|
+|6735|[6735_Automate_IT_Support__Convert_Emails_to_Jira_Tickets_with_AI_Resolution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6735_Automate_IT_Support__Convert_Emails_to_Jira_Tickets_with_AI_Resolution.json)|
+|9592|[9592_Automate_Internal_Complaint_Resolution_with_Jotform__Gemini_AI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9592_Automate_Internal_Complaint_Resolution_with_Jotform__Gemini_AI___Google_Sheets.json)|
+|10241|[10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json)|

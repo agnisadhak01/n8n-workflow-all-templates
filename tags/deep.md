@@ -1,0 +1,17 @@
+# deep : 13
+
+|id|file|
+|----|----|
+|2878|[2878_Host_Your_Own_AI_Deep_Research_Agent_with_n8n__Apify_and_OpenAI_o3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2878_Host_Your_Own_AI_Deep_Research_Agent_with_n8n__Apify_and_OpenAI_o3.json)|
+|2883|[2883_Open_Deep_Research_-_AI-Powered_Autonomous_Research_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2883_Open_Deep_Research_-_AI-Powered_Autonomous_Research_Workflow.json)|
+|3041|[3041_WordPress_Auto-Blogging_Pro_-_with_DEEP_RESEARCH_-_Content_Automation_Machine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3041_WordPress_Auto-Blogging_Pro_-_with_DEEP_RESEARCH_-_Content_Automation_Machine.json)|
+|3068|[3068_AI-Powered_Research_with_Jina_AI_Deep_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3068_AI-Powered_Research_with_Jina_AI_Deep_Search.json)|
+|3725|[3725_WordPress_Content_Automation_Machine_with_HUMAN-IN-THE-LOOP___DEEP_RESEARCH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3725_WordPress_Content_Automation_Machine_with_HUMAN-IN-THE-LOOP___DEEP_RESEARCH.json)|
+|4721|[4721_Deep_Research_-_Sales_Lead_Magnet_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4721_Deep_Research_-_Sales_Lead_Magnet_Agent.json)|
+|5040|[5040_Generate_Deep_Research_Markdown_Reports_with_GPT__Tavily_Search__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5040_Generate_Deep_Research_Markdown_Reports_with_GPT__Tavily_Search__and_Google_Sheets.json)|
+|6437|[6437_Automate_Deep_Research_with_ScrapeGraphAI__GPT-4___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6437_Automate_Deep_Research_with_ScrapeGraphAI__GPT-4___Google_Sheets.json)|
+|6926|[6926_Research_Assistant_for_WhatsApp_using_Twilio__Perplexity_and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6926_Research_Assistant_for_WhatsApp_using_Twilio__Perplexity_and_Claude.json)|
+|7124|[7124_Validate_Mobile_App_Deep_Links_in_GitHub_PRs_with_Automated_Testing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7124_Validate_Mobile_App_Deep_Links_in_GitHub_PRs_with_Automated_Testing.json)|
+|7160|[7160_Deep_Research_Agent_-_Automated_Research___Notion_Report_Builder.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7160_Deep_Research_Agent_-_Automated_Research___Notion_Report_Builder.json)|
+|7519|[7519_Extract___Summarize_LinkedIn_Profiles_with_Bright_Data__Google_Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7519_Extract___Summarize_LinkedIn_Profiles_with_Bright_Data__Google_Gemini___Supabase.json)|
+|7939|[7939_Deep_Research_Assistant_with_Perplexity_AI_and_Telegram_Citations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7939_Deep_Research_Assistant_with_Perplexity_AI_and_Telegram_Citations.json)|

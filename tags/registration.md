@@ -1,0 +1,15 @@
+# registration : 11
+
+|id|file|
+|----|----|
+|2406|[2406_Telegram_User_Registration_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2406_Telegram_User_Registration_Workflow.json)|
+|2755|[2755_Jotform_to_KlickTipp_Integration_-_Webinar_registration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2755_Jotform_to_KlickTipp_Integration_-_Webinar_registration.json)|
+|3786|[3786_Automate_Course_Registration_Leads_from_Facebook_Ads_to_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3786_Automate_Course_Registration_Leads_from_Facebook_Ads_to_KlickTipp.json)|
+|5758|[5758_Meetup_Registration_System_with_PostgreSQL_Database___Interactive_Giveaway_Tool.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5758_Meetup_Registration_System_with_PostgreSQL_Database___Interactive_Giveaway_Tool.json)|
+|6069|[6069_Automate_Event_Registration___Follow-ups_with_Gmail_Reminders___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6069_Automate_Event_Registration___Follow-ups_with_Gmail_Reminders___Google_Sheets.json)|
+|8088|[8088_Google_Sheets_to_SinergiaCRM__Automate_Event_Participant_Registration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8088_Google_Sheets_to_SinergiaCRM__Automate_Event_Participant_Registration.json)|
+|8416|[8416_Automate_Webinar_Registration_with_Zoom___KlickTipp_Form_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8416_Automate_Webinar_Registration_with_Zoom___KlickTipp_Form_Integration.json)|
+|8567|[8567_Automated_Course_Registration_Evaluation_with_AI__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8567_Automated_Course_Registration_Evaluation_with_AI__Gmail__and_Google_Sheets.json)|
+|8671|[8671_Automate_Meeting_Documentation_with_SharePoint__Word__Excel___Outlook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8671_Automate_Meeting_Documentation_with_SharePoint__Word__Excel___Outlook.json)|
+|9563|[9563_Event_Registration___AI_Networking_with_GPT-4o__Jotform___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9563_Event_Registration___AI_Networking_with_GPT-4o__Jotform___Google_Sheets.json)|
+|9580|[9580_Real-time_Registration_Form_Tracking_with_Google_Sheets_and_Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9580_Real-time_Registration_Form_Tracking_with_Google_Sheets_and_Gmail_Notifications.json)|

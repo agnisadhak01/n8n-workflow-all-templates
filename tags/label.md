@@ -1,0 +1,16 @@
+# label : 12
+
+|id|file|
+|----|----|
+|621|[621_Set_automated_labels_in_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/621_Set_automated_labels_in_Gmail.json)|
+|1401|[1401_Collect_and_label_images_and_send_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/14/1401_Collect_and_label_images_and_send_to_Google_Sheets.json)|
+|2197|[2197_Auto-label_incoming_Gmail_messages_with_AI_nodes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2197_Auto-label_incoming_Gmail_messages_with_AI_nodes.json)|
+|3772|[3772_Automatically_Classify_and_Label_Gmail_Emails_with_Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3772_Automatically_Classify_and_Label_Gmail_Emails_with_Google_Gemini_AI.json)|
+|4647|[4647_Automate_Gmail_Labeling_with_Gemini_AI___Build_InfraNodus_Knowledge_Graph_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4647_Automate_Gmail_Labeling_with_Gemini_AI___Build_InfraNodus_Knowledge_Graph_with_Telegram_Alerts.json)|
+|5595|[5595_Categorize_and_Label_Incoming_Gmail_Emails_Automatically_with_GPT-4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5595_Categorize_and_Label_Incoming_Gmail_Emails_Automatically_with_GPT-4o_mini.json)|
+|5727|[5727_Categorize_Gmail_emails_using_GPT-4o-mini_with_Multi-Label_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5727_Categorize_Gmail_emails_using_GPT-4o-mini_with_Multi-Label_Analysis.json)|
+|6031|[6031_Categorize_and_Label_Existing_Gmail_Emails_Automatically_with_GPT-4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6031_Categorize_and_Label_Existing_Gmail_Emails_Automatically_with_GPT-4o_mini.json)|
+|7477|[7477_Auto-Label_Gmail_Messages_with_Custom_Categories_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7477_Auto-Label_Gmail_Messages_with_Custom_Categories_using_GPT-4o-mini.json)|
+|7759|[7759_Automatically_Label_Gmail_Emails_with_GPT-5_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7759_Automatically_Label_Gmail_Emails_with_GPT-5_Classification.json)|
+|8080|[8080_Intelligent_Gmail_Label_Management_with_AI___Discord_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8080_Intelligent_Gmail_Label_Management_with_AI___Discord_Notifications.json)|
+|8357|[8357_Auto-Label_Gmail_Emails_using_Gemini_2.5_Pro_AI_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8357_Auto-Label_Gmail_Emails_using_Gemini_2.5_Pro_AI_Classification.json)|

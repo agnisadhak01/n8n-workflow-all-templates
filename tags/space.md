@@ -1,0 +1,11 @@
+# space : 7
+
+|id|file|
+|----|----|
+|3834|[3834_Retrieve_NASA_Space_Weather___Asteroid_Data_with_GPT-4o-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3834_Retrieve_NASA_Space_Weather___Asteroid_Data_with_GPT-4o-mini_and_Telegram.json)|
+|6686|[6686_Track_Expenses_from_Receipt_Photos_with_Telegram___Google_Sheets_using_OCR.space.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6686_Track_Expenses_from_Receipt_Photos_with_Telegram___Google_Sheets_using_OCR.space.json)|
+|8139|[8139_Automate_Invoice_Processing_with_OCR.Space__GPT-4___Google_Drive_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8139_Automate_Invoice_Processing_with_OCR.Space__GPT-4___Google_Drive_to_Gmail.json)|
+|8506|[8506_Extract_Text_from_Receipts_with_OCR.space_Table_Recognition.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8506_Extract_Text_from_Receipts_with_OCR.space_Table_Recognition.json)|
+|9320|[9320_Get_Real-time_International_Space_Station_Visibility_Alerts_with_N2YO_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9320_Get_Real-time_International_Space_Station_Visibility_Alerts_with_N2YO_and_Telegram.json)|
+|9905|[9905_Automate_Invoice_Processing_with_Gmail__OCR.space__Slack___Xero.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9905_Automate_Invoice_Processing_with_Gmail__OCR.space__Slack___Xero.json)|
+|10269|[10269_Automate_Invoice_Data_Extraction_with_OCR.Space__GPT___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10269_Automate_Invoice_Data_Extraction_with_OCR.Space__GPT___Google_Sheets.json)|

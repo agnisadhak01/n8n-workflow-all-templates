@@ -1,0 +1,16 @@
+# organization : 12
+
+|id|file|
+|----|----|
+|476|[476_Create_an_organization_in_Affinity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/476_Create_an_organization_in_Affinity.json)|
+|2318|[2318_Enrich_Pipedrive_s_Organization_Data_with_OpenAI_GPT-4o___Notify_it_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2318_Enrich_Pipedrive_s_Organization_Data_with_OpenAI_GPT-4o___Notify_it_in_Slack.json)|
+|3686|[3686_AI-Powered_Gmail_Email_Organization_with_Auto-Archiving_and_Priority_Labels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3686_AI-Powered_Gmail_Email_Organization_with_Auto-Archiving_and_Priority_Labels.json)|
+|4557|[4557_Intelligent_Email_Organization_with_AI-Powered_Content_Classification_for_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4557_Intelligent_Email_Organization_with_AI-Powered_Content_Classification_for_Gmail.json)|
+|4876|[4876_Auto-classify_Gmail_emails_with_AI_and_apply_labels_for_inbox_organization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4876_Auto-classify_Gmail_emails_with_AI_and_apply_labels_for_inbox_organization.json)|
+|5518|[5518_Automate_Gmail_Inbox_Organization_with_Rule-based_Categorization_and_Smart_Actions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5518_Automate_Gmail_Inbox_Organization_with_Rule-based_Categorization_and_Smart_Actions.json)|
+|5616|[5616_Automated_n8n_Workflows_Backup_on_GitLab_with_Username_Organization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5616_Automated_n8n_Workflows_Backup_on_GitLab_with_Username_Organization.json)|
+|6454|[6454_Automated_Inbox_Organization_for_Outlook_using_GPT-4.1_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6454_Automated_Inbox_Organization_for_Outlook_using_GPT-4.1_Agent.json)|
+|7980|[7980_Automate_Gmail_Organization__Weekly_Newsletter_Archiving_and_Receipt_Labeling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7980_Automate_Gmail_Organization__Weekly_Newsletter_Archiving_and_Receipt_Labeling.json)|
+|8042|[8042_Version_Control_n8n_Workflows_in_GitLab_with_Customer_Tag_Organization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8042_Version_Control_n8n_Workflows_in_GitLab_with_Customer_Tag_Organization.json)|
+|8336|[8336_Automatic_Email_Categorization_and_Organization_with_Outlook_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8336_Automatic_Email_Categorization_and_Organization_with_Outlook_and_GPT-4o.json)|
+|8788|[8788_AI-Powered_Document_Processing___Organization_with_Gemini__VLM_Run___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8788_AI-Powered_Document_Processing___Organization_with_Gemini__VLM_Run___Google_Sheets.json)|

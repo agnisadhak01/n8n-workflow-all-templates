@@ -1,0 +1,14 @@
+# exchange : 10
+
+|id|file|
+|----|----|
+|2133|[2133_Provide_latest_euro_exchange_rates_from_European_Central_Bank_via_Webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2133_Provide_latest_euro_exchange_rates_from_European_Central_Bank_via_Webhook.json)|
+|3423|[3423_Get_Exchange___Sentiment_Insights_with_CoinMarketCap_AI_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3423_Get_Exchange___Sentiment_Insights_with_CoinMarketCap_AI_Agent.json)|
+|4246|[4246_Get_Colombian_Peso_to_USD_Exchange_Rate_with_Telegram_Bot_and_AI_Date_Recognition.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4246_Get_Colombian_Peso_to_USD_Exchange_Rate_with_Telegram_Bot_and_AI_Date_Recognition.json)|
+|5512|[5512_Send_Daily_Currency_Exchange_Rate_Updates_via_CurrencyFreaks_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5512_Send_Daily_Currency_Exchange_Rate_Updates_via_CurrencyFreaks_API_and_Gmail.json)|
+|6120|[6120_Deliver_Daily_Currency_Exchange_Rates_from_CurrencyFreaks_API_to_Email___WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6120_Deliver_Daily_Currency_Exchange_Rates_from_CurrencyFreaks_API_to_Email___WhatsApp.json)|
+|6185|[6185_Scheduled_Currency_Exchange_Rate_Updates_to_Telegram_with_Exchange_Rate_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6185_Scheduled_Currency_Exchange_Rate_Updates_to_Telegram_with_Exchange_Rate_API.json)|
+|8236|[8236_Crypto_Exchange_Listing___Delisting_Alerts_to_Telegram__X__and_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8236_Crypto_Exchange_Listing___Delisting_Alerts_to_Telegram__X__and_Discord.json)|
+|8389|[8389_Create_a_BTC_ETH_Price___USD_Exchange_Rate_API_with_CoinGecko___ExchangeRate-API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8389_Create_a_BTC_ETH_Price___USD_Exchange_Rate_API_with_CoinGecko___ExchangeRate-API.json)|
+|8611|[8611_Get_Exchange_Data_with_KuCoin_AI_Agent___GPT-4o___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8611_Get_Exchange_Data_with_KuCoin_AI_Agent___GPT-4o___Telegram.json)|
+|9308|[9308_Automate_Bitcoin_Trading_Insights_with_10-Exchange_Liquidity_Data_and_GPT-4.1_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9308_Automate_Bitcoin_Trading_Insights_with_10-Exchange_Liquidity_Data_and_GPT-4.1_Analysis.json)|

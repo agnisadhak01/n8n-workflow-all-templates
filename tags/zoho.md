@@ -1,0 +1,18 @@
+# zoho : 14
+
+|id|file|
+|----|----|
+|552|[552_Get_all_leads_from_Zoho_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/05/552_Get_all_leads_from_Zoho_CRM.json)|
+|1206|[1206_Process_Shopify_new_orders_with_Zoho_CRM_and_Harvest.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/12/1206_Process_Shopify_new_orders_with_Zoho_CRM_and_Harvest.json)|
+|5503|[5503_Automated_Zoho_Inventory_to_Supabase_Product_Data_Pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5503_Automated_Zoho_Inventory_to_Supabase_Product_Data_Pipeline.json)|
+|6369|[6369_Send_Real-Time_Zoho_Ecommerce_Order_Notifications_via_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6369_Send_Real-Time_Zoho_Ecommerce_Order_Notifications_via_Email.json)|
+|6529|[6529_Qualify_Meta_Ads_Leads_with_WhatsApp_Verification__Gemini_AI___Zoho_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6529_Qualify_Meta_Ads_Leads_with_WhatsApp_Verification__Gemini_AI___Zoho_CRM.json)|
+|6681|[6681_Auto-Tag_High-Value_Sales_Orders_in_Zoho_CRM_with_VIP_Alert.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6681_Auto-Tag_High-Value_Sales_Orders_in_Zoho_CRM_with_VIP_Alert.json)|
+|8212|[8212_Automatic_Email_Categorization___Labeling_in_Zoho_Mail_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8212_Automatic_Email_Categorization___Labeling_in_Zoho_Mail_with_GPT-4o-mini.json)|
+|8810|[8810_Convert_Event_Text_to_Calendar_Entries_with_AI_and_NextCloud_Google_Zoho.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8810_Convert_Event_Text_to_Calendar_Entries_with_AI_and_NextCloud_Google_Zoho.json)|
+|9307|[9307_Automatically_Classify_Zoho_Desk_Support_Tickets_using_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9307_Automatically_Classify_Zoho_Desk_Support_Tickets_using_Gemini_AI.json)|
+|9480|[9480_AI-Powered_Zoho_CRM_Lead_Management_with_OpenAI_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9480_AI-Powered_Zoho_CRM_Lead_Management_with_OpenAI_GPT.json)|
+|9494|[9494_Automate_Real_Estate_Lead_Matching_with_Jotform____Gemini_AI_to_Zoho_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9494_Automate_Real_Estate_Lead_Matching_with_Jotform____Gemini_AI_to_Zoho_CRM.json)|
+|9526|[9526_Jotform_Automated_Commerce_Sync__Telegram_Confirmation___Zoho_Invoice.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9526_Jotform_Automated_Commerce_Sync__Telegram_Confirmation___Zoho_Invoice.json)|
+|9540|[9540_Automate_Resume_Analysis___Candidate_Screening_with_JotForm__Azure_OCR__GPT-4.1__Zoho_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9540_Automate_Resume_Analysis___Candidate_Screening_with_JotForm__Azure_OCR__GPT-4.1__Zoho_CRM.json)|
+|10328|[10328_Personalized_Cold_Lead_Re-Engagement_with_Zoho_CRM_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10328_Personalized_Cold_Lead_Re-Engagement_with_Zoho_CRM_and_GPT-4o-mini.json)|

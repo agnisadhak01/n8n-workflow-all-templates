@@ -1,0 +1,17 @@
+# cyberpulse : 13
+
+|id|file|
+|----|----|
+|6410|[6410_CYBERPULSE_AI_BlueOps__Asset_Enrichment_Engine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6410_CYBERPULSE_AI_BlueOps__Asset_Enrichment_Engine.json)|
+|6506|[6506_CYBERPULSE_AI_RedOps__Internal_Phishing_Simulation_for_Security_Training.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6506_CYBERPULSE_AI_RedOps__Internal_Phishing_Simulation_for_Security_Training.json)|
+|6507|[6507_CYBERPULSE_AI_RedOps__Validate_Email_Security_Gateways_Generated_Payloads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6507_CYBERPULSE_AI_RedOps__Validate_Email_Security_Gateways_Generated_Payloads.json)|
+|6508|[6508_CYBERPULSE_AI_RedOps__Role-Based_LinkedIn_Profile_Discovery_with_Google_OSINT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6508_CYBERPULSE_AI_RedOps__Role-Based_LinkedIn_Profile_Discovery_with_Google_OSINT.json)|
+|6509|[6509_CYBERPULSE_AI_RedOps__Phishing_Simulation_with_Redirect_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6509_CYBERPULSE_AI_RedOps__Phishing_Simulation_with_Redirect_Tracking.json)|
+|6510|[6510_CYBERPULSE_AI_RedOps__Credential_Trap_Sim__Fake_Login_Page_Simulation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6510_CYBERPULSE_AI_RedOps__Credential_Trap_Sim__Fake_Login_Page_Simulation.json)|
+|6511|[6511_CYBERPULSE_AI_RedOps__Generate_Daily_RedOps_Security_Simulation_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6511_CYBERPULSE_AI_RedOps__Generate_Daily_RedOps_Security_Simulation_Reports.json)|
+|7077|[7077_CYBERPULSE_AI_GRC__Automate_PCI_DSS_Control_Evaluation_and_Compliance_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7077_CYBERPULSE_AI_GRC__Automate_PCI_DSS_Control_Evaluation_and_Compliance_Tracking.json)|
+|7078|[7078_CYBERPULSE_AI_GRC__Automated_ISO_42001_Compliance_Evaluation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7078_CYBERPULSE_AI_GRC__Automated_ISO_42001_Compliance_Evaluation.json)|
+|7079|[7079_CYBERPULSE_AI_GRC__Automate_Compliance_Audit_Documentation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7079_CYBERPULSE_AI_GRC__Automate_Compliance_Audit_Documentation.json)|
+|7349|[7349_CYBERPULSE_AI_GRC__Automate_Security_Questionnaire_Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7349_CYBERPULSE_AI_GRC__Automate_Security_Questionnaire_Responses.json)|
+|7860|[7860_CYBERPULSE_AI_GRC__Vendor_Risk_Evaluator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7860_CYBERPULSE_AI_GRC__Vendor_Risk_Evaluator.json)|
+|9397|[9397_Automated_Compliance_Control_Scoring_with_CyberPulse__GPT-4o___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9397_Automated_Compliance_Control_Scoring_with_CyberPulse__GPT-4o___Google_Sheets.json)|

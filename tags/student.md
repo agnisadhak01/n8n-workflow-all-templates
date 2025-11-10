@@ -1,0 +1,14 @@
+# student : 10
+
+|id|file|
+|----|----|
+|3499|[3499_AI-powered_Student_Assistant_for_Course_Information_via_Twilio_SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3499_AI-powered_Student_Assistant_for_Course_Information_via_Twilio_SMS.json)|
+|6996|[6996_Automate_Student_Admission_Process_with_Excel__Validation___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6996_Automate_Student_Admission_Process_with_Excel__Validation___Email_Notifications.json)|
+|6997|[6997_Class_Scheduling___Reminders_with_Google_Calendar__Email___SMS_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6997_Class_Scheduling___Reminders_with_Google_Calendar__Email___SMS_Notifications.json)|
+|6998|[6998_Automated_Student_Progress_Reports_from_LMS_to_Parents_via_Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6998_Automated_Student_Progress_Reports_from_LMS_to_Parents_via_Gmail___Google_Sheets.json)|
+|7042|[7042_Student_Absence_Alerts_via_Email___WhatsApp_with_Attendance_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7042_Student_Absence_Alerts_via_Email___WhatsApp_with_Attendance_Tracking.json)|
+|7043|[7043_Track_Student_Attendance_with_Mobile_App__Google_Sheets__and_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7043_Track_Student_Attendance_with_Mobile_App__Google_Sheets__and_Email_Alerts.json)|
+|7044|[7044_Track_Student_Arrival_with_iOS_Automation__Google_Sheets___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7044_Track_Student_Arrival_with_iOS_Automation__Google_Sheets___Email_Alerts.json)|
+|8090|[8090_Generate_Student_Course_Schedules_Based_on_Prerequisites_with_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8090_Generate_Student_Course_Schedules_Based_on_Prerequisites_with_GPT_and_Google_Sheets.json)|
+|9277|[9277_Automate_Google_Classroom_with_Gemini_AI__Topics__Assignments___Student_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9277_Automate_Google_Classroom_with_Gemini_AI__Topics__Assignments___Student_Tracking.json)|
+|10501|[10501_Automated_Student_Answer_Sheet_Evaluation_with_Gemini_AI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10501_Automated_Student_Answer_Sheet_Evaluation_with_Gemini_AI_and_Google_Workspace.json)|

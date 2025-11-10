@@ -1,0 +1,10 @@
+# sendgrid : 6
+
+|id|file|
+|----|----|
+|901|[901_Add_contacts_to_SendGrid_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/901_Add_contacts_to_SendGrid_automatically.json)|
+|6039|[6039_Outreach_for_your_product_using_Apollo__LinkedIn__GPT-4.1_and_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6039_Outreach_for_your_product_using_Apollo__LinkedIn__GPT-4.1_and_SendGrid.json)|
+|6227|[6227_Real-Time_Flight_Tracking_with_Aviation_API__Slack___SendGrid_Twilio_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6227_Real-Time_Flight_Tracking_with_Aviation_API__Slack___SendGrid_Twilio_Alerts.json)|
+|6917|[6917_Send_Predefined_Personalized_Emails_to_Leads_from_Google_Sheets_using_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6917_Send_Predefined_Personalized_Emails_to_Leads_from_Google_Sheets_using_SendGrid.json)|
+|8269|[8269_Automate_B2B_Lead_Generation___Email_Campaigns_with_Google_Maps__SendGrid___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8269_Automate_B2B_Lead_Generation___Email_Campaigns_with_Google_Maps__SendGrid___AI.json)|
+|9430|[9430_Analyze_Email_Performance___Optimize_Campaigns_with_GPT-4__SendGrid__and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9430_Analyze_Email_Performance___Optimize_Campaigns_with_GPT-4__SendGrid__and_Airtable.json)|

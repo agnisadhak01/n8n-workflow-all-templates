@@ -1,0 +1,18 @@
+# trending : 14
+
+|id|file|
+|----|----|
+|225|[225_Send_trending__Show_HN__to_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/02/225_Send_trending__Show_HN__to_email.json)|
+|2866|[2866_Scrape_Latest_Github_Trending_Repositories.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2866_Scrape_Latest_Github_Trending_Repositories.json)|
+|2903|[2903_Youtube_Outlier_Detector__Find_trending_content_based_on_your_competitors.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2903_Youtube_Outlier_Detector__Find_trending_content_based_on_your_competitors.json)|
+|3538|[3538_Create_AI_News_Videos_with_HeyGen_Avatars_and_Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3538_Create_AI_News_Videos_with_HeyGen_Avatars_and_Auto-Post_to_Social_Media.json)|
+|5956|[5956_Discover_Trending_Topics_with_Bright_Data_MCP__GPT_Analysis___Trello_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5956_Discover_Trending_Topics_with_Bright_Data_MCP__GPT_Analysis___Trello_Integration.json)|
+|6536|[6536_Archive_trending_TikTok_hashtags_using_TikTok__Airtable__and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6536_Archive_trending_TikTok_hashtags_using_TikTok__Airtable__and_Apify.json)|
+|6981|[6981_Daily_Auto-Generated_Tweets_from_Trending_Topics_using_Perplexity___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6981_Daily_Auto-Generated_Tweets_from_Trending_Topics_using_Perplexity___GPT-4o.json)|
+|7394|[7394_Automate_GitHub_Trending_Data_Collection_with_FireCrawl__GPT_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7394_Automate_GitHub_Trending_Data_Collection_with_FireCrawl__GPT_and_Supabase.json)|
+|7417|[7417_Automate_Weekly_Tutorials_from_Trending_GitHub_Repos_with_Gemini_AI_to_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7417_Automate_Weekly_Tutorials_from_Trending_GitHub_Repos_with_Gemini_AI_to_WordPress.json)|
+|7522|[7522_Analyze_Trending_Cryptocurrencies_from_CoinMarketCap_with_GPT-4o-mini_for_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7522_Analyze_Trending_Cryptocurrencies_from_CoinMarketCap_with_GPT-4o-mini_for_Discord.json)|
+|8023|[8023_Analyze_Trending_YouTube_Videos_with_Apify__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8023_Analyze_Trending_YouTube_Videos_with_Apify__OpenAI__and_Google_Sheets.json)|
+|8271|[8271_Automated_Trending_Cryptocurrency_Updates_from_CoinGecko_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8271_Automated_Trending_Cryptocurrency_Updates_from_CoinGecko_to_Telegram.json)|
+|9641|[9641_YouTube_Competitor_Video_Analytics_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9641_YouTube_Competitor_Video_Analytics_to_Google_Sheets.json)|
+|10303|[10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json)|

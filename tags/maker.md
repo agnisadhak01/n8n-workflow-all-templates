@@ -1,0 +1,9 @@
+# maker : 5
+
+|id|file|
+|----|----|
+|4153|[4153_Auto-Ticket_Maker__Convert_Slack_Conversations_into_Structured_Project_Tickets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4153_Auto-Ticket_Maker__Convert_Slack_Conversations_into_Structured_Project_Tickets.json)|
+|5289|[5289_AI_Prompt_Maker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5289_AI_Prompt_Maker.json)|
+|7543|[7543_Find_B2B_Decision_Maker_Emails___Build_Lead_Database_with_Serper.dev___AnyMailFinder.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7543_Find_B2B_Decision_Maker_Emails___Build_Lead_Database_with_Serper.dev___AnyMailFinder.json)|
+|7637|[7637_Generate_Job-Specific_ATS_Resumes_with_Perplexity_AI_and_PDF_Export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7637_Generate_Job-Specific_ATS_Resumes_with_Perplexity_AI_and_PDF_Export.json)|
+|9158|[9158_Generate_Meeting_Minutes_from_Videos_with_Whisper__Ollama_LLM_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9158_Generate_Meeting_Minutes_from_Videos_with_Whisper__Ollama_LLM_and_Notion.json)|

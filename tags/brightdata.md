@@ -1,0 +1,14 @@
+# brightdata : 10
+
+|id|file|
+|----|----|
+|3901|[3901_Amazon_Product_Search_Scraper_with_BrightData__GPT-4__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3901_Amazon_Product_Search_Scraper_with_BrightData__GPT-4__and_Google_Sheets.json)|
+|4382|[4382_Automated_Website_Change_Monitoring_with_Bright_Data__GPT-4.1___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4382_Automated_Website_Change_Monitoring_with_Bright_Data__GPT-4.1___Google_Workspace.json)|
+|4625|[4625_Extract_Competitor_SERP_Rankings_from_Google_Search_to_Sheets_with_Bright_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4625_Extract_Competitor_SERP_Rankings_from_Google_Search_to_Sheets_with_Bright_Data.json)|
+|4912|[4912_Lead_Workflow__Yelp___Trustpilot_Scraping___OpenAI_Analysis_via_BrightData.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4912_Lead_Workflow__Yelp___Trustpilot_Scraping___OpenAI_Analysis_via_BrightData.json)|
+|5193|[5193_Pinterest_Keyword-Based_Content_Scraper_with_AI_Agent___BrightData_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5193_Pinterest_Keyword-Based_Content_Scraper_with_AI_Agent___BrightData_Automation.json)|
+|5431|[5431_Scrape_Reuters_News___Send_AI_Summaries_with_Brightdata__Claude_4___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5431_Scrape_Reuters_News___Send_AI_Summaries_with_Brightdata__Claude_4___Telegram.json)|
+|5905|[5905_Get_Any_Image__Standard_Fetch_with_BrightData_Web_Unblocker_Failover.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5905_Get_Any_Image__Standard_Fetch_with_BrightData_Web_Unblocker_Failover.json)|
+|6775|[6775_Extract_Seed-Funded_Startup_Data_with_RSS__GPT-4.1-MINI___BrightData_to_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6775_Extract_Seed-Funded_Startup_Data_with_RSS__GPT-4.1-MINI___BrightData_to_Excel.json)|
+|8076|[8076_Generate_B2B_Lead_Opportunities_from_Websites_with_Brightdata___OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8076_Generate_B2B_Lead_Opportunities_from_Websites_with_Brightdata___OpenRouter_AI.json)|
+|8836|[8836_Scrape_Hotel_Listings_with_Prices_from_Booking.com_using_Brightdata___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8836_Scrape_Hotel_Listings_with_Prices_from_Booking.com_using_Brightdata___AI.json)|

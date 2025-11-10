@@ -1,0 +1,12 @@
+# recommendation : 8
+
+|id|file|
+|----|----|
+|4591|[4591_Recipe_Recommendation_Engine_with_Bright_Data_MCP___OpenAI_4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4591_Recipe_Recommendation_Engine_with_Bright_Data_MCP___OpenAI_4o_mini.json)|
+|5577|[5577_eBay__Recommendation_API_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5577_eBay__Recommendation_API_MCP_Server.json)|
+|5615|[5615_Email-Based_Book_Recommendations_with_Ollama_LLM_and_OpenLibrary_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5615_Email-Based_Book_Recommendations_with_Ollama_LLM_and_OpenLibrary_API.json)|
+|6699|[6699_Match_Medical_Symptoms_to_Products_with_OpenAI__Qdrant___Google_Sheets_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6699_Match_Medical_Symptoms_to_Products_with_OpenAI__Qdrant___Google_Sheets_RAG.json)|
+|7714|[7714_AI-Powered_Credit_Card_Recommendation_System_with_OpenAI_GPT__Telegram___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7714_AI-Powered_Credit_Card_Recommendation_System_with_OpenAI_GPT__Telegram___Google_Sheets.json)|
+|9140|[9140_Personalize_Candidate_Feedback_with_GPT-4o__Google_Sheets___Gmail_for_HR_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9140_Personalize_Candidate_Feedback_with_GPT-4o__Google_Sheets___Gmail_for_HR_Teams.json)|
+|9437|[9437_Course_Recommendation_System_for_Surveys_with_Data_Tables_and_GPT-4.1-Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9437_Course_Recommendation_System_for_Surveys_with_Data_Tables_and_GPT-4.1-Mini.json)|
+|10221|[10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json)|

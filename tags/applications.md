@@ -1,0 +1,11 @@
+# applications : 7
+
+|id|file|
+|----|----|
+|3457|[3457_Classify_Emails___Extract_Structured_Data_from_Job_Applications_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3457_Classify_Emails___Extract_Structured_Data_from_Job_Applications_with_GPT-4o.json)|
+|3973|[3973_Create_Secure_Interactive_Applications_with_WhatsApp_Flows_End-to-End_Encryption.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3973_Create_Secure_Interactive_Applications_with_WhatsApp_Flows_End-to-End_Encryption.json)|
+|5906|[5906_Automated_Job_Applications___Status_Tracking_with_LinkedIn__Indeed___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5906_Automated_Job_Applications___Status_Tracking_with_LinkedIn__Indeed___Google_Sheets.json)|
+|6927|[6927_Automate_Job_Search___Applications_with_5_Job_Boards___AI_Resume_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6927_Automate_Job_Search___Applications_with_5_Job_Boards___AI_Resume_Generator.json)|
+|7966|[7966_Website_Content_Chatbot_with_Pinecone__Airtable___OpenAI_for_RAG_Applications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7966_Website_Content_Chatbot_with_Pinecone__Airtable___OpenAI_for_RAG_Applications.json)|
+|8200|[8200_Google_Drive_to_Supabase_Contextual_Vector_Database_Sync_for_RAG_Applications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8200_Google_Drive_to_Supabase_Contextual_Vector_Database_Sync_for_RAG_Applications.json)|
+|9176|[9176_Automate_Job_Applications_with_Gemini_AI__Notion_Tracking___Multi-platform_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9176_Automate_Job_Applications_with_Gemini_AI__Notion_Tracking___Multi-platform_Search.json)|

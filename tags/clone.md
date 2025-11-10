@@ -1,0 +1,14 @@
+# clone : 10
+
+|id|file|
+|----|----|
+|3048|[3048_Clone_n8n_Workflows_between_Instances_using_n8n_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3048_Clone_n8n_Workflows_between_Instances_using_n8n_API.json)|
+|4110|[4110_Clone_Viral_TikToks_with_AI_Avatars___Auto-Post_to_9_Platforms_using_Perplexity___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4110_Clone_Viral_TikToks_with_AI_Avatars___Auto-Post_to_9_Platforms_using_Perplexity___Blotato.json)|
+|4349|[4349_Clone_Nested_Folder_Structures_in_Google_Drive_with_Custom_Naming.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4349_Clone_Nested_Folder_Structures_in_Google_Drive_with_Custom_Naming.json)|
+|4650|[4650_Clone_LinkedIn_Writing_Styles_with_AI_Analysis___Prompt_Generation_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4650_Clone_LinkedIn_Writing_Styles_with_AI_Analysis___Prompt_Generation_to_Airtable.json)|
+|5448|[5448_Clone_Voices_from_Text_to_Speech_with_Zyphra_Zonos_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5448_Clone_Voices_from_Text_to_Speech_with_Zyphra_Zonos_API.json)|
+|6104|[6104_Clone_Viral_TikTok___Instagram_Reels_with_Apify_and_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6104_Clone_Viral_TikTok___Instagram_Reels_with_Apify_and_Gemini_2.5_Pro.json)|
+|7772|[7772_Automate_Video_Creation_from_Voice_Input_with_HeyGen__GPT-5___Social_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7772_Automate_Video_Creation_from_Voice_Input_with_HeyGen__GPT-5___Social_Publishing.json)|
+|8308|[8308_Generate___Auto-post_Tech_News_AI_Avatar_Videos_to_Social_Media_with_Heygen_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8308_Generate___Auto-post_Tech_News_AI_Avatar_Videos_to_Social_Media_with_Heygen_and_Blotato.json)|
+|8415|[8415_Clone___Customize_Competitor_Facebook_Ads_with_Gemini_AI_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8415_Clone___Customize_Competitor_Facebook_Ads_with_Gemini_AI_and_Apify.json)|
+|8918|[8918_Create___Auto-Post_Instagram_Reels_with_AI_Clones__Script-to-Post__Heygen___Submagic___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8918_Create___Auto-Post_Instagram_Reels_with_AI_Clones__Script-to-Post__Heygen___Submagic___Blotato.json)|

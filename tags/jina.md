@@ -1,0 +1,17 @@
+# jina : 13
+
+|id|file|
+|----|----|
+|2552|[2552_AI_Powered_Web_Scraping_with_Jina__Google_Sheets_and_OpenAI___the_EASY_way.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2552_AI_Powered_Web_Scraping_with_Jina__Google_Sheets_and_OpenAI___the_EASY_way.json)|
+|2799|[2799_AI-Powered_Information_Monitoring_with_OpenAI__Google_Sheets__Jina_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2799_AI-Powered_Information_Monitoring_with_OpenAI__Google_Sheets__Jina_AI_and_Slack.json)|
+|2943|[2943_AI_Agent_Chatbot_with_Jina.ai_Webpage_Scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2943_AI_Agent_Chatbot_with_Jina.ai_Webpage_Scraper.json)|
+|2957|[2957_Essential_Multipage_Website_Scraper_with_Jina.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2957_Essential_Multipage_Website_Scraper_with_Jina.ai.json)|
+|3068|[3068_AI-Powered_Research_with_Jina_AI_Deep_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3068_AI-Powered_Research_with_Jina_AI_Deep_Search.json)|
+|5238|[5238_Jina_AI_Tool_MCP_Server___all_3_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5238_Jina_AI_Tool_MCP_Server___all_3_operations.json)|
+|5463|[5463_Create_Comprehensive_Research_Reports_with_Jina_AI___Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5463_Create_Comprehensive_Research_Reports_with_Jina_AI___Gemini_2.5_Flash.json)|
+|5723|[5723_Automate_Vendor_Due_Diligence_Research_with_Gemini___Jina_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5723_Automate_Vendor_Due_Diligence_Research_with_Gemini___Jina_AI.json)|
+|6299|[6299_Automated_Job_Extraction___Publishing_with_RAG__Jina_AI_and_OpenAI_to_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6299_Automated_Job_Extraction___Publishing_with_RAG__Jina_AI_and_OpenAI_to_WordPress.json)|
+|6649|[6649_Generate_Sales_Leads___Personalized_Outreach_Emails_using_Jina_AI_and_OpenAI_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6649_Generate_Sales_Leads___Personalized_Outreach_Emails_using_Jina_AI_and_OpenAI_Agents.json)|
+|8182|[8182_Generate_and_Research_Sales_Leads_with_Jina_AI___OpenAI_Email_Automation_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8182_Generate_and_Research_Sales_Leads_with_Jina_AI___OpenAI_Email_Automation_via_Gmail.json)|
+|8406|[8406_Generate_B2B_Leads_from_Any_City___Business_Type_using_GMaps__Jina.ai___GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8406_Generate_B2B_Leads_from_Any_City___Business_Type_using_GMaps__Jina.ai___GPT-5.json)|
+|9599|[9599_Monitor_RSS_Feeds__Extract_Full_Articles_with_Jina_AI__and_Save_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9599_Monitor_RSS_Feeds__Extract_Full_Articles_with_Jina_AI__and_Save_to_Supabase.json)|

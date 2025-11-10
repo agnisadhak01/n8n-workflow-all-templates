@@ -1,0 +1,16 @@
+# site : 12
+
+|id|file|
+|----|----|
+|1254|[1254_Deploy_site_when_new_content_gets_added.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/12/1254_Deploy_site_when_new_content_gets_added.json)|
+|2180|[2180_Scrape_and_summarize_posts_of_a_news_site_without_RSS_feed_using_AI_and_save_them_to_a_NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2180_Scrape_and_summarize_posts_of_a_news_site_without_RSS_feed_using_AI_and_save_them_to_a_NocoDB.json)|
+|2210|[2210_Get_your_website_indexed_by_Google_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2210_Get_your_website_indexed_by_Google_automatically.json)|
+|4252|[4252_Web_Site_Scraper_for_LLMs_with_Airtop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4252_Web_Site_Scraper_for_LLMs_with_Airtop.json)|
+|4606|[4606_Automate_Travel_Agent_Outreach_with_Web_Scraping__OpenAI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4606_Automate_Travel_Agent_Outreach_with_Web_Scraping__OpenAI__and_Google_Sheets.json)|
+|5106|[5106_SEO_On-site_Audit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5106_SEO_On-site_Audit.json)|
+|6295|[6295_Dynamic_Website_Assistant_with_DeepSeek_AI__Pinecone_Vectorstore___Site-Based_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6295_Dynamic_Website_Assistant_with_DeepSeek_AI__Pinecone_Vectorstore___Site-Based_Routing.json)|
+|6742|[6742_Track_Construction_Site_Progress_with_Google_Gemini_AI__Drive_Photos_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6742_Track_Construction_Site_Progress_with_Google_Gemini_AI__Drive_Photos_and_Sheets.json)|
+|6774|[6774_Automate_Construction_Site_Attendance_Tracking_with_Geofencing__Google_Sheets___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6774_Automate_Construction_Site_Attendance_Tracking_with_Geofencing__Google_Sheets___Email_Alerts.json)|
+|6969|[6969_Automate_Real_Estate_Construction_Site_Discovery_with_99acres_Email_Scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6969_Automate_Real_Estate_Construction_Site_Discovery_with_99acres_Email_Scraper.json)|
+|9946|[9946_Scrape___Import_Shoe_Products_to_Shopify_with_BrowserAct__with_Variants___Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9946_Scrape___Import_Shoe_Products_to_Shopify_with_BrowserAct__with_Variants___Images.json)|
+|10216|[10216_E-commerce_Price_Monitor_with_Firecrawl__Claude-Sonnet_AI___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10216_E-commerce_Price_Monitor_with_Firecrawl__Claude-Sonnet_AI___Telegram_Alerts.json)|

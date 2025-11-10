@@ -1,0 +1,12 @@
+# intent : 8
+
+|id|file|
+|----|----|
+|3607|[3607_Find_High-Intent_Sales_Leads_by_Scraping_Glassdoor_with_Bright_Data___GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3607_Find_High-Intent_Sales_Leads_by_Scraping_Glassdoor_with_Bright_Data___GPT.json)|
+|4680|[4680_Automatic_Gmail_Message_Categorization_with_GPT-4_Content_Analysis___Labels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4680_Automatic_Gmail_Message_Categorization_with_GPT-4_Content_Analysis___Labels.json)|
+|6043|[6043_Analyze_Search_Intent_for_Keywords_with_Google_Scraping__Bright_Data__and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6043_Analyze_Search_Intent_for_Keywords_with_Google_Scraping__Bright_Data__and_Gemini_AI.json)|
+|7073|[7073_Export_Dialogflow_Intents_with_Priority_Levels_to_Google_Sheets_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7073_Export_Dialogflow_Intents_with_Priority_Levels_to_Google_Sheets_via_Telegram.json)|
+|7408|[7408_Update_Dialogflow_Intent_Responses_via_Telegram_Bot_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7408_Update_Dialogflow_Intent_Responses_via_Telegram_Bot_Commands.json)|
+|7409|[7409_Delete_Dialogflow_Intents_via_Telegram_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7409_Delete_Dialogflow_Intents_via_Telegram_Commands.json)|
+|9346|[9346_Automate_Lead_Intent_Classification_from_Google_Sheets_to_ClickUp_with_Azure_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9346_Automate_Lead_Intent_Classification_from_Google_Sheets_to_ClickUp_with_Azure_GPT-4.json)|
+|10240|[10240_Handle_WhatsApp_Customer_Inquiries_with_AI_and_Intent_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10240_Handle_WhatsApp_Customer_Inquiries_with_AI_and_Intent_Routing.json)|

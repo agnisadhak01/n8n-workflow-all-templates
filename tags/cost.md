@@ -1,0 +1,16 @@
+# cost : 12
+
+|id|file|
+|----|----|
+|2717|[2717_AI_Chatbot_for_Website_with_Conditional_Execution_for_Cost_Efficiency.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2717_AI_Chatbot_for_Website_with_Conditional_Execution_for_Cost_Efficiency.json)|
+|3453|[3453_Automated_Weekly_Project_Cost_Reports_with_MySQL_and_Outlook_HTML_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3453_Automated_Weekly_Project_Cost_Reports_with_MySQL_and_Outlook_HTML_Emails.json)|
+|3474|[3474_Track_Daily_PG_E_Energy_Costs_with_Airtop_and_Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3474_Track_Daily_PG_E_Energy_Costs_with_Airtop_and_Email_Notifications.json)|
+|3513|[3513_Token_Estim8r_-Sub_Workflow_to_track_AI_Model_Token_Usage_and_cost_with_JinaAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3513_Token_Estim8r_-Sub_Workflow_to_track_AI_Model_Token_Usage_and_cost_with_JinaAI.json)|
+|3710|[3710_Generate_Images_with_GPT-image-1_and_Store_in_Google_Drive_with_Cost_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3710_Generate_Images_with_GPT-image-1_and_Store_in_Google_Drive_with_Cost_Tracking.json)|
+|5502|[5502_AWS_Cost___Usage_Report_Management_for_AI_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5502_AWS_Cost___Usage_Report_Management_for_AI_Agents.json)|
+|5560|[5560_Team_Knowledge_Management_with_Google_Docs__Discord__and_AI_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5560_Team_Knowledge_Management_with_Google_Docs__Discord__and_AI_Assistant.json)|
+|5835|[5835_Create_Low-Cost_AI_Videos_with_Veo3_Fast_and_Upload_to_YouTube___TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5835_Create_Low-Cost_AI_Videos_with_Veo3_Fast_and_Upload_to_YouTube___TikTok.json)|
+|7374|[7374_AWS_Azure_GCP_Multi-Cloud_Cost_Monitoring___Alerts_for_Budget_Control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7374_AWS_Azure_GCP_Multi-Cloud_Cost_Monitoring___Alerts_for_Budget_Control.json)|
+|7398|[7398_LLM_Usage_Tracker___Cost_Monitor_with_Node-Level_Analytics__v2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7398_LLM_Usage_Tracker___Cost_Monitor_with_Node-Level_Analytics__v2.json)|
+|7856|[7856_Cost-Free_Email_Follow-Up_Sequence_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7856_Cost-Free_Email_Follow-Up_Sequence_with_Google_Sheets_and_Gmail.json)|
+|8044|[8044_Automate_Token_Purchases_with_Dollar_Cost_Averaging_on_Uniswap_V3___1Shot_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8044_Automate_Token_Purchases_with_Dollar_Cost_Averaging_on_Uniswap_V3___1Shot_API.json)|

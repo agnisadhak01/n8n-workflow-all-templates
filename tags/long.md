@@ -1,0 +1,16 @@
+# long : 12
+
+|id|file|
+|----|----|
+|2535|[2535_Get_Long_Lived_Facebook_User_or_Page_Access_Token.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2535_Get_Long_Lived_Facebook_User_or_Page_Access_Token.json)|
+|2864|[2864_DeepSeek_AI_Agent___Telegram___LONG_TERM_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2864_DeepSeek_AI_Agent___Telegram___LONG_TERM_Memory.json)|
+|2872|[2872_AI_Agent_Chatbot___LONG_TERM_Memory___Note_Storage___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2872_AI_Agent_Chatbot___LONG_TERM_Memory___Note_Storage___Telegram.json)|
+|2986|[2986_All-in-One_Telegram_Baserow_AI_Assistant____Voice_Photo_Save_Notes_Long_Term_Mem.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2986_All-in-One_Telegram_Baserow_AI_Assistant____Voice_Photo_Save_Notes_Long_Term_Mem.json)|
+|3025|[3025_Empower_Your_AI_Chatbot_with_Long-Term_Memory_and_Dynamic_Tool_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3025_Empower_Your_AI_Chatbot_with_Long-Term_Memory_and_Dynamic_Tool_Routing.json)|
+|6269|[6269_State_Management_System_for_Long-Running_Workflows_with_Wait_Nodes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6269_State_Management_System_for_Long-Running_Workflows_with_Wait_Nodes.json)|
+|8265|[8265_Transform_Long_Content_into_Bite-sized_Learning_Modules_with_GPT-4___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8265_Transform_Long_Content_into_Bite-sized_Learning_Modules_with_GPT-4___Google_Docs.json)|
+|8538|[8538_Post_Long-Form_Threads_to_X___Twitter__Threads__and_Bluesky.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8538_Post_Long-Form_Threads_to_X___Twitter__Threads__and_Bluesky.json)|
+|9342|[9342_Generate_YouTube_Scripts_for_Shorts___Long-Form_with_Gemini_AI_and_Tavily_Research.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9342_Generate_YouTube_Scripts_for_Shorts___Long-Form_with_Gemini_AI_and_Tavily_Research.json)|
+|9867|[9867_Transform_Long_Videos_into_Viral_Shorts_with_AI_and_Schedule_to_Social_Media_using_Whisper___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9867_Transform_Long_Videos_into_Viral_Shorts_with_AI_and_Schedule_to_Social_Media_using_Whisper___Gemini.json)|
+|10038|[10038_Automate_Facebook_Page_Token_Renewal_with_Data_Tables_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10038_Automate_Facebook_Page_Token_Renewal_with_Data_Tables_Storage.json)|
+|10435|[10435_Create_Long-Form_Documents_from_Simple_Titles_with_GPT-5_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10435_Create_Long-Form_Documents_from_Simple_Titles_with_GPT-5_and_Google_Docs.json)|

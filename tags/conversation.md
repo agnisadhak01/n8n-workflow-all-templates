@@ -1,0 +1,17 @@
+# conversation : 13
+
+|id|file|
+|----|----|
+|2987|[2987_Personal_Portfolio_CV__Rag_Chatbot_-_with_Conversation_Store_and_Email_Summary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2987_Personal_Portfolio_CV__Rag_Chatbot_-_with_Conversation_Store_and_Email_Summary.json)|
+|3140|[3140_Audio_Conversation_Analysis___Visualization_with_DeepGram_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3140_Audio_Conversation_Analysis___Visualization_with_DeepGram_and_GPT-4o.json)|
+|3473|[3473_Scalable_Multi-Agent_Chat_Using__mentions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3473_Scalable_Multi-Agent_Chat_Using__mentions.json)|
+|3707|[3707_Automatic_WhatsApp_Response_with_Groq_LLM_and_Conversation_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3707_Automatic_WhatsApp_Response_with_Groq_LLM_and_Conversation_Memory.json)|
+|4464|[4464_Export_AI_Agent_Conversation_Logs_from_Postgres_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4464_Export_AI_Agent_Conversation_Logs_from_Postgres_to_Google_Sheets.json)|
+|5438|[5438_Create_a_Telegram_Bot_with_Mistral_Nemotron_AI_and_Conversation_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5438_Create_a_Telegram_Bot_with_Mistral_Nemotron_AI_and_Conversation_Memory.json)|
+|5831|[5831_Automate_Support_QA_Reviews_with_Intercom__GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5831_Automate_Support_QA_Reviews_with_Intercom__GPT_and_Google_Sheets.json)|
+|5867|[5867_Convert_CAD___BIM__Revit__IFC__AutoCAD__in_DataBase__DataFrame.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5867_Convert_CAD___BIM__Revit__IFC__AutoCAD__in_DataBase__DataFrame.json)|
+|7029|[7029_Automate_Meeting_Intelligence_with_VEXA__OpenAI___Mem0_for_Conversation_Insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7029_Automate_Meeting_Intelligence_with_VEXA__OpenAI___Mem0_for_Conversation_Insights.json)|
+|7649|[7649_Convert_Revit_Projects_to_Database_with_Drawings___Specifications_using_DDC.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7649_Convert_Revit_Projects_to_Database_with_Drawings___Specifications_using_DDC.json)|
+|7654|[7654_ETL__Extract_and_Parse_Revit_Model_Data_to_Structured_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7654_ETL__Extract_and_Parse_Revit_Model_Data_to_Structured_Excel.json)|
+|9970|[9970_Automated_Email_Responses_with_GPT-4O___Supabase_Conversation_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9970_Automated_Email_Responses_with_GPT-4O___Supabase_Conversation_Memory.json)|
+|9981|[9981_Voice___Text_Telegram_Assistant_with_GPT-4.1-mini_and_Conversation_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9981_Voice___Text_Telegram_Assistant_with_GPT-4.1-mini_and_Conversation_Memory.json)|

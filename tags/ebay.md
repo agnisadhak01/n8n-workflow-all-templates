@@ -1,0 +1,22 @@
+# ebay : 18
+
+|id|file|
+|----|----|
+|5534|[5534_eBay_Finances_Data_Access_for_AI_Agents_with_MCP_Server_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5534_eBay_Finances_Data_Access_for_AI_Agents_with_MCP_Server_Integration.json)|
+|5563|[5563_Expose_eBay_Browse_API_for_AI_Agents_with_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5563_Expose_eBay_Browse_API_for_AI_Agents_with_MCP_Server.json)|
+|5564|[5564_Connect_AI_Agents_to_eBay_Deal_API_with_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5564_Connect_AI_Agents_to_eBay_Deal_API_with_MCP_Server.json)|
+|5565|[5565_Expose_eBay_Taxonomy_API_to_AI_Agents_for_Category_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5565_Expose_eBay_Taxonomy_API_to_AI_Agents_for_Category_Management.json)|
+|5566|[5566_Search_and_Retrieve_eBay_Product_Data_with_Catalog_API_for_AI_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5566_Search_and_Retrieve_eBay_Product_Data_with_Catalog_API_for_AI_Agents.json)|
+|5567|[5567_AI_Agent_Integration_with_eBay_Buy_Marketing_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5567_AI_Agent_Integration_with_eBay_Buy_Marketing_API.json)|
+|5568|[5568_Create_an_eBay_Item_Feed_Service_API_Gateway_for_AI_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5568_Create_an_eBay_Item_Feed_Service_API_Gateway_for_AI_Agents.json)|
+|5570|[5570_eBay_Analytics_API_Rate_Limit_Monitoring_for_AI_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5570_eBay_Analytics_API_Rate_Limit_Monitoring_for_AI_Agents.json)|
+|5571|[5571_eBay_Seller_Account_Management_with_AI_Agent_Integration__36_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5571_eBay_Seller_Account_Management_with_AI_Agent_Integration__36_operations.json)|
+|5572|[5572_Connect_AI_Agents_to_eBay_Seller_Metrics_API_via_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5572_Connect_AI_Agents_to_eBay_Seller_Metrics_API_via_MCP_Server.json)|
+|5573|[5573_Connect_AI_Agents_to_eBay_Compliance_API_for_Listing_Violation_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5573_Connect_AI_Agents_to_eBay_Compliance_API_for_Listing_Violation_Management.json)|
+|5574|[5574_AI_Agent_Integration_for_eBay_Logistics_API_with_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5574_AI_Agent_Integration_for_eBay_Logistics_API_with_MCP_Server.json)|
+|5575|[5575_Create_eBay_Listing_Drafts_with_AI_Agents_via_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5575_Create_eBay_Listing_Drafts_with_AI_Agents_via_MCP_Server.json)|
+|5576|[5576_eBay_Fulfillment_API_Operations_for_AI_Agents_with_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5576_eBay_Fulfillment_API_Operations_for_AI_Agents_with_MCP_Server.json)|
+|5577|[5577_eBay__Recommendation_API_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5577_eBay__Recommendation_API_MCP_Server.json)|
+|5578|[5578_Complete_eBay_Feed_API_Integration_for_AI_Agents_with_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5578_Complete_eBay_Feed_API_Integration_for_AI_Agents_with_MCP_Server.json)|
+|5579|[5579_eBay__Metadata_API_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5579_eBay__Metadata_API_MCP_Server.json)|
+|5580|[5580_eBay__Negotiation_API_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5580_eBay__Negotiation_API_MCP_Server.json)|

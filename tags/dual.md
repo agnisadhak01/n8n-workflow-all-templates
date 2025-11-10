@@ -1,0 +1,13 @@
+# dual : 9
+
+|id|file|
+|----|----|
+|4013|[4013_Automatic_Jest_Test_Generation_for_GitHub_PRs_with_Dual_AI_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4013_Automatic_Jest_Test_Generation_for_GitHub_PRs_with_Dual_AI_Review.json)|
+|5012|[5012_Natural_Language_Database_Queries_with_Dual-Agent_AI___PostgreSQL_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5012_Natural_Language_Database_Queries_with_Dual-Agent_AI___PostgreSQL_Integration.json)|
+|5658|[5658_Call_Center_Analytics_with_Dual-AI_Verification_using_DeepSeek_Models.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5658_Call_Center_Analytics_with_Dual-AI_Verification_using_DeepSeek_Models.json)|
+|6519|[6519_Create_Content_Strategies_with_Dual_AI_Research_Agents_using_SerpApi__GPT-4___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6519_Create_Content_Strategies_with_Dual_AI_Research_Agents_using_SerpApi__GPT-4___Sheets.json)|
+|8383|[8383_Generate_Creative_Solutions_with_Dual_AI_Agents__Randomization___Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8383_Generate_Creative_Solutions_with_Dual_AI_Agents__Randomization___Redis.json)|
+|9169|[9169_Dual-Channel_Workflow_Error_Alerts_with_WhatsApp___Gmail_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9169_Dual-Channel_Workflow_Error_Alerts_with_WhatsApp___Gmail_Reporting.json)|
+|9507|[9507_Insurance_News_Aggregation_Keyword_Analysis___Database_Storage_via_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9507_Insurance_News_Aggregation_Keyword_Analysis___Database_Storage_via_Supabase.json)|
+|9567|[9567_Create_Dual-Source_Expert_Articles_with_Internal_Knowledge_and_Web_Research_using_Lookio__Linkup__and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9567_Create_Dual-Source_Expert_Articles_with_Internal_Knowledge_and_Web_Research_using_Lookio__Linkup__and_GPT-5.json)|
+|9775|[9775_Dual-Path_Customer_Support_System_with_Google_Sheets__Vectors___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9775_Dual-Path_Customer_Support_System_with_Google_Sheets__Vectors___Gemini.json)|

@@ -1,0 +1,16 @@
+# router : 12
+
+|id|file|
+|----|----|
+|3025|[3025_Empower_Your_AI_Chatbot_with_Long-Term_Memory_and_Dynamic_Tool_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3025_Empower_Your_AI_Chatbot_with_Long-Term_Memory_and_Dynamic_Tool_Routing.json)|
+|3090|[3090_Multi-AI_Agent_Chatbot_for_Postgres_Supabase_DB_and_QuickCharts___Tool_Router.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3090_Multi-AI_Agent_Chatbot_for_Postgres_Supabase_DB_and_QuickCharts___Tool_Router.json)|
+|3139|[3139_Private___Local_Ollama_Self-Hosted___Dynamic_LLM_Router.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3139_Private___Local_Ollama_Self-Hosted___Dynamic_LLM_Router.json)|
+|4237|[4237_Dynamic_AI_Model_Router_for_Query_Optimization_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4237_Dynamic_AI_Model_Router_for_Query_Optimization_with_OpenRouter.json)|
+|4889|[4889_LinkedIn_Auto_Message_Router_and_Responder_with_Request_Detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4889_LinkedIn_Auto_Message_Router_and_Responder_with_Request_Detection.json)|
+|5874|[5874_AI_Privacy-Minded_Router__PII_Detection_for_Privacy__Security____Compliance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5874_AI_Privacy-Minded_Router__PII_Detection_for_Privacy__Security____Compliance.json)|
+|7515|[7515_AI-Powered_ServiceNow_Chat_Triage_with_GPT-4___Incident___Request_Router.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7515_AI-Powered_ServiceNow_Chat_Triage_with_GPT-4___Incident___Request_Router.json)|
+|8886|[8886_AI-Powered_ServiceNow_Chat_Triage_with_GPT-4___Incident___Request_Manager.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8886_AI-Powered_ServiceNow_Chat_Triage_with_GPT-4___Incident___Request_Manager.json)|
+|9165|[9165_Create_Dynamic_API_Gateway_with_HTTP_Router_and_Workflow_Orchestration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9165_Create_Dynamic_API_Gateway_with_HTTP_Router_and_Workflow_Orchestration.json)|
+|9376|[9376_AI-Powered_Email_Support_Router_with_Gmail__ChatGPT-4o__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9376_AI-Powered_Email_Support_Router_with_Gmail__ChatGPT-4o__and_Slack.json)|
+|10113|[10113_Automated_Nicereply_Feedback_Routing_to_MS_Teams_by_Team_and_Sentiment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10113_Automated_Nicereply_Feedback_Routing_to_MS_Teams_by_Team_and_Sentiment.json)|
+|10287|[10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json)|

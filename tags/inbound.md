@@ -1,0 +1,12 @@
+# inbound : 8
+
+|id|file|
+|----|----|
+|3912|[3912_Automate_Lead_Qualification_with_RetellAI_Phone_Agent__OpenAI_GPT___Google_Sheet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3912_Automate_Lead_Qualification_with_RetellAI_Phone_Agent__OpenAI_GPT___Google_Sheet.json)|
+|4618|[4618_Website_Lead_Capture_with_Apollo.io_Enrichment__HubSpot_Storage___Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4618_Website_Lead_Capture_with_Apollo.io_Enrichment__HubSpot_Storage___Gmail_Notifications.json)|
+|6380|[6380_Qualify___Nurture_Website_Demo_Requests_with_Claude_AI__Cal.com_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6380_Qualify___Nurture_Website_Demo_Requests_with_Claude_AI__Cal.com_and_Instantly.ai.json)|
+|6404|[6404_Respond_to_Inbound_Leads_with_Personalized_Videos_using_Heygen_AI_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6404_Respond_to_Inbound_Leads_with_Personalized_Videos_using_Heygen_AI_and_GPT-4.json)|
+|6595|[6595_WhatsApp_Message_Auto-Logger_for_Vtiger_CRM_with_Lead_Relation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6595_WhatsApp_Message_Auto-Logger_for_Vtiger_CRM_with_Lead_Relation.json)|
+|7221|[7221_Automated_Sales_Follow-up_with_GPT__Tavily_Research_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7221_Automated_Sales_Follow-up_with_GPT__Tavily_Research_and_Gmail.json)|
+|7615|[7615_Qualify_and_Enrich_Leads_with_Octave_s_Contextual_Insights_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7615_Qualify_and_Enrich_Leads_with_Octave_s_Contextual_Insights_and_Slack_Alerts.json)|
+|8295|[8295_Automatic_Personalized_Sales_Follow-Up_with_GPT-5__Pinecone__and_Tavily_Research.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8295_Automatic_Personalized_Sales_Follow-Up_with_GPT-5__Pinecone__and_Tavily_Research.json)|

@@ -1,0 +1,15 @@
+# briefs : 11
+
+|id|file|
+|----|----|
+|4228|[4228_Transform_Raw_Hiring_Transcripts_into_Briefs___Scorecards_with_AI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4228_Transform_Raw_Hiring_Transcripts_into_Briefs___Scorecards_with_AI_and_Google_Docs.json)|
+|6126|[6126_Auto-Generate_Sales_Meeting_Briefs_with_GPT-4__LinkedIn_Data___WhatsApp_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6126_Auto-Generate_Sales_Meeting_Briefs_with_GPT-4__LinkedIn_Data___WhatsApp_Delivery.json)|
+|6752|[6752_Generate_AI_Meeting_Briefs_for_Google_Calendar_with_GPT-4___MadKudu_MCP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6752_Generate_AI_Meeting_Briefs_for_Google_Calendar_with_GPT-4___MadKudu_MCP.json)|
+|6815|[6815_AI-Generated_Account_Briefs_with_MadKudu__OpenAI___Salesforce_for_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6815_AI-Generated_Account_Briefs_with_MadKudu__OpenAI___Salesforce_for_Outreach.json)|
+|7949|[7949_Generate_Ad_Images_from_Campaign_Briefs_with_GPT-4o_and_OpenAI_Image_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7949_Generate_Ad_Images_from_Campaign_Briefs_with_GPT-4o_and_OpenAI_Image_API.json)|
+|8053|[8053_Create_Data-Driven_SEO_Content_Briefs_with_AI_Analysis_of_SERP_Data_using_Bright_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8053_Create_Data-Driven_SEO_Content_Briefs_with_AI_Analysis_of_SERP_Data_using_Bright_Data.json)|
+|8266|[8266_Create_AI_Intelligence_Briefs_from_Newsletters_with_Gemini__Slack__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8266_Create_AI_Intelligence_Briefs_from_Newsletters_with_Gemini__Slack__and_Notion.json)|
+|8313|[8313_Financial_reporting_AI__concise_SEC_10-K_10-Q_briefs_via_OpenRouter___Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8313_Financial_reporting_AI__concise_SEC_10-K_10-Q_briefs_via_OpenRouter___Perplexity.json)|
+|8514|[8514_Generate_AI-Powered_Interview_Briefs_from_Resumes_using_Google_Sheets___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8514_Generate_AI-Powered_Interview_Briefs_from_Resumes_using_Google_Sheets___GPT-4o.json)|
+|9410|[9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json)|
+|9446|[9446_Medical_Triage___Appointment_Automation_with_GPT-4_and_Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9446_Medical_Triage___Appointment_Automation_with_GPT-4_and_Jotform.json)|

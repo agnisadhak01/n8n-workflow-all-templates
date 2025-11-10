@@ -1,0 +1,13 @@
+# minutes : 9
+
+|id|file|
+|----|----|
+|2951|[2951_Check_VPS_resource_usage_every_15_minutes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2951_Check_VPS_resource_usage_every_15_minutes.json)|
+|5707|[5707_Create_Structured_eBooks_in_Minutes_with_Google_Gemini_Flash_2.0_to_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5707_Create_Structured_eBooks_in_Minutes_with_Google_Gemini_Flash_2.0_to_Google_Docs.json)|
+|6683|[6683_Send_interview_reminders__10_minutes__from_Google_Calendar_to_Slack_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6683_Send_interview_reminders__10_minutes__from_Google_Calendar_to_Slack_DMs.json)|
+|7429|[7429_Automate_Meeting_Minutes_Distribution_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7429_Automate_Meeting_Minutes_Distribution_with_Google_Sheets_and_Gmail.json)|
+|7582|[7582_Create_Meeting_Minutes_from_Telegram_Messages_with_GPT-5_to_Airtable_Slack_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7582_Create_Meeting_Minutes_from_Telegram_Messages_with_GPT-5_to_Airtable_Slack_Gmail.json)|
+|7802|[7802_Auto-Generate_Meeting_Minutes_with_GPT_and_Share_from_Google_Drive_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7802_Auto-Generate_Meeting_Minutes_with_GPT_and_Share_from_Google_Drive_to_Slack.json)|
+|9146|[9146_AI-Powered_Meeting_Minutes_with_GPT-4__Task_Assignment___Multichannel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9146_AI-Powered_Meeting_Minutes_with_GPT-4__Task_Assignment___Multichannel_Distribution.json)|
+|9158|[9158_Generate_Meeting_Minutes_from_Videos_with_Whisper__Ollama_LLM_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9158_Generate_Meeting_Minutes_from_Videos_with_Whisper__Ollama_LLM_and_Notion.json)|
+|9644|[9644_Automated_Meeting_Minutes_from_Audio_using_OpenAI_Transcription_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9644_Automated_Meeting_Minutes_from_Audio_using_OpenAI_Transcription_and_Google_Docs.json)|

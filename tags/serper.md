@@ -1,0 +1,12 @@
+# serper : 8
+
+|id|file|
+|----|----|
+|3817|[3817_Find___Verify_Business_Emails_Automatically_with_OpenRouter__Serper___Prospeo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3817_Find___Verify_Business_Emails_Automatically_with_OpenRouter__Serper___Prospeo.json)|
+|5588|[5588_Multi-Tool_Research_Agent_for_Animal_Advocacy_with_OpenRouter__Serper___Open_Paws_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5588_Multi-Tool_Research_Agent_for_Animal_Advocacy_with_OpenRouter__Serper___Open_Paws_DB.json)|
+|6482|[6482_Automated_Animal_Advocacy_News_Research___Weekly_Digest_using_Claude_AI___Serper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6482_Automated_Animal_Advocacy_News_Research___Weekly_Digest_using_Claude_AI___Serper.json)|
+|7030|[7030_Automate_Company_Data_Enrichment_with_ZoomInfo__Serper___Oxylabs_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7030_Automate_Company_Data_Enrichment_with_ZoomInfo__Serper___Oxylabs_to_Google_Sheets.json)|
+|7071|[7071_Extract_Business_Email_Addresses_Using_Serper.dev_and_ScrapingBee_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7071_Extract_Business_Email_Addresses_Using_Serper.dev_and_ScrapingBee_from_Google_Sheets.json)|
+|7542|[7542_Generate_Business_Lists_from_Google_Maps_Search_to_Sheets_or_Excel_with_Serper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7542_Generate_Business_Lists_from_Google_Maps_Search_to_Sheets_or_Excel_with_Serper.json)|
+|7543|[7543_Find_B2B_Decision_Maker_Emails___Build_Lead_Database_with_Serper.dev___AnyMailFinder.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7543_Find_B2B_Decision_Maker_Emails___Build_Lead_Database_with_Serper.dev___AnyMailFinder.json)|
+|8225|[8225_Track_Weekly_Keyword_Rankings_with_Google_SERP__Serper_API__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8225_Track_Weekly_Keyword_Rankings_with_Google_SERP__Serper_API__and_Google_Sheets.json)|

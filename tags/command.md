@@ -1,0 +1,18 @@
+# command : 14
+
+|id|file|
+|----|----|
+|156|[156_Get_execute_command_data_and_transfer_to_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/01/156_Get_execute_command_data_and_transfer_to_JSON.json)|
+|716|[716_Execute_a_command_that_gives_the_hard_disk_memory_used_on_the_host_machine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/716_Execute_a_command_that_gives_the_hard_disk_memory_used_on_the_host_machine.json)|
+|913|[913_Execute_multiple_Command_Lines_based_on_Text_File_Inputs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/913_Execute_multiple_Command_Lines_based_on_Text_File_Inputs.json)|
+|1110|[1110_Add_articles_to_a_Notion_list_by_accessing_a_Discord_slash_command.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/11/1110_Add_articles_to_a_Notion_list_by_accessing_a_Discord_slash_command.json)|
+|1134|[1134_Release_a_new_version_via_Telegram_bot_command.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/11/1134_Release_a_new_version_via_Telegram_bot_command.json)|
+|2140|[2140_Add_product_ideas_to_Notion_via_a_Slack_command.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2140_Add_product_ideas_to_Notion_via_a_Slack_command.json)|
+|2153|[2153_Add_a_bug_to_Linear_via_Slack_command.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2153_Add_a_bug_to_Linear_via_Slack_command.json)|
+|2156|[2156_Generate_instant_google_meet_links_with_a_slack_command.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2156_Generate_instant_google_meet_links_with_a_slack_command.json)|
+|4392|[4392_Command-based_Telegram_Bot_for_Article_Summarization___Image_Prompts_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4392_Command-based_Telegram_Bot_for_Article_Summarization___Image_Prompts_with_OpenAI.json)|
+|6961|[6961_Vision_RAG_and_Image_Embeddings_using_Cohere_Command-A_and_Embed_v4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6961_Vision_RAG_and_Image_Embeddings_using_Cohere_Command-A_and_Embed_v4.json)|
+|7023|[7023_Cybersecurity_Assistant_with_GPT-4__Telegram_Bot___Command_Execution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7023_Cybersecurity_Assistant_with_GPT-4__Telegram_Bot___Command_Execution.json)|
+|7060|[7060_Business_AI_Command_Center__Modular_Agents_for_Google_Workspace__Vector_Search___Multi-Channel_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7060_Business_AI_Command_Center__Modular_Agents_for_Google_Workspace__Vector_Search___Multi-Channel_Reports.json)|
+|9951|[9951_Automate_Workflow_Execution_with_Telegram_Bot_Command_Center.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9951_Automate_Workflow_Execution_with_Telegram_Bot_Command_Center.json)|
+|10405|[10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json)|

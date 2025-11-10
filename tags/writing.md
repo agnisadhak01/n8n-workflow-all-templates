@@ -1,0 +1,14 @@
+# writing : 10
+
+|id|file|
+|----|----|
+|2995|[2995_Automated_AI_image_tagging_and_writing_the_keywords_into_the_image_file.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2995_Automated_AI_image_tagging_and_writing_the_keywords_into_the_image_file.json)|
+|2997|[2997_Automated_AI_image_tagging_and_writing_keywords_into_image__via_community_node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2997_Automated_AI_image_tagging_and_writing_keywords_into_image__via_community_node.json)|
+|3503|[3503_Generate_Written_Content_with_GPT_Recursive_Writing___Editing_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3503_Generate_Written_Content_with_GPT_Recursive_Writing___Editing_Agents.json)|
+|4650|[4650_Clone_LinkedIn_Writing_Styles_with_AI_Analysis___Prompt_Generation_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4650_Clone_LinkedIn_Writing_Styles_with_AI_Analysis___Prompt_Generation_to_Airtable.json)|
+|4828|[4828_Generate_SEO_Arabic_Articles_and_Save_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4828_Generate_SEO_Arabic_Articles_and_Save_to_Notion.json)|
+|5504|[5504_Generate_Blogs_with_GPT-4o_Prompt_Chaining__Outline__Evaluate___Publish_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5504_Generate_Blogs_with_GPT-4o_Prompt_Chaining__Outline__Evaluate___Publish_to_Sheets.json)|
+|7486|[7486_Generate_Business_Requirement_Documents_with_Multi-agent_GPT___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7486_Generate_Business_Requirement_Documents_with_Multi-agent_GPT___Google_Workspace.json)|
+|7509|[7509_Generate_SEO_Blog_Content_with_GPT-4__Perplexity___WordPress_Auto-Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7509_Generate_SEO_Blog_Content_with_GPT-4__Perplexity___WordPress_Auto-Publishing.json)|
+|8654|[8654_Multi-Agent_SEO_Optimized_Blog_Writing_System_with_Hyperlinks_for_E-Commmerce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8654_Multi-Agent_SEO_Optimized_Blog_Writing_System_with_Hyperlinks_for_E-Commmerce.json)|
+|10524|[10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json)|

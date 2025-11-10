@@ -1,0 +1,16 @@
+# setup : 12
+
+|id|file|
+|----|----|
+|2402|[2402_Telegram_bot_starter_template_setup___AI_Agent_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2402_Telegram_bot_starter_template_setup___AI_Agent_Chatbot.json)|
+|3867|[3867_Store_Chat_Data_in_Supabase_PostgreSQL_for_WhatsApp_Slack_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3867_Store_Chat_Data_in_Supabase_PostgreSQL_for_WhatsApp_Slack_Chatbot.json)|
+|5379|[5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json)|
+|5505|[5505_Capture_Website_Form_Submissions_to_Notion_CRM_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5505_Capture_Website_Form_Submissions_to_Notion_CRM_Database.json)|
+|5939|[5939_Monitor_n8n_Workflow_Errors_with_Telegram_Alerts__Multi-language_Setup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5939_Monitor_n8n_Workflow_Errors_with_Telegram_Alerts__Multi-language_Setup.json)|
+|6134|[6134_Automate_PostgreSQL___MySQL_Database_Management_on_Linux_Servers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6134_Automate_PostgreSQL___MySQL_Database_Management_on_Linux_Servers.json)|
+|6136|[6136_Complete_LAMP_Stack__Linux__Apache__MySQL__PHP__Automated_Server_Setup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6136_Complete_LAMP_Stack__Linux__Apache__MySQL__PHP__Automated_Server_Setup.json)|
+|6140|[6140_Set_DevOps_Infrastructure_with_Docker__K3s__Jenkins___Grafana_for_Linux_Servers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6140_Set_DevOps_Infrastructure_with_Docker__K3s__Jenkins___Grafana_for_Linux_Servers.json)|
+|6323|[6323_Workflow_Error_Notifications_to_Slack_with_Multilingual_Setup_Guide.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6323_Workflow_Error_Notifications_to_Slack_with_Multilingual_Setup_Guide.json)|
+|6327|[6327_Real-time_Error_Monitoring_with_WhatsApp_Alerts___Multi-language_Setup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6327_Real-time_Error_Monitoring_with_WhatsApp_Alerts___Multi-language_Setup.json)|
+|8101|[8101_Automate_Agile_Project_Setup_with_GPT-5_Mini__Jira___Form_Interface.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8101_Automate_Agile_Project_Setup_with_GPT-5_Mini__Jira___Form_Interface.json)|
+|9810|[9810_Generate_Videos_from_Text_or_Images_with_Sora_2_AI_-_No_Watermark.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9810_Generate_Videos_from_Text_or_Images_with_Sora_2_AI_-_No_Watermark.json)|

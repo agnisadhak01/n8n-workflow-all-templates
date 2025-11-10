@@ -1,0 +1,17 @@
+# book : 13
+
+|id|file|
+|----|----|
+|869|[869_Find_a_new_book_recommendations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/869_Find_a_new_book_recommendations.json)|
+|2879|[2879_Book_Ghostwriting___Research_AI_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2879_Book_Ghostwriting___Research_AI_Agent.json)|
+|4492|[4492_Learn_Anything__Write_a_Book__Design_a_Curriculum.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4492_Learn_Anything__Write_a_Book__Design_a_Curriculum.json)|
+|4566|[4566_Automated_Book_Summarization_with_DeepSeek_AI__Qdrant_Vector_DB___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4566_Automated_Book_Summarization_with_DeepSeek_AI__Qdrant_Vector_DB___Google_Drive.json)|
+|5615|[5615_Email-Based_Book_Recommendations_with_Ollama_LLM_and_OpenLibrary_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5615_Email-Based_Book_Recommendations_with_Ollama_LLM_and_OpenLibrary_API.json)|
+|5665|[5665_Book_Cal.com_Meetings_from_ElevenLabs_Voice_Agent_Conversations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5665_Book_Cal.com_Meetings_from_ElevenLabs_Voice_Agent_Conversations.json)|
+|6053|[6053_Automate_Travel_Business_Operations_with_Postgres__Google_Sheets_and_Voice_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6053_Automate_Travel_Business_Operations_with_Postgres__Google_Sheets_and_Voice_API.json)|
+|6895|[6895_Book_Appointments_with_Voice_Using_VAPI___Cal.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6895_Book_Appointments_with_Voice_Using_VAPI___Cal.com.json)|
+|7350|[7350_Extract_and_Verify_Book_Titles_from_Bookshelf_Photos_using_GPT-4o_and_Google_Books.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7350_Extract_and_Verify_Book_Titles_from_Bookshelf_Photos_using_GPT-4o_and_Google_Books.json)|
+|7482|[7482_Create_AI-Generated_Books_with_GPT-4.1-mini__DALL-E__Google_Drive_and_AWS_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7482_Create_AI-Generated_Books_with_GPT-4.1-mini__DALL-E__Google_Drive_and_AWS_S3.json)|
+|8142|[8142_Extract_Amazon_Book_Data___Generate_Purchase_Reports_with_Decodo_Scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8142_Extract_Amazon_Book_Data___Generate_Purchase_Reports_with_Decodo_Scraper.json)|
+|9026|[9026_AI_Sales_Assistant_with_GPT___Claude__Qualify_Leads__Book_Meetings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9026_AI_Sales_Assistant_with_GPT___Claude__Qualify_Leads__Book_Meetings.json)|
+|10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|

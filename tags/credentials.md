@@ -1,0 +1,19 @@
+# credentials : 15
+
+|id|file|
+|----|----|
+|1053|[1053_Git_backup_of_workflows_and_credentials.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1053_Git_backup_of_workflows_and_credentials.json)|
+|2223|[2223_Set_credentials_dynamically_using_expressions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2223_Set_credentials_dynamically_using_expressions.json)|
+|2307|[2307_Backup_your_credentials_to_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2307_Backup_your_credentials_to_GitHub.json)|
+|2347|[2347_Query_n8n_Credentials_with_AI_SQL_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2347_Query_n8n_Credentials_with_AI_SQL_Agent.json)|
+|2506|[2506_Import_workflows_and_map_their_credentials_using_a_Multi-Form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2506_Import_workflows_and_map_their_credentials_using_a_Multi-Form.json)|
+|2521|[2521_Transfer_credentials_to_other_n8n_instances_using_a_Multi-Form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2521_Transfer_credentials_to_other_n8n_instances_using_a_Multi-Form.json)|
+|3097|[3097_Restore_your_credentials_from_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3097_Restore_your_credentials_from_GitHub.json)|
+|3691|[3691_Generate_AI_News_LinkedIn_Posts_with_GPT-4o-mini__NewsAPI__and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3691_Generate_AI_News_LinkedIn_Posts_with_GPT-4o-mini__NewsAPI__and_Qdrant.json)|
+|4517|[4517_Automated_n8n_Credential_Backups_to_Google_Drive_with_Scheduled_Execution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4517_Automated_n8n_Credential_Backups_to_Google_Drive_with_Scheduled_Execution.json)|
+|4518|[4518_Restore_and_Recover_n8n_Credentials_from_Google_Drive_Backups_with_Duplication_Protection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4518_Restore_and_Recover_n8n_Credentials_from_Google_Drive_Backups_with_Duplication_Protection.json)|
+|4609|[4609_Automatic_Workflow___Credentials_Backup_to_GitHub_with_Change_Detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4609_Automatic_Workflow___Credentials_Backup_to_GitHub_with_Change_Detection.json)|
+|6436|[6436_Automate_Workflow___Credentials_Backup_to_S3_with_Retention_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6436_Automate_Workflow___Credentials_Backup_to_S3_with_Retention_Management.json)|
+|8620|[8620_Transfer_Workflows_with_Credentials___Sub-workflow_Management_Between_n8n_Instances.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8620_Transfer_Workflows_with_Credentials___Sub-workflow_Management_Between_n8n_Instances.json)|
+|9151|[9151_Complete_Backup_Solution_for_n8n_Workflows___Credentials__Local_FTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9151_Complete_Backup_Solution_for_n8n_Workflows___Credentials__Local_FTP.json)|
+|9156|[9156_Restore_Workflows_and_Credentials_from_Remote_FTP_Backup_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9156_Restore_Workflows_and_Credentials_from_Remote_FTP_Backup_Storage.json)|

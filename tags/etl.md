@@ -1,0 +1,7 @@
+# etl : 3
+
+|id|file|
+|----|----|
+|1045|[1045_ETL_pipeline_for_text_processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1045_ETL_pipeline_for_text_processing.json)|
+|6493|[6493_Weekly_ETL_Pipeline__QuickBooks_Financial_Data_to_Google_BigQuery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6493_Weekly_ETL_Pipeline__QuickBooks_Financial_Data_to_Google_BigQuery.json)|
+|7654|[7654_ETL__Extract_and_Parse_Revit_Model_Data_to_Structured_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7654_ETL__Extract_and_Parse_Revit_Model_Data_to_Structured_Excel.json)|

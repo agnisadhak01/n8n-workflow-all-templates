@@ -1,0 +1,15 @@
+# brief : 11
+
+|id|file|
+|----|----|
+|4228|[4228_Transform_Raw_Hiring_Transcripts_into_Briefs___Scorecards_with_AI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4228_Transform_Raw_Hiring_Transcripts_into_Briefs___Scorecards_with_AI_and_Google_Docs.json)|
+|4385|[4385_AI-Powered_Calendar___Meeting_Digest_with_Gmail_and_GPT-4o_Claude_-_Daily_Brief.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4385_AI-Powered_Calendar___Meeting_Digest_with_Gmail_and_GPT-4o_Claude_-_Daily_Brief.json)|
+|6482|[6482_Automated_Animal_Advocacy_News_Research___Weekly_Digest_using_Claude_AI___Serper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6482_Automated_Animal_Advocacy_News_Research___Weekly_Digest_using_Claude_AI___Serper.json)|
+|6815|[6815_AI-Generated_Account_Briefs_with_MadKudu__OpenAI___Salesforce_for_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6815_AI-Generated_Account_Briefs_with_MadKudu__OpenAI___Salesforce_for_Outreach.json)|
+|7428|[7428_Daily_Tech___Cyber_Security_Brief_with_RSS__OpenAI_GPT-4o__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7428_Daily_Tech___Cyber_Security_Brief_with_RSS__OpenAI_GPT-4o__and_Gmail.json)|
+|8153|[8153_CFO_Sunrise___Soft-Tech_Morning_Brief_for_Household_CEOs__n8n_Template.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8153_CFO_Sunrise___Soft-Tech_Morning_Brief_for_Household_CEOs__n8n_Template.json)|
+|8289|[8289_Create_SEO_Content_Brief_from_Keyword_to_Google_Doc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8289_Create_SEO_Content_Brief_from_Keyword_to_Google_Doc.json)|
+|8514|[8514_Generate_AI-Powered_Interview_Briefs_from_Resumes_using_Google_Sheets___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8514_Generate_AI-Powered_Interview_Briefs_from_Resumes_using_Google_Sheets___GPT-4o.json)|
+|8639|[8639_Audio_to_Executive_Brief__Transcribe___Analyze_with_AssemblyAI_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8639_Audio_to_Executive_Brief__Transcribe___Analyze_with_AssemblyAI_and_GPT-4.json)|
+|9019|[9019_Job_Brief_Analysis_with_OpenAI_to_Find_Relevant_Templates_and_Log_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9019_Job_Brief_Analysis_with_OpenAI_to_Find_Relevant_Templates_and_Log_in_Google_Sheets.json)|
+|9410|[9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9410_Generate_AI-Powered_Morning_Briefs_from_ClickUp_to_Slack_and_Gmail_with_GPT-4o.json)|

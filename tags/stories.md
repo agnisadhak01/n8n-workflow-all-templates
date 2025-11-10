@@ -1,0 +1,13 @@
+# stories : 9
+
+|id|file|
+|----|----|
+|768|[768_Get_all_the_stories_and_publish_them_in_Storyblok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/768_Get_all_the_stories_and_publish_them_in_Storyblok.json)|
+|3153|[3153_Generate_Complete_Stories_with_GPT-4o_and_Save_Them_in_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3153_Generate_Complete_Stories_with_GPT-4o_and_Save_Them_in_Google_Drive.json)|
+|3155|[3155_Automatic_Weekly_Digital_PR_Stories_Suggestions_with_Reddit_and_Anthropic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3155_Automatic_Weekly_Digital_PR_Stories_Suggestions_with_Reddit_and_Anthropic.json)|
+|3540|[3540_Generate_Company_Stories_from_LinkedIn_with_Bright_Data___Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3540_Generate_Company_Stories_from_LinkedIn_with_Bright_Data___Google_Gemini.json)|
+|3655|[3655_Create_Animated_Stories_using_GPT-4o-mini__Midjourney__Kling_and_Creatomate_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3655_Create_Animated_Stories_using_GPT-4o-mini__Midjourney__Kling_and_Creatomate_API.json)|
+|4765|[4765_Generate___Optimize_Brand_Stories_with_Ollama_LLMs_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4765_Generate___Optimize_Brand_Stories_with_Ollama_LLMs_and_Google_Sheets.json)|
+|7161|[7161_Transform_Travel_Photos_into_Narrative_Stories_with_GPT-4O_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7161_Transform_Travel_Photos_into_Narrative_Stories_with_GPT-4O_Vision.json)|
+|8158|[8158_Create_Emotional_Stories_with_Gemini_AI__Generate_Images_and_Veo3_JSON_Prompts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8158_Create_Emotional_Stories_with_Gemini_AI__Generate_Images_and_Veo3_JSON_Prompts.json)|
+|8785|[8785_Automate_Instagram_Stories_Publishing_from_Google_Sheets_with_Meta_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8785_Automate_Instagram_Stories_Publishing_from_Google_Sheets_with_Meta_Graph_API.json)|

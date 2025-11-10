@@ -1,0 +1,10 @@
+# escalation : 6
+
+|id|file|
+|----|----|
+|6000|[6000_AI-Powered_Internal_Helpdesk_in_Slack_with_GPT-4o___Email_Escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6000_AI-Powered_Internal_Helpdesk_in_Slack_with_GPT-4o___Email_Escalation.json)|
+|6288|[6288_AI_Email_Support_System__Gmail__Gemini__GPT-4__Slack___Google_Sheets_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6288_AI_Email_Support_System__Gmail__Gemini__GPT-4__Slack___Google_Sheets_Workflow.json)|
+|8817|[8817_Zendesk_Ticket_Escalation_to_ClickUp_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8817_Zendesk_Ticket_Escalation_to_ClickUp_with_Telegram_Alerts.json)|
+|9829|[9829_Proactive_SLA_Monitoring___Ticket_Escalation_with_Zendesk__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9829_Proactive_SLA_Monitoring___Ticket_Escalation_with_Zendesk__Slack_and_Google_Sheets.json)|
+|10321|[10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json)|
+|10539|[10539_Generate_Empathetic_Customer_Replies_with_Claude_AI_and_Auto-Escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10539_Generate_Empathetic_Customer_Replies_with_Claude_AI_and_Auto-Escalation.json)|

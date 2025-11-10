@@ -1,0 +1,10 @@
+# messenger : 6
+
+|id|file|
+|----|----|
+|2515|[2515_Summarize_your_emails_with_A.I.__via_Openrouter__and_send_to_Line_messenger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2515_Summarize_your_emails_with_A.I.__via_Openrouter__and_send_to_Line_messenger.json)|
+|3585|[3585_AI_Restaurant_Assistant_for_WhatsApp__Instagram___Messenger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3585_AI_Restaurant_Assistant_for_WhatsApp__Instagram___Messenger.json)|
+|8349|[8349_AI-Powered_Food_Order_Processing_with_Facebook_Messenger__Google_Sheets___Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8349_AI-Powered_Food_Order_Processing_with_Facebook_Messenger__Google_Sheets___Calendar.json)|
+|9192|[9192_Smart_Facebook_Messenger_Chatbot_with_Gemini_AI__Message_Batching_and_History.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9192_Smart_Facebook_Messenger_Chatbot_with_Gemini_AI__Message_Batching_and_History.json)|
+|9347|[9347_Facebook_Messenger_Bot_with_GPT-4_for_Text__Image___Voice_Processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9347_Facebook_Messenger_Bot_with_GPT-4_for_Text__Image___Voice_Processing.json)|
+|10321|[10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json)|

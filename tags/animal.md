@@ -1,0 +1,14 @@
+# animal : 10
+
+|id|file|
+|----|----|
+|2856|[2856_Automatic_Youtube_Shorts_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2856_Automatic_Youtube_Shorts_Generator.json)|
+|5393|[5393_Convert_Form_Inputs_to_Cinematic_Videos_with_GPT-4__Dumpling_AI___ElevenLabs_Audio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5393_Convert_Form_Inputs_to_Cinematic_Videos_with_GPT-4__Dumpling_AI___ElevenLabs_Audio.json)|
+|5587|[5587_Evaluate_Animal_Advocacy_Text_with_Hugging_Face_Open_Paws_AI_Models.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5587_Evaluate_Animal_Advocacy_Text_with_Hugging_Face_Open_Paws_AI_Models.json)|
+|5588|[5588_Multi-Tool_Research_Agent_for_Animal_Advocacy_with_OpenRouter__Serper___Open_Paws_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5588_Multi-Tool_Research_Agent_for_Animal_Advocacy_with_OpenRouter__Serper___Open_Paws_DB.json)|
+|6417|[6417_Analyze_Company_Sustainability___Animal_Welfare_with_OpenRouter_AI___Multi-Source_Research.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6417_Analyze_Company_Sustainability___Animal_Welfare_with_OpenRouter_AI___Multi-Source_Research.json)|
+|6472|[6472_Generate_Weekly_Animal_Rights_Action_Briefings_from_U.S._House_Bills_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6472_Generate_Weekly_Animal_Rights_Action_Briefings_from_U.S._House_Bills_with_Gemini_AI.json)|
+|6482|[6482_Automated_Animal_Advocacy_News_Research___Weekly_Digest_using_Claude_AI___Serper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6482_Automated_Animal_Advocacy_News_Research___Weekly_Digest_using_Claude_AI___Serper.json)|
+|6483|[6483_AI-Powered_Corporate_Research_System_for_Animal_Advocacy_Campaigns_with_Claude___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6483_AI-Powered_Corporate_Research_System_for_Animal_Advocacy_Campaigns_with_Claude___Gemini.json)|
+|6485|[6485_Generate___Rank_Animal_Advocacy_Content_with_Claude_AI__Open_Paws___Hugging_Face.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6485_Generate___Rank_Animal_Advocacy_Content_with_Claude_AI__Open_Paws___Hugging_Face.json)|
+|9184|[9184_Generate_Viral_CCTV_Animal_Videos_using_GPT_and_Veo3_AI_for_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9184_Generate_Viral_CCTV_Animal_Videos_using_GPT_and_Veo3_AI_for_TikTok.json)|

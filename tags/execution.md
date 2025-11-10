@@ -1,0 +1,21 @@
+# execution : 17
+
+|id|file|
+|----|----|
+|700|[700_Purge_n8n_execution_history_located_in_Mysql.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/700_Purge_n8n_execution_history_located_in_Mysql.json)|
+|2295|[2295_Export_n8n_Cloud_execution_data_to_CSV.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2295_Export_n8n_Cloud_execution_data_to_CSV.json)|
+|2349|[2349_Access_execution_data_from_an_error_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2349_Access_execution_data_from_an_error_workflow.json)|
+|2536|[2536_Pattern_for_Parallel_Sub-Workflow_Execution_Followed_by_Wait-For-All_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2536_Pattern_for_Parallel_Sub-Workflow_Execution_Followed_by_Wait-For-All_Loop.json)|
+|2646|[2646_Automatically_prune_n8n_execution_history.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2646_Automatically_prune_n8n_execution_history.json)|
+|2717|[2717_AI_Chatbot_for_Website_with_Conditional_Execution_for_Cost_Efficiency.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2717_AI_Chatbot_for_Website_with_Conditional_Execution_for_Cost_Efficiency.json)|
+|3075|[3075_Error_handling__Send_email_via_Gmail_on_execution_or_trigger-level_errors.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3075_Error_handling__Send_email_via_Gmail_on_execution_or_trigger-level_errors.json)|
+|3144|[3144_Auto-Retry_Engine__Error_Recovery_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3144_Auto-Retry_Engine__Error_Recovery_Workflow.json)|
+|4517|[4517_Automated_n8n_Credential_Backups_to_Google_Drive_with_Scheduled_Execution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4517_Automated_n8n_Credential_Backups_to_Google_Drive_with_Scheduled_Execution.json)|
+|6149|[6149_Learn_n8n_Interactively__Lesson_1__Data_Flow__Execution___Debugging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6149_Learn_n8n_Interactively__Lesson_1__Data_Flow__Execution___Debugging.json)|
+|6196|[6196_Sequential_Google_Sheets_Data_Processing_with_Execution_Control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6196_Sequential_Google_Sheets_Data_Processing_with_Execution_Control.json)|
+|6833|[6833_Automated_Execution_Cleanup_System_with_n8n_API_and_Custom_Retention_Rules.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6833_Automated_Execution_Cleanup_System_with_n8n_API_and_Custom_Retention_Rules.json)|
+|7023|[7023_Cybersecurity_Assistant_with_GPT-4__Telegram_Bot___Command_Execution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7023_Cybersecurity_Assistant_with_GPT-4__Telegram_Bot___Command_Execution.json)|
+|7076|[7076_Automated_Hourly_n8n_Error_Monitoring_with_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7076_Automated_Hourly_n8n_Error_Monitoring_with_Slack_Notifications.json)|
+|9951|[9951_Automate_Workflow_Execution_with_Telegram_Bot_Command_Center.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9951_Automate_Workflow_Execution_with_Telegram_Bot_Command_Center.json)|
+|9974|[9974_Automate_HVAC_Service_Scheduling_with_AI_Agent__Google_Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9974_Automate_HVAC_Service_Scheduling_with_AI_Agent__Google_Calendar_and_Gmail.json)|
+|10048|[10048_Distribute_Workflow_Execution_with_Round-Robin_Logic_using_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10048_Distribute_Workflow_Execution_with_Round-Robin_Logic_using_Data_Tables.json)|

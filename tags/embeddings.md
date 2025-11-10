@@ -1,0 +1,16 @@
+# embeddings : 12
+
+|id|file|
+|----|----|
+|2344|[2344_Generating_Image_Embeddings_via_Textual_Summarisation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2344_Generating_Image_Embeddings_via_Textual_Summarisation.json)|
+|3647|[3647_Transform_Google_Drive_Documents_into_Vector_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3647_Transform_Google_Drive_Documents_into_Vector_Embeddings.json)|
+|3762|[3762_Gmail_to_Vector_Embeddings_with_PGVector_and_Ollama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3762_Gmail_to_Vector_Embeddings_with_PGVector_and_Ollama.json)|
+|4526|[4526_Build_a_Knowledge_Base_Chatbot_with_OpenAI__RAG_and_MongoDB_Vector_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4526_Build_a_Knowledge_Base_Chatbot_with_OpenAI__RAG_and_MongoDB_Vector_Embeddings.json)|
+|4552|[4552_Index_Documents_from_Google_Drive_to_Pinecone_with_OpenAI_Embeddings_for_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4552_Index_Documents_from_Google_Drive_to_Pinecone_with_OpenAI_Embeddings_for_RAG.json)|
+|6574|[6574_Build_Document_RAG_System_with_Kimi-K2__Gemini_Embeddings_and_Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6574_Build_Document_RAG_System_with_Kimi-K2__Gemini_Embeddings_and_Qdrant.json)|
+|6771|[6771_WhatsApp_RAG_Chatbot_with_Supabase__Gemini_2.5_Flash__and_OpenAI_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6771_WhatsApp_RAG_Chatbot_with_Supabase__Gemini_2.5_Flash__and_OpenAI_Embeddings.json)|
+|6819|[6819_Document_Q_A_System_with_Voyage-Context-3_Embeddings_and_MongoDB_Atlas.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6819_Document_Q_A_System_with_Voyage-Context-3_Embeddings_and_MongoDB_Atlas.json)|
+|6961|[6961_Vision_RAG_and_Image_Embeddings_using_Cohere_Command-A_and_Embed_v4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6961_Vision_RAG_and_Image_Embeddings_using_Cohere_Command-A_and_Embed_v4.json)|
+|7717|[7717_Build_a_PDF_Q_A_System_with_LlamaIndex__OpenAI_Embeddings___Pinecone_Vector_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7717_Build_a_PDF_Q_A_System_with_LlamaIndex__OpenAI_Embeddings___Pinecone_Vector_DB.json)|
+|9174|[9174_Auto-Update_Knowledge_Base_with_Drive__LlamaIndex___Azure_OpenAI_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9174_Auto-Update_Knowledge_Base_with_Drive__LlamaIndex___Azure_OpenAI_Embeddings.json)|
+|9620|[9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json)|

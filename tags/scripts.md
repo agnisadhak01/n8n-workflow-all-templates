@@ -1,0 +1,14 @@
+# scripts : 10
+
+|id|file|
+|----|----|
+|3143|[3143_Real_Estate_Cold_Call_Scripts_for_Price_Reduced_FSBO_Properties__Zillow_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3143_Real_Estate_Cold_Call_Scripts_for_Price_Reduced_FSBO_Properties__Zillow_Data.json)|
+|4107|[4107_Create_AI_Videos_with_OpenAI_Scripts__Leonardo_Images___HeyGen_Avatars.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4107_Create_AI_Videos_with_OpenAI_Scripts__Leonardo_Images___HeyGen_Avatars.json)|
+|4241|[4241_Generate_Audio_from_Text_Scripts_using_Self-Hosted_Bark_Model_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4241_Generate_Audio_from_Text_Scripts_using_Self-Hosted_Bark_Model_and_Google_Drive.json)|
+|4569|[4569_Create_AI_Videos_with_Scripts__Images___HeyGen_Avatars____LIMITED-TIME_OFFER.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4569_Create_AI_Videos_with_Scripts__Images___HeyGen_Avatars____LIMITED-TIME_OFFER.json)|
+|5805|[5805_Create_YouTube_Shorts_Scripts_from_Video_Links_with_Gemini_AI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5805_Create_YouTube_Shorts_Scripts_from_Video_Links_with_Gemini_AI_and_Telegram.json)|
+|6777|[6777_Generate_AI_Videos_from_Scripts_with_DeepSeek__TTS__and_Together.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6777_Generate_AI_Videos_from_Scripts_with_DeepSeek__TTS__and_Together.ai.json)|
+|6812|[6812_Generate_YouTube_SEO_Content___Thumbnail_from_Video_Scripts_with_GPT-4o___Runway.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6812_Generate_YouTube_SEO_Content___Thumbnail_from_Video_Scripts_with_GPT-4o___Runway.json)|
+|9342|[9342_Generate_YouTube_Scripts_for_Shorts___Long-Form_with_Gemini_AI_and_Tavily_Research.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9342_Generate_YouTube_Scripts_for_Shorts___Long-Form_with_Gemini_AI_and_Tavily_Research.json)|
+|9858|[9858_Transforming_Scripts_into_Engaging_Instagram_Reels_with_Blotato__Featuring_Unique_Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9858_Transforming_Scripts_into_Engaging_Instagram_Reels_with_Blotato__Featuring_Unique_Human_Review.json)|
+|10303|[10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json)|

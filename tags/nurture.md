@@ -1,0 +1,13 @@
+# nurture : 9
+
+|id|file|
+|----|----|
+|6380|[6380_Qualify___Nurture_Website_Demo_Requests_with_Claude_AI__Cal.com_and_Instantly.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6380_Qualify___Nurture_Website_Demo_Requests_with_Claude_AI__Cal.com_and_Instantly.ai.json)|
+|7977|[7977_Schedule_Weekly_Facebook_Posts_from_Google_Sheets_Every_Sunday.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7977_Schedule_Weekly_Facebook_Posts_from_Google_Sheets_Every_Sunday.json)|
+|8020|[8020_Client_Nurture___Testimonial_Auto-Pilot_for_Gumroad_with_Notion_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8020_Client_Nurture___Testimonial_Auto-Pilot_for_Gumroad_with_Notion_and_Email.json)|
+|8207|[8207_Automate_Product_Launch_Sequence_with_Notion__Mailchimp__Buffer__Google_Calendar___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8207_Automate_Product_Launch_Sequence_with_Notion__Mailchimp__Buffer__Google_Calendar___Telegram.json)|
+|8259|[8259_Extract_and_Organize_Receipt_Data_with_WhatsApp__GPT-4V_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8259_Extract_and_Organize_Receipt_Data_with_WhatsApp__GPT-4V_and_Google_Sheets.json)|
+|8330|[8330_Automate_Client_Nurture___Testimonial_Collection_with_Notion__Email__Tally___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8330_Automate_Client_Nurture___Testimonial_Collection_with_Notion__Email__Tally___Telegram.json)|
+|8593|[8593_Automate_Meeting_Scheduling_through_Telegram_with_Google_Calendar___Notion_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8593_Automate_Meeting_Scheduling_through_Telegram_with_Google_Calendar___Notion_CRM.json)|
+|8879|[8879_Capture_and_Nurture_Fraud-Proof_Leads_with_AI_Scoring__Sheets_Tracking___Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8879_Capture_and_Nurture_Fraud-Proof_Leads_with_AI_Scoring__Sheets_Tracking___Multi-Channel_Alerts.json)|
+|10152|[10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json)|

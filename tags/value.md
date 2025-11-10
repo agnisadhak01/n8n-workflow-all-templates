@@ -1,0 +1,17 @@
+# value : 13
+
+|id|file|
+|----|----|
+|557|[557_Get_the_value_of_a_key_from_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/05/557_Get_the_value_of_a_key_from_Redis.json)|
+|1407|[1407_Simple_file_based_key_value_store__WriteKey.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/14/1407_Simple_file_based_key_value_store__WriteKey.json)|
+|1408|[1408_Simple_file_based_key_value_store__GetKey.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/14/1408_Simple_file_based_key_value_store__GetKey.json)|
+|2046|[2046_KV_-_Cloudflare_Key-Value_Database_Full_API_Integration_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2046_KV_-_Cloudflare_Key-Value_Database_Full_API_Integration_Workflow.json)|
+|3026|[3026_Run_Apache_Airflow_DAG_and_Retrieve_XCom_Value.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3026_Run_Apache_Airflow_DAG_and_Retrieve_XCom_Value.json)|
+|3421|[3421_Load_and_Aggregate_Files_from_a_Google_Drive_Folder_into_a_Key-Value_Dictionary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3421_Load_and_Aggregate_Files_from_a_Google_Drive_Folder_into_a_Key-Value_Dictionary.json)|
+|5966|[5966_Analyze___Target_High-Value_Customers_with_GPT-4_and_Bright_Data_MCP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5966_Analyze___Target_High-Value_Customers_with_GPT-4_and_Bright_Data_MCP.json)|
+|6615|[6615_JSON_Data_Utility__Extract_Key-Value_Pairs_by_Index.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6615_JSON_Data_Utility__Extract_Key-Value_Pairs_by_Index.json)|
+|6681|[6681_Auto-Tag_High-Value_Sales_Orders_in_Zoho_CRM_with_VIP_Alert.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6681_Auto-Tag_High-Value_Sales_Orders_in_Zoho_CRM_with_VIP_Alert.json)|
+|6982|[6982_Send_Automated_Discount_Vouchers_to_High-Value_Magento_2_Customers_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6982_Send_Automated_Discount_Vouchers_to_High-Value_Magento_2_Customers_with_Gmail.json)|
+|7560|[7560_Automate_Real_Estate_Value_Updates_in_YNAB_using_Rentcast.io_with_Discord_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7560_Automate_Real_Estate_Value_Updates_in_YNAB_using_Rentcast.io_with_Discord_Alerts.json)|
+|9469|[9469_Sync_Adobe_Commerce_Customer_Data_to_KlickTipp_with_Value-Based_Tagging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9469_Sync_Adobe_Commerce_Customer_Data_to_KlickTipp_with_Value-Based_Tagging.json)|
+|10151|[10151_Automate_High-Value_Lead_Alerts_from_GoHighLevel_to_Slack__Sheets_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10151_Automate_High-Value_Lead_Alerts_from_GoHighLevel_to_Slack__Sheets_and_Calendar.json)|

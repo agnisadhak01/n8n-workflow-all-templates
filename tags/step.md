@@ -1,0 +1,14 @@
+# step : 10
+
+|id|file|
+|----|----|
+|2550|[2550_Waitlist_Form_Stored_in_GoogleSheet_with_Email_Verification_Step.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2550_Waitlist_Form_Stored_in_GoogleSheet_with_Email_Verification_Step.json)|
+|5170|[5170_Learn_JSON_Basics_with_an_Interactive_Step-by-Step_Tutorial_for_Beginners.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5170_Learn_JSON_Basics_with_an_Interactive_Step-by-Step_Tutorial_for_Beginners.json)|
+|5271|[5271_Learn_n8n_Expressions_with_an_Interactive_Step-by-Step_Tutorial_for_Beginners.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5271_Learn_n8n_Expressions_with_an_Interactive_Step-by-Step_Tutorial_for_Beginners.json)|
+|6101|[6101_AI-Powered_Lead_Generation_with_Apollo__LinkedIn_Research___4-Step_Personalized_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6101_AI-Powered_Lead_Generation_with_Apollo__LinkedIn_Research___4-Step_Personalized_Emails.json)|
+|7066|[7066_Create_Multi-Step_Reasoning_AI_Agents_with_GPT-4_and_Reusable_Thinking_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7066_Create_Multi-Step_Reasoning_AI_Agents_with_GPT-4_and_Reusable_Thinking_Tools.json)|
+|7809|[7809_Automate_Multi-step_Onboarding_with_Google_Sheets__Forms_and_Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7809_Automate_Multi-step_Onboarding_with_Google_Sheets__Forms_and_Gmail_Notifications.json)|
+|7837|[7837_Find_step-by-step_recipes_from_API_Ninjas_Recipe_API_in_an_n8n_AI_agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7837_Find_step-by-step_recipes_from_API_Ninjas_Recipe_API_in_an_n8n_AI_agent.json)|
+|8425|[8425_Manage_Recipes_with_AI-Powered_Telegram_Bot_and_Google_Sheets_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8425_Manage_Recipes_with_AI-Powered_Telegram_Bot_and_Google_Sheets_Database.json)|
+|8525|[8525_Automate_Candidate_Rejections_with_Google_Sheets__GPT-4o-mini__Gmail___ClickUp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8525_Automate_Candidate_Rejections_with_Google_Sheets__GPT-4o-mini__Gmail___ClickUp.json)|
+|9974|[9974_Automate_HVAC_Service_Scheduling_with_AI_Agent__Google_Calendar_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9974_Automate_HVAC_Service_Scheduling_with_AI_Agent__Google_Calendar_and_Gmail.json)|

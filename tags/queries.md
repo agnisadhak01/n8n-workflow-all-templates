@@ -1,0 +1,19 @@
+# queries : 15
+
+|id|file|
+|----|----|
+|216|[216_API_queries_data_from_GraphQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/02/216_API_queries_data_from_GraphQL.json)|
+|357|[357_Send_SMS_alerts_based_on_database_queries__Twilio_and_Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/03/357_Send_SMS_alerts_based_on_database_queries__Twilio_and_Postgres.json)|
+|2508|[2508_Generate_SQL_queries_from_schema_only_-_AI-powered.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2508_Generate_SQL_queries_from_schema_only_-_AI-powered.json)|
+|2559|[2559_Visualize_your_SQL_Agent_queries_with_OpenAI_and_Quickchart.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2559_Visualize_your_SQL_Agent_queries_with_OpenAI_and_Quickchart.io.json)|
+|3002|[3002_Dynamically_Run_SuiteQL_Queries_in_NetSuite_via_HTTP_Webhook_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3002_Dynamically_Run_SuiteQL_Queries_in_NetSuite_via_HTTP_Webhook_in_n8n.json)|
+|3497|[3497_Conversing_with_Data__Transforming_Text_into_SQL_Queries_and_Visual_Curves.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3497_Conversing_with_Data__Transforming_Text_into_SQL_Queries_and_Visual_Curves.json)|
+|3761|[3761_Email_Assistant__Convert_Natural_Language_to_SQL_Queries_with_Phi4-mini_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3761_Email_Assistant__Convert_Natural_Language_to_SQL_Queries_with_Phi4-mini_and_PostgreSQL.json)|
+|5012|[5012_Natural_Language_Database_Queries_with_Dual-Agent_AI___PostgreSQL_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5012_Natural_Language_Database_Queries_with_Dual-Agent_AI___PostgreSQL_Integration.json)|
+|6603|[6603_AI_Chatbot_that_Queries_Baserow_Database_with_OpenAI_GPT-4_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6603_AI_Chatbot_that_Queries_Baserow_Database_with_OpenAI_GPT-4_Mini.json)|
+|6710|[6710_Automated_Web_Browsing___Extraction_with_Airtop_and_AI-Prompted_Queries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6710_Automated_Web_Browsing___Extraction_with_Airtop_and_AI-Prompted_Queries.json)|
+|6745|[6745_Generate_BigQuery_SQL_from_Natural_Language_Queries_using_GPT-4o_Chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6745_Generate_BigQuery_SQL_from_Natural_Language_Queries_using_GPT-4o_Chat.json)|
+|7600|[7600_Search_Outlook_Emails_with_Natural_Language_Queries_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7600_Search_Outlook_Emails_with_Natural_Language_Queries_using_GPT-4o.json)|
+|7645|[7645_Track_New_Search_Queries_with_Zero-Click_Analysis_in_Google_Search_Console.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7645_Track_New_Search_Queries_with_Zero-Click_Analysis_in_Google_Search_Console.json)|
+|9908|[9908_Run_bulk_RAG_queries_from_CSV_with_Lookio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9908_Run_bulk_RAG_queries_from_CSV_with_Lookio.json)|
+|10136|[10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json)|

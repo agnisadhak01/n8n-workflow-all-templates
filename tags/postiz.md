@@ -1,0 +1,14 @@
+# postiz : 10
+
+|id|file|
+|----|----|
+|5943|[5943_Multi-Platform_Social_Media_Publisher_with_Airtable__Google_Drive__and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5943_Multi-Platform_Social_Media_Publisher_with_Airtable__Google_Drive__and_Postiz.json)|
+|6524|[6524_Automate_AI_News_Videos_to_Social_Media_with_GPT-4o___HeyGen_and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6524_Automate_AI_News_Videos_to_Social_Media_with_GPT-4o___HeyGen_and_Postiz.json)|
+|6653|[6653_Automate_Video_Content_Posting_to_Multiple_Social_Platforms_with_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6653_Automate_Video_Content_Posting_to_Multiple_Social_Platforms_with_Postiz.json)|
+|7046|[7046_Auto-Generate_Platform-Optimized_Social_Media_Posts_from_WordPress_with_Claude___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7046_Auto-Generate_Platform-Optimized_Social_Media_Posts_from_WordPress_with_Claude___Postiz.json)|
+|7420|[7420_Generate_cheap_Viral_AI_Videos_to_TikTok_with_Google_Veo3_Fast_and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7420_Generate_cheap_Viral_AI_Videos_to_TikTok_with_Google_Veo3_Fast_and_Postiz.json)|
+|7814|[7814_Automate_Content_Publishing_Across_25_Social_Media_Channels_with_Airtable___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7814_Automate_Content_Publishing_Across_25_Social_Media_Channels_with_Airtable___Postiz.json)|
+|7992|[7992_Auto-Caption___Post_Videos_to_Instagram___TikTok_with_Submagic__Postiz___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7992_Auto-Caption___Post_Videos_to_Instagram___TikTok_with_Submagic__Postiz___OpenAI.json)|
+|8115|[8115_Automate_UGC_video_creation_with_Gemini_and_Google_Veo_3___upload_to_Instagram_via_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8115_Automate_UGC_video_creation_with_Gemini_and_Google_Veo_3___upload_to_Instagram_via_Postiz.json)|
+|9316|[9316_Auto-Summarize_Blog_Posts_to_Social_Media_with_Gemma_and_Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9316_Auto-Summarize_Blog_Posts_to_Social_Media_with_Gemma_and_Postiz.json)|
+|10175|[10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json)|

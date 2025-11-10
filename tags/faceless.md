@@ -1,0 +1,9 @@
+# faceless : 5
+
+|id|file|
+|----|----|
+|2875|[2875_An_AI_Agent_to_Create_Faceless_YouTube_Videos.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2875_An_AI_Agent_to_Create_Faceless_YouTube_Videos.json)|
+|2971|[2971_Automated_Faceless_YouTube_Video_Generator_Using_Leonardo_AI_and_Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2971_Automated_Faceless_YouTube_Video_Generator_Using_Leonardo_AI_and_Creatomate.json)|
+|6014|[6014_Create_Faceless_Videos_with_Gemini__ElevenLabs__Leonardo_AI___Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6014_Create_Faceless_Videos_with_Gemini__ElevenLabs__Leonardo_AI___Shotstack.json)|
+|8290|[8290_Automate_Faceless_Shorts_with_OpenAI__RunwayML___ElevenLabs__Script_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8290_Automate_Faceless_Shorts_with_OpenAI__RunwayML___ElevenLabs__Script_to_Social_Media.json)|
+|10103|[10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json)|

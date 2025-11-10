@@ -1,0 +1,16 @@
+# planner : 12
+
+|id|file|
+|----|----|
+|3087|[3087_Travel_AI_Agent_-_AI-Powered_Travel_Planner.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3087_Travel_AI_Agent_-_AI-Powered_Travel_Planner.json)|
+|4753|[4753_AI_Multi-Stop_Planner_for_Circular_Logistics_with_GPT-4o___Open_Route_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4753_AI_Multi-Stop_Planner_for_Circular_Logistics_with_GPT-4o___Open_Route_API.json)|
+|6051|[6051_Generate_Personalized_Travel_Itineraries_with_Llama_AI_via_Email___WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6051_Generate_Personalized_Travel_Itineraries_with_Llama_AI_via_Email___WhatsApp.json)|
+|6052|[6052_AI-Powered_Travel_Assistant_for_WhatsApp_using_Llama_3.2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6052_AI-Powered_Travel_Assistant_for_WhatsApp_using_Llama_3.2.json)|
+|6697|[6697_Telegram_Fitness_Bot__Custom_Workout_Plans_from_Photo_Text_using_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6697_Telegram_Fitness_Bot__Custom_Workout_Plans_from_Photo_Text_using_Gemini_AI.json)|
+|7789|[7789_Weekly_Business___Home_Task_Planner_with_Notion__Email_Digests_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7789_Weekly_Business___Home_Task_Planner_with_Notion__Email_Digests_and_Telegram.json)|
+|7792|[7792_7-Day_Pinterest_Content_Planner_with_Notion_Integration_and_Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7792_7-Day_Pinterest_Content_Planner_with_Notion_Integration_and_Email_Delivery.json)|
+|7925|[7925_Voice-to-Task_Manager_with_Telegram__GPT-4o___Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7925_Voice-to-Task_Manager_with_Telegram__GPT-4o___Notion_Database.json)|
+|8077|[8077_Service_Scheduling___Route_Planner_for_Deliveries_with_Notion__Telegram_and_Maps.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8077_Service_Scheduling___Route_Planner_for_Deliveries_with_Notion__Telegram_and_Maps.json)|
+|8241|[8241_Weekly_Meal_Planner__AI-Generated_Grocery_Lists_with_Price_Comparison_to_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8241_Weekly_Meal_Planner__AI-Generated_Grocery_Lists_with_Price_Comparison_to_WhatsApp.json)|
+|10223|[10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json)|
+|10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|

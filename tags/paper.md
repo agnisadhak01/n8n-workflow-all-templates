@@ -1,0 +1,14 @@
+# paper : 10
+
+|id|file|
+|----|----|
+|2404|[2404_Arxiv_paper_trend_search_using_AI__write_article__send_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2404_Arxiv_paper_trend_search_using_AI__write_article__send_email.json)|
+|2765|[2765_Automated_Hugging_Face_Paper_Summary_Fetching___Categorization_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2765_Automated_Hugging_Face_Paper_Summary_Fetching___Categorization_Workflow.json)|
+|2904|[2904_Arxiv_Paper_summarization_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2904_Arxiv_Paper_summarization_with_ChatGPT.json)|
+|5221|[5221_Automate_Research_Paper_Collection_with_Bright_Data___n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5221_Automate_Research_Paper_Collection_with_Bright_Data___n8n.json)|
+|7358|[7358_Automated_Academic_Paper_Monitoring_with_PDF_Vector__GPT-3.5____Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7358_Automated_Academic_Paper_Monitoring_with_PDF_Vector__GPT-3.5____Slack_Alerts.json)|
+|7359|[7359_Generate_Multi-Format_Research_Paper_Summaries_with_GPT-4_and_PDF_Vector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7359_Generate_Multi-Format_Research_Paper_Summaries_with_GPT-4_and_PDF_Vector.json)|
+|8499|[8499_Research_Paper_Analysis_System_with_PDF_Vector__OCR__GPT-4__and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8499_Research_Paper_Analysis_System_with_PDF_Vector__OCR__GPT-4__and_Google_Drive.json)|
+|8847|[8847_Daily_RAG_Research_Paper_Hub_with_arXiv__Gemini_AI__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8847_Daily_RAG_Research_Paper_Hub_with_arXiv__Gemini_AI__and_Notion.json)|
+|9994|[9994_Automated_Academic_Paper_Metadata___Variable_Extraction_with_Gemini_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9994_Automated_Academic_Paper_Metadata___Variable_Extraction_with_Gemini_to_Google_Sheets.json)|
+|10314|[10314_Qwen-Max__Journal_Paper_Generation_from_Title_Abstract.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10314_Qwen-Max__Journal_Paper_Generation_from_Title_Abstract.json)|

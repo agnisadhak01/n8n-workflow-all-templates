@@ -1,0 +1,12 @@
+# itineraries : 8
+
+|id|file|
+|----|----|
+|5086|[5086_Generate_Personalized_Tour_Itineraries_via_Email_with_GPT-4o_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5086_Generate_Personalized_Tour_Itineraries_via_Email_with_GPT-4o_and_Pinecone.json)|
+|6051|[6051_Generate_Personalized_Travel_Itineraries_with_Llama_AI_via_Email___WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6051_Generate_Personalized_Travel_Itineraries_with_Llama_AI_via_Email___WhatsApp.json)|
+|6652|[6652_Plan_Travel_Itineraries_with_Gemini_AI__Live_Amadeus_Flights__and_Airbnb_Stays.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6652_Plan_Travel_Itineraries_with_Gemini_AI__Live_Amadeus_Flights__and_Airbnb_Stays.json)|
+|8881|[8881_Create_Travel_Itineraries___Send_Email_Confirmations_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8881_Create_Travel_Itineraries___Send_Email_Confirmations_with_Gemini_AI.json)|
+|9281|[9281_Extract_PDF_Itineraries_to_Google_Sheets_with_GPT-4.1-Mini___Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9281_Extract_PDF_Itineraries_to_Google_Sheets_with_GPT-4.1-Mini___Gmail_Notifications.json)|
+|9708|[9708_Create_Personalized_City_Trip_Itineraries_with_Telegram_Bot___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9708_Create_Personalized_City_Trip_Itineraries_with_Telegram_Bot___GPT-4o.json)|
+|10232|[10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json)|
+|10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|

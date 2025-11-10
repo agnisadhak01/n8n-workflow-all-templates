@@ -1,0 +1,17 @@
+# backups : 13
+
+|id|file|
+|----|----|
+|2983|[2983_Automated_Workflow_Backups_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2983_Automated_Workflow_Backups_to_Google_Drive.json)|
+|4302|[4302_Airtable_Base_Backups_to_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4302_Airtable_Base_Backups_to_S3.json)|
+|4463|[4463_Automated_Workflow_Backups_to_GitHub_with_PR_Creation___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4463_Automated_Workflow_Backups_to_GitHub_with_PR_Creation___Slack_Notifications.json)|
+|4515|[4515_Scheduled_Workflow_Backups_from_n8n_to_Google_Drive_with_Auto_Cleanup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4515_Scheduled_Workflow_Backups_from_n8n_to_Google_Drive_with_Auto_Cleanup.json)|
+|4516|[4516_Restore_n8n_Workflows_from_Google_Drive_Backups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4516_Restore_n8n_Workflows_from_Google_Drive_Backups.json)|
+|4517|[4517_Automated_n8n_Credential_Backups_to_Google_Drive_with_Scheduled_Execution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4517_Automated_n8n_Credential_Backups_to_Google_Drive_with_Scheduled_Execution.json)|
+|4518|[4518_Restore_and_Recover_n8n_Credentials_from_Google_Drive_Backups_with_Duplication_Protection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4518_Restore_and_Recover_n8n_Credentials_from_Google_Drive_Backups_with_Duplication_Protection.json)|
+|5802|[5802_Automated_Workflow_Backups_from_Self-Hosted_n8n_to_Google_Drive_with_Version_History.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5802_Automated_Workflow_Backups_from_Self-Hosted_n8n_to_Google_Drive_with_Version_History.json)|
+|5851|[5851_Daily_Workflow_Backups_to_GitHub_with_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5851_Daily_Workflow_Backups_to_GitHub_with_Slack_Notifications.json)|
+|6731|[6731_Automatic_Workflow_Backups_to_GitLab_with_GPT-4.1_Documentation_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6731_Automatic_Workflow_Backups_to_GitLab_with_GPT-4.1_Documentation_Generation.json)|
+|7707|[7707_Scheduled_n8n_Workflow_Backups_to_Google_Drive_using_n8n_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7707_Scheduled_n8n_Workflow_Backups_to_Google_Drive_using_n8n_API.json)|
+|7850|[7850_Automated_Workflow_Backups_with_Google_Drive_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7850_Automated_Workflow_Backups_with_Google_Drive_and_Slack_Notifications.json)|
+|9779|[9779_Automated_Daily_Workflow_Backups_to_Google_Drive_with_Cleanup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9779_Automated_Daily_Workflow_Backups_to_Google_Drive_with_Cleanup.json)|

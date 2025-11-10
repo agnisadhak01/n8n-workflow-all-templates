@@ -1,0 +1,20 @@
+# todoist : 16
+
+|id|file|
+|----|----|
+|481|[481_Create_a_new_task_in_Todoist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/481_Create_a_new_task_in_Todoist.json)|
+|1778|[1778_Sync_tasks_automatically_from_Todoist_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/17/1778_Sync_tasks_automatically_from_Todoist_to_Notion.json)|
+|2147|[2147_Snooze_Todoist_tasks_until_3_days_before_due_date.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2147_Snooze_Todoist_tasks_until_3_days_before_due_date.json)|
+|2149|[2149_Automatically_create_daily_list_of_todos_in_Todoist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2149_Automatically_create_daily_list_of_todos_in_Todoist.json)|
+|2394|[2394_Use_AI_to_organize_your_Todoist_Inbox.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2394_Use_AI_to_organize_your_Todoist_Inbox.json)|
+|2772|[2772_Realtime_Notion_Todoist_2-way_Sync_with_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2772_Realtime_Notion_Todoist_2-way_Sync_with_Redis.json)|
+|2805|[2805_Todoist_weekly_email_of_completed_tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2805_Todoist_weekly_email_of_completed_tasks.json)|
+|3052|[3052_Effortless_Task_Management__Create_Todoist_Tasks_Directly_from_Telegram_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3052_Effortless_Task_Management__Create_Todoist_Tasks_Directly_from_Telegram_with_AI.json)|
+|3134|[3134_Create_a_Daily_Digest_from_Gmail__RSS__and_Todoist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3134_Create_a_Daily_Digest_from_Gmail__RSS__and_Todoist.json)|
+|3507|[3507_Parse_Gmail_Inbox_and_Transform_into_Todoist_tasks_with_Solve_Propositions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3507_Parse_Gmail_Inbox_and_Transform_into_Todoist_tasks_with_Solve_Propositions.json)|
+|4186|[4186_Natural_Language_Task_Management_with_Todoist_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4186_Natural_Language_Task_Management_with_Todoist_and_GPT-4o.json)|
+|5349|[5349_Todoist_Tool_MCP_Server___all_8_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5349_Todoist_Tool_MCP_Server___all_8_operations.json)|
+|5648|[5648_Sync_Linear_Issues_to_Todoist_Tasks_Automatically__Create__Update__Close.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5648_Sync_Linear_Issues_to_Todoist_Tasks_Automatically__Create__Update__Close.json)|
+|6133|[6133_Automated_Daily_Briefing_with_Todoist__Google_Calendar___GPT-4o_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6133_Automated_Daily_Briefing_with_Todoist__Google_Calendar___GPT-4o_via_Gmail.json)|
+|7938|[7938_Automatically_Triage___Improve_Todoist_Tasks_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7938_Automatically_Triage___Improve_Todoist_Tasks_with_GPT-4.1-mini.json)|
+|9564|[9564_Prioritize_Todoist_Tasks_with_OpenRouter_AI_and_Send_Daily_Summaries_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9564_Prioritize_Todoist_Tasks_with_OpenRouter_AI_and_Send_Daily_Summaries_to_Slack.json)|

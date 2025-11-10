@@ -1,0 +1,15 @@
+# currency : 11
+
+|id|file|
+|----|----|
+|2691|[2691_Currency_Conversion_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2691_Currency_Conversion_Workflow.json)|
+|3556|[3556_Automate_Currency_Rates_Update_in_Invoices_with_Google_Sheet__ExchangeRate_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3556_Automate_Currency_Rates_Update_in_Invoices_with_Google_Sheet__ExchangeRate_API.json)|
+|4602|[4602_Currency_Converter_via_Webhook_using_ExchangeRate.host.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4602_Currency_Converter_via_Webhook_using_ExchangeRate.host.json)|
+|4931|[4931_Flexible_Currency_Rate_Uploads_for_SAP_B1_with_AI_Validation___Multiple_Sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4931_Flexible_Currency_Rate_Uploads_for_SAP_B1_with_AI_Validation___Multiple_Sources.json)|
+|5512|[5512_Send_Daily_Currency_Exchange_Rate_Updates_via_CurrencyFreaks_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5512_Send_Daily_Currency_Exchange_Rate_Updates_via_CurrencyFreaks_API_and_Gmail.json)|
+|6120|[6120_Deliver_Daily_Currency_Exchange_Rates_from_CurrencyFreaks_API_to_Email___WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6120_Deliver_Daily_Currency_Exchange_Rates_from_CurrencyFreaks_API_to_Email___WhatsApp.json)|
+|6123|[6123_Real-Time_Currency_Conversion_via_Webhook___Google_Search_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6123_Real-Time_Currency_Conversion_via_Webhook___Google_Search_Parsing.json)|
+|6178|[6178_Automated_Gold_Price_Tracker_with_Multiple_Currency_Conversion_for_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6178_Automated_Gold_Price_Tracker_with_Multiple_Currency_Conversion_for_Telegram.json)|
+|6185|[6185_Scheduled_Currency_Exchange_Rate_Updates_to_Telegram_with_Exchange_Rate_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6185_Scheduled_Currency_Exchange_Rate_Updates_to_Telegram_with_Exchange_Rate_API.json)|
+|6520|[6520_Monitor_Egyptian_Gold___Currency_Prices_with_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6520_Monitor_Egyptian_Gold___Currency_Prices_with_Telegram_Notifications.json)|
+|8380|[8380_Daily_Currency_Rates_Email_Report_with_USD_EUR_NGN___BTC_ETH_Price_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8380_Daily_Currency_Rates_Email_Report_with_USD_EUR_NGN___BTC_ETH_Price_Tracking.json)|

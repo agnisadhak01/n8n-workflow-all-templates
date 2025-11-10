@@ -1,0 +1,12 @@
+# sharing : 8
+
+|id|file|
+|----|----|
+|365|[365_Render_custom_text_over_images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/03/365_Render_custom_text_over_images.json)|
+|2042|[2042_Bulk_Automated_Google_Drive_Files_Sharing_and_Direct_Download_Link_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2042_Bulk_Automated_Google_Drive_Files_Sharing_and_Direct_Download_Link_Generation.json)|
+|5598|[5598_SEO_Blog_Publishing_for_Jekyll_with_GPT-4__GitHub___Social_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5598_SEO_Blog_Publishing_for_Jekyll_with_GPT-4__GitHub___Social_Sharing.json)|
+|5725|[5725_Auto-Share_YouTube_Videos_with_AI-Generated_Posts_to_Facebook__X___Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5725_Auto-Share_YouTube_Videos_with_AI-Generated_Posts_to_Facebook__X___Discord.json)|
+|5989|[5989_Schedule_Food_Photo_Sharing_to_Pinterest_with_GPT-3.5_Captions_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5989_Schedule_Food_Photo_Sharing_to_Pinterest_with_GPT-3.5_Captions_and_Google_Sheets.json)|
+|7535|[7535_AI_Hairstyle_Preview_Generator_with_OpenAI_and_LINE_Group_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7535_AI_Hairstyle_Preview_Generator_with_OpenAI_and_LINE_Group_Sharing.json)|
+|9920|[9920_Auto-Generate_WordPress_Articles_from_News_with_Claude_AI_and_LinkedIn_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9920_Auto-Generate_WordPress_Articles_from_News_with_Claude_AI_and_LinkedIn_Sharing.json)|
+|10232|[10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json)|

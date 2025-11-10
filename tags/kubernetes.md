@@ -1,0 +1,12 @@
+# kubernetes : 8
+
+|id|file|
+|----|----|
+|4023|[4023_Conversational_Kubernetes_Management_with_GPT-4o_and_MCP_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4023_Conversational_Kubernetes_Management_with_GPT-4o_and_MCP_Integration.json)|
+|7021|[7021_Send_deduplicated_Kubernetes_EKS_GKE_AKS__error_logs_from_Grafana_Loki_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7021_Send_deduplicated_Kubernetes_EKS_GKE_AKS__error_logs_from_Grafana_Loki_to_Slack.json)|
+|7145|[7145_Send_real-time_Kubernetes_EKS_GKE_AKS__CPU_spike_alerts_from_Prometheus_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7145_Send_real-time_Kubernetes_EKS_GKE_AKS__CPU_spike_alerts_from_Prometheus_to_Slack.json)|
+|7236|[7236_Kubernetes_Management_with_Natural_Language_using_GPT-4o_and_MCP_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7236_Kubernetes_Management_with_Natural_Language_using_GPT-4o_and_MCP_Tools.json)|
+|7665|[7665_Monitor_Kubernetes_Services___Pods_with_Prometheus_and_Send_Alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7665_Monitor_Kubernetes_Services___Pods_with_Prometheus_and_Send_Alerts_to_Slack.json)|
+|7953|[7953_Kubernetes_RCA_and_alerting_using_Gemini__Loki__Prometheus__Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7953_Kubernetes_RCA_and_alerting_using_Gemini__Loki__Prometheus__Slack.json)|
+|9613|[9613_Kubernetes_Deployment___Pod_Monitoring_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9613_Kubernetes_Deployment___Pod_Monitoring_with_Telegram_Alerts.json)|
+|10302|[10302_Automated_Kubernetes_Testing_with_Robot_Framework__ArgoCD___With_KinD_Lifecycle.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10302_Automated_Kubernetes_Testing_with_Robot_Framework__ArgoCD___With_KinD_Lifecycle.json)|

@@ -1,0 +1,16 @@
+# respond : 12
+
+|id|file|
+|----|----|
+|1920|[1920_Respond_with_file_download_to_incoming_HTTP_request.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/19/1920_Respond_with_file_download_to_incoming_HTTP_request.json)|
+|2466|[2466_Respond_to_WhatsApp_Messages_with_AI_Like_a_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2466_Respond_to_WhatsApp_Messages_with_AI_Like_a_Pro.json)|
+|2852|[2852_AI-Powered_Email_Automation_for_Business__Summarize___Respond_with_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2852_AI-Powered_Email_Automation_for_Business__Summarize___Respond_with_RAG.json)|
+|3692|[3692_Discord_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3692_Discord_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json)|
+|4057|[4057_Auto-Respond_to_Gmail_Enquiries_using_GPT-4o__Dumpling_AI___LangChain_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4057_Auto-Respond_to_Gmail_Enquiries_using_GPT-4o__Dumpling_AI___LangChain_Agent.json)|
+|4413|[4413_Auto-Respond_to_Gmail_Inquiries_using_OpenAI__Google_Sheet___AI_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4413_Auto-Respond_to_Gmail_Inquiries_using_OpenAI__Google_Sheet___AI_Agent.json)|
+|6404|[6404_Respond_to_Inbound_Leads_with_Personalized_Videos_using_Heygen_AI_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6404_Respond_to_Inbound_Leads_with_Personalized_Videos_using_Heygen_AI_and_GPT-4.json)|
+|6478|[6478_Monitor___Respond_to_Shopify_Reviews_with_GPT-4__Slack__Trello___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6478_Monitor___Respond_to_Shopify_Reviews_with_GPT-4__Slack__Trello___Google_Sheets.json)|
+|6632|[6632_Auto-Respond_to_Instagram__Facebook___WhatsApp_with_Llama_3.2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6632_Auto-Respond_to_Instagram__Facebook___WhatsApp_with_Llama_3.2.json)|
+|7426|[7426_Auto-Respond_to_Slack_Messages_as_Yourself_using_GPT_and_Google_Docs_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7426_Auto-Respond_to_Slack_Messages_as_Yourself_using_GPT_and_Google_Docs_RAG.json)|
+|7506|[7506_Auto-respond_to_Slack_Messages_with_GPT_and_Pinecone_Vector_RAG_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7506_Auto-respond_to_Slack_Messages_with_GPT_and_Pinecone_Vector_RAG_Context.json)|
+|10586|[10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json)|

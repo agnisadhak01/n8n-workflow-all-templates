@@ -1,0 +1,15 @@
+# comparison : 11
+
+|id|file|
+|----|----|
+|3185|[3185_Compare_Local_Ollama_Vision_Models_for_Image_Analysis_using_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3185_Compare_Local_Ollama_Vision_Models_for_Image_Analysis_using_Google_Docs.json)|
+|3297|[3297_Monitor_Dropbox_Folders_for_New_Files_with_DB_Comparison.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3297_Monitor_Dropbox_Folders_for_New_Files_with_DB_Comparison.json)|
+|3315|[3315_AI-Powered_Product_Research___Comparison_with_GPT-4o_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3315_AI-Powered_Product_Research___Comparison_with_GPT-4o_and_SerpAPI.json)|
+|4382|[4382_Automated_Website_Change_Monitoring_with_Bright_Data__GPT-4.1___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4382_Automated_Website_Change_Monitoring_with_Bright_Data__GPT-4.1___Google_Workspace.json)|
+|5843|[5843_Auto-generate_Product_Comparison_Pages_with_OpenAI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5843_Auto-generate_Product_Comparison_Pages_with_OpenAI___Google_Sheets.json)|
+|6166|[6166_Automate_Website_Performance_Analysis_and_Comparison_using_Gemini_and_PageSpeed_Insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6166_Automate_Website_Performance_Analysis_and_Comparison_using_Gemini_and_PageSpeed_Insights.json)|
+|6664|[6664_AI-Powered_Product_Research___Price_Comparison_with_Google_Search_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6664_AI-Powered_Product_Research___Price_Comparison_with_Google_Search_and_OpenAI.json)|
+|8241|[8241_Weekly_Meal_Planner__AI-Generated_Grocery_Lists_with_Price_Comparison_to_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8241_Weekly_Meal_Planner__AI-Generated_Grocery_Lists_with_Price_Comparison_to_WhatsApp.json)|
+|9777|[9777_Automate_Hotel_Price_Comparison_with_Multi-Platform_Scraping_and_Email_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9777_Automate_Hotel_Price_Comparison_with_Multi-Platform_Scraping_and_Email_Reporting.json)|
+|9788|[9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json)|
+|10359|[10359_Automate_CV_Screening_and_Candidate_Scoring_with_Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10359_Automate_CV_Screening_and_Candidate_Scoring_with_Gemini_AI_and_Google_Sheets.json)|

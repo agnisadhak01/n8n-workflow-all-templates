@@ -1,0 +1,14 @@
+# briefing : 10
+
+|id|file|
+|----|----|
+|3173|[3173_Daily_AI_News_Briefing_and_Summarization_with_Google_Gemini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3173_Daily_AI_News_Briefing_and_Summarization_with_Google_Gemini_and_Telegram.json)|
+|4570|[4570_Email_News_Briefing_by_Keyword_from_Bright_Data_with_AI_Summary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4570_Email_News_Briefing_by_Keyword_from_Bright_Data_with_AI_Summary.json)|
+|4617|[4617_Daily_AI_Stock_Briefing_Right_to_Your_Email__OpenAI___Tavily___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4617_Daily_AI_Stock_Briefing_Right_to_Your_Email__OpenAI___Tavily___Gmail.json)|
+|6133|[6133_Automated_Daily_Briefing_with_Todoist__Google_Calendar___GPT-4o_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6133_Automated_Daily_Briefing_with_Todoist__Google_Calendar___GPT-4o_via_Gmail.json)|
+|6841|[6841_Automate_weekly_Hollywood_film_briefing_via_Tavily_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6841_Automate_weekly_Hollywood_film_briefing_via_Tavily_and_Gemini.json)|
+|8143|[8143_Morning_Briefing_Podcast__Generate_Daily_Summaries_with_Gemini_AI__Weather__and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8143_Morning_Briefing_Podcast__Generate_Daily_Summaries_with_Gemini_AI__Weather__and_Calendar.json)|
+|8354|[8354_Daily_Google_Tasks_Briefing_in_Slack_with_Ollama-Powered_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8354_Daily_Google_Tasks_Briefing_in_Slack_with_Ollama-Powered_Summaries.json)|
+|9633|[9633_Newsletter_Summarization___Briefing_with_Gmail__AI__Google_Sheets___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9633_Newsletter_Summarization___Briefing_with_Gmail__AI__Google_Sheets___Email.json)|
+|9819|[9819_Daily_Morning_Briefing_with_Google_Calendar__Weather__and_News_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9819_Daily_Morning_Briefing_with_Google_Calendar__Weather__and_News_to_Slack.json)|
+|10164|[10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json)|

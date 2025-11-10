@@ -1,0 +1,13 @@
+# trustpilot : 9
+
+|id|file|
+|----|----|
+|2792|[2792_Scrape_Trustpilot_Reviews_with_DeepSeek__Analyze_Sentiment_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2792_Scrape_Trustpilot_Reviews_with_DeepSeek__Analyze_Sentiment_with_OpenAI.json)|
+|3168|[3168_Scrape_Trustpilot_Reviews_to_Google_Sheets___HelpfulCrowd_compatible_csv.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3168_Scrape_Trustpilot_Reviews_to_Google_Sheets___HelpfulCrowd_compatible_csv.json)|
+|3610|[3610_Scrape_Trustpilot_Reviews_Using_Bright_Data___GPT-4o-mini_for_Winning_Ad_Copy.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3610_Scrape_Trustpilot_Reviews_Using_Bright_Data___GPT-4o-mini_for_Winning_Ad_Copy.json)|
+|4280|[4280_TrustPilot_SaaS_Product_Review_Tracker_with_Bright_Data___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4280_TrustPilot_SaaS_Product_Review_Tracker_with_Bright_Data___OpenAI.json)|
+|4912|[4912_Lead_Workflow__Yelp___Trustpilot_Scraping___OpenAI_Analysis_via_BrightData.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4912_Lead_Workflow__Yelp___Trustpilot_Scraping___OpenAI_Analysis_via_BrightData.json)|
+|5145|[5145_Trustpilot_Insights_Scraper__Auto_Reviews_via_Bright_Data___Google_Sheets_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5145_Trustpilot_Insights_Scraper__Auto_Reviews_via_Bright_Data___Google_Sheets_Sync.json)|
+|5950|[5950_Trustpilot_Review_Sentiment_Analysis_with_OpenAI___Bright_Data_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5950_Trustpilot_Review_Sentiment_Analysis_with_OpenAI___Bright_Data_to_Google_Sheets.json)|
+|6112|[6112_Shopify_Review_Aggregator__Trustpilot__Google__Facebook_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6112_Shopify_Review_Aggregator__Trustpilot__Google__Facebook_to_Google_Sheets.json)|
+|9985|[9985_Analyze_Trustpilot___Sitejabber_sentiment_with_Decodo___Gemini_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9985_Analyze_Trustpilot___Sitejabber_sentiment_with_Decodo___Gemini_to_Sheets.json)|

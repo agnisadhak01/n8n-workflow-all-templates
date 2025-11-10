@@ -1,0 +1,14 @@
+# tags : 10
+
+|id|file|
+|----|----|
+|1545|[1545_Update_Shopify_order_tags_when_a_Onfleet_event_happens.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/15/1545_Update_Shopify_order_tags_when_a_Onfleet_event_happens.json)|
+|3445|[3445_Convert_n8n_tags_into_folders_and_move_workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3445_Convert_n8n_tags_into_folders_and_move_workflows.json)|
+|4431|[4431_Notion_AI_Summary___Tags.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4431_Notion_AI_Summary___Tags.json)|
+|4506|[4506_Generate_Youtube_Video_Metadata__Timestamps__Tags__Description__....json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4506_Generate_Youtube_Video_Metadata__Timestamps__Tags__Description__....json)|
+|5411|[5411_Optimize_SEO_Meta_Tags_in_Google_Sheets_with_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5411_Optimize_SEO_Meta_Tags_in_Google_Sheets_with_Google_Gemini.json)|
+|6715|[6715_Magento_2__Auto-Fix_Missing_Image_Alt_Tags_with_Product_Name.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6715_Magento_2__Auto-Fix_Missing_Image_Alt_Tags_with_Product_Name.json)|
+|9064|[9064_WordPress_Blog_to_Google_Sheets_Sync__Posts__Categories__Tags__Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9064_WordPress_Blog_to_Google_Sheets_Sync__Posts__Categories__Tags__Media.json)|
+|9750|[9750_Generate_SEO_Meta_Tags_with_Gemini_AI___Competitor_Analysis_using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9750_Generate_SEO_Meta_Tags_with_Gemini_AI___Competitor_Analysis_using_Google_Sheets.json)|
+|9983|[9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json)|
+|10031|[10031_Export_WordPress_Posts_with_Categories_and_Tags_to_Google_Sheets_for_SEO_Audits.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10031_Export_WordPress_Posts_with_Categories_and_Tags_to_Google_Sheets_for_SEO_Audits.json)|

@@ -1,0 +1,13 @@
+# chain : 9
+
+|id|file|
+|----|----|
+|3305|[3305_AI_Powered_Supply_Chain_Control_Tower_with_BigQuery_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3305_AI_Powered_Supply_Chain_Control_Tower_with_BigQuery_and_GPT-4o.json)|
+|4858|[4858_WhatsApp_Dietitian_AI_Chatbot_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4858_WhatsApp_Dietitian_AI_Chatbot_Workflow.json)|
+|5160|[5160_Build_Resilient_AI_Workflows_with_Automatic_GPT_and_Gemini_Failover_Chain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5160_Build_Resilient_AI_Workflows_with_Automatic_GPT_and_Gemini_Failover_Chain.json)|
+|5632|[5632_Crypto_Alpha_Scanner_with_OpenAI_-_On-Chain_and_Social_Alerts_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5632_Crypto_Alpha_Scanner_with_OpenAI_-_On-Chain_and_Social_Alerts_to_Telegram.json)|
+|6569|[6569_Monitor_Supply_Chain_Risks_with_ScrapeGraphAI_Alerts_via_Slack_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6569_Monitor_Supply_Chain_Risks_with_ScrapeGraphAI_Alerts_via_Slack_and_Email.json)|
+|7206|[7206_Multi-Chain_Token_Swap_Relayer_with_Li.Fi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7206_Multi-Chain_Token_Swap_Relayer_with_Li.Fi.json)|
+|7836|[7836_Generate_Daily_Bitcoin_On-Chain_Metrics_PDF_Report_with_NASDAQ_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7836_Generate_Daily_Bitcoin_On-Chain_Metrics_PDF_Report_with_NASDAQ_Data.json)|
+|8547|[8547_Generate_Ethereum___Solana_Blockchain_Audit_Reports_with_PDF_Export_to_Drive___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8547_Generate_Ethereum___Solana_Blockchain_Audit_Reports_with_PDF_Export_to_Drive___Notion.json)|
+|8618|[8618_Inventory_ABC___Pareto_Analysis_with_Google_Sheets_for_Supply_Chain_Optimization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8618_Inventory_ABC___Pareto_Analysis_with_Google_Sheets_for_Supply_Chain_Optimization.json)|

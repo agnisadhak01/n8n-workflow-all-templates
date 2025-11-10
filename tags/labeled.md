@@ -1,0 +1,8 @@
+# labeled : 4
+
+|id|file|
+|----|----|
+|1939|[1939_Send_labeled_email_to_a_Notion_database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/19/1939_Send_labeled_email_to_a_Notion_database.json)|
+|3768|[3768_Automatically_Create_Google_Tasks_from_Gmail_Labeled_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3768_Automatically_Create_Google_Tasks_from_Gmail_Labeled_Emails.json)|
+|6442|[6442_Automated_Gmail_Reply_Drafts_with_OpenAI_Assistant_for_Labeled_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6442_Automated_Gmail_Reply_Drafts_with_OpenAI_Assistant_for_Labeled_Emails.json)|
+|7340|[7340_Create_Google_Calendar_events_from_labeled_Gmail_emails_with_Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7340_Create_Google_Calendar_events_from_labeled_Gmail_emails_with_Google_Gemini_AI.json)|

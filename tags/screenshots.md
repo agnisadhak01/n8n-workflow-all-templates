@@ -1,0 +1,13 @@
+# screenshots : 9
+
+|id|file|
+|----|----|
+|857|[857_Create_screenshots_with_uProc__save_to_Dropbox_and_send_by_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/857_Create_screenshots_with_uProc__save_to_Dropbox_and_send_by_email.json)|
+|2207|[2207_Automate_Screenshots_with_URLbox___Analyze_them_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2207_Automate_Screenshots_with_URLbox___Analyze_them_with_AI.json)|
+|3321|[3321_Capture_URL_Screenshots_from_Google_Sheets_with_ScreenshotOne___Save_to_Drive_with_Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3321_Capture_URL_Screenshots_from_Google_Sheets_with_ScreenshotOne___Save_to_Drive_with_Gmail_Alerts.json)|
+|3332|[3332_Capture_Website_Screenshots_via_Google_Sheets_to_Google_Drive_with_CustomJS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3332_Capture_Website_Screenshots_via_Google_Sheets_to_Google_Drive_with_CustomJS.json)|
+|3465|[3465_Capture_Website_Screenshots_with_Bright_Data_Web_Unlocker_and_Save_to_Disk.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3465_Capture_Website_Screenshots_with_Bright_Data_Web_Unlocker_and_Save_to_Disk.json)|
+|4329|[4329_Extract_Product_Info_from_Webpage_Screenshots_using_Dumpling_AI_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4329_Extract_Product_Info_from_Webpage_Screenshots_using_Dumpling_AI_and_GPT-4o.json)|
+|4594|[4594_Generate_Website_Screenshots_On-Demand_with_ScreenshotMachine_API_via_Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4594_Generate_Website_Screenshots_On-Demand_with_ScreenshotMachine_API_via_Webhooks.json)|
+|5169|[5169_Extract_Product_Info_from_Website_Screenshots_with_Dumpling_AI___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5169_Extract_Product_Info_from_Website_Screenshots_with_Dumpling_AI___Sheets.json)|
+|6949|[6949_Capture_and_Store_Website_Screenshots_from_Google_Sheets_to_Drive_using_Dumpling_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6949_Capture_and_Store_Website_Screenshots_from_Google_Sheets_to_Drive_using_Dumpling_AI.json)|

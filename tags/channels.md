@@ -1,0 +1,14 @@
+# channels : 10
+
+|id|file|
+|----|----|
+|2509|[2509_TwentyCRM_event_based_updates_on_selective_messaging_channels_with_logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2509_TwentyCRM_event_based_updates_on_selective_messaging_channels_with_logs.json)|
+|3003|[3003_Monitor_Favorite_YouTube_Channels_Through_RSS_feeds_and_Receive_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3003_Monitor_Favorite_YouTube_Channels_Through_RSS_feeds_and_Receive_Notifications.json)|
+|3094|[3094_Bitrix24_AI-Powered_RAG_Chatbot_for_Open_Line_Channels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3094_Bitrix24_AI-Powered_RAG_Chatbot_for_Open_Line_Channels.json)|
+|6157|[6157_Multi-Source_News_Curator_with_Mistral_AI_Analysis__Summaries___Custom_Channels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6157_Multi-Source_News_Curator_with_Mistral_AI_Analysis__Summaries___Custom_Channels.json)|
+|7814|[7814_Automate_Content_Publishing_Across_25_Social_Media_Channels_with_Airtable___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7814_Automate_Content_Publishing_Across_25_Social_Media_Channels_with_Airtable___Postiz.json)|
+|8029|[8029_Daily_Motivational_Quotes_from_ZenQuotes_to_Slack_Channels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8029_Daily_Motivational_Quotes_from_ZenQuotes_to_Slack_Channels.json)|
+|8167|[8167_Analyze_YouTube_Channels___Send_Performance_Reports_with_GPT-4o-mini_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8167_Analyze_YouTube_Channels___Send_Performance_Reports_with_GPT-4o-mini_and_Gmail.json)|
+|8915|[8915_Filter_Real-time_News_with_Gemini_AI_and_BrowserAct_for_Telegram_Channels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8915_Filter_Real-time_News_with_Gemini_AI_and_BrowserAct_for_Telegram_Channels.json)|
+|9739|[9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json)|
+|9818|[9818_Generate_Text___Image_Responses_in_Telegram_Channels_with_GPT-4_and_TGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9818_Generate_Text___Image_Responses_in_Telegram_Channels_with_GPT-4_and_TGPT.json)|

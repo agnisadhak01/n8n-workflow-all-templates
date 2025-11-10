@@ -1,0 +1,13 @@
+# creative : 9
+
+|id|file|
+|----|----|
+|3839|[3839_Analyze_Competitor_Facebook_Ads_with_AI__GPT-4___Gemini____Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3839_Analyze_Competitor_Facebook_Ads_with_AI__GPT-4___Gemini____Email_Reports.json)|
+|6038|[6038_Automation_of_Creative_Testing_and_Campaign_Launching_for_Meta_Ads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6038_Automation_of_Creative_Testing_and_Campaign_Launching_for_Meta_Ads.json)|
+|6640|[6640_Organize___Analyze_Creative_Assets_with_ScrapeGraphAI_and_Google_Sheets_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6640_Organize___Analyze_Creative_Assets_with_ScrapeGraphAI_and_Google_Sheets_Dashboard.json)|
+|6914|[6914_Creative_Design_Agency_Simulation_with_OpenAI_O3_and_GPT-4.1-mini_Multi-Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6914_Creative_Design_Agency_Simulation_with_OpenAI_O3_and_GPT-4.1-mini_Multi-Agent.json)|
+|7303|[7303_Analyze_Meta_Ads_Creatives_with_Google_Vision___Video_Intelligence_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7303_Analyze_Meta_Ads_Creatives_with_Google_Vision___Video_Intelligence_APIs.json)|
+|8226|[8226_Generate_Unlimited_E-Commerce_Ad_Creative_with_Nano_Banana_Image_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8226_Generate_Unlimited_E-Commerce_Ad_Creative_with_Nano_Banana_Image_Generator.json)|
+|8383|[8383_Generate_Creative_Solutions_with_Dual_AI_Agents__Randomization___Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8383_Generate_Creative_Solutions_with_Dual_AI_Agents__Randomization___Redis.json)|
+|8484|[8484_Generate_Product_Creative_Images_with_Google_Nano-Banana_Model_via_Defapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8484_Generate_Product_Creative_Images_with_Google_Nano-Banana_Model_via_Defapi.json)|
+|8601|[8601_Generate_Creative_ADV_Images_from_References_with_Seedream_v4_for_Instagram___Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8601_Generate_Creative_ADV_Images_from_References_with_Seedream_v4_for_Instagram___Facebook.json)|

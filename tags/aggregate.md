@@ -1,0 +1,10 @@
+# aggregate : 6
+
+|id|file|
+|----|----|
+|1497|[1497_Sum_or_aggregate_a_column_of_spreadsheet_or_table_data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/14/1497_Sum_or_aggregate_a_column_of_spreadsheet_or_table_data.json)|
+|3421|[3421_Load_and_Aggregate_Files_from_a_Google_Drive_Folder_into_a_Key-Value_Dictionary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3421_Load_and_Aggregate_Files_from_a_Google_Drive_Folder_into_a_Key-Value_Dictionary.json)|
+|6411|[6411_Aggregate_Endpoint_Security_Risk_Scores_with_EDR__Vulnerability_Data___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6411_Aggregate_Endpoint_Security_Risk_Scores_with_EDR__Vulnerability_Data___Google_Sheets.json)|
+|8069|[8069_Aggregate_Marketing_Spend_Data_with_Custom_Pivots___VLOOKUPs_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8069_Aggregate_Marketing_Spend_Data_with_Custom_Pivots___VLOOKUPs_in_Google_Sheets.json)|
+|9055|[9055_Aggregate_Twitter_X_Content_to_Telegram_Channel_with_BrowserAct___Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9055_Aggregate_Twitter_X_Content_to_Telegram_Channel_with_BrowserAct___Google_Gemini.json)|
+|9484|[9484_Generate_Personalized_and_Aggregate_Survey_Reports_with_Jotform_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9484_Generate_Personalized_and_Aggregate_Survey_Reports_with_Jotform_and_Gemini_AI.json)|

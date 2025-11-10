@@ -1,0 +1,14 @@
+# style : 10
+
+|id|file|
+|----|----|
+|2738|[2738_Transform_Image_to_Lego_Style_Using_Line_and_Dall-E.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2738_Transform_Image_to_Lego_Style_Using_Line_and_Dall-E.json)|
+|4758|[4758_Perplexity-Style_Iterative_Research_with_Gemini_and_Google_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4758_Perplexity-Style_Iterative_Research_with_Gemini_and_Google_Search.json)|
+|5731|[5731_Learn_JavaScript_Coding_with_an_Interactive_RPG-Style_Tutorial_Game.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5731_Learn_JavaScript_Coding_with_an_Interactive_RPG-Style_Tutorial_Game.json)|
+|6665|[6665_Generate_AI_Tweets_Mimicking_Any_Twitter_User_s_Style_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6665_Generate_AI_Tweets_Mimicking_Any_Twitter_User_s_Style_with_OpenAI.json)|
+|7059|[7059_Create_High-Converting_Sales_Copy_with_Hormozi_Framework__LangChain___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7059_Create_High-Converting_Sales_Copy_with_Hormozi_Framework__LangChain___Google_Docs.json)|
+|7632|[7632_Automate_Morning_Brew_style_Reddit_Digests_and_Publish_to_DEV_using_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7632_Automate_Morning_Brew_style_Reddit_Digests_and_Publish_to_DEV_using_AI.json)|
+|8221|[8221_Generate_Custom_Recipes_and_Restaurant-Style_Food_Images_with_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8221_Generate_Custom_Recipes_and_Restaurant-Style_Food_Images_with_Telegram_Bot.json)|
+|8568|[8568_Create_Structured_Logging_System_with_Supabase_and_Log4j2-style_Levels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8568_Create_Structured_Logging_System_with_Supabase_and_Log4j2-style_Levels.json)|
+|8887|[8887_Generating_Vintage_Polaroid_Style_Photos_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8887_Generating_Vintage_Polaroid_Style_Photos_with_Gemini_AI.json)|
+|10393|[10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json)|

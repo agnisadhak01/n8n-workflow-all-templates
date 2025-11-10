@@ -1,0 +1,17 @@
+# playlist : 13
+
+|id|file|
+|----|----|
+|638|[638_Upload_video__create_playlist_and_add_video_to_playlist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/638_Upload_video__create_playlist_and_add_video_to_playlist.json)|
+|697|[697_Archive_Spotify_s_discover_weekly_playlist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/697_Archive_Spotify_s_discover_weekly_playlist.json)|
+|1074|[1074_Add_liked_songs_to_a_Spotify_monthly_playlist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1074_Add_liked_songs_to_a_Spotify_monthly_playlist.json)|
+|1217|[1217_Fetch_a_YouTube_playlist_and_send_new_items_Raindrop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/12/1217_Fetch_a_YouTube_playlist_and_send_new_items_Raindrop.json)|
+|2502|[2502_Monthly_Spotify_Track_Archiving_and_Playlist_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2502_Monthly_Spotify_Track_Archiving_and_Playlist_Classification.json)|
+|2634|[2634_Spotify_Sync_Liked_Songs_to_Playlist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2634_Spotify_Sync_Liked_Songs_to_Playlist.json)|
+|2853|[2853_Spotify_to_YouTube_Playlist_Synchronization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2853_Spotify_to_YouTube_Playlist_Synchronization.json)|
+|3077|[3077_Create_Daily_YouTube_Playlist__using_Google_Sheets__and_get_notified_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3077_Create_Daily_YouTube_Playlist__using_Google_Sheets__and_get_notified_in_Telegram.json)|
+|3408|[3408_AI_YouTube_Playlist___Video_Analyst_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3408_AI_YouTube_Playlist___Video_Analyst_Chatbot.json)|
+|5379|[5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json)|
+|5926|[5926_Get_a_summary_of_each_podcast_in_your_YouTube_playlist_daily_automatically_free.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5926_Get_a_summary_of_each_podcast_in_your_YouTube_playlist_daily_automatically_free.json)|
+|8801|[8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json)|
+|9888|[9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json)|

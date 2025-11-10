@@ -1,0 +1,15 @@
+# virtual : 11
+
+|id|file|
+|----|----|
+|2139|[2139_Twitter_Virtual_AI_Influencer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2139_Twitter_Virtual_AI_Influencer.json)|
+|2892|[2892_AI_Virtual_TryOn_automated_generation____for_WooCommerce_clothing_catalog.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2892_AI_Virtual_TryOn_automated_generation____for_WooCommerce_clothing_catalog.json)|
+|3411|[3411_Generate_360__Virtual_Try-on_Videos_for_Clothing_with_Kling_API__unofficial.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3411_Generate_360__Virtual_Try-on_Videos_for_Clothing_with_Kling_API__unofficial.json)|
+|5200|[5200_AI-Powered_One-Click_Virtual_Fitting_Room_for_WooCommerce__Shopify__Prestashop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5200_AI-Powered_One-Click_Virtual_Fitting_Room_for_WooCommerce__Shopify__Prestashop.json)|
+|5368|[5368_Manage_Google_Calendar_via_WhatsApp_with_GPT-4_Virtual_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5368_Manage_Google_Calendar_via_WhatsApp_with_GPT-4_Virtual_Assistant.json)|
+|5466|[5466_Automated_Restaurant_Call_Handling___Table_Booking_System_with_VAPI_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5466_Automated_Restaurant_Call_Handling___Table_Booking_System_with_VAPI_and_PostgreSQL.json)|
+|5478|[5478_AI-Powered_Scrum_Master_Assistant_with_OpenAI__Slack_and_Asana_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5478_AI-Powered_Scrum_Master_Assistant_with_OpenAI__Slack_and_Asana_Integration.json)|
+|7786|[7786_Manage_Google_Calendar_Events_with_GPT-4o_Virtual_Assistant__Orchestrator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7786_Manage_Google_Calendar_Events_with_GPT-4o_Virtual_Assistant__Orchestrator.json)|
+|8022|[8022_Auto-Generate_Virtual_AI_Try-On_Images_for_WooCommerce_with_Gemini_Nano_Banana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8022_Auto-Generate_Virtual_AI_Try-On_Images_for_WooCommerce_with_Gemini_Nano_Banana.json)|
+|8326|[8326_Create_an_AI-Powered_Virtual_Receptionist_with_Google_Calendar___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8326_Create_an_AI-Powered_Virtual_Receptionist_with_Google_Calendar___Sheets.json)|
+|10033|[10033_WhatsApp_Virtual_Receptionist_with_Gemini_AI_-_Handles_Text___Voice_with_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10033_WhatsApp_Virtual_Receptionist_with_Gemini_AI_-_Handles_Text___Voice_with_Knowledge_Base.json)|

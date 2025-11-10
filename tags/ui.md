@@ -1,0 +1,13 @@
+# ui : 9
+
+|id|file|
+|----|----|
+|3148|[3148_ideoGener8r____Complete_Ideogram_AI_Image_Generator_UI_with_Google_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3148_ideoGener8r____Complete_Ideogram_AI_Image_Generator_UI_with_Google_Integration.json)|
+|3529|[3529_Token_Estim8r_UI___Visualize_Token_Usage_analytics_Dashboard_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3529_Token_Estim8r_UI___Visualize_Token_Usage_analytics_Dashboard_in_n8n.json)|
+|5102|[5102_Google_Sheets_UI_for_n8n_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5102_Google_Sheets_UI_for_n8n_Workflow.json)|
+|5749|[5749_Create_a_Slack_AI_Chatbot_with_Threads___Thinking_UI_using_OpenRouter___Postgres.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5749_Create_a_Slack_AI_Chatbot_with_Threads___Thinking_UI_using_OpenRouter___Postgres.json)|
+|6022|[6022_Personalized_Tour_Package_Recommendations_with_GPT-4o__Pinecone___Lovable_UI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6022_Personalized_Tour_Package_Recommendations_with_GPT-4o__Pinecone___Lovable_UI.json)|
+|7007|[7007_AI-powered_LinkedIn_Content_Generator_with_OpenAI_GPT-4_and_DALL-E.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7007_AI-powered_LinkedIn_Content_Generator_with_OpenAI_GPT-4_and_DALL-E.json)|
+|8206|[8206_Organizing_UI_Toolbar_Icons__Apple_HIG_Standards_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8206_Organizing_UI_Toolbar_Icons__Apple_HIG_Standards_and_Gemini_AI.json)|
+|8214|[8214_Generate_Diverse_Names_for_UX_UI_Mockups_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8214_Generate_Diverse_Names_for_UX_UI_Mockups_with_OpenAI.json)|
+|9901|[9901_Beautiful_Web_UI_for_GPT-4_Multi-Agent_Chat_with_Specialized_Assistants.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9901_Beautiful_Web_UI_for_GPT-4_Multi-Agent_Chat_with_Specialized_Assistants.json)|

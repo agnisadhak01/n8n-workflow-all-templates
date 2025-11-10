@@ -1,0 +1,12 @@
+# carousel : 8
+
+|id|file|
+|----|----|
+|3524|[3524_Upload_Carousel_of_Images_to_Tiktok_and_Instagram__with_upload-post.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3524_Upload_Carousel_of_Images_to_Tiktok_and_Instagram__with_upload-post.com.json)|
+|3693|[3693_Create___Publish_Instagram_Carousel_Posts_with_GPT-4.1-mini__Imgur___Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3693_Create___Publish_Instagram_Carousel_Posts_with_GPT-4.1-mini__Imgur___Graph_API.json)|
+|5833|[5833_Automate_Instagram_Carousel_Posts_with_Google_Sheets__Drive___Cloudinary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5833_Automate_Instagram_Carousel_Posts_with_Google_Sheets__Drive___Cloudinary.json)|
+|7601|[7601_Instagram_Carousel_Posts_from_Google_Drive_via_Cloudinary_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7601_Instagram_Carousel_Posts_from_Google_Drive_via_Cloudinary_with_Telegram_Alerts.json)|
+|8877|[8877_Automate_Instagram_Carousel_Creation_with_GPT-5__Nano_Banana__and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8877_Automate_Instagram_Carousel_Creation_with_GPT-5__Nano_Banana__and_Blotato.json)|
+|9305|[9305_Auto-Translate___Recreate_TikTok_Carousels_with_Gemini_Vision___Midjourney.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9305_Auto-Translate___Recreate_TikTok_Carousels_with_Gemini_Vision___Midjourney.json)|
+|9597|[9597_Create_and_Publish_Instagram_Carousels_Automatically_with_GPT-4.1_and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9597_Create_and_Publish_Instagram_Carousels_Automatically_with_GPT-4.1_and_Blotato.json)|
+|9654|[9654_Generate_Educational_Social_Media_Carousels_with_GPT-4.1__Templated.io___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9654_Generate_Educational_Social_Media_Carousels_with_GPT-4.1__Templated.io___Google_Drive.json)|

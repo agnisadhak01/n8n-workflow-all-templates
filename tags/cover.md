@@ -1,0 +1,13 @@
+# cover : 9
+
+|id|file|
+|----|----|
+|3622|[3622_AI-Powered_Upwork_Cover_Letter_Generator___Pinecone__Groq__Google_Gemin__SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3622_AI-Powered_Upwork_Cover_Letter_Generator___Pinecone__Groq__Google_Gemin__SerpAPI.json)|
+|5141|[5141_Auto_Icon___Cover_for_New_Notion_Pages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5141_Auto_Icon___Cover_for_New_Notion_Pages.json)|
+|6239|[6239_LinkedIn_Job_Search__Auto-Match_Resume_with_AI___Cover_Letter___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6239_LinkedIn_Job_Search__Auto-Match_Resume_with_AI___Cover_Letter___Telegram_Alerts.json)|
+|6748|[6748_Generate_Tailored_Resumes__Cover_Letters___Interview_Prep_from_LinkedIn_Jobs_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6748_Generate_Tailored_Resumes__Cover_Letters___Interview_Prep_from_LinkedIn_Jobs_with_AI.json)|
+|7602|[7602_Automated_Cover_Letter_Generator_with_Indeed_Job_Scraping_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7602_Automated_Cover_Letter_Generator_with_Indeed_Job_Scraping_and_GPT-4o-mini.json)|
+|8487|[8487_Find_Perfect_Jobs___Generate_Tailored_Cover_Letters_with_Gemini___Google_Jobs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8487_Find_Perfect_Jobs___Generate_Tailored_Cover_Letters_with_Gemini___Google_Jobs.json)|
+|8589|[8589_Automate_Job_Search_with_AI_Cover_Letters_using_Google_Jobs__RemoteOK___GPT-3.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8589_Automate_Job_Search_with_AI_Cover_Letters_using_Google_Jobs__RemoteOK___GPT-3.5.json)|
+|10201|[10201_Optimize_Resumes___Generate_Cover_Letters_with_Gemini_AI_and_PDF.co.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10201_Optimize_Resumes___Generate_Cover_Letters_with_Gemini_AI_and_PDF.co.json)|
+|10242|[10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json)|

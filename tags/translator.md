@@ -1,0 +1,16 @@
+# translator : 12
+
+|id|file|
+|----|----|
+|3207|[3207_Chinese_Translator_via_Line_x_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3207_Chinese_Translator_via_Line_x_OpenRouter.json)|
+|3211|[3211_Chinese_Translator_via_Line_x_OpenRouter__Text___Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3211_Chinese_Translator_via_Line_x_OpenRouter__Text___Image.json)|
+|3875|[3875_AI_Interpreter_and_Translator_for_WhatsApp___Translate_Voice___Text.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3875_AI_Interpreter_and_Translator_for_WhatsApp___Translate_Voice___Text.json)|
+|3972|[3972_Multilingual_WhatsApp_Translator_with_OpenAI_Whisper___GPT-4_and_HubSpot_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3972_Multilingual_WhatsApp_Translator_with_OpenAI_Whisper___GPT-4_and_HubSpot_Integration.json)|
+|4233|[4233_Translate___Repost_Twitter_Threads_in_Multiple_Languages_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4233_Translate___Repost_Twitter_Threads_in_Multiple_Languages_with_OpenAI.json)|
+|5902|[5902_Multilingual_YouTube_Metadata_Translator_with_Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5902_Multilingual_YouTube_Metadata_Translator_with_Gemini_AI_and_Google_Sheets.json)|
+|6419|[6419_Transcribe___Translate_Audio_Between_Languages_with_OpenAI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6419_Transcribe___Translate_Audio_Between_Languages_with_OpenAI___S3_Storage.json)|
+|6825|[6825_Auto-translate_Blog_Articles_with_Google_Translate_and_Airtable_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6825_Auto-translate_Blog_Articles_with_Google_Translate_and_Airtable_Storage.json)|
+|9305|[9305_Auto-Translate___Recreate_TikTok_Carousels_with_Gemini_Vision___Midjourney.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9305_Auto-Translate___Recreate_TikTok_Carousels_with_Gemini_Vision___Midjourney.json)|
+|9847|[9847_Auto_Summarize_YouTube_Videos_to_Japanese_with_GPT-4o-mini___Post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9847_Auto_Summarize_YouTube_Videos_to_Japanese_with_GPT-4o-mini___Post_to_Slack.json)|
+|9943|[9943_Slack_Auto_Translator__JA___EN__with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9943_Slack_Auto_Translator__JA___EN__with_GPT-4o-mini.json)|
+|10187|[10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10187_Voice_Translator_Bridge__Telegram___Slack__with_GPT-4o-mini___Whisper.json)|

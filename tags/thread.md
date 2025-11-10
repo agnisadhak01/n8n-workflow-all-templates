@@ -1,0 +1,13 @@
+# thread : 9
+
+|id|file|
+|----|----|
+|1820|[1820_Sync_Zendesk_tickets_to_Slack_thread.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/18/1820_Sync_Zendesk_tickets_to_Slack_thread.json)|
+|3558|[3558_Autonomous_Customizable_Support_Chatbot_on_Intercom___Discord_Thread_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3558_Autonomous_Customizable_Support_Chatbot_on_Intercom___Discord_Thread_Reports.json)|
+|4054|[4054_Automated_Replies_to_X_Threads_with_Airtop_Browser_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4054_Automated_Replies_to_X_Threads_with_Airtop_Browser_Automation.json)|
+|4088|[4088_Extract_and_Merge_Twitter__X__Threads_using_TwitterAPI.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4088_Extract_and_Merge_Twitter__X__Threads_using_TwitterAPI.io.json)|
+|4233|[4233_Translate___Repost_Twitter_Threads_in_Multiple_Languages_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4233_Translate___Repost_Twitter_Threads_in_Multiple_Languages_with_OpenAI.json)|
+|4974|[4974_YouTube_Videos_to_Viral_X_Threads_by_Keywords__using_Gemini___Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4974_YouTube_Videos_to_Viral_X_Threads_by_Keywords__using_Gemini___Claude.json)|
+|5901|[5901_Real-Time_Lead_Enrichment_in_Slack_with_Extruct_AI_In-Thread_Reply.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5901_Real-Time_Lead_Enrichment_in_Slack_with_Extruct_AI_In-Thread_Reply.json)|
+|8538|[8538_Post_Long-Form_Threads_to_X___Twitter__Threads__and_Bluesky.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8538_Post_Long-Form_Threads_to_X___Twitter__Threads__and_Bluesky.json)|
+|9193|[9193_AI-Powered_Gmail_Assistant__send_replies_by_analyzing_Thread_ID_with_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9193_AI-Powered_Gmail_Assistant__send_replies_by_analyzing_Thread_ID_with_Sonnet_4.5.json)|

@@ -1,0 +1,14 @@
+# internal : 10
+
+|id|file|
+|----|----|
+|3167|[3167_Extract_Internal_Links_from_a_Webpage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3167_Extract_Internal_Links_from_a_Webpage.json)|
+|6000|[6000_AI-Powered_Internal_Helpdesk_in_Slack_with_GPT-4o___Email_Escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6000_AI-Powered_Internal_Helpdesk_in_Slack_with_GPT-4o___Email_Escalation.json)|
+|6506|[6506_CYBERPULSE_AI_RedOps__Internal_Phishing_Simulation_for_Security_Training.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6506_CYBERPULSE_AI_RedOps__Internal_Phishing_Simulation_for_Security_Training.json)|
+|6894|[6894_Chat_with_Internal_Documents_using_Ollama__Supabase_Vector_DB___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6894_Chat_with_Internal_Documents_using_Ollama__Supabase_Vector_DB___Google_Drive.json)|
+|9071|[9071_Find_internal_linking_opportunities_with_SerpAPI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9071_Find_internal_linking_opportunities_with_SerpAPI_and_Google_Sheets.json)|
+|9173|[9173_Followup_Stripe_Checkouts_with_Gmail_Receipts__Internal_Slack__and_Sheets_Logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9173_Followup_Stripe_Checkouts_with_Gmail_Receipts__Internal_Slack__and_Sheets_Logs.json)|
+|9567|[9567_Create_Dual-Source_Expert_Articles_with_Internal_Knowledge_and_Web_Research_using_Lookio__Linkup__and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9567_Create_Dual-Source_Expert_Articles_with_Internal_Knowledge_and_Web_Research_using_Lookio__Linkup__and_GPT-5.json)|
+|9592|[9592_Automate_Internal_Complaint_Resolution_with_Jotform__Gemini_AI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9592_Automate_Internal_Complaint_Resolution_with_Jotform__Gemini_AI___Google_Sheets.json)|
+|10269|[10269_Automate_Invoice_Data_Extraction_with_OCR.Space__GPT___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10269_Automate_Invoice_Data_Extraction_with_OCR.Space__GPT___Google_Sheets.json)|
+|10542|[10542_Auto-Generate_Shopify_Blog_Related_Articles_with_OpenAI_text-embedding-3-small.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10542_Auto-Generate_Shopify_Blog_Related_Articles_with_OpenAI_text-embedding-3-small.json)|

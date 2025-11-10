@@ -1,0 +1,10 @@
+# predict : 6
+
+|id|file|
+|----|----|
+|5982|[5982_Predict_Restaurant_Food_Waste_with_Gemini_AI_and_Google_Sheets_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5982_Predict_Restaurant_Food_Waste_with_Gemini_AI_and_Google_Sheets_Reporting.json)|
+|7344|[7344_Predict_Customer_Churn_Risk___Create_Interventions_with_GPT-4__Zendesk___HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7344_Predict_Customer_Churn_Risk___Create_Interventions_with_GPT-4__Zendesk___HubSpot.json)|
+|9089|[9089_Predict_Housing_Prices_with_a_Simple_Neural_Network.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9089_Predict_Housing_Prices_with_a_Simple_Neural_Network.json)|
+|9771|[9771_Predict_Next_5-Day_Stock_Trends_with_Twelve_Data_API___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9771_Predict_Next_5-Day_Stock_Trends_with_Twelve_Data_API___Google_Sheets.json)|
+|10199|[10199_Predict_Customer_Churn_with_AI_Analysis_of_HubSpot_and_Google_Sheets_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10199_Predict_Customer_Churn_with_AI_Analysis_of_HubSpot_and_Google_Sheets_Data.json)|
+|10379|[10379_Gold_Market_Prediction_System_with_Perplexity_Sonar-Pro__FRED_Data__and_WordPress_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10379_Gold_Market_Prediction_System_with_Perplexity_Sonar-Pro__FRED_Data__and_WordPress_Reporting.json)|

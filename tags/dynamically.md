@@ -1,0 +1,18 @@
+# dynamically : 14
+
+|id|file|
+|----|----|
+|2055|[2055_Send_Webflow_form_submissions_to_Slack_dynamically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2055_Send_Webflow_form_submissions_to_Slack_dynamically.json)|
+|2056|[2056_Send_Webflow_form_submissions_to_Discord_dynamically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2056_Send_Webflow_form_submissions_to_Discord_dynamically.json)|
+|2057|[2057_Manage_Webflow_form_submissions_in_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2057_Manage_Webflow_form_submissions_in_Airtable.json)|
+|2223|[2223_Set_credentials_dynamically_using_expressions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2223_Set_credentials_dynamically_using_expressions.json)|
+|2244|[2244_Dynamically_replace_images_in_Google_Slides_via_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2244_Dynamically_replace_images_in_Google_Slides_via_API.json)|
+|2388|[2388_Dynamically_generate_a_webpage_from_user_request_using_OpenAI_Structured_Output.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2388_Dynamically_generate_a_webpage_from_user_request_using_OpenAI_Structured_Output.json)|
+|2690|[2690_Reusable_Subworkflow_Zip_Multiple_Files_Dynamically__Compress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2690_Reusable_Subworkflow_Zip_Multiple_Files_Dynamically__Compress.json)|
+|2818|[2818_Fetch_Scriptures_Dynamically_from_get_Bible_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2818_Fetch_Scriptures_Dynamically_from_get_Bible_API.json)|
+|3002|[3002_Dynamically_Run_SuiteQL_Queries_in_NetSuite_via_HTTP_Webhook_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3002_Dynamically_Run_SuiteQL_Queries_in_NetSuite_via_HTTP_Webhook_in_n8n.json)|
+|3062|[3062_Avoid_Asking_Redundant_Questions_with_Dynamically_Generated_Forms_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3062_Avoid_Asking_Redundant_Questions_with_Dynamically_Generated_Forms_using_OpenAI.json)|
+|3820|[3820_Dynamically_switch_between_LLMs_for_AI_Agents_using_LangChain_Code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3820_Dynamically_switch_between_LLMs_for_AI_Agents_using_LangChain_Code.json)|
+|5829|[5829_Generate_Dynamic_JSON_Output_Formats_for_AI_Agents_with_Mistral.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5829_Generate_Dynamic_JSON_Output_Formats_for_AI_Agents_with_Mistral.json)|
+|6336|[6336_Dynamically_Send_Out-of-Office___Vacation_Message_using_Gmail___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6336_Dynamically_Send_Out-of-Office___Vacation_Message_using_Gmail___Google_Calendar.json)|
+|7004|[7004_AI_Orchestrator__dynamically_Selects_Models_Based_on_Input_Type.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7004_AI_Orchestrator__dynamically_Selects_Models_Based_on_Input_Type.json)|

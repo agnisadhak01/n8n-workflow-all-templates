@@ -1,0 +1,9 @@
+# promotion : 5
+
+|id|file|
+|----|----|
+|3500|[3500_AI_Agent_to_Create_Linkedin_Posts_for_Blog_Promotion_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3500_AI_Agent_to_Create_Linkedin_Posts_for_Blog_Promotion_with_GPT-4o.json)|
+|4082|[4082_Automate_SEO_Blog_Creation___Social_Media_with_GPT-4__Perplexity_and_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4082_Automate_SEO_Blog_Creation___Social_Media_with_GPT-4__Perplexity_and_WordPress.json)|
+|7131|[7131_Automated_Twitter_Brand_Promotion_with_Anthropic_Claude_AI___Google_Sheets_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7131_Automated_Twitter_Brand_Promotion_with_Anthropic_Claude_AI___Google_Sheets_Reporting.json)|
+|7788|[7788_AI-Powered_Workflow_Documentation___Promotion_with_Gemini__Notion___LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7788_AI-Powered_Workflow_Documentation___Promotion_with_Gemini__Notion___LinkedIn.json)|
+|8884|[8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json)|

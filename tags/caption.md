@@ -1,0 +1,11 @@
+# caption : 7
+
+|id|file|
+|----|----|
+|2817|[2817_AI_Social_Media_Caption_Creator_creates_social_media_post_captions_in_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2817_AI_Social_Media_Caption_Creator_creates_social_media_post_captions_in_Airtable.json)|
+|6951|[6951_Auto-Generate_Instagram_Captions_for_Photos_with_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6951_Auto-Generate_Instagram_Captions_for_Photos_with_GPT-4o-mini_and_Airtable.json)|
+|7278|[7278_Generate_Twitter_X_Captions_from_Google_Drive_Images_using_Cloudinary___GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7278_Generate_Twitter_X_Captions_from_Google_Drive_Images_using_Cloudinary___GPT-4o-mini.json)|
+|7730|[7730_Auto-Caption_Videos_for_Instagram_TikTok_with_Google_Drive_and_Submagic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7730_Auto-Caption_Videos_for_Instagram_TikTok_with_Google_Drive_and_Submagic.json)|
+|7750|[7750_Auto-Generate_Instagram_Carousels_with_GPT-Image-1___AI_Captions_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7750_Auto-Generate_Instagram_Carousels_with_GPT-Image-1___AI_Captions_from_Google_Sheets.json)|
+|7992|[7992_Auto-Caption___Post_Videos_to_Instagram___TikTok_with_Submagic__Postiz___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7992_Auto-Caption___Post_Videos_to_Instagram___TikTok_with_Submagic__Postiz___OpenAI.json)|
+|8877|[8877_Automate_Instagram_Carousel_Creation_with_GPT-5__Nano_Banana__and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8877_Automate_Instagram_Carousel_Creation_with_GPT-5__Nano_Banana__and_Blotato.json)|

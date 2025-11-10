@@ -1,0 +1,23 @@
+# use : 19
+
+|id|file|
+|----|----|
+|609|[609_Manage_incident_reporting_in_PagerDuty_and_CrateDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/609_Manage_incident_reporting_in_PagerDuty_and_CrateDB.json)|
+|1236|[1236_Use_Redis_to_rate-limit_your_low-code_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/12/1236_Use_Redis_to_rate-limit_your_low-code_API.json)|
+|1328|[1328_Use_REGEX_to_select_date.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1328_Use_REGEX_to_select_date.json)|
+|1330|[1330_Demonstrates_the_use_of_the__item_index__method.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1330_Demonstrates_the_use_of_the__item_index__method.json)|
+|1957|[1957_Force_AI_to_use_a_specific_output_format.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/19/1957_Force_AI_to_use_a_specific_output_format.json)|
+|1980|[1980_Use_an_open-source_LLM__via_HuggingFace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/19/1980_Use_an_open-source_LLM__via_HuggingFace.json)|
+|2082|[2082_Use_any_LangChain_module_in_n8n__with_the_LangChain_code_node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2082_Use_any_LangChain_module_in_n8n__with_the_LangChain_code_node.json)|
+|2394|[2394_Use_AI_to_organize_your_Todoist_Inbox.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2394_Use_AI_to_organize_your_Todoist_Inbox.json)|
+|2538|[2538_Demo_Workflow_-_How_to_use_workflowStaticData.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2538_Demo_Workflow_-_How_to_use_workflowStaticData.json)|
+|2543|[2543_Use_a_Custom_URL_for_Recurring_Zoom_Meetings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2543_Use_a_Custom_URL_for_Recurring_Zoom_Meetings.json)|
+|2567|[2567_Scrape_business_emails_from_Google_Maps_without_the_use_of_any_third_party_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2567_Scrape_business_emails_from_Google_Maps_without_the_use_of_any_third_party_APIs.json)|
+|2888|[2888_Post_to_an_XMLRPC_API_via_the_HTTP_Request_node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2888_Post_to_an_XMLRPC_API_via_the_HTTP_Request_node.json)|
+|2897|[2897_Use_OpenRouter_in_n8n_versions__1.78.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2897_Use_OpenRouter_in_n8n_versions__1.78.json)|
+|3076|[3076_Use_OpenAI_to_Transcribe_Audio___Summarize_with_AI___Save_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3076_Use_OpenAI_to_Transcribe_Audio___Summarize_with_AI___Save_to_Google_Drive.json)|
+|5588|[5588_Multi-Tool_Research_Agent_for_Animal_Advocacy_with_OpenRouter__Serper___Open_Paws_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5588_Multi-Tool_Research_Agent_for_Animal_Advocacy_with_OpenRouter__Serper___Open_Paws_DB.json)|
+|5998|[5998_Chat_with_AI_Models_via_OpenRouter_using_Mistral.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5998_Chat_with_AI_Models_via_OpenRouter_using_Mistral.json)|
+|6211|[6211_Process_Voice__Images___Documents_with_GPT-4o__MongoDB___Gmail_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6211_Process_Voice__Images___Documents_with_GPT-4o__MongoDB___Gmail_Tools.json)|
+|7033|[7033_Automate_Competitor_Research___Intelligence_with_Browser_Use_Cloud_AI_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7033_Automate_Competitor_Research___Intelligence_with_Browser_Use_Cloud_AI_and_Slack.json)|
+|7781|[7781_Automated_Client_Onboarding_System_with_Notion__Email___CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7781_Automated_Client_Onboarding_System_with_Notion__Email___CRM_Integration.json)|

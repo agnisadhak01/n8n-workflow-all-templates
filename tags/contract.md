@@ -1,0 +1,12 @@
+# contract : 8
+
+|id|file|
+|----|----|
+|6075|[6075_Multi-Jurisdiction_Smart_Contract_Compliance_Monitor_with_Automated_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6075_Multi-Jurisdiction_Smart_Contract_Compliance_Monitor_with_Automated_Alerts.json)|
+|6817|[6817_Generate_and_Send_Contract_Documents_with_Typeform__Google_Docs_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6817_Generate_and_Send_Contract_Documents_with_Typeform__Google_Docs_and_Gmail.json)|
+|6935|[6935_Automate_Vendor_Contract_Renewals___Reminders_with_GPT-4.1_mini__Slack___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6935_Automate_Vendor_Contract_Renewals___Reminders_with_GPT-4.1_mini__Slack___Gmail.json)|
+|7185|[7185_Automate_Contract_Employee_Lifecycle_with_Google_Docs__DocuSign___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7185_Automate_Contract_Employee_Lifecycle_with_Google_Docs__DocuSign___Airtable.json)|
+|8440|[8440_Extract_and_Organize_Contract_Details_from_PDFs_with_Slack__GPT-4o__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8440_Extract_and_Organize_Contract_Details_from_PDFs_with_Slack__GPT-4o__and_Google_Sheets.json)|
+|8497|[8497_Enterprise_Contract_Lifecycle_Management_with_AI_Risk_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8497_Enterprise_Contract_Lifecycle_Management_with_AI_Risk_Analysis.json)|
+|9328|[9328_Extract_Legal_Contract_Data___Send_Alerts_with_VLM_Run__Google_Workspace___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9328_Extract_Legal_Contract_Data___Send_Alerts_with_VLM_Run__Google_Workspace___Slack.json)|
+|10333|[10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json)|

@@ -1,0 +1,14 @@
+# note : 10
+
+|id|file|
+|----|----|
+|765|[765_Create_a_new_member__update_the_infromation__create_a_note_and_post_in_Orbit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/765_Create_a_new_member__update_the_infromation__create_a_note_and_post_in_Orbit.json)|
+|1789|[1789_Add_a_note_to_Pipedrive_s_contact_once_PR_is_added_on_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/17/1789_Add_a_note_to_Pipedrive_s_contact_once_PR_is_added_on_GitHub.json)|
+|2872|[2872_AI_Agent_Chatbot___LONG_TERM_Memory___Note_Storage___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2872_AI_Agent_Chatbot___LONG_TERM_Memory___Note_Storage___Telegram.json)|
+|3987|[3987_Send_Telegram_Text_and_Audio_Messages_to_Notion_with_DeepSeek_Summaries___OpenAI_Transcription.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3987_Send_Telegram_Text_and_Audio_Messages_to_Notion_with_DeepSeek_Summaries___OpenAI_Transcription.json)|
+|4188|[4188_Save_Telegram_Text__Voice___Audio_to_Notion_with_DeepSeek___OpenAI_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4188_Save_Telegram_Text__Voice___Audio_to_Notion_with_DeepSeek___OpenAI_Summaries.json)|
+|7041|[7041_Send_a_voice_note_on_Telegram_to_generate_a_professional_email_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7041_Send_a_voice_note_on_Telegram_to_generate_a_professional_email_with_ChatGPT.json)|
+|7142|[7142_Voice_to_Podcast_Script_Generator_with_OpenAI___Notion_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7142_Voice_to_Podcast_Script_Generator_with_OpenAI___Notion_via_Telegram.json)|
+|7508|[7508_AI_Voice___Text_Note-Taking_with_LINE_Messaging__Supabase_Vector_DB___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7508_AI_Voice___Text_Note-Taking_with_LINE_Messaging__Supabase_Vector_DB___Gmail.json)|
+|7936|[7936_Automate_Birthday_Discount_Emails_for_E-Commerce_using_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7936_Automate_Birthday_Discount_Emails_for_E-Commerce_using_Google_Sheets_and_Gmail.json)|
+|8184|[8184_Convert_Voice_Notes_to_X_Posts_with_Google_Drive_and_AssemblyAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8184_Convert_Voice_Notes_to_X_Posts_with_Google_Drive_and_AssemblyAI.json)|

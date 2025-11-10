@@ -1,0 +1,25 @@
+# spotify : 21
+
+|id|file|
+|----|----|
+|440|[440_Add_a_song_to_your_Spotify_queue.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/440_Add_a_song_to_your_Spotify_queue.json)|
+|697|[697_Archive_Spotify_s_discover_weekly_playlist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/697_Archive_Spotify_s_discover_weekly_playlist.json)|
+|1074|[1074_Add_liked_songs_to_a_Spotify_monthly_playlist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1074_Add_liked_songs_to_a_Spotify_monthly_playlist.json)|
+|2044|[2044_Spotify__Discover_Weekly_Archive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2044_Spotify__Discover_Weekly_Archive.json)|
+|2285|[2285_Download_recently_liked_songs_automatically_with_Spotify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2285_Download_recently_liked_songs_automatically_with_Spotify.json)|
+|2383|[2383_IOT_Button_Remote___Spotify_Control_Integration_with_MQTT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2383_IOT_Button_Remote___Spotify_Control_Integration_with_MQTT.json)|
+|2502|[2502_Monthly_Spotify_Track_Archiving_and_Playlist_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2502_Monthly_Spotify_Track_Archiving_and_Playlist_Classification.json)|
+|2518|[2518_Sync_YouTube_and_Spotify_Music_Playlists.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2518_Sync_YouTube_and_Spotify_Music_Playlists.json)|
+|2526|[2526_Telegram_to_Spotify_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2526_Telegram_to_Spotify_with_OpenAI.json)|
+|2634|[2634_Spotify_Sync_Liked_Songs_to_Playlist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2634_Spotify_Sync_Liked_Songs_to_Playlist.json)|
+|2853|[2853_Spotify_to_YouTube_Playlist_Synchronization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2853_Spotify_to_YouTube_Playlist_Synchronization.json)|
+|4210|[4210_Personalized_Taiwan_Indie_Music_Recommendations_with_AI__Star_Sign___Weather_via_Spotify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4210_Personalized_Taiwan_Indie_Music_Recommendations_with_AI__Star_Sign___Weather_via_Spotify.json)|
+|4541|[4541_Create_Song_Lyric_Documents_and_Spotify_Playlists_for_Singers_with_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4541_Create_Song_Lyric_Documents_and_Spotify_Playlists_for_Singers_with_Google_Docs.json)|
+|5360|[5360_Spotify_Tool_MCP_Server___all_30_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5360_Spotify_Tool_MCP_Server___all_30_operations.json)|
+|5923|[5923_Create_Playlists_and_Control_Your_Spotify_Player_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5923_Create_Playlists_and_Control_Your_Spotify_Player_with_GPT-4.json)|
+|6218|[6218_Convert_Spotify_Tracks_to_MP3_and_Share_via_Google_Drive_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6218_Convert_Spotify_Tracks_to_MP3_and_Share_via_Google_Drive_Forms.json)|
+|6684|[6684_Download_Spotify_Music_to_Google_Drive_with_Automatic_Logging_in_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6684_Download_Spotify_Music_to_Google_Drive_with_Automatic_Logging_in_Sheets.json)|
+|7319|[7319_Upload_Podcast_Episodes_to_Spotify_via_RSS___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7319_Upload_Podcast_Episodes_to_Spotify_via_RSS___Google_Drive.json)|
+|8801|[8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json)|
+|9888|[9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json)|
+|10267|[10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json)|

@@ -1,0 +1,12 @@
+# cross : 8
+
+|id|file|
+|----|----|
+|418|[418_Cross-post_your_blog_posts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/418_Cross-post_your_blog_posts.json)|
+|3614|[3614_Automate_Telegram_Channel_Posts_Using_Postgres__Module__Cross-Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3614_Automate_Telegram_Channel_Posts_Using_Postgres__Module__Cross-Posting.json)|
+|4637|[4637_Automate_Social_Media_Content_with_AI_for_Instagram__Facebook__LinkedIn___X.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4637_Automate_Social_Media_Content_with_AI_for_Instagram__Facebook__LinkedIn___X.json)|
+|7932|[7932_Automate_Cross-Posting_from_Telegram_to_Facebook_with_Airtop_Browser_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7932_Automate_Cross-Posting_from_Telegram_to_Facebook_with_Airtop_Browser_Automation.json)|
+|9684|[9684_Automate_Cross-Project_Dependency_Tracking_between_Jira_and_Monday.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9684_Automate_Cross-Project_Dependency_Tracking_between_Jira_and_Monday.json)|
+|9780|[9780_Cross-Post_Tiktok_Videos_to_Multiple_Social_Media_Platforms_with_RSS___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9780_Cross-Post_Tiktok_Videos_to_Multiple_Social_Media_Platforms_with_RSS___Blotato.json)|
+|10141|[10141_Send_WooCommerce_Cross-Sell_Offers_to_Customers_via_WhatsApp_Using_Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10141_Send_WooCommerce_Cross-Sell_Offers_to_Customers_via_WhatsApp_Using_Rapiwa_API.json)|
+|10251|[10251_Cross-Platform_Brand_Monitoring___Analysis_with_AnySite_API_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10251_Cross-Platform_Brand_Monitoring___Analysis_with_AnySite_API_and_GPT.json)|

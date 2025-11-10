@@ -1,0 +1,15 @@
+# planning : 11
+
+|id|file|
+|----|----|
+|3577|[3577_Travel_Planning_Assistant_with_MongoDB_Atlas__Gemini_LLM_and_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3577_Travel_Planning_Assistant_with_MongoDB_Atlas__Gemini_LLM_and_Vector_Search.json)|
+|3881|[3881_Travel_Planning_Agent_with_Couchbase_Vector_Search__Gemini_2.0_Flash_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3881_Travel_Planning_Agent_with_Couchbase_Vector_Search__Gemini_2.0_Flash_and_OpenAI.json)|
+|4038|[4038_Automate_Sprint_Planning_with_OpenAI__Google_Calendar__and_Gmail_for_Agile_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4038_Automate_Sprint_Planning_with_OpenAI__Google_Calendar__and_Gmail_for_Agile_Teams.json)|
+|5309|[5309_Vacation_Planning_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5309_Vacation_Planning_Agent.json)|
+|6626|[6626_Analyze_Property_Maintenance_Costs_with_ScrapeGraphAI_and_Budget_Planning.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6626_Analyze_Property_Maintenance_Costs_with_ScrapeGraphAI_and_Budget_Planning.json)|
+|6741|[6741_AI-Powered_Content_Gap_Analysis_using_ScrapeGraphAI_and_Strategic_Planning.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6741_AI-Powered_Content_Gap_Analysis_using_ScrapeGraphAI_and_Strategic_Planning.json)|
+|7504|[7504_Collaborative_Sales_Planning_with_Multi-Agent_AI__Google_Docs__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7504_Collaborative_Sales_Planning_with_Multi-Agent_AI__Google_Docs__and_Slack.json)|
+|8351|[8351_Create_Research-Backed_Articles_with_AI_Planning__Linkup_Search___GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8351_Create_Research-Backed_Articles_with_AI_Planning__Linkup_Search___GPT-5.json)|
+|9686|[9686_Monitoring_Team_Capacity_in_Jira_and_Sending_Alerts_for_Over-Allocation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9686_Monitoring_Team_Capacity_in_Jira_and_Sending_Alerts_for_Over-Allocation.json)|
+|10035|[10035_Automate_UX_Research_Planning_with_Gemini_AI__Google_Docs__and_Human_Feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10035_Automate_UX_Research_Planning_with_Gemini_AI__Google_Docs__and_Human_Feedback.json)|
+|10219|[10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json)|

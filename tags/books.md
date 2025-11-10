@@ -1,0 +1,11 @@
+# books : 7
+
+|id|file|
+|----|----|
+|3701|[3701_Scrape_Books_from_URL_with_Dumpling_AI__Clean_HTML__Save_to_Sheets__Email_as_CSV.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3701_Scrape_Books_from_URL_with_Dumpling_AI__Clean_HTML__Save_to_Sheets__Email_as_CSV.json)|
+|5156|[5156_Transform_Books_into_100__Social_Media_Posts_with_DeepSeek_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5156_Transform_Books_into_100__Social_Media_Posts_with_DeepSeek_AI_and_Google_Drive.json)|
+|5260|[5260_Google_Books_Tool_MCP_Server___all_9_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5260_Google_Books_Tool_MCP_Server___all_9_operations.json)|
+|6198|[6198_Generate_LinkedIn_Posts_from_Books_using_OpenAI__LangChain___Pinecone_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6198_Generate_LinkedIn_Posts_from_Books_using_OpenAI__LangChain___Pinecone_Vector_Search.json)|
+|7350|[7350_Extract_and_Verify_Book_Titles_from_Bookshelf_Photos_using_GPT-4o_and_Google_Books.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7350_Extract_and_Verify_Book_Titles_from_Bookshelf_Photos_using_GPT-4o_and_Google_Books.json)|
+|7482|[7482_Create_AI-Generated_Books_with_GPT-4.1-mini__DALL-E__Google_Drive_and_AWS_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7482_Create_AI-Generated_Books_with_GPT-4.1-mini__DALL-E__Google_Drive_and_AWS_S3.json)|
+|10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|

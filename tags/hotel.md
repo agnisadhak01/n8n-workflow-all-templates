@@ -1,0 +1,12 @@
+# hotel : 8
+
+|id|file|
+|----|----|
+|5936|[5936_Personalized_Hotel_Reward_Emails_for_High-Spenders_with_Salesforce__Gemini_AI___Brevo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5936_Personalized_Hotel_Reward_Emails_for_High-Spenders_with_Salesforce__Gemini_AI___Brevo.json)|
+|6262|[6262_Conversational_Travel_Booker__Automate_Flight___Hotel_Reservations_with_GPT-3.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6262_Conversational_Travel_Booker__Automate_Flight___Hotel_Reservations_with_GPT-3.5.json)|
+|6631|[6631_Hotel_Guest_Journey_Automation_with_Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6631_Hotel_Guest_Journey_Automation_with_Gmail___Google_Sheets.json)|
+|8836|[8836_Scrape_Hotel_Listings_with_Prices_from_Booking.com_using_Brightdata___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8836_Scrape_Hotel_Listings_with_Prices_from_Booking.com_using_Brightdata___AI.json)|
+|9777|[9777_Automate_Hotel_Price_Comparison_with_Multi-Platform_Scraping_and_Email_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9777_Automate_Hotel_Price_Comparison_with_Multi-Platform_Scraping_and_Email_Reporting.json)|
+|9811|[9811_Transform_Hotel_Guest_Feedback_with_GPT-4_Sentiment_Analysis___Service_Recovery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9811_Transform_Hotel_Guest_Feedback_with_GPT-4_Sentiment_Analysis___Service_Recovery.json)|
+|10214|[10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json)|
+|10390|[10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json)|

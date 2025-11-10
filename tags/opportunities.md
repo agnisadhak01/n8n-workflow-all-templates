@@ -1,0 +1,13 @@
+# opportunities : 9
+
+|id|file|
+|----|----|
+|2336|[2336_Summarize_emails_and_save_them_as_notes_on_sales_opportunity_in_Odoo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2336_Summarize_emails_and_save_them_as_notes_on_sales_opportunity_in_Odoo.json)|
+|2978|[2978_Analyze_Reddit_Posts_with_AI_to_Identify_Business_Opportunities.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2978_Analyze_Reddit_Posts_with_AI_to_Identify_Business_Opportunities.json)|
+|5958|[5958_Track_and_Analyze_Backlink_Opportunities_with_Bright_Data_MCP_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5958_Track_and_Analyze_Backlink_Opportunities_with_Bright_Data_MCP_and_GPT-4o.json)|
+|6088|[6088_Automate_Outbound_Voice_Calls_from_Go_High_Level_Opportunities_with_Vapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6088_Automate_Outbound_Voice_Calls_from_Go_High_Level_Opportunities_with_Vapi.json)|
+|6617|[6617_Find_Engagement_Opportunities_from_Skool_Communities_using_Apify___GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6617_Find_Engagement_Opportunities_from_Skool_Communities_using_Apify___GPT-4.1.json)|
+|6625|[6625_Monitor_Commercial_Real_Estate_Opportunities_from_LoopNet_with_ScrapeGraphAI___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6625_Monitor_Commercial_Real_Estate_Opportunities_from_LoopNet_with_ScrapeGraphAI___Telegram.json)|
+|8076|[8076_Generate_B2B_Lead_Opportunities_from_Websites_with_Brightdata___OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8076_Generate_B2B_Lead_Opportunities_from_Websites_with_Brightdata___OpenRouter_AI.json)|
+|9071|[9071_Find_internal_linking_opportunities_with_SerpAPI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9071_Find_internal_linking_opportunities_with_SerpAPI_and_Google_Sheets.json)|
+|9546|[9546_Generate_Business_Automation_Opportunities___ROI_Reports_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9546_Generate_Business_Automation_Opportunities___ROI_Reports_with_Claude_AI.json)|

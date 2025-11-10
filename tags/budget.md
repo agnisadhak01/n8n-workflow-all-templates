@@ -1,0 +1,13 @@
+# budget : 9
+
+|id|file|
+|----|----|
+|3793|[3793_Optimize_Amazon_Ads_with_GPT-4o_for_Bid__Budget___Keyword_Recommendations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3793_Optimize_Amazon_Ads_with_GPT-4o_for_Bid__Budget___Keyword_Recommendations.json)|
+|4612|[4612_Personal_Budget___Expense_Tracker_with_Google_Sheets_and_Alerts_MCP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4612_Personal_Budget___Expense_Tracker_with_Google_Sheets_and_Alerts_MCP.json)|
+|6626|[6626_Analyze_Property_Maintenance_Costs_with_ScrapeGraphAI_and_Budget_Planning.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6626_Analyze_Property_Maintenance_Costs_with_ScrapeGraphAI_and_Budget_Planning.json)|
+|7070|[7070_Automate_Zillow_Property_Search_with_Budget_Filtering_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7070_Automate_Zillow_Property_Search_with_Budget_Filtering_to_Google_Sheets.json)|
+|7374|[7374_AWS_Azure_GCP_Multi-Cloud_Cost_Monitoring___Alerts_for_Budget_Control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7374_AWS_Azure_GCP_Multi-Cloud_Cost_Monitoring___Alerts_for_Budget_Control.json)|
+|7566|[7566_Auto-Categorize_YNAB_Transactions_with_GPT-5-Mini_and_Discord_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7566_Auto-Categorize_YNAB_Transactions_with_GPT-5-Mini_and_Discord_Notifications.json)|
+|8240|[8240_Qualify_High-Budget_Leads__Typeform_to_HubSpot__Google_Sheets___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8240_Qualify_High-Budget_Leads__Typeform_to_HubSpot__Google_Sheets___Slack_Alerts.json)|
+|8268|[8268_Expense_Logging_with_Telegram_and_Google_Sheets__Weekly_Summaries_and_Budget_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8268_Expense_Logging_with_Telegram_and_Google_Sheets__Weekly_Summaries_and_Budget_Alerts.json)|
+|10219|[10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json)|

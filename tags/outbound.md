@@ -1,0 +1,14 @@
+# outbound : 10
+
+|id|file|
+|----|----|
+|2821|[2821_Domain_Outbound___Automate_Lead_Extraction__and_Targeted_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2821_Domain_Outbound___Automate_Lead_Extraction__and_Targeted_Outreach.json)|
+|3912|[3912_Automate_Lead_Qualification_with_RetellAI_Phone_Agent__OpenAI_GPT___Google_Sheet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3912_Automate_Lead_Qualification_with_RetellAI_Phone_Agent__OpenAI_GPT___Google_Sheet.json)|
+|4152|[4152_Automate_Outbound_Sales_Calls_to_Qualified_Leads_with_VAPI.ai_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4152_Automate_Outbound_Sales_Calls_to_Qualified_Leads_with_VAPI.ai_and_Google_Sheets.json)|
+|6088|[6088_Automate_Outbound_Voice_Calls_from_Go_High_Level_Opportunities_with_Vapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6088_Automate_Outbound_Voice_Calls_from_Go_High_Level_Opportunities_with_Vapi.json)|
+|6573|[6573_Auto-Call_New_Typeform_Submissions_with_Vapi_Voice_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6573_Auto-Call_New_Typeform_Submissions_with_Vapi_Voice_Assistant.json)|
+|6576|[6576_Automate_outbound_Vapi_voice_calls_from_new_Google_Sheets_rows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6576_Automate_outbound_Vapi_voice_calls_from_new_Google_Sheets_rows.json)|
+|6577|[6577_Automate_Outbound_Voice_Calls_with_Vapi_from_Form_Submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6577_Automate_Outbound_Voice_Calls_with_Vapi_from_Form_Submissions.json)|
+|6596|[6596_WhatsApp_Outbound_Messaging_with_Baserow___WasenderAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6596_WhatsApp_Outbound_Messaging_with_Baserow___WasenderAPI.json)|
+|6695|[6695_Trigger_Outbound_Vapi_AI_Voice_Calls_From_New_Jotform_Submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6695_Trigger_Outbound_Vapi_AI_Voice_Calls_From_New_Jotform_Submissions.json)|
+|7958|[7958_Automated_Outbound_Calls__connect_Ultravox_AI_Agents_to_Phone_Calls_with_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7958_Automated_Outbound_Calls__connect_Ultravox_AI_Agents_to_Phone_Calls_with_Twilio.json)|
