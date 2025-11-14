@@ -1,4 +1,4 @@
-# qr : 8
+# qr : 11
 
 |id|file|
 |----|----|
@@ -10,3 +10,6 @@
 |8942|[8942_Automate_E-commerce_Return_Guides_with_Email_Verification___QR_Codes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8942_Automate_E-commerce_Return_Guides_with_Email_Verification___QR_Codes.json)|
 |9280|[9280_Event_Ticketing_Backend__Auto_QR_Tickets_with_Google_Sheets___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9280_Event_Ticketing_Backend__Auto_QR_Tickets_with_Google_Sheets___Gmail.json)|
 |10130|[10130_Generate_Event_Badges_with_QR_Codes__HTMLCSStoImage__Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10130_Generate_Event_Badges_with_QR_Codes__HTMLCSStoImage__Gmail___Google_Sheets.json)|
+|10768|[10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json)|
+|10771|[10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json)|
+|10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|

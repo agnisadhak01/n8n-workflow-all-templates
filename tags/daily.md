@@ -1,4 +1,4 @@
-# daily : 229
+# daily : 234
 
 |id|file|
 |----|----|
@@ -231,3 +231,8 @@
 |10345|[10345_Multi-Channel_Task_Reminder_System_with_Telegram__Email_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10345_Multi-Channel_Task_Reminder_System_with_Telegram__Email_and_Slack.json)|
 |10420|[10420_Automated_Daily_Financial_Analysis_from_Loyverse_POS_with_Google_Sheets___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10420_Automated_Daily_Financial_Analysis_from_Loyverse_POS_with_Google_Sheets___Email.json)|
 |10585|[10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json)|
+|10645|[10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json)|
+|10688|[10688_Daily_Habit_RPG__Gamified_Gmail_Reminders_with_Quest_System_and_Progress_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10688_Daily_Habit_RPG__Gamified_Gmail_Reminders_with_Quest_System_and_Progress_Tracking.json)|
+|10723|[10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json)|
+|10731|[10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json)|
+|10776|[10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json)|

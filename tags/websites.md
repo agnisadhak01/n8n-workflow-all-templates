@@ -1,4 +1,4 @@
-# websites : 22
+# websites : 24
 
 |id|file|
 |----|----|
@@ -24,3 +24,5 @@
 |9799|[9799_Generate_Custom_Logos_from_Websites_using_OpenAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9799_Generate_Custom_Logos_from_Websites_using_OpenAI_and_Gemini.json)|
 |9938|[9938_AI_Industry_Trend_Monitor_24_7_Across_X__Gmail__and_Websites_Using_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9938_AI_Industry_Trend_Monitor_24_7_Across_X__Gmail__and_Websites_Using_GPT-5.json)|
 |10297|[10297_Convert_Websites_to_Audio_Summaries_via_WhatsApp_using_GPT_and_TTS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10297_Convert_Websites_to_Audio_Summaries_via_WhatsApp_using_GPT_and_TTS.json)|
+|10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|
+|10739|[10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json)|

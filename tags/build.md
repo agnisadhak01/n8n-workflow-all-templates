@@ -1,4 +1,4 @@
-# build : 128
+# build : 130
 
 |id|file|
 |----|----|
@@ -130,3 +130,5 @@
 |9871|[9871_Build_a_Telegram_Q_A_Bot_with_Linkup_Web_Search__GPT-4.1___Mistral_Voice.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9871_Build_a_Telegram_Q_A_Bot_with_Linkup_Web_Search__GPT-4.1___Mistral_Voice.json)|
 |10179|[10179_Build_a_Complete_Email_CRM_with_Google_Sheets___MailerSend.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10179_Build_a_Complete_Email_CRM_with_Google_Sheets___MailerSend.json)|
 |10335|[10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json)|
+|10577|[10577_Build_a_RAG_System_for_PDF_Documents_with_Google_Drive__Unstructured__and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10577_Build_a_RAG_System_for_PDF_Documents_with_Google_Drive__Unstructured__and_OpenAI.json)|
+|10598|[10598_Build_a_Telegram_Subscription_Gate_with_Lead_Magnet_and_Upsell_Sequence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10598_Build_a_Telegram_Subscription_Gate_with_Lead_Magnet_and_Upsell_Sequence.json)|

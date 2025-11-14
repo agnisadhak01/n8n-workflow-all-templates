@@ -1,4 +1,4 @@
-# search : 161
+# search : 165
 
 |id|file|
 |----|----|
@@ -163,3 +163,7 @@
 |10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|
 |10354|[10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json)|
 |10425|[10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json)|
+|10617|[10617_Brand_DNA_Generator_Using_JotForm__Google_Search__Gemini_AI___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10617_Brand_DNA_Generator_Using_JotForm__Google_Search__Gemini_AI___Notion.json)|
+|10648|[10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json)|
+|10653|[10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json)|
+|10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|

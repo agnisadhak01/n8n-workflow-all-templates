@@ -1,4 +1,4 @@
-# copy : 36
+# copy : 37
 
 |id|file|
 |----|----|
@@ -38,3 +38,4 @@
 |9568|[9568_Auto_Scrape_X_Image_Posts___Publish_to_Telegram_with_Google_Sheets_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9568_Auto_Scrape_X_Image_Posts___Publish_to_Telegram_with_Google_Sheets_Storage.json)|
 |10057|[10057_Generate_Google_Ad_Copy_Automatically_with_Claude_3.5__Channable___Relevance_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10057_Generate_Google_Ad_Copy_Automatically_with_Claude_3.5__Channable___Relevance_AI.json)|
 |10058|[10058_Automate_Google_Ads_Copy_Optimization_with_Channable_Feed_and_Relevance_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10058_Automate_Google_Ads_Copy_Optimization_with_Channable_Feed_and_Relevance_AI.json)|
+|10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|

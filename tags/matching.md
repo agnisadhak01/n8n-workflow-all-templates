@@ -1,4 +1,4 @@
-# matching : 9
+# matching : 11
 
 |id|file|
 |----|----|
@@ -11,3 +11,5 @@
 |8864|[8864_Indeed_Job_Matching_to_Telegram_with_BrowserAct__Gemini___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8864_Indeed_Job_Matching_to_Telegram_with_BrowserAct__Gemini___Telegram.json)|
 |9494|[9494_Automate_Real_Estate_Lead_Matching_with_Jotform____Gemini_AI_to_Zoho_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9494_Automate_Real_Estate_Lead_Matching_with_Jotform____Gemini_AI_to_Zoho_CRM.json)|
 |10123|[10123_Automated_Invoice-PO_Matching_with_Google_Gemini_AI_and_Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10123_Automated_Invoice-PO_Matching_with_Google_Gemini_AI_and_Email_Notifications.json)|
+|10607|[10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json)|
+|10626|[10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json)|

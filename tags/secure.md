@@ -1,4 +1,4 @@
-# secure : 15
+# secure : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |9039|[9039_Create_Secure_Human-in-the-Loop_Approval_Flows_with_Postgres_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9039_Create_Secure_Human-in-the-Loop_Approval_Flows_with_Postgres_and_Telegram.json)|
 |9110|[9110_Automate_Paid_Zoom_Meetings_with_Stripe__Gmail___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9110_Automate_Paid_Zoom_Meetings_with_Stripe__Gmail___Google_Sheets_Tracking.json)|
 |9570|[9570_Secure_GET_Webhooks_with_Query_Parameter_Validation_for_Limited_Authentication_Cases.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9570_Secure_GET_Webhooks_with_Query_Parameter_Validation_for_Limited_Authentication_Cases.json)|
+|10661|[10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json)|

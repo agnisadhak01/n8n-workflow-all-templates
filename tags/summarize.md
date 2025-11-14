@@ -1,4 +1,4 @@
-# summarize : 78
+# summarize : 81
 
 |id|file|
 |----|----|
@@ -80,3 +80,6 @@
 |10120|[10120_Scrape___Summarize_Google_Maps_Businesses_with_APIFY___GPT-4O_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10120_Scrape___Summarize_Google_Maps_Businesses_with_APIFY___GPT-4O_to_Sheets.json)|
 |10181|[10181_Workflow_function_to_summarize_Reddit_posts_using_Google_Gemini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10181_Workflow_function_to_summarize_Reddit_posts_using_Google_Gemini_and_Supabase.json)|
 |10255|[10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json)|
+|10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|
+|10652|[10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json)|
+|10666|[10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json)|

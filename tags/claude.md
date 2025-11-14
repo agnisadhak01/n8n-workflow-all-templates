@@ -1,4 +1,4 @@
-# claude : 113
+# claude : 116
 
 |id|file|
 |----|----|
@@ -115,3 +115,6 @@
 |10341|[10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json)|
 |10460|[10460_Stock_Market_Analysis___Prediction_with_GPT__Claude___Gemini_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10460_Stock_Market_Analysis___Prediction_with_GPT__Claude___Gemini_via_Telegram.json)|
 |10539|[10539_Generate_Empathetic_Customer_Replies_with_Claude_AI_and_Auto-Escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10539_Generate_Empathetic_Customer_Replies_with_Claude_AI_and_Auto-Escalation.json)|
+|10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|
+|10561|[10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json)|
+|10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|

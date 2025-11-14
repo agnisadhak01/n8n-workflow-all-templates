@@ -1,4 +1,4 @@
-# vide : 21
+# vide : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |10000|[10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json)|
 |10126|[10126_Automate_YouTube_Thumbnail_Creation___Social_Publishing_with_Templated.io___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10126_Automate_YouTube_Thumbnail_Creation___Social_Publishing_with_Templated.io___Blotato.json)|
 |10358|[10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json)|
+|10640|[10640_Scrape_Google_Maps_Business_Leads_with_Apify___GPT-4_Email_Extraction.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10640_Scrape_Google_Maps_Business_Leads_with_Apify___GPT-4_Email_Extraction.json)|

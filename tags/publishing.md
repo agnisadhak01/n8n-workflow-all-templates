@@ -1,4 +1,4 @@
-# publishing : 57
+# publishing : 60
 
 |id|file|
 |----|----|
@@ -59,3 +59,6 @@
 |10175|[10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json)|
 |10298|[10298_Publishing_Videos_Across_Multiple_Platforms_with_Blotato__Instagram__YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10298_Publishing_Videos_Across_Multiple_Platforms_with_Blotato__Instagram__YouTube.json)|
 |10358|[10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json)|
+|10619|[10619_Automated_YouTube_Publishing_from_Drive_with_GPT___Gemini_Metadata_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10619_Automated_YouTube_Publishing_from_Drive_with_GPT___Gemini_Metadata_Generation.json)|
+|10671|[10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json)|
+|10735|[10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json)|

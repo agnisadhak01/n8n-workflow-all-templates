@@ -1,4 +1,4 @@
-# translate : 29
+# translate : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |9543|[9543_Auto-Translate_YouTube_Video_Content_with_Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9543_Auto-Translate_YouTube_Video_Content_with_Google_Gemini_AI.json)|
 |10264|[10264_Translate_documents_to_multiple_languages_with_Google_Drive_and_DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10264_Translate_documents_to_multiple_languages_with_Google_Drive_and_DeepL.json)|
 |10300|[10300_Auto-Translate_YouTube_Videos_to_Japanese_with_DeepL_and_Post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10300_Auto-Translate_YouTube_Videos_to_Japanese_with_DeepL_and_Post_to_Slack.json)|
+|10652|[10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json)|

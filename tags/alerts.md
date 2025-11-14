@@ -1,4 +1,4 @@
-# alerts : 291
+# alerts : 298
 
 |id|file|
 |----|----|
@@ -293,3 +293,10 @@
 |10460|[10460_Stock_Market_Analysis___Prediction_with_GPT__Claude___Gemini_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10460_Stock_Market_Analysis___Prediction_with_GPT__Claude___Gemini_via_Telegram.json)|
 |10486|[10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json)|
 |10525|[10525_Health_Monitoring_System_with_Grok-3_AI_Analysis_and_Family_Doctor_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10525_Health_Monitoring_System_with_Grok-3_AI_Analysis_and_Family_Doctor_Email_Alerts.json)|
+|10550|[10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json)|
+|10551|[10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json)|
+|10592|[10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json)|
+|10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|
+|10615|[10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json)|
+|10643|[10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json)|
+|10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|

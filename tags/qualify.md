@@ -1,4 +1,4 @@
-# qualify : 22
+# qualify : 23
 
 |id|file|
 |----|----|
@@ -24,3 +24,4 @@
 |9732|[9732_Qualify___Verify_Leads_with_Google_Gemini_and_Sync_to_HubSpot_from_Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9732_Qualify___Verify_Leads_with_Google_Gemini_and_Sync_to_HubSpot_from_Jotform.json)|
 |9739|[9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json)|
 |9887|[9887_Find___Qualify_Funded_Leads_with_BrowserAct___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9887_Find___Qualify_Funded_Leads_with_BrowserAct___Gemini.json)|
+|10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|

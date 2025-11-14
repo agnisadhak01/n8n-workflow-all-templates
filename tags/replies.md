@@ -1,4 +1,4 @@
-# replies : 29
+# replies : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |10084|[10084_Monitor_Emails___Send_AI-Generated_Auto-Replies_with_Ollama___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10084_Monitor_Emails___Send_AI-Generated_Auto-Replies_with_Ollama___Telegram_Alerts.json)|
 |10307|[10307_Automate_Instagram_Comment_Replies_with_OpenAI_and_Redis_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10307_Automate_Instagram_Comment_Replies_with_OpenAI_and_Redis_Tracking.json)|
 |10539|[10539_Generate_Empathetic_Customer_Replies_with_Claude_AI_and_Auto-Escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10539_Generate_Empathetic_Customer_Replies_with_Claude_AI_and_Auto-Escalation.json)|
+|10664|[10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json)|

@@ -1,4 +1,4 @@
-# azure : 34
+# azure : 35
 
 |id|file|
 |----|----|
@@ -36,3 +36,4 @@
 |9836|[9836_Analyze_Customer_Feedback_with_Azure_GPT-4__Jira_Tasks___Outlook_Reports_from_Monday.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9836_Analyze_Customer_Feedback_with_Azure_GPT-4__Jira_Tasks___Outlook_Reports_from_Monday.com.json)|
 |9852|[9852_Automated_Server_Health_Check_with_SSH__Azure_GPT-4_Analysis___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9852_Automated_Server_Health_Check_with_SSH__Azure_GPT-4_Analysis___Email_Alerts.json)|
 |10150|[10150_AI-Driven_Lead_Classification___Routing_with_HighLevel_and_Azure_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10150_AI-Driven_Lead_Classification___Routing_with_HighLevel_and_Azure_GPT-4o-mini.json)|
+|10550|[10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json)|

@@ -2,8 +2,6 @@
 
 | idx | filename |
 |------|-------------------|
-| 6566 | [6566_Automate_Daily_Interview_Schedule_Delivery_from_Google_Calendar_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6566_Automate_Daily_Interview_Schedule_Delivery_from_Google_Calendar_to_Gmail.json) |
-| 6567 | [6567_Automate_Regulatory_Compliance_Monitoring_with_ScrapeGraphAI_and_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6567_Automate_Regulatory_Compliance_Monitoring_with_ScrapeGraphAI_and_Email_Alerts.json) |
 | 6568 | [6568_Conference_Networking_Intelligence_from_Eventbrite_with_ScrapeGraphAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6568_Conference_Networking_Intelligence_from_Eventbrite_with_ScrapeGraphAI.json) |
 | 6569 | [6569_Monitor_Supply_Chain_Risks_with_ScrapeGraphAI_Alerts_via_Slack_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6569_Monitor_Supply_Chain_Risks_with_ScrapeGraphAI_Alerts_via_Slack_and_Email.json) |
 | 6570 | [6570_Website_Intelligence___Lead_Scoring_with_ScrapeGraphAI__HubSpot_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6570_Website_Intelligence___Lead_Scoring_with_ScrapeGraphAI__HubSpot_and_Slack.json) |
@@ -1002,4 +1000,6 @@
 | 7842 | [7842_QuickBooks_Online_MCP_Server_-_Add_QuickBooks_tool_to_any_AI__Like_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7842_QuickBooks_Online_MCP_Server_-_Add_QuickBooks_tool_to_any_AI__Like_Claude.json) |
 | 7844 | [7844_LinkedIn_Lead_Generation__Auto_DM_System_with_Comment_Triggers_using_Unipile___NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7844_LinkedIn_Lead_Generation__Auto_DM_System_with_Comment_Triggers_using_Unipile___NocoDB.json) |
 | 7845 | [7845_Update_Grocery_Lists_in_Asana_via_Telegram_Voice___Text_using_GPT-4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7845_Update_Grocery_Lists_in_Asana_via_Telegram_Voice___Text_using_GPT-4o_mini.json) |
+| 7848 | [7848_Generate_AI_Newsletter_Drafts_from_Google_Sheets_to_Notion_with_GPT-5-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7848_Generate_AI_Newsletter_Drafts_from_Google_Sheets_to_Notion_with_GPT-5-mini.json) |
+| 7849 | [7849_Extract_and_Process_Healthcare_Claims_with_VLM_Run__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7849_Extract_and_Process_Healthcare_Claims_with_VLM_Run__Google_Drive_and_Sheets.json) |
 

@@ -1,4 +1,4 @@
-# generation : 179
+# generation : 181
 
 |id|file|
 |----|----|
@@ -181,3 +181,5 @@
 |10338|[10338_Automate_FAQ_Generation_from_Stack_Overflow_to_Notion_using_GPT-4o-mini_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10338_Automate_FAQ_Generation_from_Stack_Overflow_to_Notion_using_GPT-4o-mini_with_Slack_Alerts.json)|
 |10454|[10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json)|
 |10466|[10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json)|
+|10619|[10619_Automated_YouTube_Publishing_from_Drive_with_GPT___Gemini_Metadata_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10619_Automated_YouTube_Publishing_from_Drive_with_GPT___Gemini_Metadata_Generation.json)|
+|10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|

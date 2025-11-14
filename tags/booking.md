@@ -1,4 +1,4 @@
-# booking : 39
+# booking : 40
 
 |id|file|
 |----|----|
@@ -41,3 +41,4 @@
 |10104|[10104_Form_to_Meeting__Google_Calendar__Zoom__Gmail___Slack_Booking_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10104_Form_to_Meeting__Google_Calendar__Zoom__Gmail___Slack_Booking_Automation.json)|
 |10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|
 |10354|[10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json)|
+|10578|[10578_Automate_Hotel_Booking_Requests_from_Gmail_to_Google_Sheets_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10578_Automate_Hotel_Booking_Requests_from_Gmail_to_Google_Sheets_with_GPT-4o-mini.json)|

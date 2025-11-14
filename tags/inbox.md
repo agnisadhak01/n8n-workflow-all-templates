@@ -1,4 +1,4 @@
-# inbox : 26
+# inbox : 27
 
 |id|file|
 |----|----|
@@ -28,3 +28,4 @@
 |9529|[9529_Outlook_Inbox_Tamer__GPT-4.1_Powered_Categorization__Auto_Replies___Team_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9529_Outlook_Inbox_Tamer__GPT-4.1_Powered_Categorization__Auto_Replies___Team_Alerts.json)|
 |9583|[9583_Automate_Gmail_Email_Categorization_with_GPT-4o_AI_and_Reasoning.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9583_Automate_Gmail_Email_Categorization_with_GPT-4o_AI_and_Reasoning.json)|
 |10340|[10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json)|
+|10664|[10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json)|

@@ -1,4 +1,4 @@
-# payment : 24
+# payment : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |9760|[9760_Automated_Invoice_Generation___Payment_Reminders_with_QuickBooks__Jotform___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9760_Automated_Invoice_Generation___Payment_Reminders_with_QuickBooks__Jotform___GPT-4o.json)|
 |9844|[9844_Automated_Tour_Payment_Reminders_via_WhatsApp___Email_with_Payment_Links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9844_Automated_Tour_Payment_Reminders_via_WhatsApp___Email_with_Payment_Links.json)|
 |10111|[10111_AI-Powered_Invoice_Reminder___Payment_Tracker_for_Finance___Accounting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10111_AI-Powered_Invoice_Reminder___Payment_Tracker_for_Finance___Accounting.json)|
+|10558|[10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json)|

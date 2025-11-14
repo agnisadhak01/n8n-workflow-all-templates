@@ -1,4 +1,4 @@
-# reel : 8
+# reel : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8257|[8257_Automate_Instagram_Reel_Downloads_with_Google_Drive_Storage___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8257_Automate_Instagram_Reel_Downloads_with_Google_Drive_Storage___Telegram_Alerts.json)|
 |8918|[8918_Create___Auto-Post_Instagram_Reels_with_AI_Clones__Script-to-Post__Heygen___Submagic___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8918_Create___Auto-Post_Instagram_Reels_with_AI_Clones__Script-to-Post__Heygen___Submagic___Blotato.json)|
 |10122|[10122_Automate_Facebook_Reels_Publishing_with_Google_Sheets_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10122_Automate_Facebook_Reels_Publishing_with_Google_Sheets_and_Drive.json)|
+|10786|[10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json)|

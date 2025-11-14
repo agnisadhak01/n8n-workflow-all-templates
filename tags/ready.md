@@ -1,4 +1,4 @@
-# ready : 24
+# ready : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |8557|[8557_Transform_Excel_Data_into_AI-Ready_Vectors_with_OpenAI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8557_Transform_Excel_Data_into_AI-Ready_Vectors_with_OpenAI_and_Supabase.json)|
 |9594|[9594_Web_Crawler__Convert_Websites_to_AI-Ready_Markdown_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9594_Web_Crawler__Convert_Websites_to_AI-Ready_Markdown_in_Google_Sheets.json)|
 |9614|[9614_Build_AI-Ready_Knowledge_Base_from_Outlook___Notion_using_Pinecone___GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9614_Build_AI-Ready_Knowledge_Base_from_Outlook___Notion_using_Pinecone___GPT-4.json)|
+|10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|

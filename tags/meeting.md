@@ -1,4 +1,4 @@
-# meeting : 67
+# meeting : 68
 
 |id|file|
 |----|----|
@@ -68,4 +68,5 @@
 |10144|[10144_Detect_Holiday_Conflicts___Suggest_Meeting_Reschedules_with_Google_Calendar_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10144_Detect_Holiday_Conflicts___Suggest_Meeting_Reschedules_with_Google_Calendar_and_Slack.json)|
 |10262|[10262_Reduce_Meeting_No-Shows_with_Gemini_AI__Email___WhatsApp_Reminders_for_Calendly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10262_Reduce_Meeting_No-Shows_with_Gemini_AI__Email___WhatsApp_Reminders_for_Calendly.json)|
 |10286|[10286_AI_Meeting_Summary___Action_Item_Tracker_with_Notion__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10286_AI_Meeting_Summary___Action_Item_Tracker_with_Notion__Slack__and_Gmail.json)|
+|10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
 |10569|[10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json)|

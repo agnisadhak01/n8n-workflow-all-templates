@@ -1,4 +1,4 @@
-# draft : 17
+# draft : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |8688|[8688_Automate_Email_Management_with_Gemini_AI_and_Gmail_for_Smart_Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8688_Automate_Email_Management_with_Gemini_AI_and_Gmail_for_Smart_Responses.json)|
 |9339|[9339_Telegram_Voice_Assistant_with_OpenAI___Gmail__Manage___Draft_Emails_via_Voice.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9339_Telegram_Voice_Assistant_with_OpenAI___Gmail__Manage___Draft_Emails_via_Voice.json)|
 |10194|[10194_Automated_Product_Email_Support_with_GPT-4.1__Pinecone_RAG__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10194_Automated_Product_Email_Support_with_GPT-4.1__Pinecone_RAG__and_Gmail.json)|
+|10664|[10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json)|

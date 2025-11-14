@@ -1,4 +1,4 @@
-# parsing : 14
+# parsing : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8751|[8751_Automate_Applicant_Tracking_with_GPT-4.1_CV_Parsing__Google_Sheets_and_Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8751_Automate_Applicant_Tracking_with_GPT-4.1_CV_Parsing__Google_Sheets_and_Gmail_Alerts.json)|
 |9034|[9034_Automate_Lead_Generation_with_Apollo__AI_Parsing__and_Timed_Email_Follow-ups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9034_Automate_Lead_Generation_with_Apollo__AI_Parsing__and_Timed_Email_Follow-ups.json)|
 |9579|[9579_Automate_Employee_Trip_Expense_Processing_with_Jotform__OpenAI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9579_Automate_Employee_Trip_Expense_Processing_with_Jotform__OpenAI_and_Google_Sheets.json)|
+|10607|[10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json)|

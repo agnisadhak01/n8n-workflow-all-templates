@@ -1,4 +1,4 @@
-# base : 44
+# base : 45
 
 |id|file|
 |----|----|
@@ -46,3 +46,4 @@
 |9626|[9626_Build_a_Knowledge_Base_Chatbot_with_Jotform__RAG_Supabase__Together_AI___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9626_Build_a_Knowledge_Base_Chatbot_with_Jotform__RAG_Supabase__Together_AI___Gemini.json)|
 |10033|[10033_WhatsApp_Virtual_Receptionist_with_Gemini_AI_-_Handles_Text___Voice_with_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10033_WhatsApp_Virtual_Receptionist_with_Gemini_AI_-_Handles_Text___Voice_with_Knowledge_Base.json)|
 |10142|[10142_Website_Chatbot_with_Google_Drive_Knowledge_Base_using_GPT-4_and_Mistral_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10142_Website_Chatbot_with_Google_Drive_Knowledge_Base_using_GPT-4_and_Mistral_AI.json)|
+|10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|

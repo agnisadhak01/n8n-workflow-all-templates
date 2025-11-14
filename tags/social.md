@@ -1,4 +1,4 @@
-# social : 155
+# social : 159
 
 |id|file|
 |----|----|
@@ -157,3 +157,7 @@
 |10135|[10135_Process_Testimonials_with_GPT-4___Auto-Generate_Social_Media_Cards_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10135_Process_Testimonials_with_GPT-4___Auto-Generate_Social_Media_Cards_with_Google_Sheets.json)|
 |10251|[10251_Cross-Platform_Brand_Monitoring___Analysis_with_AnySite_API_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10251_Cross-Platform_Brand_Monitoring___Analysis_with_AnySite_API_and_GPT.json)|
 |10425|[10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json)|
+|10552|[10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json)|
+|10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|
+|10739|[10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json)|
+|10786|[10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json)|

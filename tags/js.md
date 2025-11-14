@@ -1,4 +1,4 @@
-# js : 6
+# js : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |4105|[4105_Generate_Invoices__Save_to_Drive_and_Send_Email_to_Customer_with_JS___G_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4105_Generate_Invoices__Save_to_Drive_and_Send_Email_to_Customer_with_JS___G_Sheets.json)|
 |7238|[7238_Flight_Data_Visualization_with_Chart.js__QuickChart_API___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7238_Flight_Data_Visualization_with_Chart.js__QuickChart_API___Telegram_Bot.json)|
 |9983|[9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9983_Auto-Categorize_Blog_Posts_with_OpenAI_GPT-4__GitHub__and_Google_Sheets_for_Astro_Next.js.json)|
+|10801|[10801_Scan_Single_URLs_for_Security_Vulnerabilities_with_GPT-4__JS__PHP__Python.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10801_Scan_Single_URLs_for_Security_Vulnerabilities_with_GPT-4__JS__PHP__Python.json)|

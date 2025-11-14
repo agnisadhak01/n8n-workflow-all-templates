@@ -1,4 +1,4 @@
-# verification : 40
+# verification : 42
 
 |id|file|
 |----|----|
@@ -42,3 +42,5 @@
 |10397|[10397_Automated_Workshop_Certificate_System_with_JotForm__Email_Verification___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10397_Automated_Workshop_Certificate_System_with_JotForm__Email_Verification___Google_Workspace.json)|
 |10443|[10443_Automate_Verified_Visitor_Management_with_Email_Verification__Badges___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10443_Automate_Verified_Visitor_Management_with_Email_Verification__Badges___Slack_Alerts.json)|
 |10454|[10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json)|
+|10771|[10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json)|
+|10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|

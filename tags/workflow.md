@@ -1,4 +1,4 @@
-# workflow : 419
+# workflow : 421
 
 |id|file|
 |----|----|
@@ -421,3 +421,5 @@
 |10319|[10319_Auto-Moderate_Instagram_Comments_with_Perspective_API___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10319_Auto-Moderate_Instagram_Comments_with_Perspective_API___Slack_Alerts.json)|
 |10348|[10348_Monitor___Auto-Heal_AWS_EC2_Instances_with_Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10348_Monitor___Auto-Heal_AWS_EC2_Instances_with_Multi-Channel_Alerts.json)|
 |10391|[10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json)|
+|10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|
+|10755|[10755_Simple_error_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10755_Simple_error_workflow.json)|

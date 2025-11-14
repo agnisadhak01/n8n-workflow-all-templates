@@ -1,4 +1,4 @@
-# enhanced : 13
+# enhanced : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |9102|[9102_Generate_Anime_Images_via_Telegram_with_LLM-Enhanced_Prompts_and_Gemini_Leonardo.AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9102_Generate_Anime_Images_via_Telegram_with_LLM-Enhanced_Prompts_and_Gemini_Leonardo.AI.json)|
 |9220|[9220_Build_an_AI-Powered_SMS_Support_System_with_Twilio__GPT-4_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9220_Build_an_AI-Powered_SMS_Support_System_with_Twilio__GPT-4_and_PostgreSQL.json)|
 |9909|[9909_Send_Multi-City_Weather_Forecasts_with_AI-Enhanced_Formatting_from_OpenWeatherMap_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9909_Send_Multi-City_Weather_Forecasts_with_AI-Enhanced_Formatting_from_OpenWeatherMap_to_Gmail.json)|
+|10671|[10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json)|

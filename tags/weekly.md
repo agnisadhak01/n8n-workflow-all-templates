@@ -1,4 +1,4 @@
-# weekly : 87
+# weekly : 90
 
 |id|file|
 |----|----|
@@ -89,3 +89,6 @@
 |10217|[10217_Transform_Readwise_Highlights_into_Weekly_Content_Ideas_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10217_Transform_Readwise_Highlights_into_Weekly_Content_Ideas_with_Gemini_AI.json)|
 |10226|[10226_Generate_Weekly_Workflow_Analytics_Reports_with_n8n_API___Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10226_Generate_Weekly_Workflow_Analytics_Reports_with_n8n_API___Email_Delivery.json)|
 |10441|[10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json)|
+|10556|[10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json)|
+|10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
+|10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|

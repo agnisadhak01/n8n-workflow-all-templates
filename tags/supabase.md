@@ -1,4 +1,4 @@
-# supabase : 97
+# supabase : 101
 
 |id|file|
 |----|----|
@@ -99,3 +99,7 @@
 |9970|[9970_Automated_Email_Responses_with_GPT-4O___Supabase_Conversation_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9970_Automated_Email_Responses_with_GPT-4O___Supabase_Conversation_Memory.json)|
 |10181|[10181_Workflow_function_to_summarize_Reddit_posts_using_Google_Gemini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10181_Workflow_function_to_summarize_Reddit_posts_using_Google_Gemini_and_Supabase.json)|
 |10370|[10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json)|
+|10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|
+|10651|[10651_Create_RAG_Vector_Database_from_Google_Drive_Documents_using_Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10651_Create_RAG_Vector_Database_from_Google_Drive_Documents_using_Gemini___Supabase.json)|
+|10653|[10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json)|
+|10749|[10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json)|

@@ -1,4 +1,4 @@
-# app : 23
+# app : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |9551|[9551_Indonesian_Stock_Market_Research_Agent_with_Sectors_App__Gemini___Tavily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9551_Indonesian_Stock_Market_Research_Agent_with_Sectors_App__Gemini___Tavily.json)|
 |9617|[9617_Track_iOS_App_Sizes_with_Trend_Alerts_using_Google_Sheets_and_Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9617_Track_iOS_App_Sizes_with_Trend_Alerts_using_Google_Sheets_and_Gmail_Notifications.json)|
 |9635|[9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json)|
+|10666|[10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json)|

@@ -1,4 +1,4 @@
-# shorts : 25
+# shorts : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |9598|[9598_Create___Publish_YouTube_Shorts_on_Historical_What-Ifs_with_GPT-4o___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9598_Create___Publish_YouTube_Shorts_on_Historical_What-Ifs_with_GPT-4o___Blotato.json)|
 |9867|[9867_Transform_Long_Videos_into_Viral_Shorts_with_AI_and_Schedule_to_Social_Media_using_Whisper___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9867_Transform_Long_Videos_into_Viral_Shorts_with_AI_and_Schedule_to_Social_Media_using_Whisper___Gemini.json)|
 |10103|[10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json)|
+|10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|

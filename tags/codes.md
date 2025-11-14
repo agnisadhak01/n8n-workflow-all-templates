@@ -1,4 +1,4 @@
-# codes : 10
+# codes : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |9172|[9172_Promo_Seeker__Auto-find_Promo_Codes_with_SerpAPI__Gemini___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9172_Promo_Seeker__Auto-find_Promo_Codes_with_SerpAPI__Gemini___Telegram.json)|
 |9560|[9560_Automatically_Send_WhatsApp_Discount_Codes_to_Shopify_Customers_Using_Rapiwa.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9560_Automatically_Send_WhatsApp_Discount_Codes_to_Shopify_Customers_Using_Rapiwa.json)|
 |10130|[10130_Generate_Event_Badges_with_QR_Codes__HTMLCSStoImage__Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10130_Generate_Event_Badges_with_QR_Codes__HTMLCSStoImage__Gmail___Google_Sheets.json)|
+|10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|

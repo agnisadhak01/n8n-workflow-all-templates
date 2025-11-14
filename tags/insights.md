@@ -1,4 +1,4 @@
-# insights : 67
+# insights : 68
 
 |id|file|
 |----|----|
@@ -69,3 +69,4 @@
 |9991|[9991_Automated_Instagram_Lead_Enrichment_with_AI_Insights___KlickTipp_CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9991_Automated_Instagram_Lead_Enrichment_with_AI_Insights___KlickTipp_CRM_Integration.json)|
 |10252|[10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json)|
 |10427|[10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json)|
+|10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|

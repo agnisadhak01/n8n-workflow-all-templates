@@ -1,4 +1,4 @@
-# invoice : 87
+# invoice : 88
 
 |id|file|
 |----|----|
@@ -89,3 +89,4 @@
 |10288|[10288_Automate_invoice_analysis_via_Telegram_with_ChatGPT-4o-mini_extraction.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10288_Automate_invoice_analysis_via_Telegram_with_ChatGPT-4o-mini_extraction.json)|
 |10405|[10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json)|
 |10581|[10581_Automate_Bank_Statement_and_Invoice_Reconciliation_with_GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10581_Automate_Bank_Statement_and_Invoice_Reconciliation_with_GPT-4.1-mini_and_Google_Sheets.json)|
+|10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|

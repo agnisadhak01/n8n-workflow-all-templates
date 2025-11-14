@@ -1,4 +1,4 @@
-# validation : 29
+# validation : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |9570|[9570_Secure_GET_Webhooks_with_Query_Parameter_Validation_for_Limited_Authentication_Cases.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9570_Secure_GET_Webhooks_with_Query_Parameter_Validation_for_Limited_Authentication_Cases.json)|
 |10163|[10163_Create_Verified_User_Profiles_with_Email_Validation__PDF_Generation___Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10163_Create_Verified_User_Profiles_with_Email_Validation__PDF_Generation___Gmail_Delivery.json)|
 |10169|[10169_Automate_Event_RSVPs_with_Email_Validation___Badge_Generation_using_VerifiEmail___HTMLCssToImage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10169_Automate_Event_RSVPs_with_Email_Validation___Badge_Generation_using_VerifiEmail___HTMLCssToImage.json)|
+|10745|[10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json)|

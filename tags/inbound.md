@@ -1,4 +1,4 @@
-# inbound : 8
+# inbound : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |7221|[7221_Automated_Sales_Follow-up_with_GPT__Tavily_Research_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7221_Automated_Sales_Follow-up_with_GPT__Tavily_Research_and_Gmail.json)|
 |7615|[7615_Qualify_and_Enrich_Leads_with_Octave_s_Contextual_Insights_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7615_Qualify_and_Enrich_Leads_with_Octave_s_Contextual_Insights_and_Slack_Alerts.json)|
 |8295|[8295_Automatic_Personalized_Sales_Follow-Up_with_GPT-5__Pinecone__and_Tavily_Research.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8295_Automatic_Personalized_Sales_Follow-Up_with_GPT-5__Pinecone__and_Tavily_Research.json)|
+|10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|

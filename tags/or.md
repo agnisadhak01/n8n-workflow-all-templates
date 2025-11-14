@@ -1,4 +1,4 @@
-# or : 47
+# or : 48
 
 |id|file|
 |----|----|
@@ -49,3 +49,4 @@
 |10139|[10139_Generate_AI_Videos_from_Text_or_Images_with_Sora_2_Pro___GPT-5_Enhancement.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10139_Generate_AI_Videos_from_Text_or_Images_with_Sora_2_Pro___GPT-5_Enhancement.json)|
 |10180|[10180_AI_Blog_Post_Generator_with_Scheduled_or_Prompt-based_Content_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10180_AI_Blog_Post_Generator_with_Scheduled_or_Prompt-based_Content_for_WordPress.json)|
 |10249|[10249_Extract_TikTok_Usernames_from_Any_Video_or_Creator_Link_Format.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10249_Extract_TikTok_Usernames_from_Any_Video_or_Creator_Link_Format.json)|
+|10599|[10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json)|

@@ -1,4 +1,4 @@
-# real : 98
+# real : 99
 
 |id|file|
 |----|----|
@@ -100,3 +100,4 @@
 |10110|[10110_Monitor_Bank_Transactions_with_Multi-Channel_Alerts_for_Accounting_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10110_Monitor_Bank_Transactions_with_Multi-Channel_Alerts_for_Accounting_Teams.json)|
 |10205|[10205_Auto-Generate_Competitive_Battlecards_with_AI__Slack___Notion__Klue_Alternative.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10205_Auto-Generate_Competitive_Battlecards_with_AI__Slack___Notion__Klue_Alternative.json)|
 |10218|[10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10218_Analyze_Event_Feedback_with_Sentiment_Analysis__Google_Sheets__Slack___Email.json)|
+|10643|[10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json)|

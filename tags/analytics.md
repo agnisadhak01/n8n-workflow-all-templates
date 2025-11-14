@@ -1,4 +1,4 @@
-# analytics : 49
+# analytics : 50
 
 |id|file|
 |----|----|
@@ -51,3 +51,4 @@
 |10106|[10106_Track_Employee_Attendance_with_Analytics__Email_Reports___Slack_Alerts_Using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10106_Track_Employee_Attendance_with_Analytics__Email_Reports___Slack_Alerts_Using_Google_Sheets.json)|
 |10226|[10226_Generate_Weekly_Workflow_Analytics_Reports_with_n8n_API___Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10226_Generate_Weekly_Workflow_Analytics_Reports_with_n8n_API___Email_Delivery.json)|
 |10283|[10283_Automate_Customer_Support_Triage_with_GPT__Gmail__Slack___Analytics_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10283_Automate_Customer_Support_Triage_with_GPT__Gmail__Slack___Analytics_Dashboard.json)|
+|10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|

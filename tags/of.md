@@ -1,4 +1,4 @@
-# of : 123
+# of : 126
 
 |id|file|
 |----|----|
@@ -125,3 +125,6 @@
 |9517|[9517_Detect_Team_Burnout_with_Groq_AI_Analysis_of_GitHub_Activity_for_Wellness_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9517_Detect_Team_Burnout_with_Groq_AI_Analysis_of_GitHub_Activity_for_Wellness_Reports.json)|
 |10054|[10054_Automated_CVE_Scanning_of_Bug_Bounty_Programs_with_Nuclei_and_Project_Discovery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10054_Automated_CVE_Scanning_of_Bug_Bounty_Programs_with_Nuclei_and_Project_Discovery.json)|
 |10199|[10199_Predict_Customer_Churn_with_AI_Analysis_of_HubSpot_and_Google_Sheets_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10199_Predict_Customer_Churn_with_AI_Analysis_of_HubSpot_and_Google_Sheets_Data.json)|
+|10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|
+|10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|
+|10739|[10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json)|

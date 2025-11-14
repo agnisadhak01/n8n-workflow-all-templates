@@ -1,4 +1,4 @@
-# simple : 40
+# simple : 41
 
 |id|file|
 |----|----|
@@ -42,3 +42,4 @@
 |9900|[9900_Track_Coupon_Points_with_Google_Sheets__Drive_Storage__and_Gmail_Weekly_Summary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9900_Track_Coupon_Points_with_Google_Sheets__Drive_Storage__and_Gmail_Weekly_Summary.json)|
 |10121|[10121_Automated_Email_Follow-up_System_with_CentralStationCRM__Gmail_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10121_Automated_Email_Follow-up_System_with_CentralStationCRM__Gmail_and_Slack_Alerts.json)|
 |10435|[10435_Create_Long-Form_Documents_from_Simple_Titles_with_GPT-5_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10435_Create_Long-Form_Documents_from_Simple_Titles_with_GPT-5_and_Google_Docs.json)|
+|10755|[10755_Simple_error_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10755_Simple_error_workflow.json)|

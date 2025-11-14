@@ -1,4 +1,4 @@
-# microsoft : 28
+# microsoft : 29
 
 |id|file|
 |----|----|
@@ -30,3 +30,4 @@
 |8628|[8628_Auto-Sync_Easy_Redmine_Tasks_to_Microsoft_To-Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8628_Auto-Sync_Easy_Redmine_Tasks_to_Microsoft_To-Do.json)|
 |8643|[8643_Sync_Azure_DevOps_Work_Items_to_GitHub_Issues_with_Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8643_Sync_Azure_DevOps_Work_Items_to_GitHub_Issues_with_Google_Sheets_Tracking.json)|
 |10186|[10186_Email-to-Task_Automation_with_Mistral_AI__Gmail_Outlook_to_Google_Tasks_Microsoft_To_Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10186_Email-to-Task_Automation_with_Mistral_AI__Gmail_Outlook_to_Google_Tasks_Microsoft_To_Do.json)|
+|10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|

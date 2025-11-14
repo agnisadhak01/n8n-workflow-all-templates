@@ -1,4 +1,4 @@
-# http : 25
+# http : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |8674|[8674_IP_Geolocation___HTTP_Port_Scanning_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8674_IP_Geolocation___HTTP_Port_Scanning_with_Google_Sheets.json)|
 |9165|[9165_Create_Dynamic_API_Gateway_with_HTTP_Router_and_Workflow_Orchestration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9165_Create_Dynamic_API_Gateway_with_HTTP_Router_and_Workflow_Orchestration.json)|
 |9852|[9852_Automated_Server_Health_Check_with_SSH__Azure_GPT-4_Analysis___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9852_Automated_Server_Health_Check_with_SSH__Azure_GPT-4_Analysis___Email_Alerts.json)|
+|10726|[10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json)|

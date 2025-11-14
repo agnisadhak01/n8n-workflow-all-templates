@@ -1,4 +1,4 @@
-# product : 119
+# product : 120
 
 |id|file|
 |----|----|
@@ -121,3 +121,4 @@
 |10372|[10372_Create___Publish_Affiliate_Product_Videos_with_Sora-2__GPT___YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10372_Create___Publish_Affiliate_Product_Videos_with_Sora-2__GPT___YouTube.json)|
 |10393|[10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json)|
 |10426|[10426_PartnerStack_Impact___WooCommerce_Product_Creation_with_GPT-4___AI_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10426_PartnerStack_Impact___WooCommerce_Product_Creation_with_GPT-4___AI_Images.json)|
+|10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|

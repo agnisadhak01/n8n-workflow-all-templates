@@ -1,4 +1,4 @@
-# trello : 26
+# trello : 27
 
 |id|file|
 |----|----|
@@ -28,3 +28,4 @@
 |8930|[8930_Streamline_Client_Onboarding_with_PDF__Trello__Slack__Gmail___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8930_Streamline_Client_Onboarding_with_PDF__Trello__Slack__Gmail___Airtable.json)|
 |9916|[9916_Trello_Task_Management_with_Telegram_Notifications_and_Supabase_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9916_Trello_Task_Management_with_Telegram_Notifications_and_Supabase_Database.json)|
 |9999|[9999_AI-Powered_Feedback_Triage__Jotform_to_Trello__Airtable___Slack_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9999_AI-Powered_Feedback_Triage__Jotform_to_Trello__Airtable___Slack_with_Gemini.json)|
+|10723|[10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json)|

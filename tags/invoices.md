@@ -1,4 +1,4 @@
-# invoices : 45
+# invoices : 46
 
 |id|file|
 |----|----|
@@ -47,3 +47,4 @@
 |9879|[9879_Auto-Send_WooCommerce_Invoices_via_WhatsApp_with_Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9879_Auto-Send_WooCommerce_Invoices_via_WhatsApp_with_Rapiwa_API.json)|
 |10274|[10274_Process_Sales_CSVs_into_Invoices_with_Data_Tables_and_Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10274_Process_Sales_CSVs_into_Invoices_with_Data_Tables_and_Email_Notifications.json)|
 |10387|[10387_Generate__Encrypt__and_Send_Invoices_with_PDF_Generator_API___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10387_Generate__Encrypt__and_Send_Invoices_with_PDF_Generator_API___Google_Suite.json)|
+|10553|[10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json)|

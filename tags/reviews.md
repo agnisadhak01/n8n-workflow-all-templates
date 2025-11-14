@@ -1,4 +1,4 @@
-# reviews : 30
+# reviews : 32
 
 |id|file|
 |----|----|
@@ -32,3 +32,5 @@
 |9343|[9343_Monitor_iOS_App_Store_Reviews___Send_Email_Notifications_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9343_Monitor_iOS_App_Store_Reviews___Send_Email_Notifications_Automatically.json)|
 |9379|[9379_Filter_for_Positive_Google_Reviews_using_Telegram__Web_Form___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9379_Filter_for_Positive_Google_Reviews_using_Telegram__Web_Form___Google_Sheets.json)|
 |9825|[9825_Automate_Change_Request_Workflow__Monday.com_to_Jira_with_Slack___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9825_Automate_Change_Request_Workflow__Monday.com_to_Jira_with_Slack___Sheets.json)|
+|10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|
+|10666|[10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json)|

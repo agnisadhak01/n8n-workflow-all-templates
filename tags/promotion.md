@@ -1,4 +1,4 @@
-# promotion : 5
+# promotion : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |7131|[7131_Automated_Twitter_Brand_Promotion_with_Anthropic_Claude_AI___Google_Sheets_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7131_Automated_Twitter_Brand_Promotion_with_Anthropic_Claude_AI___Google_Sheets_Reporting.json)|
 |7788|[7788_AI-Powered_Workflow_Documentation___Promotion_with_Gemini__Notion___LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7788_AI-Powered_Workflow_Documentation___Promotion_with_Gemini__Notion___LinkedIn.json)|
 |8884|[8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json)|
+|10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|

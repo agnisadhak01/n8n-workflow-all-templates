@@ -1,4 +1,4 @@
-# photo : 14
+# photo : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8887|[8887_Generating_Vintage_Polaroid_Style_Photos_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8887_Generating_Vintage_Polaroid_Style_Photos_with_Gemini_AI.json)|
 |9245|[9245_Batch_ID_Photo_Converter___Enhancer_With_Google_Drive___Nano_Banana_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9245_Batch_ID_Photo_Converter___Enhancer_With_Google_Drive___Nano_Banana_API.json)|
 |10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|
+|10768|[10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json)|

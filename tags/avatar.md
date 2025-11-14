@@ -1,4 +1,4 @@
-# avatar : 15
+# avatar : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |8622|[8622_Generate_AI_Avatar_Videos_from_Text_with_HeyGen_and_Upload_to_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8622_Generate_AI_Avatar_Videos_from_Text_with_HeyGen_and_Upload_to_YouTube.json)|
 |8912|[8912_Create___Share_Lip-Synced_Avatar_Videos_with_Infinitalk_AI___Upload_to_TikTok_YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8912_Create___Share_Lip-Synced_Avatar_Videos_with_Infinitalk_AI___Upload_to_TikTok_YouTube.json)|
 |9251|[9251_Turn_TikTok_Comments_into_AI_Avatar_Videos_with_Dumpling_AI__GPT-4___Captions.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9251_Turn_TikTok_Comments_into_AI_Avatar_Videos_with_Dumpling_AI__GPT-4___Captions.ai.json)|
+|10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|

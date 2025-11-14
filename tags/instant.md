@@ -1,4 +1,4 @@
-# instant : 14
+# instant : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |7432|[7432_Instant_Gmail_Notifications_for_Google_Form_Submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7432_Instant_Gmail_Notifications_for_Google_Form_Submissions.json)|
 |9611|[9611_AI-Powered_NDA_Review___Instant_Alert_System_-_Jotform__Gemini__Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9611_AI-Powered_NDA_Review___Instant_Alert_System_-_Jotform__Gemini__Telegram.json)|
 |9941|[9941_Track_freelance_jobs_from_Apify_and_get_instant_WhatsApp_alerts_for_new_leads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9941_Track_freelance_jobs_from_Apify_and_get_instant_WhatsApp_alerts_for_new_leads.json)|
+|10634|[10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json)|

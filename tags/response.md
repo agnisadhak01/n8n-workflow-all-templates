@@ -1,4 +1,4 @@
-# response : 44
+# response : 45
 
 |id|file|
 |----|----|
@@ -45,4 +45,5 @@
 |9818|[9818_Generate_Text___Image_Responses_in_Telegram_Channels_with_GPT-4_and_TGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9818_Generate_Text___Image_Responses_in_Telegram_Channels_with_GPT-4_and_TGPT.json)|
 |9826|[9826_Automate_Incident_Response_with_Jira__Slack__Google_Sheets___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9826_Automate_Incident_Response_with_Jira__Slack__Google_Sheets___Drive.json)|
 |9967|[9967_Personalized_Lead_Response_with_AI_Videos_using_Scout__GPT-4__and_HeyGen.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9967_Personalized_Lead_Response_with_AI_Videos_using_Scout__GPT-4__and_HeyGen.json)|
+|10559|[10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json)|
 |10586|[10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json)|

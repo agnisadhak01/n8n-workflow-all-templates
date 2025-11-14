@@ -1,4 +1,4 @@
-# subscribers : 8
+# subscribers : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |5992|[5992_Automatic_Subscriber_Creation_in_Beehiiv_from_Systeme.io_Funnel_Optins.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5992_Automatic_Subscriber_Creation_in_Beehiiv_from_Systeme.io_Funnel_Optins.json)|
 |7681|[7681_Sync_New_Subscribers_from_Google_Sheets_to_MailerLite_without_Duplicates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7681_Sync_New_Subscribers_from_Google_Sheets_to_MailerLite_without_Duplicates.json)|
 |7688|[7688_Send_Daily_Inspirational_Quotes_with_Gemini_Translation_to_Telegram_Subscribers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7688_Send_Daily_Inspirational_Quotes_with_Gemini_Translation_to_Telegram_Subscribers.json)|
+|10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|

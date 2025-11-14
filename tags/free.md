@@ -1,4 +1,4 @@
-# free : 25
+# free : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |9747|[9747_Transcribe_Youtube_Videos_for_Free_with_youtube-transcript.io___save_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9747_Transcribe_Youtube_Videos_for_Free_with_youtube-transcript.io___save_to_Supabase.json)|
 |10200|[10200_Perform_Multi-type_DNS_Lookups_with_Google_s_Free_Public_DNS_Service.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10200_Perform_Multi-type_DNS_Lookups_with_Google_s_Free_Public_DNS_Service.json)|
 |10391|[10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json)|
+|10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|

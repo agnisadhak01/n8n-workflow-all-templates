@@ -1,4 +1,4 @@
-# turn : 24
+# turn : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |8222|[8222_Turn_Ideas_into_Movies_with_DeepSeek__RunwayML__ElevenLabs___Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8222_Turn_Ideas_into_Movies_with_DeepSeek__RunwayML__ElevenLabs___Creatomate.json)|
 |8564|[8564_Turn_Text_into_Cinematic_Videos_using_GPT-4__Dumpling_FLUX.1_Pro__and_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8564_Turn_Text_into_Cinematic_Videos_using_GPT-4__Dumpling_FLUX.1_Pro__and_Veo_3.json)|
 |9251|[9251_Turn_TikTok_Comments_into_AI_Avatar_Videos_with_Dumpling_AI__GPT-4___Captions.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9251_Turn_TikTok_Comments_into_AI_Avatar_Videos_with_Dumpling_AI__GPT-4___Captions.ai.json)|
+|10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|

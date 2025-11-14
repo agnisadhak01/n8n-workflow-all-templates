@@ -1,4 +1,4 @@
-# dynamic : 50
+# dynamic : 51
 
 |id|file|
 |----|----|
@@ -52,3 +52,4 @@
 |10102|[10102_Dynamic_Hubspot_Lead_Routing_with_GPT-4_and_Airtable_Sales_Team_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10102_Dynamic_Hubspot_Lead_Routing_with_GPT-4_and_Airtable_Sales_Team_Distribution.json)|
 |10223|[10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json)|
 |10450|[10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json)|
+|10681|[10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json)|

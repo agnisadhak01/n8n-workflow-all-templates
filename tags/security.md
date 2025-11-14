@@ -1,4 +1,4 @@
-# security : 36
+# security : 37
 
 |id|file|
 |----|----|
@@ -38,3 +38,4 @@
 |8792|[8792_Monitor_VPS_Security_with_GPT-4_Mini_Analysis_via_SSH_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8792_Monitor_VPS_Security_with_GPT-4_Mini_Analysis_via_SSH_and_Telegram_Alerts.json)|
 |9735|[9735_Subdomain_Enumeration_with_Subfinder__HTTPX___GPT-4-Mini_for_Security_Reconnaissance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9735_Subdomain_Enumeration_with_Subfinder__HTTPX___GPT-4-Mini_for_Security_Reconnaissance.json)|
 |10112|[10112_Automated_Weekly_Security_Audit_Reports_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10112_Automated_Weekly_Security_Audit_Reports_with_Gmail_Delivery.json)|
+|10801|[10801_Scan_Single_URLs_for_Security_Vulnerabilities_with_GPT-4__JS__PHP__Python.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10801_Scan_Single_URLs_for_Security_Vulnerabilities_with_GPT-4__JS__PHP__Python.json)|

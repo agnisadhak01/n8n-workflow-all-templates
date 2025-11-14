@@ -1,4 +1,4 @@
-# metadata : 17
+# metadata : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |8691|[8691_Sitemap.xml_Metadata_Export_to_Google_Sheets__Title__Meta_Description__and_URLs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8691_Sitemap.xml_Metadata_Export_to_Google_Sheets__Title__Meta_Description__and_URLs.json)|
 |9994|[9994_Automated_Academic_Paper_Metadata___Variable_Extraction_with_Gemini_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9994_Automated_Academic_Paper_Metadata___Variable_Extraction_with_Gemini_to_Google_Sheets.json)|
 |10404|[10404_Export_Icon_Metadata_from_Iconfinder_to_HTML___CSV_with_Previews.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10404_Export_Icon_Metadata_from_Iconfinder_to_HTML___CSV_with_Previews.json)|
+|10619|[10619_Automated_YouTube_Publishing_from_Drive_with_GPT___Gemini_Metadata_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10619_Automated_YouTube_Publishing_from_Drive_with_GPT___Gemini_Metadata_Generation.json)|

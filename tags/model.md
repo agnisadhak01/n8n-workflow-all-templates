@@ -1,4 +1,4 @@
-# model : 36
+# model : 37
 
 |id|file|
 |----|----|
@@ -38,3 +38,4 @@
 |9497|[9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json)|
 |9971|[9971_Track_AI_Model_Executions_with_LangFuse_Observability_for_Better_Performance_Insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9971_Track_AI_Model_Executions_with_LangFuse_Observability_for_Better_Performance_Insights.json)|
 |10214|[10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json)|
+|10615|[10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json)|

@@ -1,4 +1,4 @@
-# decodo : 12
+# decodo : 16
 
 |id|file|
 |----|----|
@@ -14,3 +14,7 @@
 |9982|[9982_Weekly_SEO_Watchlist_Audit_to_Google_Sheets_with_Gemini_and_Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9982_Weekly_SEO_Watchlist_Audit_to_Google_Sheets_with_Gemini_and_Decodo.json)|
 |9985|[9985_Analyze_Trustpilot___Sitejabber_sentiment_with_Decodo___Gemini_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9985_Analyze_Trustpilot___Sitejabber_sentiment_with_Decodo___Gemini_to_Sheets.json)|
 |10002|[10002_Track_Competitor_SEO_Keywords_with_Decodo___GPT-4.1-mini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10002_Track_Competitor_SEO_Keywords_with_Decodo___GPT-4.1-mini___Google_Sheets.json)|
+|10648|[10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json)|
+|10689|[10689_Automated_SEO_Watchlist__Continuous_Audits_with_Decodo__Gemini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10689_Automated_SEO_Watchlist__Continuous_Audits_with_Decodo__Gemini___Google_Sheets.json)|
+|10692|[10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json)|
+|10760|[10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json)|

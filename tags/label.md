@@ -1,4 +1,4 @@
-# label : 12
+# label : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |7759|[7759_Automatically_Label_Gmail_Emails_with_GPT-5_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7759_Automatically_Label_Gmail_Emails_with_GPT-5_Classification.json)|
 |8080|[8080_Intelligent_Gmail_Label_Management_with_AI___Discord_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8080_Intelligent_Gmail_Label_Management_with_AI___Discord_Notifications.json)|
 |8357|[8357_Auto-Label_Gmail_Emails_using_Gemini_2.5_Pro_AI_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8357_Auto-Label_Gmail_Emails_using_Gemini_2.5_Pro_AI_Classification.json)|
+|10664|[10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json)|

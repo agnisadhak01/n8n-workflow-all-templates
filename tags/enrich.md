@@ -1,4 +1,4 @@
-# enrich : 60
+# enrich : 63
 
 |id|file|
 |----|----|
@@ -62,3 +62,6 @@
 |9391|[9391_Validate_and_Enrich_JotForm_Leads_with_Reoon_Email_Verification_and_Apollo_in_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9391_Validate_and_Enrich_JotForm_Leads_with_Reoon_Email_Verification_and_Apollo_in_Sheets.json)|
 |9433|[9433_Enrich_and_Score_Leads_Automatically_with_Claude_AI__PDL_and_Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9433_Enrich_and_Score_Leads_Automatically_with_Claude_AI__PDL_and_Perplexity.json)|
 |10125|[10125_Enrich_HubSpot_Companies_with_Polish_CEIDG_Data_using_NIP_Identifiers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10125_Enrich_HubSpot_Companies_with_Polish_CEIDG_Data_using_NIP_Identifiers.json)|
+|10648|[10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10648_Search___Enrich__Smart_Keyword_Analysis_with_Decodo___OpenAI_GPT-4.1-mini.json)|
+|10668|[10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json)|
+|10760|[10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json)|

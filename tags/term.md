@@ -1,4 +1,4 @@
-# term : 7
+# term : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |3505|[3505_Extract_University_Term_Dates_from_Excel_using_CloudFlare_Markdown_Conversion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3505_Extract_University_Term_Dates_from_Excel_using_CloudFlare_Markdown_Conversion.json)|
 |4096|[4096_Tesla_15min_Indicators_Tool__Short-Term_AI_Technical_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4096_Tesla_15min_Indicators_Tool__Short-Term_AI_Technical_Analysis.json)|
 |4097|[4097_Tesla_1hour_Indicators_Tool__Mid-Term_Technical_Analysis_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4097_Tesla_1hour_Indicators_Tool__Mid-Term_Technical_Analysis_AI.json)|
+|10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|

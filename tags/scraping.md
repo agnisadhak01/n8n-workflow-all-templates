@@ -1,4 +1,4 @@
-# scraping : 59
+# scraping : 60
 
 |id|file|
 |----|----|
@@ -61,3 +61,4 @@
 |9889|[9889_Automate_YP.com_Directory_Scraping_to_Google_Sheets_using_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9889_Automate_YP.com_Directory_Scraping_to_Google_Sheets_using_BrowserAct.json)|
 |9980|[9980_Match_Resumes_to_Jobs_Automatically_with_Gemini_AI_and_Decodo_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9980_Match_Resumes_to_Jobs_Automatically_with_Gemini_AI_and_Decodo_Scraping.json)|
 |10143|[10143_Create_Personalized_Email_Outreach_with_AI__Telegram_Bot___Website_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10143_Create_Personalized_Email_Outreach_with_AI__Telegram_Bot___Website_Scraping.json)|
+|10624|[10624_Automate_Singapore_COE_Price_Analysis___Purchase_Timing_with_GLM-4.5_AI_Predictions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10624_Automate_Singapore_COE_Price_Analysis___Purchase_Timing_with_GLM-4.5_AI_Predictions.json)|

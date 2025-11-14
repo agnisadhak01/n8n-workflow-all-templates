@@ -1,4 +1,4 @@
-# scripts : 10
+# scripts : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |9342|[9342_Generate_YouTube_Scripts_for_Shorts___Long-Form_with_Gemini_AI_and_Tavily_Research.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9342_Generate_YouTube_Scripts_for_Shorts___Long-Form_with_Gemini_AI_and_Tavily_Research.json)|
 |9858|[9858_Transforming_Scripts_into_Engaging_Instagram_Reels_with_Blotato__Featuring_Unique_Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9858_Transforming_Scripts_into_Engaging_Instagram_Reels_with_Blotato__Featuring_Unique_Human_Review.json)|
 |10303|[10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json)|
+|10649|[10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json)|

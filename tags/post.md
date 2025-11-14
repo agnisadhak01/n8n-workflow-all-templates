@@ -1,4 +1,4 @@
-# post : 181
+# post : 182
 
 |id|file|
 |----|----|
@@ -183,3 +183,4 @@
 |10296|[10296_Automate_Telegram_Channel_Post_Reactions_with_Bot_Rotation___GPT-5-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10296_Automate_Telegram_Channel_Post_Reactions_with_Bot_Rotation___GPT-5-mini.json)|
 |10300|[10300_Auto-Translate_YouTube_Videos_to_Japanese_with_DeepL_and_Post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10300_Auto-Translate_YouTube_Videos_to_Japanese_with_DeepL_and_Post_to_Slack.json)|
 |10327|[10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json)|
+|10786|[10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json)|

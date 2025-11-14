@@ -1,4 +1,4 @@
-# enrichment : 51
+# enrichment : 54
 
 |id|file|
 |----|----|
@@ -53,3 +53,6 @@
 |9945|[9945_Scrape_Detailed_GitHub_Profiles_to_Google_Sheets_Using_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9945_Scrape_Detailed_GitHub_Profiles_to_Google_Sheets_Using_BrowserAct.json)|
 |9991|[9991_Automated_Instagram_Lead_Enrichment_with_AI_Insights___KlickTipp_CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9991_Automated_Instagram_Lead_Enrichment_with_AI_Insights___KlickTipp_CRM_Integration.json)|
 |10203|[10203_Smart_Lead_Qualification___Routing_from_Typeform_to_HubSpot_with_Data_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10203_Smart_Lead_Qualification___Routing_from_Typeform_to_HubSpot_with_Data_Enrichment.json)|
+|10668|[10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json)|
+|10726|[10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json)|
+|10760|[10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json)|

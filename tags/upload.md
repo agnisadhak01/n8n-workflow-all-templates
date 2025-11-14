@@ -1,4 +1,4 @@
-# upload : 87
+# upload : 92
 
 |id|file|
 |----|----|
@@ -89,3 +89,8 @@
 |10265|[10265_Bilibili_Video_Downloader_with_Google_Drive_Upload___Email_Notification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10265_Bilibili_Video_Downloader_with_Google_Drive_Upload___Email_Notification.json)|
 |10299|[10299_Upload_Files_to_Dropbox_and_Generate_Direct_Download_Links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10299_Upload_Files_to_Dropbox_and_Generate_Direct_Download_Links.json)|
 |10347|[10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json)|
+|10614|[10614_AI-Driven_Video_Creation___Upload_to_Instagram__TikTok___YouTube_from_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10614_AI-Driven_Video_Creation___Upload_to_Instagram__TikTok___YouTube_from_Drive.json)|
+|10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|
+|10649|[10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json)|
+|10671|[10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10671_AI-Enhanced_Telegram_to_WordPress_Publishing_with_GPT-4_Rewriting_and_Media_Upload.json)|
+|10711|[10711_Upload_Large_Files_to_Dropbox_with_Chunking___Web_UI_Progress_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10711_Upload_Large_Files_to_Dropbox_with_Chunking___Web_UI_Progress_Tracking.json)|

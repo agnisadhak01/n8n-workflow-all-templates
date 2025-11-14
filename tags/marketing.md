@@ -1,4 +1,4 @@
-# marketing : 57
+# marketing : 59
 
 |id|file|
 |----|----|
@@ -59,3 +59,5 @@
 |10024|[10024_Sync_Eventbrite_Orders___Refunds_to_KlickTipp_for_Automated_Event_Marketing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10024_Sync_Eventbrite_Orders___Refunds_to_KlickTipp_for_Automated_Event_Marketing.json)|
 |10149|[10149_Track_Marketing_Channel_Performance_with_HighLevel__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10149_Track_Marketing_Channel_Performance_with_HighLevel__Google_Sheets__and_Slack.json)|
 |10220|[10220_Generate_Event_Marketing_Content_with_GPT-4__Google_Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10220_Generate_Event_Marketing_Content_with_GPT-4__Google_Sheets___Slack.json)|
+|10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
+|10786|[10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json)|

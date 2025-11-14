@@ -1,4 +1,4 @@
-# hotel : 8
+# hotel : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |9811|[9811_Transform_Hotel_Guest_Feedback_with_GPT-4_Sentiment_Analysis___Service_Recovery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9811_Transform_Hotel_Guest_Feedback_with_GPT-4_Sentiment_Analysis___Service_Recovery.json)|
 |10214|[10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json)|
 |10390|[10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10390_Automated_Hotel_Price_Drop_Alerts_with_Email_Notifications_and_Database_Tracking.json)|
+|10578|[10578_Automate_Hotel_Booking_Requests_from_Gmail_to_Google_Sheets_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10578_Automate_Hotel_Booking_Requests_from_Gmail_to_Google_Sheets_with_GPT-4o-mini.json)|

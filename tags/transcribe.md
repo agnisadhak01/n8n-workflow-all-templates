@@ -1,4 +1,4 @@
-# transcribe : 24
+# transcribe : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |9625|[9625_Transcribing_Telegram_voice_messages_using_Whisper_and_Gemini_with_a_fallback_mechanism.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9625_Transcribing_Telegram_voice_messages_using_Whisper_and_Gemini_with_a_fallback_mechanism.json)|
 |9747|[9747_Transcribe_Youtube_Videos_for_Free_with_youtube-transcript.io___save_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9747_Transcribe_Youtube_Videos_for_Free_with_youtube-transcript.io___save_to_Supabase.json)|
 |10255|[10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json)|
+|10652|[10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json)|

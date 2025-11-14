@@ -1,4 +1,4 @@
-# sending : 8
+# sending : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |6228|[6228_Simple_SMS_Messaging_System_with_Textbelt_API_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6228_Simple_SMS_Messaging_System_with_Textbelt_API_Integration.json)|
 |8960|[8960_Generating_Tax_Summaries_from_Stripe__Storing_in_Google_Sheets__and_Sending_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8960_Generating_Tax_Summaries_from_Stripe__Storing_in_Google_Sheets__and_Sending_Slack_Alerts.json)|
 |9686|[9686_Monitoring_Team_Capacity_in_Jira_and_Sending_Alerts_for_Over-Allocation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9686_Monitoring_Team_Capacity_in_Jira_and_Sending_Alerts_for_Over-Allocation.json)|
+|10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|
+|10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|

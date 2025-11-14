@@ -1,4 +1,4 @@
-# quickbooks : 32
+# quickbooks : 34
 
 |id|file|
 |----|----|
@@ -34,3 +34,5 @@
 |9760|[9760_Automated_Invoice_Generation___Payment_Reminders_with_QuickBooks__Jotform___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9760_Automated_Invoice_Generation___Payment_Reminders_with_QuickBooks__Jotform___GPT-4o.json)|
 |9763|[9763_Automate_Invoice_Creation___Smart_Reminders_with_Jotform__QuickBooks___Outlook_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9763_Automate_Invoice_Creation___Smart_Reminders_with_Jotform__QuickBooks___Outlook_AI.json)|
 |10486|[10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json)|
+|10553|[10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json)|
+|10558|[10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json)|

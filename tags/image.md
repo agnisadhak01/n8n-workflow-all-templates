@@ -1,4 +1,4 @@
-# image : 181
+# image : 183
 
 |id|file|
 |----|----|
@@ -183,3 +183,5 @@
 |10129|[10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json)|
 |10133|[10133_Verify_Emails___Generate_Resume_Cards_with_VerifiEmail__HTML_CSS_to_Image___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10133_Verify_Emails___Generate_Resume_Cards_with_VerifiEmail__HTML_CSS_to_Image___Gmail.json)|
 |10466|[10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10466_AI_Image_Generation___Editing_with_Google_Gemini_and_Telegram_Bot.json)|
+|10731|[10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json)|
+|10754|[10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json)|

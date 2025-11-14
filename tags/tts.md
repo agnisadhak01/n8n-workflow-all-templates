@@ -1,4 +1,4 @@
-# tts : 15
+# tts : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |9521|[9521_Convert_PDF_Articles_to_Audio_Podcasts_with_Google_TTS___Cloudflare_R2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9521_Convert_PDF_Articles_to_Audio_Podcasts_with_Google_TTS___Cloudflare_R2.json)|
 |10103|[10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json)|
 |10297|[10297_Convert_Websites_to_Audio_Summaries_via_WhatsApp_using_GPT_and_TTS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10297_Convert_Websites_to_Audio_Summaries_via_WhatsApp_using_GPT_and_TTS.json)|
+|10649|[10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json)|

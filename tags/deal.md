@@ -1,4 +1,4 @@
-# deal : 20
+# deal : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |9515|[9515_Sync_Attio_CRM_with_Jotform___Slack_for_Deal_Updates___Sales_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9515_Sync_Attio_CRM_with_Jotform___Slack_for_Deal_Updates___Sales_Alerts.json)|
 |10325|[10325_Automate_Inactive_Deal_Cleanup_from_GoHighLevel_to_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10325_Automate_Inactive_Deal_Cleanup_from_GoHighLevel_to_Slack_and_Sheets.json)|
 |10398|[10398_Smart_CSM_Assignment___AI_Welcome_Emails_for_HubSpot_Deal_Wins_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10398_Smart_CSM_Assignment___AI_Welcome_Emails_for_HubSpot_Deal_Wins_with_Gmail.json)|
+|10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|

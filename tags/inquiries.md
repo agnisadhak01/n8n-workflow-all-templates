@@ -1,4 +1,4 @@
-# inquiries : 6
+# inquiries : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |9876|[9876_Automated_DHL_Shipment_Tracking_Bot_for_Web_Forms_and_Email_Inquiries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9876_Automated_DHL_Shipment_Tracking_Bot_for_Web_Forms_and_Email_Inquiries.json)|
 |10114|[10114_Manage_Customer_Inquiries_from_Email___Web_Forms_with_Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10114_Manage_Customer_Inquiries_from_Email___Web_Forms_with_Slack___Google_Sheets.json)|
 |10240|[10240_Handle_WhatsApp_Customer_Inquiries_with_AI_and_Intent_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10240_Handle_WhatsApp_Customer_Inquiries_with_AI_and_Intent_Routing.json)|
+|10557|[10557_Classify_and_Respond_to_Facebook_Messenger_Inquiries_with_GPT-4__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10557_Classify_and_Respond_to_Facebook_Messenger_Inquiries_with_GPT-4__Slack_and_Sheets.json)|

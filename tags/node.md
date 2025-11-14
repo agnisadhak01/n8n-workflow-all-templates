@@ -1,4 +1,4 @@
-# node : 51
+# node : 52
 
 |id|file|
 |----|----|
@@ -53,3 +53,4 @@
 |8780|[8780_Re-Access_Binary_Data_from_Any_Previous_Node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8780_Re-Access_Binary_Data_from_Any_Previous_Node.json)|
 |9571|[9571_Implement_Error-Proof_Switch_Node_Fallbacks_for_Reliable_Workflow_Control.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9571_Implement_Error-Proof_Switch_Node_Fallbacks_for_Reliable_Workflow_Control.json)|
 |10317|[10317_Auto-Rename_Workflow_Nodes_with_AI__Gemini_Claude__for_Better_Readability.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10317_Auto-Rename_Workflow_Nodes_with_AI__Gemini_Claude__for_Better_Readability.json)|
+|10645|[10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json)|

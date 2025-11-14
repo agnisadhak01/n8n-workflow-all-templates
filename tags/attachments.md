@@ -1,4 +1,4 @@
-# attachments : 16
+# attachments : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |6938|[6938_Automatically_Save___Organize_Outlook_Email_Attachments_in_OneDrive_Folders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6938_Automatically_Save___Organize_Outlook_Email_Attachments_in_OneDrive_Folders.json)|
 |7585|[7585_Automatically_Rename_Gmail_Attachments_with_GPT-4o_and_Save_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7585_Automatically_Rename_Gmail_Attachments_with_GPT-4o_and_Save_to_Google_Drive.json)|
 |8813|[8813_Automated_Slack-to-Jira_Issue_Creation_with_Attachments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8813_Automated_Slack-to-Jira_Issue_Creation_with_Attachments.json)|
+|10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|

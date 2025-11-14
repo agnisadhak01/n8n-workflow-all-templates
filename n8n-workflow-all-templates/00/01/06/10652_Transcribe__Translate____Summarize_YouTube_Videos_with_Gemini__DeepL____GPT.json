@@ -1,0 +1,616 @@
+{
+  "id": "ikCnJTZNLOyF8pI0",
+  "meta": {
+    "site": "https://github.com/zengfr/n8n-workflow-all-templates",
+    "name": "Transcribe, Translate, & Summarize YouTube Videos with Gemini, DeepL, & GPT",
+    "wechat": "youandme10086",
+    "id": 10652,
+    "update_time": "2025-11-14"
+  },
+  "name": "AI-Driven YouTube Summarizer",
+  "tags": [],
+  "nodes": [
+    {
+      "id": "a250cd20-700f-4baa-afcc-8624b3f3be42",
+      "name": "Run once a day",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "position": [
+        720,
+        -48
+      ],
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours"
+            }
+          ]
+        }
+      },
+      "typeVersion": 1.2
+    },
+    {
+      "id": "004071f8-3915-4713-bf02-20aee102eda9",
+      "name": "OpenAI Chat Model (for Summary)",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "position": [
+        2048,
+        176
+      ],
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "mode": "list",
+          "value": "gpt-4.1-mini"
+        },
+        "options": {}
+      },
+      "typeVersion": 1.2
+    },
+    {
+      "id": "4ec8980d-cb8c-4a03-94a4-28663bd609d7",
+      "name": "Set: Prepare Summary",
+      "type": "n8n-nodes-base.set",
+      "position": [
+        2544,
+        -144
+      ],
+      "parameters": {
+        "options": {},
+        "assignments": {
+          "assignments": [
+            {
+              "id": "id-1",
+              "name": "documentTitle",
+              "type": "string",
+              "value": "={{ $json.title }}"
+            },
+            {
+              "id": "id-2",
+              "name": "documentContent",
+              "type": "string",
+              "value": "={{ $json.summary }}"
+            }
+          ]
+        },
+        "includeOtherFields": true
+      },
+      "typeVersion": 3.4
+    },
+    {
+      "id": "5ebf335b-0e24-4976-9c39-d387025a4a3a",
+      "name": "DeepL: Translate to Japanese",
+      "type": "n8n-nodes-base.deepL",
+      "position": [
+        1744,
+        -48
+      ],
+      "parameters": {
+        "text": "={{ $json.output }}",
+        "translateTo": "JA",
+        "additionalFields": {}
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "2edcbae0-9871-49e2-a67f-f35ca064533d",
+      "name": "Agent: Summarize Japanese Text",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "position": [
+        1968,
+        -48
+      ],
+      "parameters": {
+        "text": "=あなたは、複雑な文章を誰にでも分かりやすく要約するプロの編集者です。\n\n以下の【原文】として与えられた日本語テキストの内容でタイトルを作成し、最も重要なポイントを3〜5個の箇条書きで、簡潔に要約してください。\n\n# 要約のルール\n- 専門用語は避け、中学生にも理解できるような平易な言葉を使うこと。\n- 各箇条書きは、一つの明確なメッセージを伝えること。\n- 前置きや挨拶、結びの言葉は一切含めず、箇条書きの結果のみを出力すること。\n\n【原文】\n{{ $json.text }}",
+        "options": {},
+        "promptType": "define"
+      },
+      "typeVersion": 3
+    },
+    {
+      "id": "03d4d99b-ea37-4571-a552-960b2f8c73fe",
+      "name": "Google Drive: Save Summary",
+      "type": "n8n-nodes-base.googleDrive",
+      "position": [
+        2768,
+        -144
+      ],
+      "parameters": {
+        "name": "={{ $json.documentTitle }}",
+        "content": "={{ $json.documentContent }}",
+        "driveId": {
+          "__rl": true,
+          "mode": "list",
+          "value": "My Drive",
+          "cachedResultUrl": "https://drive.google.com/drive/my-drive",
+          "cachedResultName": "My Drive"
+        },
+        "options": {},
+        "folderId": {
+          "__rl": true,
+          "mode": "list",
+          "value": "1MtnyiN2oFbaoyNR7PtOLW2m0297IyVDk",
+          "cachedResultUrl": "https://drive.google.com/drive/folders/1MtnyiN2oFbaoyNR7PtOLW2m0297IyVDk",
+          "cachedResultName": "AI-Driven YouTube Summarizer"
+        },
+        "operation": "createFromText"
+      },
+      "typeVersion": 3
+    },
+    {
+      "id": "f02f1b9a-664a-46b2-85e2-a75d93020238",
+      "name": "Google Gemini Model (for Transcription)",
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "position": [
+        1456,
+        176
+      ],
+      "parameters": {
+        "options": {}
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "b88aae03-8fd1-46dd-81f1-a442a621d00f",
+      "name": "Agent: Transcribe Video",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "position": [
+        1392,
+        -48
+      ],
+      "parameters": {
+        "text": "You are an expert transcriber. Please provide the complete, full transcription in English for the YouTube video at the following URL. Output only the raw text of the transcription.\n\nVideo URL: https://www.youtube.com/watch?v={{ $('YouTube: Get Latest Video').json.snippet.resourceId.videoId }}",
+        "options": {},
+        "promptType": "define"
+      },
+      "typeVersion": 3
+    },
+    {
+      "id": "6c24d05d-d3f0-4033-a5b2-02ecc098fd41",
+      "name": "Set: Prepare Full Translation",
+      "type": "n8n-nodes-base.set",
+      "position": [
+        2544,
+        48
+      ],
+      "parameters": {
+        "options": {},
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7700bbc7-a52a-4836-a2d8-45784ee5fa5a",
+              "name": "documentTitle",
+              "type": "string",
+              "value": "={{ $json.title }}"
+            },
+            {
+              "id": "df6d841c-4d02-472b-8a96-bbea9357d28a",
+              "name": "=documentContent",
+              "type": "string",
+              "value": "={{ $('DeepL: Translate to Japanese').item.json.text }}"
+            }
+          ]
+        }
+      },
+      "typeVersion": 3.4
+    },
+    {
+      "id": "25892bdf-1118-47dc-86ed-d6b2e99d127c",
+      "name": "Google Drive: Save Full Translation",
+      "type": "n8n-nodes-base.googleDrive",
+      "position": [
+        2768,
+        48
+      ],
+      "parameters": {
+        "name": "={{ $json.documentTitle }}",
+        "content": "={{ $json.documentContent }}",
+        "driveId": {
+          "__rl": true,
+          "mode": "list",
+          "value": "My Drive",
+          "cachedResultUrl": "https://drive.google.com/drive/my-drive",
+          "cachedResultName": "My Drive"
+        },
+        "options": {},
+        "folderId": {
+          "__rl": true,
+          "mode": "list",
+          "value": "17AE9ctWOHvzzsQR65ixYDnY0DXY7FVQS",
+          "cachedResultUrl": "https://drive.google.com/drive/folders/17AE9ctWOHvzzsQR65ixYDnY0DXY7FVQS",
+          "cachedResultName": "全文"
+        },
+        "operation": "createFromText"
+      },
+      "typeVersion": 3
+    },
+    {
+      "id": "8097cde4-990e-4add-9fa5-adb1159f4f5f",
+      "name": "YouTube: Get Latest Video",
+      "type": "n8n-nodes-base.youTube",
+      "position": [
+        1168,
+        -48
+      ],
+      "parameters": {
+        "limit": 1,
+        "options": {},
+        "resource": "playlistItem",
+        "operation": "getAll",
+        "playlistId": "={{ $json.contentDetails.relatedPlaylists.uploads }}"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "e530bf93-77f0-47ff-b22f-ff9fb8f511dc",
+      "name": "YouTube: Get Channel by ID",
+      "type": "n8n-nodes-base.youTube",
+      "position": [
+        944,
+        -48
+      ],
+      "parameters": {
+        "channelId": "UCiHVTkJtWSdc9N3h0nUGWLg",
+        "operation": "get"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "dc2e1bfe-fe20-45e9-82d4-e8be1498f5c1",
+      "name": "Code: Split Summary and Title",
+      "type": "n8n-nodes-base.code",
+      "position": [
+        2320,
+        -48
+      ],
+      "parameters": {
+        "jsCode": "// 賢者から渡された、一枚の報告書（Item）を受け取る\nconst item = $input.item.json;\n// 報告書の中の、賢者の言葉（output）を取り出す\nconst fullText = item.output;\n\n// 報告書を「タイトル：」と「要約」に分割するための魔法\n// まずは「改行」で上下に分ける\nconst parts = fullText.split('\\n\\n');\n\n// 上半分から「タイトル：」という飾り文字を取り除き、題名だけを抜き出す\nconst title = parts[0].replace('タイトル：', '').trim();\n\n// 下半分は、そのまま要約として扱う\nconst summary = parts[1].trim();\n\n// 新しい報告書を作成し、純粋な「title」と「summary」だけを入れる\nitem.title = title;\nitem.summary = summary;\n\n// 元の賢者の言葉（output）はもう不要なので、削除する\ndelete item.output;\n\n// 完成した、新しい報告書を次の小人へ渡す\nreturn item;"
+      },
+      "typeVersion": 2
+    },
+    {
+      "id": "caa6ba4f-9643-4e92-87a8-5005d8fcea29",
+      "name": "Sticky Note",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        416,
+        -832
+      ],
+      "parameters": {
+        "color": null,
+        "height": 1184,
+        "content": "## AI-Driven YouTube Summarizer\n\nThis workflow automatically monitors a YouTube channel for new videos, transcribes them, translates the content, generates a concise summary, and saves the results to Google Drive.\n\n### How It Works\n1.  **Schedule:** The workflow runs once a day to check for new content.\n2.  **Fetch Video:** It identifies a specific YouTube channel and retrieves its latest uploaded video.\n3.  **Transcribe:** Google's Gemini AI transcribes the video's audio into English text.\n4.  **Translate:** The English transcription is translated into Japanese using the DeepL API.\n5.  **Summarize:** OpenAI's GPT model processes the Japanese text to create a simple title and a 3-5 point bulleted summary.\n6.  **Save:** The workflow saves two separate documents to your Google Drive: the final summary and the full Japanese translation.\n\n### How to Set Up\n1.  **Configure Credentials:** Add your credentials for YouTube, Google Gemini, DeepL, OpenAI, and Google Drive in the respective nodes.\n2.  **Set Channel ID:** In the \"Get a channel\" node, replace the existing Channel ID with the ID of the YouTube channel you want to follow.\n3.  **Set Drive Folders:** In the two \"Google Drive\" nodes, update the `Folder ID` to specify where you want to save the summary and the full text files.\n4.  **Activate Workflow:** Save and activate the workflow."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "2118399e-c7a1-4c53-a6ff-f3d3fd3fa919",
+      "name": "Sticky Note1",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        688,
+        -272
+      ],
+      "parameters": {
+        "color": null,
+        "content": "Kicks off the workflow on a daily schedule. You can adjust the trigger interval as needed."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "701951c5-2059-48d1-9970-c66078ad58c7",
+      "name": "Sticky Note2",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        944,
+        -272
+      ],
+      "parameters": {
+        "color": null,
+        "content": "**IMPORTANT:** Enter the YouTube Channel ID you want to monitor here. The workflow will fetch the latest video from this channel."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "591c24e8-052f-4196-b473-e590c34d4cb5",
+      "name": "Sticky Note3",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1200,
+        -272
+      ],
+      "parameters": {
+        "color": null,
+        "content": "Retrieves the most recent video from the channel's upload playlist."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "b9714708-c6a4-4d69-ace6-0413e72e68ae",
+      "name": "Sticky Note4",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1456,
+        -272
+      ],
+      "parameters": {
+        "color": null,
+        "content": "Takes the video URL and instructs the Gemini AI model to generate a full English transcription."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "98aa813c-7462-4dad-9a80-fddc399c35fa",
+      "name": "Sticky Note5",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1392,
+        320
+      ],
+      "parameters": {
+        "color": null,
+        "content": "This is the AI model that will perform the video transcription. You can swap this with another supported model if you prefer."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "47507b5f-3c7e-4a85-ab43-5b03f08dbaea",
+      "name": "Sticky Note6",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1456,
+        -448
+      ],
+      "parameters": {
+        "color": null,
+        "content": "This is the AI model for the summarization step. The prompt is configured to use GPT-4.1 Mini, but you can select a different model."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "e629056d-0d60-4f33-92f0-3630f0b64aed",
+      "name": "Sticky Note7",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1968,
+        -272
+      ],
+      "parameters": {
+        "color": null,
+        "content": "Instructs the OpenAI model to create a concise title and a 3-5 point bulleted summary from the Japanese text, using simple, easy-to-understand language."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "603923f6-e687-4c06-a4bd-4c47e1f5ae00",
+      "name": "Sticky Note8",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1984,
+        320
+      ],
+      "parameters": {
+        "color": null,
+        "content": "This is the AI model for the summarization step. The prompt is configured to use GPT-4.1 Mini, but you can select a different model."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "00174471-9182-4823-99b9-ad62db887ddc",
+      "name": "Sticky Note9",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        2784,
+        -352
+      ],
+      "parameters": {
+        "color": null,
+        "height": 192,
+        "content": "Prepares the summarized title and content for saving to Google Drive. It maps the output from the Code node to new fields.```\n\n### Node: `Google Drive: Save Summary`"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "ebbde3ee-96fb-4525-a926-94b7bfc9156d",
+      "name": "Sticky Note10",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        2480,
+        -320
+      ],
+      "parameters": {
+        "color": null,
+        "content": "### Node: `Set: Prepare Full Translation`"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "1e147526-cf91-4bc8-9f36-176ab3a452a5",
+      "name": "Sticky Note12",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        2528,
+        224
+      ],
+      "parameters": {
+        "color": null,
+        "content": "### Node: `Google Drive: Save Full Translation`"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "37d659b3-fc5e-4981-9ff6-4ab197e055d5",
+      "name": "Sticky Note13",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        2800,
+        224
+      ],
+      "parameters": {
+        "color": null,
+        "content": "### Node: `Google Drive: Save Full Translation`"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "2d1158fc-e6ab-4fd1-ae22-b5ad69678a9f",
+      "name": "Sticky Note14",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        2256,
+        112
+      ],
+      "parameters": {
+        "content": "This utility node splits the AI's summary output into two separate fields: 'title' and 'summary'. This makes it easier to use the data in the final steps."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "46795f6e-e7d5-4bae-87c6-382479617bd3",
+      "name": "Sticky Note15",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1712,
+        -272
+      ],
+      "parameters": {
+        "content": "Translates the English transcription into Japanese using DeepL. You can change the target language in the node's parameters."
+      },
+      "typeVersion": 1
+    }
+  ],
+  "active": false,
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "dba1334f-b01b-4411-9da3-9a21c6408631",
+  "connections": {
+    "Run once a day": {
+      "main": [
+        [
+          {
+            "node": "YouTube: Get Channel by ID",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Set: Prepare Summary": {
+      "main": [
+        [
+          {
+            "node": "Google Drive: Save Summary",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Agent: Transcribe Video": {
+      "main": [
+        [
+          {
+            "node": "DeepL: Translate to Japanese",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "YouTube: Get Latest Video": {
+      "main": [
+        [
+          {
+            "node": "Agent: Transcribe Video",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "YouTube: Get Channel by ID": {
+      "main": [
+        [
+          {
+            "node": "YouTube: Get Latest Video",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "DeepL: Translate to Japanese": {
+      "main": [
+        [
+          {
+            "node": "Agent: Summarize Japanese Text",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code: Split Summary and Title": {
+      "main": [
+        [
+          {
+            "node": "Set: Prepare Summary",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Set: Prepare Full Translation",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Set: Prepare Full Translation": {
+      "main": [
+        [
+          {
+            "node": "Google Drive: Save Full Translation",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Agent: Summarize Japanese Text": {
+      "main": [
+        [
+          {
+            "node": "Code: Split Summary and Title",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model (for Summary)": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Agent: Summarize Japanese Text",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Gemini Model (for Transcription)": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "Agent: Transcribe Video",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,4 +1,4 @@
-# forms : 44
+# forms : 45
 
 |id|file|
 |----|----|
@@ -46,3 +46,4 @@
 |9876|[9876_Automated_DHL_Shipment_Tracking_Bot_for_Web_Forms_and_Email_Inquiries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9876_Automated_DHL_Shipment_Tracking_Bot_for_Web_Forms_and_Email_Inquiries.json)|
 |10114|[10114_Manage_Customer_Inquiries_from_Email___Web_Forms_with_Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10114_Manage_Customer_Inquiries_from_Email___Web_Forms_with_Slack___Google_Sheets.json)|
 |10454|[10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10454_Automate_School_Trip_Consent_Forms_with_Email_Verification__PDF_Generation___Google_Drive.json)|
+|10607|[10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10607_Automate_Candidate_Creation_in_Recrutei_with_GPT-4_Vacancy_Matching___Resume_Parsing.json)|

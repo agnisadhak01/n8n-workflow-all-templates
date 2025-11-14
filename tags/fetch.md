@@ -1,4 +1,4 @@
-# fetch : 22
+# fetch : 23
 
 |id|file|
 |----|----|
@@ -24,3 +24,4 @@
 |8606|[8606_Fetch_Real-Time_Coinbase_Spot_Market_Data_with_GPT-4o___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8606_Fetch_Real-Time_Coinbase_Spot_Market_Data_with_GPT-4o___Telegram.json)|
 |8607|[8607_Fetch_Real-Time_Bitget_Spot_Market_Data_with_GPT-4o___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8607_Fetch_Real-Time_Bitget_Spot_Market_Data_with_GPT-4o___Telegram.json)|
 |8612|[8612_Fetch_Real-Time_MEXC_Spot_Market_Data_with_GPT-4.1-mini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8612_Fetch_Real-Time_MEXC_Spot_Market_Data_with_GPT-4.1-mini_and_Telegram.json)|
+|10599|[10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json)|

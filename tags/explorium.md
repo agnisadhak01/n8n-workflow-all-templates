@@ -1,4 +1,4 @@
-# explorium : 12
+# explorium : 15
 
 |id|file|
 |----|----|
@@ -14,3 +14,6 @@
 |6064|[6064_Enrich_Company_Profiles_with_Explorium_MCP_and_Claude_AI_for_GTM_Research.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6064_Enrich_Company_Profiles_with_Explorium_MCP_and_Claude_AI_for_GTM_Research.json)|
 |7748|[7748_Enrich_Monday.com_Leads___Draft_Personalized_Emails_with_Explorium_MCP_and_GPT-4.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7748_Enrich_Monday.com_Leads___Draft_Personalized_Emails_with_Explorium_MCP_and_GPT-4.1.json)|
 |9935|[9935_Business_Intelligence_Assistant_for_Slack_using_Explorium_MCP___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9935_Business_Intelligence_Assistant_for_Slack_using_Explorium_MCP___Claude_AI.json)|
+|10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|
+|10561|[10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json)|
+|10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|

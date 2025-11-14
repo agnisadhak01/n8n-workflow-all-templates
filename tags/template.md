@@ -1,4 +1,4 @@
-# template : 155
+# template : 157
 
 |id|file|
 |----|----|
@@ -157,3 +157,5 @@
 |10243|[10243_Generate___Send_Quotation_PDFs_from_Pipedrive_to_DottedSign_for_E-Signature.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10243_Generate___Send_Quotation_PDFs_from_Pipedrive_to_DottedSign_for_E-Signature.json)|
 |10262|[10262_Reduce_Meeting_No-Shows_with_Gemini_AI__Email___WhatsApp_Reminders_for_Calendly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10262_Reduce_Meeting_No-Shows_with_Gemini_AI__Email___WhatsApp_Reminders_for_Calendly.json)|
 |10347|[10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json)|
+|10692|[10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10692_Automated_Multi-Platform_Market_Intelligence_Reporting_with_Gemini_AI___Decodo.json)|
+|10755|[10755_Simple_error_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10755_Simple_error_workflow.json)|

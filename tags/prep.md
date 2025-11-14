@@ -1,4 +1,4 @@
-# prep : 7
+# prep : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6748|[6748_Generate_Tailored_Resumes__Cover_Letters___Interview_Prep_from_LinkedIn_Jobs_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6748_Generate_Tailored_Resumes__Cover_Letters___Interview_Prep_from_LinkedIn_Jobs_with_AI.json)|
 |8199|[8199_Automated_Meeting_Prep_with_GPT-5___Gemini_Research_from_Calendar_to_Slack_via_Attio_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8199_Automated_Meeting_Prep_with_GPT-5___Gemini_Research_from_Calendar_to_Slack_via_Attio_CRM.json)|
 |8935|[8935_Meeting_Prep_with_Google_Calendar__Tavily_AI_Research___Gmail_Briefings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8935_Meeting_Prep_with_Google_Calendar__Tavily_AI_Research___Gmail_Briefings.json)|
+|10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|

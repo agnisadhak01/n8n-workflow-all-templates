@@ -1,4 +1,4 @@
-# usage : 16
+# usage : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |7398|[7398_LLM_Usage_Tracker___Cost_Monitor_with_Node-Level_Analytics__v2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7398_LLM_Usage_Tracker___Cost_Monitor_with_Node-Level_Analytics__v2.json)|
 |9497|[9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json)|
 |9733|[9733_Proxmox_System_Monitor_-_VM_Status__Host_Resources___Temperature_Alerts_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9733_Proxmox_System_Monitor_-_VM_Status__Host_Resources___Temperature_Alerts_via_Telegram.json)|
+|10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|

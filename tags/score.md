@@ -1,4 +1,4 @@
-# score : 17
+# score : 18
 
 |id|file|
 |----|----|
@@ -18,4 +18,5 @@
 |9433|[9433_Enrich_and_Score_Leads_Automatically_with_Claude_AI__PDL_and_Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9433_Enrich_and_Score_Leads_Automatically_with_Claude_AI__PDL_and_Perplexity.json)|
 |9832|[9832_Track_Jira_Epic_Health_with_Automated_Risk_Alerts_via_Slack__Monday___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9832_Track_Jira_Epic_Health_with_Automated_Risk_Alerts_via_Slack__Monday___Sheets.json)|
 |10010|[10010_Score_Product-Qualified_Leads_with_Amplitude__Claude___PDL_for_Sales_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10010_Score_Product-Qualified_Leads_with_Amplitude__Claude___PDL_for_Sales_Routing.json)|
+|10550|[10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json)|
 |10586|[10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json)|

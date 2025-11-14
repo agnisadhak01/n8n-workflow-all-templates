@@ -1,4 +1,4 @@
-# channels : 10
+# channels : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |8915|[8915_Filter_Real-time_News_with_Gemini_AI_and_BrowserAct_for_Telegram_Channels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8915_Filter_Real-time_News_with_Gemini_AI_and_BrowserAct_for_Telegram_Channels.json)|
 |9739|[9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json)|
 |9818|[9818_Generate_Text___Image_Responses_in_Telegram_Channels_with_GPT-4_and_TGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9818_Generate_Text___Image_Responses_in_Telegram_Channels_with_GPT-4_and_TGPT.json)|
+|10643|[10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json)|

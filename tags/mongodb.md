@@ -1,4 +1,4 @@
-# mongodb : 15
+# mongodb : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |8071|[8071_Process_Contact_Form_Submissions_with_Validation_and_MongoDB_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8071_Process_Contact_Form_Submissions_with_Validation_and_MongoDB_Storage.json)|
 |8890|[8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json)|
 |9595|[9595_Create_a_Factual_Learning_Assistant_with_RAG__Gemini__Telegram___MongoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9595_Create_a_Factual_Learning_Assistant_with_RAG__Gemini__Telegram___MongoDB.json)|
+|10665|[10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json)|

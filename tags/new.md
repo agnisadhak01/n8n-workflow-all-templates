@@ -1,4 +1,4 @@
-# new : 180
+# new : 181
 
 |id|file|
 |----|----|
@@ -182,3 +182,4 @@
 |9895|[9895_Monitor_Shopify_Stores_for_New_Products_with_BrowserAct_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9895_Monitor_Shopify_Stores_for_New_Products_with_BrowserAct_and_Slack_Alerts.json)|
 |9941|[9941_Track_freelance_jobs_from_Apify_and_get_instant_WhatsApp_alerts_for_new_leads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9941_Track_freelance_jobs_from_Apify_and_get_instant_WhatsApp_alerts_for_new_leads.json)|
 |9973|[9973_Generate_AI-Powered_Roadmaps_for_New_Leads_with_GPT-5_and_Email_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9973_Generate_AI-Powered_Roadmaps_for_New_Leads_with_GPT-5_and_Email_Automation.json)|
+|10643|[10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10643_Monitor_Multiple_YouTube_Channels_with_Real-Time_RocketChat_Alerts.json)|

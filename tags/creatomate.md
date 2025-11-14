@@ -1,4 +1,4 @@
-# creatomate : 13
+# creatomate : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |8263|[8263_Generate___Publish_Professional_Video_Ads_with_Veo_3__Gemini___Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8263_Generate___Publish_Professional_Video_Ads_with_Veo_3__Gemini___Creatomate.json)|
 |8404|[8404_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_Gemini___Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8404_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_Gemini___Creatomate.json)|
 |10308|[10308_Generate_AI_Short-Form_Videos_with_Creatomate__ElevenLabs___Pexels_Stock.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10308_Generate_AI_Short-Form_Videos_with_Creatomate__ElevenLabs___Pexels_Stock.json)|
+|10735|[10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10735_Generate_Animal_Battle_Videos_with_Flux_AI__Creatomate___Multi-Platform_Publishing.json)|

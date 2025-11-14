@@ -1,4 +1,4 @@
-# route : 17
+# route : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |9162|[9162_Qualify___Route_Leads_with_GPT-4o__Clearbit__HubSpot_CRM___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9162_Qualify___Route_Leads_with_GPT-4o__Clearbit__HubSpot_CRM___Slack_Alerts.json)|
 |9682|[9682_Route_Jira_Tasks_to_Experts_Using_Google_Sheets_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9682_Route_Jira_Tasks_to_Experts_Using_Google_Sheets_and_GPT-4o-mini.json)|
 |9739|[9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json)|
+|10592|[10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json)|

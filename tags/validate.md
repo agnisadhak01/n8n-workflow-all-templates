@@ -1,4 +1,4 @@
-# validate : 25
+# validate : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |9503|[9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9503_Validate___Process_Startup_Pitch_Decks_with_Email_Verification___Google_Drive.json)|
 |9738|[9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json)|
 |10329|[10329_Validate_GitHub_Configurations_with_GPT-4o-mini_and_Log_Issues_to_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10329_Validate_GitHub_Configurations_with_GPT-4o-mini_and_Log_Issues_to_Sheets_and_Slack.json)|
+|10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|

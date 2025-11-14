@@ -1,4 +1,4 @@
-# personalized : 120
+# personalized : 121
 
 |id|file|
 |----|----|
@@ -122,3 +122,4 @@
 |10196|[10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json)|
 |10266|[10266_Generate_Personalized_Cold_Emails_with_Anthropic__GPT-4___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10266_Generate_Personalized_Cold_Emails_with_Anthropic__GPT-4___Google_Sheets.json)|
 |10328|[10328_Personalized_Cold_Lead_Re-Engagement_with_Zoho_CRM_and_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10328_Personalized_Cold_Lead_Re-Engagement_with_Zoho_CRM_and_GPT-4o-mini.json)|
+|10561|[10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json)|

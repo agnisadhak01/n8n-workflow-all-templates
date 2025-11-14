@@ -1,4 +1,4 @@
-# version : 24
+# version : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |8428|[8428_Create_Viral_Ads_with_AI__NanoBanana___publish_on_socials_via_upload-post.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8428_Create_Viral_Ads_with_AI__NanoBanana___publish_on_socials_via_upload-post.json)|
 |9792|[9792_Safely_Update_n8n_with_Version_Checks_and_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9792_Safely_Update_n8n_with_Version_Checks_and_Telegram_Notifications.json)|
 |10337|[10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json)|
+|10645|[10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json)|

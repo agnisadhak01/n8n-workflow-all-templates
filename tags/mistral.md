@@ -1,4 +1,4 @@
-# mistral : 48
+# mistral : 49
 
 |id|file|
 |----|----|
@@ -50,3 +50,4 @@
 |10256|[10256_Automate_Job_Searching___Resume_Customization_with_Mistral_AI__LinkedIn___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10256_Automate_Job_Searching___Resume_Customization_with_Mistral_AI__LinkedIn___Google_Sheets.json)|
 |10369|[10369_Automate_Loan_Document_Analysis_with_Mistral_OCR_and_GPT_for_Underwriting_Decisions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10369_Automate_Loan_Document_Analysis_with_Mistral_OCR_and_GPT_for_Underwriting_Decisions.json)|
 |10450|[10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json)|
+|10559|[10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json)|

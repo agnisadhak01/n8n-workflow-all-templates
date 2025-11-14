@@ -1,4 +1,4 @@
-# digital : 10
+# digital : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |8006|[8006_Create_Digital_Checks_with_OnlineCheckWriter_using_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8006_Create_Digital_Checks_with_OnlineCheckWriter_using_Forms.json)|
 |8588|[8588_Automate_Digital_Product_Delivery___Sales_Tracking_with_Stripe__Email__Notion___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8588_Automate_Digital_Product_Delivery___Sales_Tracking_with_Stripe__Email__Notion___Telegram.json)|
 |9063|[9063_Automate_Digital_Product_Sales___Delivery_with_Stripe_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9063_Automate_Digital_Product_Sales___Delivery_with_Stripe_and_Email.json)|
+|10606|[10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json)|

@@ -1,4 +1,4 @@
-# finance : 19
+# finance : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |10107|[10107_Automate_Payroll_Processing_with_GPT-4__Google_Sheets__PDF_Payslips___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10107_Automate_Payroll_Processing_with_GPT-4__Google_Sheets__PDF_Payslips___Slack_Alerts.json)|
 |10109|[10109_Daily_Cash_Flow_Reports_with_Google_Sheets__Slack___Email_for_Finance_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10109_Daily_Cash_Flow_Reports_with_Google_Sheets__Slack___Email_for_Finance_Teams.json)|
 |10111|[10111_AI-Powered_Invoice_Reminder___Payment_Tracker_for_Finance___Accounting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10111_AI-Powered_Invoice_Reminder___Payment_Tracker_for_Finance___Accounting.json)|
+|10776|[10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json)|

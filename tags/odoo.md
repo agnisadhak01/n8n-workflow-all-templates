@@ -1,4 +1,4 @@
-# odoo : 14
+# odoo : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |7993|[7993_Complete_WooCommerce_to_Odoo_Integration__Sync_Orders__Products___Customers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7993_Complete_WooCommerce_to_Odoo_Integration__Sync_Orders__Products___Customers.json)|
 |9148|[9148_Real-time_Sales_Quote_Creation_in_Odoo_via_Telegram_with_Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9148_Real-time_Sales_Quote_Creation_in_Odoo_via_Telegram_with_Google_Gemini_AI.json)|
 |9187|[9187_Manage_Odoo_CRM_with_Natural_Language_using_OpenAI_and_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9187_Manage_Odoo_CRM_with_Natural_Language_using_OpenAI_and_MCP_Server.json)|
+|10599|[10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json)|

@@ -1,4 +1,4 @@
-# flash : 23
+# flash : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |9442|[9442_Enhance_Google_Drive_Images_with_Gemini_2.5_Flash_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9442_Enhance_Google_Drive_Images_with_Gemini_2.5_Flash_AI.json)|
 |9470|[9470_Generate_MemeCoin_Art_with_Gemini_Flash___NanoBanana_and_Post_to_Twitter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9470_Generate_MemeCoin_Art_with_Gemini_Flash___NanoBanana_and_Post_to_Twitter.json)|
 |10185|[10185_Automate_Multilingual_Slack_Communication__JA___EN__with_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10185_Automate_Multilingual_Slack_Communication__JA___EN__with_Gemini_2.5_Flash.json)|
+|10760|[10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json)|

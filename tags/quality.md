@@ -1,4 +1,4 @@
-# quality : 15
+# quality : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |9761|[9761_Automate_Manufacturing_QC_Documentation___Compliance_with_Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9761_Automate_Manufacturing_QC_Documentation___Compliance_with_Jotform.json)|
 |10149|[10149_Track_Marketing_Channel_Performance_with_HighLevel__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10149_Track_Marketing_Channel_Performance_with_HighLevel__Google_Sheets__and_Slack.json)|
 |10330|[10330_Automate_API_FAQ_Quality_Testing_with_GPT-4o-mini__Google_Sheets___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10330_Automate_API_FAQ_Quality_Testing_with_GPT-4o-mini__Google_Sheets___Slack_Alerts.json)|
+|10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|

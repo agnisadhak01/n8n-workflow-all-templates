@@ -1,4 +1,4 @@
-# finder : 31
+# finder : 33
 
 |id|file|
 |----|----|
@@ -33,3 +33,5 @@
 |8986|[8986_Automated_Local_Lead_Finder___Cold_Email_Sender_with_Apify__AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8986_Automated_Local_Lead_Finder___Cold_Email_Sender_with_Apify__AI__and_Gmail.json)|
 |10213|[10213_Automate_Email_Discovery_for_Companies_with_Anymail_Finder__Google_Sheets___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10213_Automate_Email_Discovery_for_Companies_with_Anymail_Finder__Google_Sheets___Telegram_Alerts.json)|
 |10354|[10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json)|
+|10626|[10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json)|
+|10738|[10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json)|

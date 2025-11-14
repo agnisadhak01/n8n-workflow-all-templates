@@ -1,4 +1,4 @@
-# apis : 16
+# apis : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |8963|[8963_Automate_Influencer_Evaluation___Campaign_Management_with_Instagram_YouTube_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8963_Automate_Influencer_Evaluation___Campaign_Management_with_Instagram_YouTube_APIs.json)|
 |10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|
 |10364|[10364_Generate_Influencer_Posts_with_GPT-4__Google_Sheets__and_Media_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10364_Generate_Influencer_Posts_with_GPT-4__Google_Sheets__and_Media_APIs.json)|
+|10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|

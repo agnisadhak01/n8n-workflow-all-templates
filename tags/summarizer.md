@@ -1,4 +1,4 @@
-# summarizer : 25
+# summarizer : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |9801|[9801_Summarize_Meeting_Transcripts_with_GPT-4___Sentiment_Analysis_for_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9801_Summarize_Meeting_Transcripts_with_GPT-4___Sentiment_Analysis_for_Gmail.json)|
 |9847|[9847_Auto_Summarize_YouTube_Videos_to_Japanese_with_GPT-4o-mini___Post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9847_Auto_Summarize_YouTube_Videos_to_Japanese_with_GPT-4o-mini___Post_to_Slack.json)|
 |10484|[10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json)|
+|10652|[10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json)|

@@ -1,4 +1,4 @@
-# faq : 18
+# faq : 19
 
 |id|file|
 |----|----|
@@ -20,3 +20,4 @@
 |10338|[10338_Automate_FAQ_Generation_from_Stack_Overflow_to_Notion_using_GPT-4o-mini_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10338_Automate_FAQ_Generation_from_Stack_Overflow_to_Notion_using_GPT-4o-mini_with_Slack_Alerts.json)|
 |10340|[10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10340_Transform_Support_Emails_into_FAQs_with_GPT-4o__Gmail__Notion__and_Slack.json)|
 |10382|[10382_Automate_Airlines_Customer_Support_with_GPT-4_and_Question_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10382_Automate_Airlines_Customer_Support_with_GPT-4_and_Question_Classification.json)|
+|10665|[10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json)|

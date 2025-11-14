@@ -1,4 +1,4 @@
-# slides : 14
+# slides : 16
 
 |id|file|
 |----|----|
@@ -16,3 +16,5 @@
 |8537|[8537_Auto-Generate_Sales_Presentations_from_Claap_Calls_with_GPT-4o_and_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8537_Auto-Generate_Sales_Presentations_from_Claap_Calls_with_GPT-4o_and_Google_Slides.json)|
 |9372|[9372_Transform_Meeting_Transcripts_into_AI-Generated_Presentations_with_Google_Slides___Flux.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9372_Transform_Meeting_Transcripts_into_AI-Generated_Presentations_with_Google_Slides___Flux.json)|
 |10197|[10197_Generate_YouTube_Channel_Profile_Reports_in_Google_Slides_with_ChannelCrawler___GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10197_Generate_YouTube_Channel_Profile_Reports_in_Google_Slides_with_ChannelCrawler___GPT-4.json)|
+|10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
+|10777|[10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json)|

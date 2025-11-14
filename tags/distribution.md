@@ -1,4 +1,4 @@
-# distribution : 13
+# distribution : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |9146|[9146_AI-Powered_Meeting_Minutes_with_GPT-4__Task_Assignment___Multichannel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9146_AI-Powered_Meeting_Minutes_with_GPT-4__Task_Assignment___Multichannel_Distribution.json)|
 |9849|[9849_Automate_Google_Meet_Notes_with_GPT-4.1-mini__Notion__Slack___Gmail_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9849_Automate_Google_Meet_Notes_with_GPT-4.1-mini__Notion__Slack___Gmail_Distribution.json)|
 |10102|[10102_Dynamic_Hubspot_Lead_Routing_with_GPT-4_and_Airtable_Sales_Team_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10102_Dynamic_Hubspot_Lead_Routing_with_GPT-4_and_Airtable_Sales_Team_Distribution.json)|
+|10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
+|10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|

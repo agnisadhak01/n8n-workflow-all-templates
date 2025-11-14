@@ -1,4 +1,4 @@
-# vector : 73
+# vector : 76
 
 |id|file|
 |----|----|
@@ -75,3 +75,6 @@
 |8916|[8916_Build_Multi-Client_Agentic_RAG_Document_Processing_Pipeline_with_Supabase_Vector_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8916_Build_Multi-Client_Agentic_RAG_Document_Processing_Pipeline_with_Supabase_Vector_DB.json)|
 |9620|[9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json)|
 |9934|[9934_Keep_RAG_System_Updated_with_Google_Drive_File_Changes_to_Supabase_Vector_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9934_Keep_RAG_System_Updated_with_Google_Drive_File_Changes_to_Supabase_Vector_DB.json)|
+|10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|
+|10651|[10651_Create_RAG_Vector_Database_from_Google_Drive_Documents_using_Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10651_Create_RAG_Vector_Database_from_Google_Drive_Documents_using_Gemini___Supabase.json)|
+|10653|[10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10653_AI_Study_Assistant_with_RAG_-_Google_Gemini_with_Drive___Supabase_Vector_Search.json)|

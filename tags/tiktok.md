@@ -1,4 +1,4 @@
-# tiktok : 64
+# tiktok : 65
 
 |id|file|
 |----|----|
@@ -66,3 +66,4 @@
 |10001|[10001_Download_TikTok_Videos_Without_Watermarks_via_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10001_Download_TikTok_Videos_Without_Watermarks_via_Telegram_Bot.json)|
 |10212|[10212_Generate_Funny_AI_Videos_with_Sora_2_and_Auto-Publish_to_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10212_Generate_Funny_AI_Videos_with_Sora_2_and_Auto-Publish_to_TikTok.json)|
 |10249|[10249_Extract_TikTok_Usernames_from_Any_Video_or_Creator_Link_Format.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10249_Extract_TikTok_Usernames_from_Any_Video_or_Creator_Link_Format.json)|
+|10614|[10614_AI-Driven_Video_Creation___Upload_to_Instagram__TikTok___YouTube_from_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10614_AI-Driven_Video_Creation___Upload_to_Instagram__TikTok___YouTube_from_Drive.json)|

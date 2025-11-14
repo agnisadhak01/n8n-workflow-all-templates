@@ -1,4 +1,4 @@
-# trends : 30
+# trends : 31
 
 |id|file|
 |----|----|
@@ -32,3 +32,4 @@
 |8888|[8888_Automated_Blog_Content_Generation_with_GPT-4o_from_Google_Trends_to_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8888_Automated_Blog_Content_Generation_with_GPT-4o_from_Google_Trends_to_WordPress.json)|
 |9771|[9771_Predict_Next_5-Day_Stock_Trends_with_Twelve_Data_API___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9771_Predict_Next_5-Day_Stock_Trends_with_Twelve_Data_API___Google_Sheets.json)|
 |10341|[10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json)|
+|10754|[10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json)|

@@ -1,4 +1,4 @@
-# flight : 9
+# flight : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |6503|[6503_Monitor_Flight_Price_Drops_and_Send_Email_Alerts_with_SerpAPI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6503_Monitor_Flight_Price_Drops_and_Send_Email_Alerts_with_SerpAPI_and_Gmail.json)|
 |7238|[7238_Flight_Data_Visualization_with_Chart.js__QuickChart_API___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7238_Flight_Data_Visualization_with_Chart.js__QuickChart_API___Telegram_Bot.json)|
 |9788|[9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json)|
+|10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|

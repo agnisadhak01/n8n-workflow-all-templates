@@ -1,4 +1,4 @@
-# space : 7
+# space : 10
 
 |id|file|
 |----|----|
@@ -9,3 +9,6 @@
 |9320|[9320_Get_Real-time_International_Space_Station_Visibility_Alerts_with_N2YO_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9320_Get_Real-time_International_Space_Station_Visibility_Alerts_with_N2YO_and_Telegram.json)|
 |9905|[9905_Automate_Invoice_Processing_with_Gmail__OCR.space__Slack___Xero.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9905_Automate_Invoice_Processing_with_Gmail__OCR.space__Slack___Xero.json)|
 |10269|[10269_Automate_Invoice_Data_Extraction_with_OCR.Space__GPT___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10269_Automate_Invoice_Data_Extraction_with_OCR.Space__GPT___Google_Sheets.json)|
+|10592|[10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json)|
+|10645|[10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json)|
+|10731|[10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json)|

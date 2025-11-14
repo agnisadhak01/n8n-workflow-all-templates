@@ -1,4 +1,4 @@
-# smtp : 9
+# smtp : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |7587|[7587_Send_Personalized_HTML_Welcome_Emails_to_New_Xero_Contacts_via_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7587_Send_Personalized_HTML_Welcome_Emails_to_New_Xero_Contacts_via_SMTP.json)|
 |8173|[8173_Automate_LinkedIn_Job_Alerts_with_J-Search_API_and_SMTP_Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8173_Automate_LinkedIn_Job_Alerts_with_J-Search_API_and_SMTP_Email_Notifications.json)|
 |8508|[8508_Send_Personalized_Transactional_Emails_from_KlickTipp_via_SMTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8508_Send_Personalized_Transactional_Emails_from_KlickTipp_via_SMTP.json)|
+|10634|[10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json)|

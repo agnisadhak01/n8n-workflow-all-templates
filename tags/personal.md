@@ -1,4 +1,4 @@
-# personal : 48
+# personal : 49
 
 |id|file|
 |----|----|
@@ -50,3 +50,4 @@
 |9824|[9824_Sync_YouTube_Channel_Videos_to_Google_Sheets_for_Content_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9824_Sync_YouTube_Channel_Videos_to_Google_Sheets_for_Content_Database.json)|
 |9981|[9981_Voice___Text_Telegram_Assistant_with_GPT-4.1-mini_and_Conversation_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9981_Voice___Text_Telegram_Assistant_with_GPT-4.1-mini_and_Conversation_Memory.json)|
 |10056|[10056_Track_Personal_Finances_in_Google_Sheets_with_AI_Agent_via_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10056_Track_Personal_Finances_in_Google_Sheets_with_AI_Agent_via_Slack.json)|
+|10661|[10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json)|

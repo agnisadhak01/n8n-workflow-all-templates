@@ -1,4 +1,4 @@
-# scraper : 80
+# scraper : 81
 
 |id|file|
 |----|----|
@@ -82,3 +82,4 @@
 |9945|[9945_Scrape_Detailed_GitHub_Profiles_to_Google_Sheets_Using_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9945_Scrape_Detailed_GitHub_Profiles_to_Google_Sheets_Using_BrowserAct.json)|
 |10097|[10097_AI_Website_Scraper___Company_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10097_AI_Website_Scraper___Company_Intelligence.json)|
 |10370|[10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json)|
+|10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|

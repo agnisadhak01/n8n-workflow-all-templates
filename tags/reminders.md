@@ -1,4 +1,4 @@
-# reminders : 43
+# reminders : 44
 
 |id|file|
 |----|----|
@@ -45,3 +45,4 @@
 |10134|[10134_Get_Daily_Calendar_Summaries_via_SMS_with_Google_Calendar__Twilio_and_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10134_Get_Daily_Calendar_Summaries_via_SMS_with_Google_Calendar__Twilio_and_Claude_AI.json)|
 |10262|[10262_Reduce_Meeting_No-Shows_with_Gemini_AI__Email___WhatsApp_Reminders_for_Calendly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10262_Reduce_Meeting_No-Shows_with_Gemini_AI__Email___WhatsApp_Reminders_for_Calendly.json)|
 |10312|[10312_Automate_Peer_Review_Assignments_with_Sonar_Pro_AI___Multi-Channel_Deadline_Reminders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10312_Automate_Peer_Review_Assignments_with_Sonar_Pro_AI___Multi-Channel_Deadline_Reminders.json)|
+|10688|[10688_Daily_Habit_RPG__Gamified_Gmail_Reminders_with_Quest_System_and_Progress_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10688_Daily_Habit_RPG__Gamified_Gmail_Reminders_with_Quest_System_and_Progress_Tracking.json)|

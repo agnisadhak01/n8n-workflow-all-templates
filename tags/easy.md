@@ -1,4 +1,4 @@
-# easy : 10
+# easy : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |8527|[8527_Learn_n8n_Basics_in_3_Easy_Steps.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8527_Learn_n8n_Basics_in_3_Easy_Steps.json)|
 |8628|[8628_Auto-Sync_Easy_Redmine_Tasks_to_Microsoft_To-Do.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8628_Auto-Sync_Easy_Redmine_Tasks_to_Microsoft_To-Do.json)|
 |8919|[8919_Sync_Calendly_Bookings_to_Easy_Redmine_CRM_with_Comments_and_Sales_Activities.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8919_Sync_Calendly_Bookings_to_Easy_Redmine_CRM_with_Comments_and_Sales_Activities.json)|
+|10726|[10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json)|

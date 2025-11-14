@@ -1,4 +1,4 @@
-# pinecone : 64
+# pinecone : 66
 
 |id|file|
 |----|----|
@@ -66,3 +66,5 @@
 |10077|[10077_Automate_a__Chat_with_your_PDF__Bot_on_Telegram_with_Google_Gemini___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10077_Automate_a__Chat_with_your_PDF__Bot_on_Telegram_with_Google_Gemini___Pinecone.json)|
 |10194|[10194_Automated_Product_Email_Support_with_GPT-4.1__Pinecone_RAG__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10194_Automated_Product_Email_Support_with_GPT-4.1__Pinecone_RAG__and_Gmail.json)|
 |10484|[10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json)|
+|10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|
+|10666|[10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10666_Summarize_Apple_App_Store_Reviews_with_Pinecone__GPT-4_Mini___Slack_Notifications.json)|

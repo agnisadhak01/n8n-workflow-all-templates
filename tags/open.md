@@ -1,4 +1,4 @@
-# open : 30
+# open : 31
 
 |id|file|
 |----|----|
@@ -32,3 +32,4 @@
 |9256|[9256_Automate_Real_Estate_Open_House_Follow-ups_with_SignSnapHome__HubSpot__and_Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9256_Automate_Real_Estate_Open_House_Follow-ups_with_SignSnapHome__HubSpot__and_Twilio.json)|
 |9963|[9963_Extract_Structured_Invoice_Data_from_JotForm_PDFs_with_GPT-4.1-mini___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9963_Extract_Structured_Invoice_Data_from_JotForm_PDFs_with_GPT-4.1-mini___Sheets.json)|
 |10289|[10289_Unstructured_Resume_Parser_with_Thordata_Universal_API___OpenAI_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10289_Unstructured_Resume_Parser_with_Thordata_Universal_API___OpenAI_GPT-4.1-mini.json)|
+|10681|[10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10681_Automate_Weather_Reports_with_GPT-4_Mini_and_Open-Meteo_API_to_Gmail_and_Slack.json)|

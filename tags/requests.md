@@ -1,4 +1,4 @@
-# requests : 32
+# requests : 33
 
 |id|file|
 |----|----|
@@ -34,3 +34,4 @@
 |9731|[9731_Automated_Corporate_Training_Requests_with_GPT-4__Jotform___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9731_Automated_Corporate_Training_Requests_with_GPT-4__Jotform___Google_Sheets.json)|
 |9969|[9969_Automate_Review_Requests_via_WhatsApp_for_Completed_WooCommerce_Orders_with_Rapiwa.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9969_Automate_Review_Requests_via_WhatsApp_for_Completed_WooCommerce_Orders_with_Rapiwa.json)|
 |10127|[10127_Classify___Process_IT_Requests_with_Jotform__Gemini_AI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10127_Classify___Process_IT_Requests_with_Jotform__Gemini_AI_and_Google_Workspace.json)|
+|10578|[10578_Automate_Hotel_Booking_Requests_from_Gmail_to_Google_Sheets_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10578_Automate_Hotel_Booking_Requests_from_Gmail_to_Google_Sheets_with_GPT-4o-mini.json)|

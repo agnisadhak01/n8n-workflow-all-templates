@@ -1,4 +1,4 @@
-# save : 97
+# save : 98
 
 |id|file|
 |----|----|
@@ -99,3 +99,4 @@
 |9747|[9747_Transcribe_Youtube_Videos_for_Free_with_youtube-transcript.io___save_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9747_Transcribe_Youtube_Videos_for_Free_with_youtube-transcript.io___save_to_Supabase.json)|
 |9860|[9860_Automatically_Save_Kindle_Handwritten_Notes_to_Google_Drive_with_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9860_Automatically_Save_Kindle_Handwritten_Notes_to_Google_Drive_with_DeepSeek_AI.json)|
 |10006|[10006_Extract_Web_Page_Data_from_Gmail_Links_and_Save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10006_Extract_Web_Page_Data_from_Gmail_Links_and_Save_to_Google_Sheets.json)|
+|10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|

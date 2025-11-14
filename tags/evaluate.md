@@ -1,4 +1,4 @@
-# evaluate : 13
+# evaluate : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |8227|[8227_Learn_Evaluate_tool._Tutorial_for_Beginners_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8227_Learn_Evaluate_tool._Tutorial_for_Beginners_with_Gemini_and_Google_Sheets.json)|
 |8526|[8526_Evaluate_Interview___Update_Scores_with_Azure_GPT-4o-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8526_Evaluate_Interview___Update_Scores_with_Azure_GPT-4o-mini_and_Google_Sheets.json)|
 |8775|[8775_Parse___Evaluate_HR_Candidates_with_GPT-4.1_and_LinkedIn_Data_in_CSV_XLSX.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8775_Parse___Evaluate_HR_Candidates_with_GPT-4.1_and_LinkedIn_Data_in_CSV_XLSX.json)|
+|10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|

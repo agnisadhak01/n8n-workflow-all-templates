@@ -1,4 +1,4 @@
-# llm : 52
+# llm : 53
 
 |id|file|
 |----|----|
@@ -54,3 +54,4 @@
 |9497|[9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json)|
 |10009|[10009_Create_Personalized_B2B_Outreach_Emails_with_Tavily_Research___OpenRouter_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10009_Create_Personalized_B2B_Outreach_Emails_with_Tavily_Research___OpenRouter_LLM.json)|
 |10267|[10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json)|
+|10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|

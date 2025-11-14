@@ -1,4 +1,4 @@
-# report : 102
+# report : 103
 
 |id|file|
 |----|----|
@@ -104,3 +104,4 @@
 |10281|[10281_Generate_Post-Event_Reports_with_GPT-4__Email_Delivery___Database_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10281_Generate_Post-Event_Reports_with_GPT-4__Email_Delivery___Database_Storage.json)|
 |10377|[10377_Customer_Financial_Report_Delivery_System_with_Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10377_Customer_Financial_Report_Delivery_System_with_Telegram_and_Google_Sheets.json)|
 |10420|[10420_Automated_Daily_Financial_Analysis_from_Loyverse_POS_with_Google_Sheets___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10420_Automated_Daily_Financial_Analysis_from_Loyverse_POS_with_Google_Sheets___Email.json)|
+|10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|

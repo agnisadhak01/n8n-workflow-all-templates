@@ -1,4 +1,4 @@
-# python : 5
+# python : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |2374|[2374_Community_Insights_using_Qdrant__Python_and_Information_Extractor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2374_Community_Insights_using_Qdrant__Python_and_Information_Extractor.json)|
 |6400|[6400_Generate_Personalized_Weather_Reports_with_OpenWeatherMap__Python_and_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6400_Generate_Personalized_Weather_Reports_with_OpenWeatherMap__Python_and_GPT-4.1-mini.json)|
 |8230|[8230_Generate_and_Split_Sample_Data_Records_using_JavaScript_and_Python.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8230_Generate_and_Split_Sample_Data_Records_using_JavaScript_and_Python.json)|
+|10801|[10801_Scan_Single_URLs_for_Security_Vulnerabilities_with_GPT-4__JS__PHP__Python.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10801_Scan_Single_URLs_for_Security_Vulnerabilities_with_GPT-4__JS__PHP__Python.json)|

@@ -1,4 +1,4 @@
-# attachment : 8
+# attachment : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |4243|[4243_Gmail_Attachment_Backup_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4243_Gmail_Attachment_Backup_to_Google_Drive.json)|
 |8871|[8871_Sync_Gmail_emails_to_PostgreSQL_with_S3_attachment_storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8871_Sync_Gmail_emails_to_PostgreSQL_with_S3_attachment_storage.json)|
 |10347|[10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json)|
+|10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|

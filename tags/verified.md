@@ -1,4 +1,4 @@
-# verified : 6
+# verified : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |10161|[10161_Automated_Referral_Reward_System_with_Email_Verification_and_Visual_Coupons.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10161_Automated_Referral_Reward_System_with_Email_Verification_and_Visual_Coupons.json)|
 |10163|[10163_Create_Verified_User_Profiles_with_Email_Validation__PDF_Generation___Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10163_Create_Verified_User_Profiles_with_Email_Validation__PDF_Generation___Gmail_Delivery.json)|
 |10443|[10443_Automate_Verified_Visitor_Management_with_Email_Verification__Badges___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10443_Automate_Verified_Visitor_Management_with_Email_Verification__Badges___Slack_Alerts.json)|
+|10768|[10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10768_Generate_Verified_Gym_Trial_Passes_with_QR_Code__Email___PDF_Export.json)|
+|10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|

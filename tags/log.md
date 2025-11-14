@@ -1,4 +1,4 @@
-# log : 37
+# log : 38
 
 |id|file|
 |----|----|
@@ -39,3 +39,4 @@
 |10153|[10153_Download_Threads_Videos___Log_Results_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10153_Download_Threads_Videos___Log_Results_in_Google_Sheets.json)|
 |10329|[10329_Validate_GitHub_Configurations_with_GPT-4o-mini_and_Log_Issues_to_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10329_Validate_GitHub_Configurations_with_GPT-4o-mini_and_Log_Issues_to_Sheets_and_Slack.json)|
 |10476|[10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json)|
+|10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|

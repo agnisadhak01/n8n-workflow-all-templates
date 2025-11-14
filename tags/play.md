@@ -1,4 +1,4 @@
-# play : 6
+# play : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |7460|[7460_Generate_ASO_Reports_from_Google_Play_Apps_with_Gemini_AI___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7460_Generate_ASO_Reports_from_Google_Play_Apps_with_Gemini_AI___Google_Docs.json)|
 |8036|[8036_Track_Play_Store_App_Rankings_with_SerpApi__Baserow___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8036_Track_Play_Store_App_Rankings_with_SerpApi__Baserow___Slack_Alerts.json)|
 |8519|[8519_Google_Play_Store_and_SerpApi_App_Rank___Rating_Monitor.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8519_Google_Play_Store_and_SerpApi_App_Rank___Rating_Monitor.json)|
+|10605|[10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10605_Summarize_Google_Play_Store_Reviews_with_GPT-4-mini__Pinecone___Slack_Alerts.json)|

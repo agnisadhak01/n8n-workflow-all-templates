@@ -1,4 +1,4 @@
-# storage : 57
+# storage : 58
 
 |id|file|
 |----|----|
@@ -59,3 +59,4 @@
 |9900|[9900_Track_Coupon_Points_with_Google_Sheets__Drive_Storage__and_Gmail_Weekly_Summary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9900_Track_Coupon_Points_with_Google_Sheets__Drive_Storage__and_Gmail_Weekly_Summary.json)|
 |10038|[10038_Automate_Facebook_Page_Token_Renewal_with_Data_Tables_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10038_Automate_Facebook_Page_Token_Renewal_with_Data_Tables_Storage.json)|
 |10281|[10281_Generate_Post-Event_Reports_with_GPT-4__Email_Delivery___Database_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10281_Generate_Post-Event_Reports_with_GPT-4__Email_Delivery___Database_Storage.json)|
+|10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|

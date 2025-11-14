@@ -1,4 +1,4 @@
-# flights : 5
+# flights : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6652|[6652_Plan_Travel_Itineraries_with_Gemini_AI__Live_Amadeus_Flights__and_Airbnb_Stays.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6652_Plan_Travel_Itineraries_with_Gemini_AI__Live_Amadeus_Flights__and_Airbnb_Stays.json)|
 |7322|[7322_Search_and_Compare_Flights_with_DeepSeek_AI_and_Google_Flights_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7322_Search_and_Compare_Flights_with_DeepSeek_AI_and_Google_Flights_API.json)|
 |10354|[10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10354_Smart_Travel_Package_Finder__Search_Flights___Hotels_with_Skyscanner-Booking.com.json)|
+|10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|

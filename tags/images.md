@@ -1,4 +1,4 @@
-# images : 179
+# images : 180
 
 |id|file|
 |----|----|
@@ -181,3 +181,4 @@
 |10053|[10053_Automated_UGC_Video_Generator_with_Gemini_Images_and_SORA_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10053_Automated_UGC_Video_Generator_with_Gemini_Images_and_SORA_2.json)|
 |10139|[10139_Generate_AI_Videos_from_Text_or_Images_with_Sora_2_Pro___GPT-5_Enhancement.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10139_Generate_AI_Videos_from_Text_or_Images_with_Sora_2_Pro___GPT-5_Enhancement.json)|
 |10426|[10426_PartnerStack_Impact___WooCommerce_Product_Creation_with_GPT-4___AI_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10426_PartnerStack_Impact___WooCommerce_Product_Creation_with_GPT-4___AI_Images.json)|
+|10645|[10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10645_Automated_Space-Themed_Birthday_Emails_with_NASA_Images__GPT-4__Gmail___Slack.json)|

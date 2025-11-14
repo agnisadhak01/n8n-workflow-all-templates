@@ -1,4 +1,4 @@
-# messenger : 6
+# messenger : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |9192|[9192_Smart_Facebook_Messenger_Chatbot_with_Gemini_AI__Message_Batching_and_History.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9192_Smart_Facebook_Messenger_Chatbot_with_Gemini_AI__Message_Batching_and_History.json)|
 |9347|[9347_Facebook_Messenger_Bot_with_GPT-4_for_Text__Image___Voice_Processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9347_Facebook_Messenger_Bot_with_GPT-4_for_Text__Image___Voice_Processing.json)|
 |10321|[10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json)|
+|10557|[10557_Classify_and_Respond_to_Facebook_Messenger_Inquiries_with_GPT-4__Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10557_Classify_and_Respond_to_Facebook_Messenger_Inquiries_with_GPT-4__Slack_and_Sheets.json)|
+|10661|[10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10661_Create_a_Secure_Personal_AI_Assistant_with_OpenAI_and_Signal_Messenger.json)|

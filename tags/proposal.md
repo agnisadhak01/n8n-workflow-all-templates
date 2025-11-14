@@ -1,4 +1,4 @@
-# proposal : 11
+# proposal : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |8015|[8015_Automate_AI_Upwork_Proposal_Generation_with_Apify__Google_Gemini___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8015_Automate_AI_Upwork_Proposal_Generation_with_Apify__Google_Gemini___Sheets.json)|
 |8480|[8480_Generate_Business_Proposals_with_Azure_GPT-4o___Save_as_Gmail_Drafts_from_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8480_Generate_Business_Proposals_with_Azure_GPT-4o___Save_as_Gmail_Drafts_from_Sheets.json)|
 |9270|[9270_GPT_4.1_-_Freelancer.com_Job_Alert_System_with_Auto_Proposal_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9270_GPT_4.1_-_Freelancer.com_Job_Alert_System_with_Auto_Proposal_Generator.json)|
+|10777|[10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json)|

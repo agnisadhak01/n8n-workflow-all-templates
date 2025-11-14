@@ -1,4 +1,4 @@
-# deliver : 8
+# deliver : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8863|[8863_Create_Personalized_News_Digests_from_RSS_Feeds_with_GPT___Gemini_via_Email_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8863_Create_Personalized_News_Digests_from_RSS_Feeds_with_GPT___Gemini_via_Email_Telegram.json)|
 |9273|[9273_Generate___Deliver_Certificates_with_VerifiEmail___HTMLcsstoImg_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9273_Generate___Deliver_Certificates_with_VerifiEmail___HTMLcsstoImg_to_Gmail.json)|
 |9447|[9447_Generate___Deliver_PDF_Invoices_from_Jotform_to_Google_Drive___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9447_Generate___Deliver_PDF_Invoices_from_Jotform_to_Google_Drive___Email.json)|
+|10650|[10650_Generate_and_Email_PDF_Payslips_from_Google_Sheets_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10650_Generate_and_Email_PDF_Payslips_from_Google_Sheets_with_Gmail.json)|

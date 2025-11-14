@@ -1,4 +1,4 @@
-# json : 43
+# json : 44
 
 |id|file|
 |----|----|
@@ -45,3 +45,4 @@
 |9148|[9148_Real-time_Sales_Quote_Creation_in_Odoo_via_Telegram_with_Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9148_Real-time_Sales_Quote_Creation_in_Odoo_via_Telegram_with_Google_Gemini_AI.json)|
 |9481|[9481_Convert_Multiple_Binary_Files_to_Base64_JSON_Arrays_with_No_Custom_Code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9481_Convert_Multiple_Binary_Files_to_Base64_JSON_Arrays_with_No_Custom_Code.json)|
 |9807|[9807_Generate_AI-Powered_Markdown_Posts_from_Workflow_JSON_with_Gemini___LlamaIndex.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9807_Generate_AI-Powered_Markdown_Posts_from_Workflow_JSON_with_Gemini___LlamaIndex.json)|
+|10599|[10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10599_Fetch_Odoo_Customer_Data_and_Export_to_JSON_or_Excel.json)|

@@ -1,4 +1,4 @@
-# documentation : 17
+# documentation : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |9761|[9761_Automate_Manufacturing_QC_Documentation___Compliance_with_Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9761_Automate_Manufacturing_QC_Documentation___Compliance_with_Jotform.json)|
 |9828|[9828_Auto_Documentation_Sync__GitHub_to_Slack_with_GPT-4o_Mini_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9828_Auto_Documentation_Sync__GitHub_to_Slack_with_GPT-4o_Mini_Summaries.json)|
 |10337|[10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json)|
+|10550|[10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json)|

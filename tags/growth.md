@@ -1,0 +1,7 @@
+# growth : 3
+
+|id|file|
+|----|----|
+|6907|[6907_Revenue_Growth_Strategy_with_CRO-led_Multi-Agent_Team_using_O3___GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6907_Revenue_Growth_Strategy_with_CRO-led_Multi-Agent_Team_using_O3___GPT-4.1-mini.json)|
+|9718|[9718_Track_Social_Media_Growth_and_Weekly_Reports_with_X_API__YouTube_API__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9718_Track_Social_Media_Growth_and_Weekly_Reports_with_X_API__YouTube_API__and_Gmail.json)|
+|10552|[10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10552_Generate_Automated_Social_Media_Reports_with_GPT-4o__Twitter__Facebook___Notion.json)|

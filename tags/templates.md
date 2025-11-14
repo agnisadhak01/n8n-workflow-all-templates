@@ -1,4 +1,4 @@
-# templates : 12
+# templates : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |9553|[9553_WhatsApp_Marketing_Dashboard_with_Dynamic_Broadcasts_from_Google_Sheets_to_Meta_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9553_WhatsApp_Marketing_Dashboard_with_Dynamic_Broadcasts_from_Google_Sheets_to_Meta_Templates.json)|
 |10278|[10278_Automated_Cold_Email_Campaigns_with_Random_Templates___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10278_Automated_Cold_Email_Campaigns_with_Random_Templates___Google_Sheets_Tracking.json)|
 |10450|[10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json)|
+|10800|[10800_AI_sticky_generator_for_n8n_templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10800_AI_sticky_generator_for_n8n_templates.json)|

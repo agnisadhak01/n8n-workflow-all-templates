@@ -2,8 +2,6 @@
 
 | idx | filename |
 |------|-------------------|
-| 7848 | [7848_Generate_AI_Newsletter_Drafts_from_Google_Sheets_to_Notion_with_GPT-5-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7848_Generate_AI_Newsletter_Drafts_from_Google_Sheets_to_Notion_with_GPT-5-mini.json) |
-| 7849 | [7849_Extract_and_Process_Healthcare_Claims_with_VLM_Run__Google_Drive_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7849_Extract_and_Process_Healthcare_Claims_with_VLM_Run__Google_Drive_and_Sheets.json) |
 | 7850 | [7850_Automated_Workflow_Backups_with_Google_Drive_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7850_Automated_Workflow_Backups_with_Google_Drive_and_Slack_Notifications.json) |
 | 7851 | [7851_Cheaper__Faster__Accurate_Answers_with_Memory_Summarization___Dynamic_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7851_Cheaper__Faster__Accurate_Answers_with_Memory_Summarization___Dynamic_Routing.json) |
 | 7852 | [7852_Automated_Twitter_Intelligence_Digest_with_Gemini_2.5_Pro_to_WhatsApp_Groups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7852_Automated_Twitter_Intelligence_Digest_with_Gemini_2.5_Pro_to_WhatsApp_Groups.json) |
@@ -1002,4 +1000,6 @@
 | 9262 | [9262_Send_Automatic_WhatsApp_Order_Confirmations_from_Shopify_with_Rapiwa_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9262_Send_Automatic_WhatsApp_Order_Confirmations_from_Shopify_with_Rapiwa_API.json) |
 | 9264 | [9264_Generate___Post_Unique_MCQ_Polls_to_Telegram_with_Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9264_Generate___Post_Unique_MCQ_Polls_to_Telegram_with_Gemini_AI_and_Google_Sheets.json) |
 | 9265 | [9265_Build_a_Text___Image_Responding_Telegram_Bot_with_Google_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9265_Build_a_Text___Image_Responding_Telegram_Bot_with_Google_Gemini_2.5_Flash.json) |
+| 9266 | [9266_AI-Powered_Lead_Processing_from_Apify_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9266_AI-Powered_Lead_Processing_from_Apify_with_Gemini_and_Google_Sheets.json) |
+| 9267 | [9267_Personalized_Cold_Email_System_with_Google_Gemini__Telegram_Approval___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9267_Personalized_Cold_Email_System_with_Google_Gemini__Telegram_Approval___Google_Sheets.json) |
 

@@ -1,4 +1,4 @@
-# ui : 9
+# ui : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8206|[8206_Organizing_UI_Toolbar_Icons__Apple_HIG_Standards_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8206_Organizing_UI_Toolbar_Icons__Apple_HIG_Standards_and_Gemini_AI.json)|
 |8214|[8214_Generate_Diverse_Names_for_UX_UI_Mockups_with_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8214_Generate_Diverse_Names_for_UX_UI_Mockups_with_OpenAI.json)|
 |9901|[9901_Beautiful_Web_UI_for_GPT-4_Multi-Agent_Chat_with_Specialized_Assistants.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9901_Beautiful_Web_UI_for_GPT-4_Multi-Agent_Chat_with_Specialized_Assistants.json)|
+|10711|[10711_Upload_Large_Files_to_Dropbox_with_Chunking___Web_UI_Progress_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10711_Upload_Large_Files_to_Dropbox_with_Chunking___Web_UI_Progress_Tracking.json)|

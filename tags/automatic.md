@@ -1,4 +1,4 @@
-# automatic : 68
+# automatic : 69
 
 |id|file|
 |----|----|
@@ -70,3 +70,4 @@
 |9772|[9772_Automatic_Invoice_Generation_and_Email_with_Airtable_and_CustomJS_PDF_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9772_Automatic_Invoice_Generation_and_Email_with_Airtable_and_CustomJS_PDF_Generator.json)|
 |10028|[10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json)|
 |10306|[10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json)|
+|10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|

@@ -1,4 +1,4 @@
-# salesforce : 23
+# salesforce : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |9053|[9053_Sync_Companies_from_Google_Sheets_to_Salesforce_with_Smart_Duplicate_Prevention.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9053_Sync_Companies_from_Google_Sheets_to_Salesforce_with_Smart_Duplicate_Prevention.json)|
 |9695|[9695_Sync_NetSuite_Customers_to_Salesforce_Accounts___Contacts_with_Auto_Upserts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9695_Sync_NetSuite_Customers_to_Salesforce_Accounts___Contacts_with_Auto_Upserts.json)|
 |10029|[10029_Automate_Invoice_Processing_with_OCR__GPT-4___Salesforce_Opportunity_Creation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10029_Automate_Invoice_Processing_with_OCR__GPT-4___Salesforce_Opportunity_Creation.json)|
+|10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|
