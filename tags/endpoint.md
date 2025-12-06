@@ -1,4 +1,4 @@
-# endpoint : 8
+# endpoint : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |5313|[5313_Expose_Translate_a_language_endpoint_to_AI_Agents_with_DeepL_Tool_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5313_Expose_Translate_a_language_endpoint_to_AI_Agents_with_DeepL_Tool_MCP_Server.json)|
 |6411|[6411_Aggregate_Endpoint_Security_Risk_Scores_with_EDR__Vulnerability_Data___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6411_Aggregate_Endpoint_Security_Risk_Scores_with_EDR__Vulnerability_Data___Google_Sheets.json)|
 |7022|[7022_Auto_Remediate_Endpoint_Infections_with_Wazuh__ClamAV__and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7022_Auto_Remediate_Endpoint_Infections_with_Wazuh__ClamAV__and_GPT-4.json)|
+|11254|[11254_Create_a_Calendly_Availability_API_Endpoint_for_Real-time_Scheduling_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11254_Create_a_Calendly_Availability_API_Endpoint_for_Real-time_Scheduling_Data.json)|

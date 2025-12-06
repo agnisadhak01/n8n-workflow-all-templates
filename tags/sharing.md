@@ -1,4 +1,4 @@
-# sharing : 8
+# sharing : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |7535|[7535_AI_Hairstyle_Preview_Generator_with_OpenAI_and_LINE_Group_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7535_AI_Hairstyle_Preview_Generator_with_OpenAI_and_LINE_Group_Sharing.json)|
 |9920|[9920_Auto-Generate_WordPress_Articles_from_News_with_Claude_AI_and_LinkedIn_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9920_Auto-Generate_WordPress_Articles_from_News_with_Claude_AI_and_LinkedIn_Sharing.json)|
 |10232|[10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json)|
+|11246|[11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json)|

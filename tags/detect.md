@@ -1,4 +1,4 @@
-# detect : 20
+# detect : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |10144|[10144_Detect_Holiday_Conflicts___Suggest_Meeting_Reschedules_with_Google_Calendar_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10144_Detect_Holiday_Conflicts___Suggest_Meeting_Reschedules_with_Google_Calendar_and_Slack.json)|
 |10306|[10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json)|
 |10335|[10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json)|
+|11248|[11248_Automate_Email_Tracking___Generate_Pixel_for_Lead_Nurturing_with_Google_Sheet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11248_Automate_Email_Tracking___Generate_Pixel_for_Lead_Nurturing_with_Google_Sheet.json)|

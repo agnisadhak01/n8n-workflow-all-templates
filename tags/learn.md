@@ -1,4 +1,4 @@
-# learn : 17
+# learn : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |8228|[8228_Supabase_Storage_Tutorial__Upload__Fetch__Sign___List_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8228_Supabase_Storage_Tutorial__Upload__Fetch__Sign___List_Files.json)|
 |8258|[8258_Learn_Secure_Webhook_APIs_with_Authentication_and_Supabase_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8258_Learn_Secure_Webhook_APIs_with_Authentication_and_Supabase_Integration.json)|
 |8527|[8527_Learn_n8n_Basics_in_3_Easy_Steps.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8527_Learn_n8n_Basics_in_3_Easy_Steps.json)|
+|11235|[11235_Learn_How_to_use_Binary_Data_in_n8n__Video_Included.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11235_Learn_How_to_use_Binary_Data_in_n8n__Video_Included.json)|

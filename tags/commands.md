@@ -1,4 +1,4 @@
-# commands : 16
+# commands : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |7294|[7294_Create___Delete_AWS_RDS_Databases_via_Email_Commands_with_Terraform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7294_Create___Delete_AWS_RDS_Databases_via_Email_Commands_with_Terraform.json)|
 |7408|[7408_Update_Dialogflow_Intent_Responses_via_Telegram_Bot_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7408_Update_Dialogflow_Intent_Responses_via_Telegram_Bot_Commands.json)|
 |7409|[7409_Delete_Dialogflow_Intents_via_Telegram_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7409_Delete_Dialogflow_Intents_via_Telegram_Commands.json)|
+|11052|[11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json)|

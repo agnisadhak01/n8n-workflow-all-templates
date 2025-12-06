@@ -1,4 +1,4 @@
-# full : 29
+# full : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |8297|[8297_Build_a_WhatsApp_Customer_Support_Bot_with_LangChain__OpenAI__and_CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8297_Build_a_WhatsApp_Customer_Support_Bot_with_LangChain__OpenAI__and_CRM_Integration.json)|
 |9599|[9599_Monitor_RSS_Feeds__Extract_Full_Articles_with_Jina_AI__and_Save_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9599_Monitor_RSS_Feeds__Extract_Full_Articles_with_Jina_AI__and_Save_to_Supabase.json)|
 |9925|[9925_Automate_Full_Agreement_Lifecycle_with_JotForm__Approvals__Signwell_E-Signatures___Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9925_Automate_Full_Agreement_Lifecycle_with_JotForm__Approvals__Signwell_E-Signatures___Tracking.json)|
+|11370|[11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json)|

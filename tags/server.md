@@ -1,4 +1,4 @@
-# server : 253
+# server : 255
 
 |id|file|
 |----|----|
@@ -255,3 +255,5 @@
 |8838|[8838_Jira_Project_Management_Automation_with_Google_Gemini___MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8838_Jira_Project_Management_Automation_with_Google_Gemini___MCP_Server.json)|
 |9187|[9187_Manage_Odoo_CRM_with_Natural_Language_using_OpenAI_and_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9187_Manage_Odoo_CRM_with_Natural_Language_using_OpenAI_and_MCP_Server.json)|
 |9852|[9852_Automated_Server_Health_Check_with_SSH__Azure_GPT-4_Analysis___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9852_Automated_Server_Health_Check_with_SSH__Azure_GPT-4_Analysis___Email_Alerts.json)|
+|11089|[11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json)|
+|11202|[11202_Manage_Trello_Tasks_with_AI_Assistants_via_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11202_Manage_Trello_Tasks_with_AI_Assistants_via_MCP_Server.json)|

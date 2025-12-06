@@ -1,4 +1,4 @@
-# strategy : 13
+# strategy : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |10239|[10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json)|
 |10341|[10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json)|
 |10808|[10808_Automate_YouTube_Content_Strategy_with_AI__Apify___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10808_Automate_YouTube_Content_Strategy_with_AI__Apify___Google_Sheets.json)|
+|11109|[11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json)|

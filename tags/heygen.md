@@ -1,4 +1,4 @@
-# heygen : 26
+# heygen : 27
 
 |id|file|
 |----|----|
@@ -28,3 +28,4 @@
 |9967|[9967_Personalized_Lead_Response_with_AI_Videos_using_Scout__GPT-4__and_HeyGen.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9967_Personalized_Lead_Response_with_AI_Videos_using_Scout__GPT-4__and_HeyGen.json)|
 |10158|[10158_Automated_News_Video_Generation_with_HeyGen_AI__Apify__and_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10158_Automated_News_Video_Generation_with_HeyGen_AI__Apify__and_GPT-4.1_Mini.json)|
 |10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|
+|11326|[11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json)|

@@ -1,4 +1,4 @@
-# rate : 17
+# rate : 19
 
 |id|file|
 |----|----|
@@ -19,3 +19,5 @@
 |9427|[9427_Automate_Candidate_Analysis___Ranking_with_Jotform_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9427_Automate_Candidate_Analysis___Ranking_with_Jotform_and_Gemini_AI.json)|
 |9550|[9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json)|
 |10330|[10330_Automate_API_FAQ_Quality_Testing_with_GPT-4o-mini__Google_Sheets___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10330_Automate_API_FAQ_Quality_Testing_with_GPT-4o-mini__Google_Sheets___Slack_Alerts.json)|
+|11126|[11126_Sync_Upcoming_Anime_Releases_from_Jikan_API_to_Google_Calendar_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11126_Sync_Upcoming_Anime_Releases_from_Jikan_API_to_Google_Calendar_with_Rate_Limiting.json)|
+|11329|[11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json)|

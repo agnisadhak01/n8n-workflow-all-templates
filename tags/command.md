@@ -1,4 +1,4 @@
-# command : 14
+# command : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |7060|[7060_Business_AI_Command_Center__Modular_Agents_for_Google_Workspace__Vector_Search___Multi-Channel_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7060_Business_AI_Command_Center__Modular_Agents_for_Google_Workspace__Vector_Search___Multi-Channel_Reports.json)|
 |9951|[9951_Automate_Workflow_Execution_with_Telegram_Bot_Command_Center.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9951_Automate_Workflow_Execution_with_Telegram_Bot_Command_Center.json)|
 |10405|[10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10405_Automate_Invoice_Data_Extraction_from_Google_Drive_to_Airtable_using_Nanonets_OCR___Command-R.json)|
+|11052|[11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json)|

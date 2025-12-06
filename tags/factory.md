@@ -1,4 +1,4 @@
-# factory : 18
+# factory : 19
 
 |id|file|
 |----|----|
@@ -20,3 +20,4 @@
 |8850|[8850_AI-Powered_Multi-Platform_Social_Media_Content_Factory_with_Dynamic_System_Prompts___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8850_AI-Powered_Multi-Platform_Social_Media_Content_Factory_with_Dynamic_System_Prompts___GPT-4o.json)|
 |9357|[9357_Daily_Import_Yesterday_s_Forex_Factory_Calendar_to_Google_Sheets_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9357_Daily_Import_Yesterday_s_Forex_Factory_Calendar_to_Google_Sheets_with_Telegram_Alerts.json)|
 |10175|[10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json)|
+|11298|[11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json)|

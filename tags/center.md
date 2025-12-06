@@ -1,4 +1,4 @@
-# center : 14
+# center : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8339|[8339_Replace_Your_Call_Center_with_an_AI_Agent_using_GoHighLevel__GHL___VAPI___Twilio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8339_Replace_Your_Call_Center_with_an_AI_Agent_using_GoHighLevel__GHL___VAPI___Twilio.json)|
 |9785|[9785_Exporting_Tawk.to_Help_Center_Articles_to_Google_Drive_as_Markdown_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9785_Exporting_Tawk.to_Help_Center_Articles_to_Google_Drive_as_Markdown_Files.json)|
 |9951|[9951_Automate_Workflow_Execution_with_Telegram_Bot_Command_Center.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9951_Automate_Workflow_Execution_with_Telegram_Bot_Command_Center.json)|
+|11072|[11072_Automate_GDPR_Consent_Management_with_Azure_OpenAI_Emails_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11072_Automate_GDPR_Consent_Management_with_Azure_OpenAI_Emails_and_Slack_Alerts.json)|

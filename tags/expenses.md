@@ -1,4 +1,4 @@
-# expenses : 9
+# expenses : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8807|[8807_Categorize_Revolut_Transactions_Automatically_with_GPT-4_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8807_Categorize_Revolut_Transactions_Automatically_with_GPT-4_and_Supabase.json)|
 |10290|[10290_Track___Query_Expenses_via_Telegram_with_GPT-4.1_Mini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10290_Track___Query_Expenses_via_Telegram_with_GPT-4.1_Mini___Google_Sheets.json)|
 |10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|
+|11368|[11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json)|

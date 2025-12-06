@@ -1,4 +1,4 @@
-# apify : 116
+# apify : 122
 
 |id|file|
 |----|----|
@@ -118,3 +118,9 @@
 |10754|[10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json)|
 |10808|[10808_Automate_YouTube_Content_Strategy_with_AI__Apify___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10808_Automate_YouTube_Content_Strategy_with_AI__Apify___Google_Sheets.json)|
 |11003|[11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json)|
+|11053|[11053_Monitor___Respond_to_Google_Maps_Reviews_using_AI__Apify__Slack__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11053_Monitor___Respond_to_Google_Maps_Reviews_using_AI__Apify__Slack__and_Sheets.json)|
+|11062|[11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json)|
+|11091|[11091_Filter_TikTok_Real_Estate_Videos_for_Couples_with_AI__Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11091_Filter_TikTok_Real_Estate_Videos_for_Couples_with_AI__Apify_and_Google_Sheets.json)|
+|11094|[11094_Automate_Trend_Research_to_Blog_Content_with_GPT-4o__DALL-E___Apify_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11094_Automate_Trend_Research_to_Blog_Content_with_GPT-4o__DALL-E___Apify_to_Notion.json)|
+|11095|[11095_Automate_Pokemon_Card_Stock_Monitoring_with_Apify__AI__and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11095_Automate_Pokemon_Card_Stock_Monitoring_with_Apify__AI__and_Slack_Alerts.json)|
+|11271|[11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json)|

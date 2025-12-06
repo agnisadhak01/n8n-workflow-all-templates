@@ -1,4 +1,4 @@
-# trello : 27
+# trello : 29
 
 |id|file|
 |----|----|
@@ -29,3 +29,5 @@
 |9916|[9916_Trello_Task_Management_with_Telegram_Notifications_and_Supabase_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9916_Trello_Task_Management_with_Telegram_Notifications_and_Supabase_Database.json)|
 |9999|[9999_AI-Powered_Feedback_Triage__Jotform_to_Trello__Airtable___Slack_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9999_AI-Powered_Feedback_Triage__Jotform_to_Trello__Airtable___Slack_with_Gemini.json)|
 |10723|[10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json)|
+|11198|[11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json)|
+|11202|[11202_Manage_Trello_Tasks_with_AI_Assistants_via_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11202_Manage_Trello_Tasks_with_AI_Assistants_via_MCP_Server.json)|

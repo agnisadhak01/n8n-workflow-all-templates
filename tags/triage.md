@@ -1,4 +1,4 @@
-# triage : 30
+# triage : 31
 
 |id|file|
 |----|----|
@@ -32,3 +32,4 @@
 |9999|[9999_AI-Powered_Feedback_Triage__Jotform_to_Trello__Airtable___Slack_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9999_AI-Powered_Feedback_Triage__Jotform_to_Trello__Airtable___Slack_with_Gemini.json)|
 |10184|[10184_Automate_Customer_Support_with_GPT-4o__Slack__and_CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10184_Automate_Customer_Support_with_GPT-4o__Slack__and_CRM_Integration.json)|
 |10283|[10283_Automate_Customer_Support_Triage_with_GPT__Gmail__Slack___Analytics_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10283_Automate_Customer_Support_Triage_with_GPT__Gmail__Slack___Analytics_Dashboard.json)|
+|11243|[11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json)|

@@ -1,4 +1,4 @@
-# agentic : 7
+# agentic : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8916|[8916_Build_Multi-Client_Agentic_RAG_Document_Processing_Pipeline_with_Supabase_Vector_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8916_Build_Multi-Client_Agentic_RAG_Document_Processing_Pipeline_with_Supabase_Vector_DB.json)|
 |8944|[8944_My_solution_for_the__Agentic_Arena_Community_Contest___RAG__Qdrant__Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8944_My_solution_for_the__Agentic_Arena_Community_Contest___RAG__Qdrant__Mistral_OCR.json)|
 |10157|[10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json)|
+|11116|[11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json)|

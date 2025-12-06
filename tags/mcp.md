@@ -1,4 +1,4 @@
-# mcp : 311
+# mcp : 313
 
 |id|file|
 |----|----|
@@ -313,3 +313,5 @@
 |9635|[9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json)|
 |9802|[9802_Hardware_Store_Product_Assistant_with_PostgreSQL___Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9802_Hardware_Store_Product_Assistant_with_PostgreSQL___Google_Gemini_AI.json)|
 |9935|[9935_Business_Intelligence_Assistant_for_Slack_using_Explorium_MCP___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9935_Business_Intelligence_Assistant_for_Slack_using_Explorium_MCP___Claude_AI.json)|
+|11202|[11202_Manage_Trello_Tasks_with_AI_Assistants_via_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11202_Manage_Trello_Tasks_with_AI_Assistants_via_MCP_Server.json)|
+|11258|[11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json)|

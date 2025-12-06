@@ -1,4 +1,4 @@
-# linkedin : 257
+# linkedin : 263
 
 |id|file|
 |----|----|
@@ -259,3 +259,9 @@
 |10738|[10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json)|
 |10750|[10750_Automate_Blog-to-Social_Media_with_GPT-4_for_LinkedIn__X__and_Reddit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10750_Automate_Blog-to-Social_Media_with_GPT-4_for_LinkedIn__X__and_Reddit.json)|
 |10900|[10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json)|
+|11052|[11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json)|
+|11068|[11068_Automate_LinkedIn_Profile_Following_with_Google_Sheets_and_ConnectSafely.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11068_Automate_LinkedIn_Profile_Following_with_Google_Sheets_and_ConnectSafely.json)|
+|11127|[11127_Cross-Platform_Content_Publisher__Telegram_to_WordPress__Facebook__Twitter___LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11127_Cross-Platform_Content_Publisher__Telegram_to_WordPress__Facebook__Twitter___LinkedIn.json)|
+|11189|[11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json)|
+|11215|[11215_Automate_Job_Applications_with_AI_Resume_Tailoring_using_GPT-4o__LinkedIn___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11215_Automate_Job_Applications_with_AI_Resume_Tailoring_using_GPT-4o__LinkedIn___Gmail.json)|
+|11252|[11252_Automate_LinkedIn_Content_Creation_with_OpenAI__Notion__and_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11252_Automate_LinkedIn_Content_Creation_with_OpenAI__Notion__and_Google_Slides.json)|

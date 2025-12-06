@@ -1,4 +1,4 @@
-# opportunities : 9
+# opportunities : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8076|[8076_Generate_B2B_Lead_Opportunities_from_Websites_with_Brightdata___OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8076_Generate_B2B_Lead_Opportunities_from_Websites_with_Brightdata___OpenRouter_AI.json)|
 |9071|[9071_Find_internal_linking_opportunities_with_SerpAPI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9071_Find_internal_linking_opportunities_with_SerpAPI_and_Google_Sheets.json)|
 |9546|[9546_Generate_Business_Automation_Opportunities___ROI_Reports_with_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9546_Generate_Business_Automation_Opportunities___ROI_Reports_with_Claude_AI.json)|
+|11216|[11216_Find_low-competition_keyword_opportunities_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11216_Find_low-competition_keyword_opportunities_with_DataForSEO.json)|

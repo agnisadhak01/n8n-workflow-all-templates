@@ -1,4 +1,4 @@
-# login : 7
+# login : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6510|[6510_CYBERPULSE_AI_RedOps__Credential_Trap_Sim__Fake_Login_Page_Simulation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6510_CYBERPULSE_AI_RedOps__Credential_Trap_Sim__Fake_Login_Page_Simulation.json)|
 |6922|[6922_Monitor_Security_Logs_for_Failed_Login_Attempts_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6922_Monitor_Security_Logs_for_Failed_Login_Attempts_with_Slack_Alerts.json)|
 |10040|[10040_Create_a_Complete_User_Authentication_System_with_PostgreSQL___Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10040_Create_a_Complete_User_Authentication_System_with_PostgreSQL___Webhooks.json)|
+|11220|[11220_Automated_Failed_Login_Detection_with_Jira_Tasks__Slack_Alerts___Notion_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11220_Automated_Failed_Login_Detection_with_Jira_Tasks__Slack_Alerts___Notion_Logging.json)|

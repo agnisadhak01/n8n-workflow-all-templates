@@ -1,4 +1,4 @@
-# photos : 22
+# photos : 24
 
 |id|file|
 |----|----|
@@ -24,3 +24,5 @@
 |9712|[9712_Generate_AI_Product_Photos_using_Gemini_Nano_Banana_with_Jotform___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9712_Generate_AI_Product_Photos_using_Gemini_Nano_Banana_with_Jotform___Google_Sheets.json)|
 |10277|[10277_Snap___Track_Nutrition__Telegram_Food_Photos___Gemini_Vision_AI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10277_Snap___Track_Nutrition__Telegram_Food_Photos___Gemini_Vision_AI___Google_Sheets.json)|
 |10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|
+|11138|[11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json)|
+|11159|[11159_Analyze_food_ingredients_from_Telegram_photos_using_Gemini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11159_Analyze_food_ingredients_from_Telegram_photos_using_Gemini_and_Airtable.json)|

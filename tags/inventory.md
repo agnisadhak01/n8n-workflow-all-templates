@@ -1,4 +1,4 @@
-# inventory : 19
+# inventory : 22
 
 |id|file|
 |----|----|
@@ -21,3 +21,6 @@
 |10089|[10089_Synchronizing_WooCommerce_Inventory_and_Creating_Products_with_Google_Gemini_AI_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10089_Synchronizing_WooCommerce_Inventory_and_Creating_Products_with_Google_Gemini_AI_and_BrowserAct.json)|
 |10531|[10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10531_AI-Driven_Inventory_Management_with_OpenAI_Forecasting___ERP_Integration.json)|
 |10899|[10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json)|
+|11055|[11055_AI_Warehouse_Inventory_Cycle_Count_Bot_using_GPT__Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11055_AI_Warehouse_Inventory_Cycle_Count_Bot_using_GPT__Telegram_and_Google_Sheets.json)|
+|11184|[11184_Automate_Airtable_inventory_tracking_and_purchase_order_creation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11184_Automate_Airtable_inventory_tracking_and_purchase_order_creation.json)|
+|11321|[11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json)|

@@ -1,4 +1,4 @@
-# optimized : 25
+# optimized : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |9115|[9115_Generate_SEO_AEO-optimized_Shopify_Blog_Articles_with_GPT-4_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9115_Generate_SEO_AEO-optimized_Shopify_Blog_Articles_with_GPT-4_and_Google_Sheets.json)|
 |9946|[9946_Scrape___Import_Shoe_Products_to_Shopify_with_BrowserAct__with_Variants___Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9946_Scrape___Import_Shoe_Products_to_Shopify_with_BrowserAct__with_Variants___Images.json)|
 |10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|
+|11077|[11077_Generate_GEO-optimized_support_replies_from_Gmail_to_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11077_Generate_GEO-optimized_support_replies_from_Gmail_to_Gmail_and_Slack.json)|

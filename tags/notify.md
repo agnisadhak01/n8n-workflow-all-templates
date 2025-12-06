@@ -1,4 +1,4 @@
-# notify : 35
+# notify : 36
 
 |id|file|
 |----|----|
@@ -37,3 +37,4 @@
 |8746|[8746_Monitor_Zendesk_Churn_Risk_Signals__Log_in_Sheets__and_Alert_Team_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8746_Monitor_Zendesk_Churn_Risk_Signals__Log_in_Sheets__and_Alert_Team_in_Slack.json)|
 |10320|[10320_AI-Powered_Facebook_Comment_Management__Auto-Reply__Delete__Ban___Notify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10320_AI-Powered_Facebook_Comment_Management__Auto-Reply__Delete__Ban___Notify.json)|
 |10586|[10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json)|
+|11129|[11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# demand : 5
+# demand : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |5838|[5838_Daily___On-demand_Weather_Reports_with_OpenWeatherMap_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5838_Daily___On-demand_Weather_Reports_with_OpenWeatherMap_to_Telegram.json)|
 |6980|[6980_Dynamic_Media_Library_with_On-demand_Downloads_for_Radarr_Sonarr_and_Plex.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6980_Dynamic_Media_Library_with_On-demand_Downloads_for_Radarr_Sonarr_and_Plex.json)|
 |7254|[7254_On-Demand_Email_Newsletter_Summaries_from_Gmail_to_Telegram_with_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7254_On-Demand_Email_Newsletter_Summaries_from_Gmail_to_Telegram_with_GPT-4.1-mini.json)|
+|11181|[11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json)|

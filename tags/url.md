@@ -1,4 +1,4 @@
-# url : 39
+# url : 40
 
 |id|file|
 |----|----|
@@ -41,3 +41,4 @@
 |7926|[7926_Check_Suspicious_Links_via_Telegram_with_GPT-4_Analysis_of_VirusTotal___urlscan.io_Results.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7926_Check_Suspicious_Links_via_Telegram_with_GPT-4_Analysis_of_VirusTotal___urlscan.io_Results.json)|
 |8138|[8138_Filter_URLs_with_AI-Powered_robots.txt_Compliance___Source_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8138_Filter_URLs_with_AI-Powered_robots.txt_Compliance___Source_Verification.json)|
 |10738|[10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json)|
+|11211|[11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json)|

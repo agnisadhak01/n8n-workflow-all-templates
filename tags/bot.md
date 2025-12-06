@@ -1,4 +1,4 @@
-# bot : 208
+# bot : 215
 
 |id|file|
 |----|----|
@@ -210,3 +210,10 @@
 |10815|[10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json)|
 |10850|[10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json)|
 |10994|[10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json)|
+|11055|[11055_AI_Warehouse_Inventory_Cycle_Count_Bot_using_GPT__Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11055_AI_Warehouse_Inventory_Cycle_Count_Bot_using_GPT__Telegram_and_Google_Sheets.json)|
+|11121|[11121_Auto_Create___Publish_X-Threads__Twitter__with_GPT_via_Telegram___Approval_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11121_Auto_Create___Publish_X-Threads__Twitter__with_GPT_via_Telegram___Approval_Loop.json)|
+|11145|[11145_YouTube_to_Telegram_Summary_Bot_with_Decodo___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11145_YouTube_to_Telegram_Summary_Bot_with_Decodo___Gemini_AI.json)|
+|11165|[11165_Create_an_AI-Powered_Telegram_Customer_Support_Bot_with_Lead_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11165_Create_an_AI-Powered_Telegram_Customer_Support_Bot_with_Lead_Management.json)|
+|11229|[11229_Automatically_Add_Watermarks_to_Images_with_Telegram_Bot_and_ImageKit.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11229_Automatically_Add_Watermarks_to_Images_with_Telegram_Bot_and_ImageKit.io.json)|
+|11234|[11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json)|
+|11368|[11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json)|

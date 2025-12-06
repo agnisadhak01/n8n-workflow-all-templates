@@ -1,4 +1,4 @@
-# aggregate : 6
+# aggregate : 8
 
 |id|file|
 |----|----|
@@ -8,3 +8,5 @@
 |8069|[8069_Aggregate_Marketing_Spend_Data_with_Custom_Pivots___VLOOKUPs_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8069_Aggregate_Marketing_Spend_Data_with_Custom_Pivots___VLOOKUPs_in_Google_Sheets.json)|
 |9055|[9055_Aggregate_Twitter_X_Content_to_Telegram_Channel_with_BrowserAct___Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9055_Aggregate_Twitter_X_Content_to_Telegram_Channel_with_BrowserAct___Google_Gemini.json)|
 |9484|[9484_Generate_Personalized_and_Aggregate_Survey_Reports_with_Jotform_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9484_Generate_Personalized_and_Aggregate_Survey_Reports_with_Jotform_and_Gemini_AI.json)|
+|11103|[11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json)|
+|11227|[11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json)|

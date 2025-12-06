@@ -1,4 +1,4 @@
-# vision : 42
+# vision : 44
 
 |id|file|
 |----|----|
@@ -44,3 +44,5 @@
 |9855|[9855_Extract_LinkedIn_Profile_Data___Generate_Follow-ups_with_Vision_AI_and_Google_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9855_Extract_LinkedIn_Profile_Data___Generate_Follow-ups_with_Vision_AI_and_Google_Forms.json)|
 |10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|
 |10277|[10277_Snap___Track_Nutrition__Telegram_Food_Photos___Gemini_Vision_AI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10277_Snap___Track_Nutrition__Telegram_Food_Photos___Gemini_Vision_AI___Google_Sheets.json)|
+|11150|[11150_Automate_Image_Portfolio_Organization_with_GPT-4o_Vision__Google_Drive_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11150_Automate_Image_Portfolio_Organization_with_GPT-4o_Vision__Google_Drive_and_Notion.json)|
+|11300|[11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json)|

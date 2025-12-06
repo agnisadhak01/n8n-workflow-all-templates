@@ -1,4 +1,4 @@
-# activity : 19
+# activity : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |9517|[9517_Detect_Team_Burnout_with_Groq_AI_Analysis_of_GitHub_Activity_for_Wellness_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9517_Detect_Team_Burnout_with_Groq_AI_Analysis_of_GitHub_Activity_for_Wellness_Reports.json)|
 |9945|[9945_Scrape_Detailed_GitHub_Profiles_to_Google_Sheets_Using_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9945_Scrape_Detailed_GitHub_Profiles_to_Google_Sheets_Using_BrowserAct.json)|
 |10400|[10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json)|
+|11052|[11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json)|

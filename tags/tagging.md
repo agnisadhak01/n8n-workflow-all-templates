@@ -1,4 +1,4 @@
-# tagging : 13
+# tagging : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |9711|[9711_Automate_Stripe_Customer_Data_Transfer_to_KlickTipp_with_Dynamic_Tagging_Logic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9711_Automate_Stripe_Customer_Data_Transfer_to_KlickTipp_with_Dynamic_Tagging_Logic.json)|
 |10028|[10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json)|
 |10150|[10150_AI-Driven_Lead_Classification___Routing_with_HighLevel_and_Azure_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10150_AI-Driven_Lead_Classification___Routing_with_HighLevel_and_Azure_GPT-4o-mini.json)|
+|11167|[11167_AI-Powered_Auto-Tagging_for_Zendesk_Tickets_using_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11167_AI-Powered_Auto-Tagging_for_Zendesk_Tickets_using_GPT-4.1-mini.json)|
+|11226|[11226_Automated_WordPress_Post_Tagging_with_AI_Analysis_and_Claude_Opus_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11226_Automated_WordPress_Post_Tagging_with_AI_Analysis_and_Claude_Opus_4.5.json)|

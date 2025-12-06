@@ -1,4 +1,4 @@
-# serpapi : 43
+# serpapi : 45
 
 |id|file|
 |----|----|
@@ -45,3 +45,5 @@
 |10164|[10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10164_Customer_Pain_Analysis___AI_Briefing_with_Anthropic__Reddit__X__and_SerpAPI.json)|
 |10294|[10294_Automated_News_Retrieval___Telegram_Broadcasting_with_OpenAI__SerpAPI___LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10294_Automated_News_Retrieval___Telegram_Broadcasting_with_OpenAI__SerpAPI___LangChain.json)|
 |10425|[10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json)|
+|11109|[11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json)|
+|11195|[11195_Generate_Security_Vulnerability_Reports_with_Google_Dorks__SerpAPI_and_PDF4me.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11195_Generate_Security_Vulnerability_Reports_with_Google_Dorks__SerpAPI_and_PDF4me.json)|

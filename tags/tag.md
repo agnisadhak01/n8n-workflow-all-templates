@@ -1,4 +1,4 @@
-# tag : 10
+# tag : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |6681|[6681_Auto-Tag_High-Value_Sales_Orders_in_Zoho_CRM_with_VIP_Alert.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6681_Auto-Tag_High-Value_Sales_Orders_in_Zoho_CRM_with_VIP_Alert.json)|
 |8042|[8042_Version_Control_n8n_Workflows_in_GitLab_with_Customer_Tag_Organization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8042_Version_Control_n8n_Workflows_in_GitLab_with_Customer_Tag_Organization.json)|
 |9881|[9881_AI_Automate_UX_Feedback__Sentiment___Emotion_Analysis_in_Google_Sheets___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9881_AI_Automate_UX_Feedback__Sentiment___Emotion_Analysis_in_Google_Sheets___OpenAI.json)|
+|11136|[11136_Auto-Generate_WordPress_Blog_Tags_with_GPT-4.1-mini_and_Smart_Tag_Mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11136_Auto-Generate_WordPress_Blog_Tags_with_GPT-4.1-mini_and_Smart_Tag_Mapping.json)|

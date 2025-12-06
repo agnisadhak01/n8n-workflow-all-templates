@@ -1,4 +1,4 @@
-# manage : 75
+# manage : 76
 
 |id|file|
 |----|----|
@@ -77,3 +77,4 @@
 |9931|[9931_WhatsApp_AI_Assistant_for_Google_Calendar___Gmail_Management_with_Gemini_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9931_WhatsApp_AI_Assistant_for_Google_Calendar___Gmail_Management_with_Gemini_GPT.json)|
 |10114|[10114_Manage_Customer_Inquiries_from_Email___Web_Forms_with_Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10114_Manage_Customer_Inquiries_from_Email___Web_Forms_with_Slack___Google_Sheets.json)|
 |10476|[10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json)|
+|11202|[11202_Manage_Trello_Tasks_with_AI_Assistants_via_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11202_Manage_Trello_Tasks_with_AI_Assistants_via_MCP_Server.json)|

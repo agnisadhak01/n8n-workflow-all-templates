@@ -1,4 +1,4 @@
-# firecrawl : 27
+# firecrawl : 28
 
 |id|file|
 |----|----|
@@ -29,3 +29,4 @@
 |10216|[10216_E-commerce_Price_Monitor_with_Firecrawl__Claude-Sonnet_AI___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10216_E-commerce_Price_Monitor_with_Firecrawl__Claude-Sonnet_AI___Telegram_Alerts.json)|
 |10239|[10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json)|
 |10391|[10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10391_Generate_Comprehensive_Business_Analysis_Reports_with_Gemini_AI___Firecrawl.json)|
+|11098|[11098_Track_Website_Changes_with_Firecrawl__GPT-5-Mini__Notion__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11098_Track_Website_Changes_with_Firecrawl__GPT-5-Mini__Notion__and_Gmail.json)|

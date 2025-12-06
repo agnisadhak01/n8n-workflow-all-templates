@@ -1,4 +1,4 @@
-# chatgpt : 36
+# chatgpt : 38
 
 |id|file|
 |----|----|
@@ -38,3 +38,5 @@
 |10120|[10120_Scrape___Summarize_Google_Maps_Businesses_with_APIFY___GPT-4O_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10120_Scrape___Summarize_Google_Maps_Businesses_with_APIFY___GPT-4O_to_Sheets.json)|
 |10180|[10180_AI_Blog_Post_Generator_with_Scheduled_or_Prompt-based_Content_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10180_AI_Blog_Post_Generator_with_Scheduled_or_Prompt-based_Content_for_WordPress.json)|
 |10288|[10288_Automate_invoice_analysis_via_Telegram_with_ChatGPT-4o-mini_extraction.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10288_Automate_invoice_analysis_via_Telegram_with_ChatGPT-4o-mini_extraction.json)|
+|11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|
+|11284|[11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json)|

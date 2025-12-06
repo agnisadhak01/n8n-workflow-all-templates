@@ -1,4 +1,4 @@
-# tally : 8
+# tally : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |7982|[7982_Generate_and_Email_PDF_Invoices_from_Tally_Forms_with_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7982_Generate_and_Email_PDF_Invoices_from_Tally_Forms_with_Google_Docs.json)|
 |8330|[8330_Automate_Client_Nurture___Testimonial_Collection_with_Notion__Email__Tally___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8330_Automate_Client_Nurture___Testimonial_Collection_with_Notion__Email__Tally___Telegram.json)|
 |10777|[10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json)|
+|11233|[11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json)|

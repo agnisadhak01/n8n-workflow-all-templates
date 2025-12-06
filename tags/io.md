@@ -1,4 +1,4 @@
-# io : 51
+# io : 52
 
 |id|file|
 |----|----|
@@ -53,3 +53,4 @@
 |10000|[10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json)|
 |10126|[10126_Automate_YouTube_Thumbnail_Creation___Social_Publishing_with_Templated.io___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10126_Automate_YouTube_Thumbnail_Creation___Social_Publishing_with_Templated.io___Blotato.json)|
 |10267|[10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json)|
+|11229|[11229_Automatically_Add_Watermarks_to_Images_with_Telegram_Bot_and_ImageKit.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11229_Automatically_Add_Watermarks_to_Images_with_Telegram_Bot_and_ImageKit.io.json)|

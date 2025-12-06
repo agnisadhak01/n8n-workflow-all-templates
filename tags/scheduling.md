@@ -1,4 +1,4 @@
-# scheduling : 33
+# scheduling : 37
 
 |id|file|
 |----|----|
@@ -35,3 +35,7 @@
 |10080|[10080_AI-powered_Candidate_Screening___Interview_Scheduling_with_OpenAI_GPT___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10080_AI-powered_Candidate_Screening___Interview_Scheduling_with_OpenAI_GPT___Google_Suite.json)|
 |10098|[10098_Automated_YouTube_Video_Uploads_with_12h_Interval_Scheduling_in_JST.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10098_Automated_YouTube_Video_Uploads_with_12h_Interval_Scheduling_in_JST.json)|
 |10292|[10292_Automate_Recruitment_with_GPT-4o-mini__CV_Screening_to_Interview_Scheduling_in_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10292_Automate_Recruitment_with_GPT-4o-mini__CV_Screening_to_Interview_Scheduling_in_Airtable.json)|
+|11135|[11135_WordPress_Blog_Automation__AI_SEO_Content__Images__Scheduling___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11135_WordPress_Blog_Automation__AI_SEO_Content__Images__Scheduling___Email_Alerts.json)|
+|11234|[11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json)|
+|11243|[11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json)|
+|11254|[11254_Create_a_Calendly_Availability_API_Endpoint_for_Real-time_Scheduling_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11254_Create_a_Calendly_Availability_API_Endpoint_for_Real-time_Scheduling_Data.json)|

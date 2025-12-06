@@ -1,4 +1,4 @@
-# hub : 20
+# hub : 22
 
 |id|file|
 |----|----|
@@ -22,3 +22,5 @@
 |8630|[8630_Auto-like_Tweets_from_Selected_Profiles_with_Phantombuster___SharePoint_AI_Rotation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8630_Auto-like_Tweets_from_Selected_Profiles_with_Phantombuster___SharePoint_AI_Rotation.json)|
 |8847|[8847_Daily_RAG_Research_Paper_Hub_with_arXiv__Gemini_AI__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8847_Daily_RAG_Research_Paper_Hub_with_arXiv__Gemini_AI__and_Notion.json)|
 |10168|[10168_Automate_News_Intelligence_with_Gemini_AI_for_RSS_Feeds_to_Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10168_Automate_News_Intelligence_with_Gemini_AI_for_RSS_Feeds_to_Notion_and_Slack.json)|
+|11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|
+|11247|[11247_Track_Calendly_Schedule_Changes_with_Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11247_Track_Calendly_Schedule_Changes_with_Google_Sheets___Slack_Notifications.json)|

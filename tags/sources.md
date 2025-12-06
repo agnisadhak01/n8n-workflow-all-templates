@@ -1,4 +1,4 @@
-# sources : 13
+# sources : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |8621|[8621_Daily_Business_News_Summary_with_OpenAI_and_Gmail_from_Multiple_RSS_Sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8621_Daily_Business_News_Summary_with_OpenAI_and_Gmail_from_Multiple_RSS_Sources.json)|
 |8782|[8782_Create_Fact-Based_Articles_from_Knowledge_Sources_with_Lookio_and_OpenAI_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8782_Create_Fact-Based_Articles_from_Knowledge_Sources_with_Lookio_and_OpenAI_GPT.json)|
 |8890|[8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json)|
+|11103|[11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json)|

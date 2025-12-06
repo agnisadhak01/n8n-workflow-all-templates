@@ -1,4 +1,4 @@
-# design : 7
+# design : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8772|[8772_Telegram_Interior_Design_Studio_with_Furniture_Cataloging___Gemini_AI_Design_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8772_Telegram_Interior_Design_Studio_with_Furniture_Cataloging___Gemini_AI_Design_Generation.json)|
 |9500|[9500_Standardized_Workflow_Design_Pattern_with_Color-Coding_System_for_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9500_Standardized_Workflow_Design_Pattern_with_Color-Coding_System_for_Teams.json)|
 |10025|[10025_Automate_Interior_Design_Lead_Qualification_with_AI___Human_Approval_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10025_Automate_Interior_Design_Lead_Qualification_with_AI___Human_Approval_to_Notion.json)|
+|11181|[11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json)|

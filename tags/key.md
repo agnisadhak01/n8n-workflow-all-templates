@@ -1,4 +1,4 @@
-# key : 21
+# key : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |7598|[7598_IAM_Compliance_Automation__Enforce_MFA_and_Clean_Up_Access_Keys_in_AWS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7598_IAM_Compliance_Automation__Enforce_MFA_and_Clean_Up_Access_Keys_in_AWS.json)|
 |8251|[8251_WhatsApp_and_Google_Gemini__Key_Technologies_Highlighting_Multimodal_Capabilities.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8251_WhatsApp_and_Google_Gemini__Key_Technologies_Highlighting_Multimodal_Capabilities.json)|
 |8702|[8702_Bidirectional_Ticket_Sync_Between_Freshdesk_and_Linear_with_Error_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8702_Bidirectional_Ticket_Sync_Between_Freshdesk_and_Linear_with_Error_Logging.json)|
+|11212|[11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json)|

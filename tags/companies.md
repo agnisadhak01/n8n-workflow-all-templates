@@ -1,4 +1,4 @@
-# companies : 17
+# companies : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |10125|[10125_Enrich_HubSpot_Companies_with_Polish_CEIDG_Data_using_NIP_Identifiers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10125_Enrich_HubSpot_Companies_with_Polish_CEIDG_Data_using_NIP_Identifiers.json)|
 |10213|[10213_Automate_Email_Discovery_for_Companies_with_Anymail_Finder__Google_Sheets___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10213_Automate_Email_Discovery_for_Companies_with_Anymail_Finder__Google_Sheets___Telegram_Alerts.json)|
 |10707|[10707_Track_Companies_House_Filing_Deadlines_with_Google_Sheets__Gmail___Interactive_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10707_Track_Companies_House_Filing_Deadlines_with_Google_Sheets__Gmail___Interactive_Alerts.json)|
+|11189|[11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json)|

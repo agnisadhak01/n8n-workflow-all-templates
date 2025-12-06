@@ -1,4 +1,4 @@
-# proposals : 11
+# proposals : 13
 
 |id|file|
 |----|----|
@@ -13,3 +13,5 @@
 |9577|[9577_Automate_Freelance_Project_Intake_with_Custom_Proposals_using_Jotform___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9577_Automate_Freelance_Project_Intake_with_Custom_Proposals_using_Jotform___Gemini.json)|
 |10270|[10270_Google_Calendar_Events_with_Gemini_AI_Follow-up_Suggestions_via_WhatsApp___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10270_Google_Calendar_Events_with_Gemini_AI_Follow-up_Suggestions_via_WhatsApp___Email.json)|
 |10336|[10336_Generate_Business_Proposals_with_GPT-4o__Google_Sheets_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10336_Generate_Business_Proposals_with_GPT-4o__Google_Sheets_and_Google_Docs.json)|
+|11123|[11123_Generate_AI_Sales_Proposals_from_Transcripts_using_Azure_OpenAI__PandaDoc___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11123_Generate_AI_Sales_Proposals_from_Transcripts_using_Azure_OpenAI__PandaDoc___Slack_Approval.json)|
+|11291|[11291_Generate_merchandise_proposals_and_market_research_from_NASA_APOD.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11291_Generate_merchandise_proposals_and_market_research_from_NASA_APOD.json)|

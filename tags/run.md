@@ -1,4 +1,4 @@
-# run : 31
+# run : 32
 
 |id|file|
 |----|----|
@@ -33,3 +33,4 @@
 |9328|[9328_Extract_Legal_Contract_Data___Send_Alerts_with_VLM_Run__Google_Workspace___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9328_Extract_Legal_Contract_Data___Send_Alerts_with_VLM_Run__Google_Workspace___Slack.json)|
 |9408|[9408_Automated_Workflow_Test_Runner_with_Google_Drive__Sheets___ClickUp_Result_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9408_Automated_Workflow_Test_Runner_with_Google_Drive__Sheets___ClickUp_Result_Logging.json)|
 |9908|[9908_Run_bulk_RAG_queries_from_CSV_with_Lookio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9908_Run_bulk_RAG_queries_from_CSV_with_Lookio.json)|
+|11246|[11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json)|

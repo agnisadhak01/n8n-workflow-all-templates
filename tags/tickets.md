@@ -1,4 +1,4 @@
-# tickets : 43
+# tickets : 45
 
 |id|file|
 |----|----|
@@ -45,3 +45,5 @@
 |9620|[9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json)|
 |10065|[10065_Auto-Reply___Create_Linear_Tickets_from_Gmail_with_GPT-5__gotoHuman___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10065_Auto-Reply___Create_Linear_Tickets_from_Gmail_with_GPT-5__gotoHuman___Human_Review.json)|
 |10324|[10324_Automate_Instagram_Complaint_Handling_with_Claude_AI__Tickets___SLA_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10324_Automate_Instagram_Complaint_Handling_with_Claude_AI__Tickets___SLA_Management.json)|
+|11147|[11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|
+|11167|[11167_AI-Powered_Auto-Tagging_for_Zendesk_Tickets_using_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11167_AI-Powered_Auto-Tagging_for_Zendesk_Tickets_using_GPT-4.1-mini.json)|

@@ -1,4 +1,4 @@
-# idea : 8
+# idea : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |7751|[7751_Repurpose_One_Idea_into_a_Week_of_Social_Content_with_Notion_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7751_Repurpose_One_Idea_into_a_Week_of_Social_Content_with_Notion_and_GPT-4o.json)|
 |7772|[7772_Automate_Video_Creation_from_Voice_Input_with_HeyGen__GPT-5___Social_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7772_Automate_Video_Creation_from_Voice_Input_with_HeyGen__GPT-5___Social_Publishing.json)|
 |8922|[8922_Daily_Business_Ideas_from_IdeaBrowser_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8922_Daily_Business_Ideas_from_IdeaBrowser_to_Telegram.json)|
+|11306|[11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json)|

@@ -1,4 +1,4 @@
-# all : 136
+# all : 137
 
 |id|file|
 |----|----|
@@ -138,3 +138,4 @@
 |7901|[7901_Personal_AI_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7901_Personal_AI_Agent.json)|
 |8305|[8305_Automate_Everhour_Time-off_Sync_to_Google_Calendar_with_All-day_Events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8305_Automate_Everhour_Time-off_Sync_to_Google_Calendar_with_All-day_Events.json)|
 |10137|[10137_Automate_SEO_Keyword___SERP_Analysis_with_DataForSEO_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10137_Automate_SEO_Keyword___SERP_Analysis_with_DataForSEO_and_Google_Sheets.json)|
+|11141|[11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json)|

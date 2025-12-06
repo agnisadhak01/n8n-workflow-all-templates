@@ -1,4 +1,4 @@
-# meta : 45
+# meta : 47
 
 |id|file|
 |----|----|
@@ -47,3 +47,5 @@
 |9604|[9604_Automated_Meta_Token_Renewal_System_with_Graph_API_and_Data_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9604_Automated_Meta_Token_Renewal_System_with_Graph_API_and_Data_Storage.json)|
 |9750|[9750_Generate_SEO_Meta_Tags_with_Gemini_AI___Competitor_Analysis_using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9750_Generate_SEO_Meta_Tags_with_Gemini_AI___Competitor_Analysis_using_Google_Sheets.json)|
 |10551|[10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json)|
+|11079|[11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json)|
+|11089|[11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json)|

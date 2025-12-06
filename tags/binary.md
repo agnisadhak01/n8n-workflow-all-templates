@@ -1,4 +1,4 @@
-# binary : 12
+# binary : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |8780|[8780_Re-Access_Binary_Data_from_Any_Previous_Node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8780_Re-Access_Binary_Data_from_Any_Previous_Node.json)|
 |8867|[8867_Analyze_Images_with_OpenAI_Vision_while_Preserving_Binary_Data_for_Reuse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8867_Analyze_Images_with_OpenAI_Vision_while_Preserving_Binary_Data_for_Reuse.json)|
 |9481|[9481_Convert_Multiple_Binary_Files_to_Base64_JSON_Arrays_with_No_Custom_Code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9481_Convert_Multiple_Binary_Files_to_Base64_JSON_Arrays_with_No_Custom_Code.json)|
+|11235|[11235_Learn_How_to_use_Binary_Data_in_n8n__Video_Included.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11235_Learn_How_to_use_Binary_Data_in_n8n__Video_Included.json)|

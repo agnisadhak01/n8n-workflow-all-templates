@@ -1,4 +1,4 @@
-# no : 27
+# no : 28
 
 |id|file|
 |----|----|
@@ -29,3 +29,4 @@
 |10146|[10146_Recover_No-Show_Appointments_with_Calendly__Telegram___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10146_Recover_No-Show_Appointments_with_Calendly__Telegram___Email_Alerts.json)|
 |10262|[10262_Reduce_Meeting_No-Shows_with_Gemini_AI__Email___WhatsApp_Reminders_for_Calendly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10262_Reduce_Meeting_No-Shows_with_Gemini_AI__Email___WhatsApp_Reminders_for_Calendly.json)|
 |10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|
+|11212|[11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json)|

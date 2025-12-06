@@ -1,4 +1,4 @@
-# notification : 36
+# notification : 37
 
 |id|file|
 |----|----|
@@ -38,3 +38,4 @@
 |10161|[10161_Automated_Referral_Reward_System_with_Email_Verification_and_Visual_Coupons.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10161_Automated_Referral_Reward_System_with_Email_Verification_and_Visual_Coupons.json)|
 |10265|[10265_Bilibili_Video_Downloader_with_Google_Drive_Upload___Email_Notification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10265_Bilibili_Video_Downloader_with_Google_Drive_Upload___Email_Notification.json)|
 |10306|[10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json)|
+|11371|[11371_Automate_Lead_Enrichment_with_Web_Scraping__GPT-4o__Airtable_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11371_Automate_Lead_Enrichment_with_Web_Scraping__GPT-4o__Airtable_and_Slack_Notifications.json)|

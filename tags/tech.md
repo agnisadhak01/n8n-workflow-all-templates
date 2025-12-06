@@ -1,4 +1,4 @@
-# tech : 16
+# tech : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |8600|[8600_Tech_News_Aggregator__The_Verge___TechCrunch_RSS_to_Notion_with_GPT-4_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8600_Tech_News_Aggregator__The_Verge___TechCrunch_RSS_to_Notion_with_GPT-4_Summaries.json)|
 |8665|[8665_Create_AI-Curated_Tech_News_Digests_with_GPT-4.1_Mini_and_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8665_Create_AI-Curated_Tech_News_Digests_with_GPT-4.1_Mini_and_Notion_Database.json)|
 |9730|[9730_X___Reddit_Tech_Trend_Analysis_with_Gemini_AI_for_Notion___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9730_X___Reddit_Tech_Trend_Analysis_with_Gemini_AI_for_Notion___Telegram.json)|
+|11309|[11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json)|

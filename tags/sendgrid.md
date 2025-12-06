@@ -1,4 +1,4 @@
-# sendgrid : 6
+# sendgrid : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |6917|[6917_Send_Predefined_Personalized_Emails_to_Leads_from_Google_Sheets_using_SendGrid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6917_Send_Predefined_Personalized_Emails_to_Leads_from_Google_Sheets_using_SendGrid.json)|
 |8269|[8269_Automate_B2B_Lead_Generation___Email_Campaigns_with_Google_Maps__SendGrid___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8269_Automate_B2B_Lead_Generation___Email_Campaigns_with_Google_Maps__SendGrid___AI.json)|
 |9430|[9430_Analyze_Email_Performance___Optimize_Campaigns_with_GPT-4__SendGrid__and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9430_Analyze_Email_Performance___Optimize_Campaigns_with_GPT-4__SendGrid__and_Airtable.json)|
+|11233|[11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json)|

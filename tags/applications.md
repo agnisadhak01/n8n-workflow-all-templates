@@ -1,4 +1,4 @@
-# applications : 7
+# applications : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7966|[7966_Website_Content_Chatbot_with_Pinecone__Airtable___OpenAI_for_RAG_Applications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7966_Website_Content_Chatbot_with_Pinecone__Airtable___OpenAI_for_RAG_Applications.json)|
 |8200|[8200_Google_Drive_to_Supabase_Contextual_Vector_Database_Sync_for_RAG_Applications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8200_Google_Drive_to_Supabase_Contextual_Vector_Database_Sync_for_RAG_Applications.json)|
 |9176|[9176_Automate_Job_Applications_with_Gemini_AI__Notion_Tracking___Multi-platform_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9176_Automate_Job_Applications_with_Gemini_AI__Notion_Tracking___Multi-platform_Search.json)|
+|11215|[11215_Automate_Job_Applications_with_AI_Resume_Tailoring_using_GPT-4o__LinkedIn___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11215_Automate_Job_Applications_with_AI_Resume_Tailoring_using_GPT-4o__LinkedIn___Gmail.json)|

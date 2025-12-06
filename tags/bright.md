@@ -1,4 +1,4 @@
-# bright : 145
+# bright : 146
 
 |id|file|
 |----|----|
@@ -147,3 +147,4 @@
 |10119|[10119_AI-Powered_Web_Research_in_Google_Sheets_with_GPT_and_Bright_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10119_AI-Powered_Web_Research_in_Google_Sheets_with_GPT_and_Bright_Data.json)|
 |10176|[10176_Affiliate_Competitor_Tracking___Analysis_with_AI__Bright_Data__Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10176_Affiliate_Competitor_Tracking___Analysis_with_AI__Bright_Data__Sheets___Slack.json)|
 |10349|[10349_Advanced_Multi-Source_AI_Research_with_Bright_Data__OpenAI__Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10349_Advanced_Multi-Source_AI_Research_with_Bright_Data__OpenAI__Redis.json)|
+|11258|[11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json)|

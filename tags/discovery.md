@@ -1,4 +1,4 @@
-# discovery : 17
+# discovery : 20
 
 |id|file|
 |----|----|
@@ -19,3 +19,6 @@
 |8360|[8360_Automate_News_Discovery___Publishing_with_GPT-4__Google_Search_API___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8360_Automate_News_Discovery___Publishing_with_GPT-4__Google_Search_API___Slack.json)|
 |10054|[10054_Automated_CVE_Scanning_of_Bug_Bounty_Programs_with_Nuclei_and_Project_Discovery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10054_Automated_CVE_Scanning_of_Bug_Bounty_Programs_with_Nuclei_and_Project_Discovery.json)|
 |10213|[10213_Automate_Email_Discovery_for_Companies_with_Anymail_Finder__Google_Sheets___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10213_Automate_Email_Discovery_for_Companies_with_Anymail_Finder__Google_Sheets___Telegram_Alerts.json)|
+|11075|[11075_Cluster_webpage_topics_from_Google_Sheets_to_Google_Sheets_for_AI_discovery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11075_Cluster_webpage_topics_from_Google_Sheets_to_Google_Sheets_for_AI_discovery.json)|
+|11211|[11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json)|
+|11232|[11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json)|

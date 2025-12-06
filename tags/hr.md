@@ -1,4 +1,4 @@
-# hr : 26
+# hr : 27
 
 |id|file|
 |----|----|
@@ -28,3 +28,4 @@
 |9309|[9309_Employee_Attrition_Risk_Detection___HR_Alerts_using_Azure_OpenAI_GPT-4o-mini___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9309_Employee_Attrition_Risk_Detection___HR_Alerts_using_Azure_OpenAI_GPT-4o-mini___Gmail.json)|
 |9399|[9399_AI-powered_HR_Screening_Automation_via_Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9399_AI-powered_HR_Screening_Automation_via_Jotform.json)|
 |9528|[9528_Automate_HR_Recruitment_with_OpenAI_Resume_Screening___Interview_Questions_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9528_Automate_HR_Recruitment_with_OpenAI_Resume_Screening___Interview_Questions_Generator.json)|
+|11329|[11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json)|

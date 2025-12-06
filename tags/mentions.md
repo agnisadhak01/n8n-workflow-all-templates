@@ -1,4 +1,4 @@
-# mentions : 12
+# mentions : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |6721|[6721_Monitor_Cybersecurity_Brand_Mentions_on_X_and_Send_Alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6721_Monitor_Cybersecurity_Brand_Mentions_on_X_and_Send_Alerts_to_Slack.json)|
 |7217|[7217_Auto-Comment_on_Reddit_Posts_with_AI_Brand_Mentions___Baserow_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7217_Auto-Comment_on_Reddit_Posts_with_AI_Brand_Mentions___Baserow_Tracking.json)|
 |8355|[8355_Monitor_Brand_Mentions_on_X_with_Gemini_AI_Visual_Analysis___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8355_Monitor_Brand_Mentions_on_X_with_Gemini_AI_Visual_Analysis___Telegram_Alerts.json)|
+|11080|[11080_Track_Daily_Brand_Mentions_from_Hacker_News_to_Slack_with_GPT-4o-mini_Sentiment_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11080_Track_Daily_Brand_Mentions_from_Hacker_News_to_Slack_with_GPT-4o-mini_Sentiment_Analysis.json)|
+|11182|[11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json)|

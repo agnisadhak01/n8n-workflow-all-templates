@@ -1,4 +1,4 @@
-# hourly : 8
+# hourly : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |4906|[4906_Hourly_Monitoring_of_Crypto_Rates_with_Alpha_Vantage_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4906_Hourly_Monitoring_of_Crypto_Rates_with_Alpha_Vantage_API_and_Google_Sheets.json)|
 |6734|[6734_AI_Blog_Automation__Publish_hourly_SEO_Articles_to_WordPress___Twitter_v3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6734_AI_Blog_Automation__Publish_hourly_SEO_Articles_to_WordPress___Twitter_v3.json)|
 |7076|[7076_Automated_Hourly_n8n_Error_Monitoring_with_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7076_Automated_Hourly_n8n_Error_Monitoring_with_Slack_Notifications.json)|
+|11148|[11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json)|

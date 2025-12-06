@@ -1,4 +1,4 @@
-# scrapegraphai : 30
+# scrapegraphai : 31
 
 |id|file|
 |----|----|
@@ -32,3 +32,4 @@
 |8467|[8467_Extract___Store_Recently_Added_n8n_Community_Workflows_with_ScrapeGraphAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8467_Extract___Store_Recently_Added_n8n_Community_Workflows_with_ScrapeGraphAI_and_Gemini.json)|
 |8863|[8863_Create_Personalized_News_Digests_from_RSS_Feeds_with_GPT___Gemini_via_Email_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8863_Create_Personalized_News_Digests_from_RSS_Feeds_with_GPT___Gemini_via_Email_Telegram.json)|
 |10115|[10115_Track_Amazon_Product_Prices_with_ScrapeGraphAI__Google_Sheets___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10115_Track_Amazon_Product_Prices_with_ScrapeGraphAI__Google_Sheets___Telegram_Alerts.json)|
+|11227|[11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json)|

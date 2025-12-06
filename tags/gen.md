@@ -1,4 +1,4 @@
-# gen : 12
+# gen : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |9216|[9216_Generate___Edit_Images_with_Gemini_AI__Storage___Email_Delivery_Pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9216_Generate___Edit_Images_with_Gemini_AI__Storage___Email_Delivery_Pipeline.json)|
 |9393|[9393_Automate_B2B_Lead_Generation___Personalized_Cold_Emails_with_Apollo__Apify___GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9393_Automate_B2B_Lead_Generation___Personalized_Cold_Emails_with_Apollo__Apify___GPT.json)|
 |10308|[10308_Generate_AI_Short-Form_Videos_with_Creatomate__ElevenLabs___Pexels_Stock.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10308_Generate_AI_Short-Form_Videos_with_Creatomate__ElevenLabs___Pexels_Stock.json)|
+|11284|[11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json)|

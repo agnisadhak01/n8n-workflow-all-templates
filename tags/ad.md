@@ -1,4 +1,4 @@
-# ad : 34
+# ad : 36
 
 |id|file|
 |----|----|
@@ -36,3 +36,5 @@
 |10057|[10057_Generate_Google_Ad_Copy_Automatically_with_Claude_3.5__Channable___Relevance_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10057_Generate_Google_Ad_Copy_Automatically_with_Claude_3.5__Channable___Relevance_AI.json)|
 |10393|[10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json)|
 |10427|[10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10427_Analyze_Facebook_Ads___Send_Insights_to_Google_Sheets_with_Gemini_AI.json)|
+|11163|[11163_Generate_100__Ad_Variations_from_One_Image_with_Fal.AI_Nano_Banana_and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11163_Generate_100__Ad_Variations_from_One_Image_with_Fal.AI_Nano_Banana_and_GPT-5.json)|
+|11205|[11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json)|

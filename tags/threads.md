@@ -1,4 +1,4 @@
-# threads : 17
+# threads : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |8553|[8553_Auto-Generate___Post_Social_Media_Content_with_GPT-4__Notion___Instagram_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8553_Auto-Generate___Post_Social_Media_Content_with_GPT-4__Notion___Instagram_API.json)|
 |9004|[9004_Find_Hiring_Posts_on_Threads_with_Apify__AI_Filtering__and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9004_Find_Hiring_Posts_on_Threads_with_Apify__AI_Filtering__and_Telegram_Alerts.json)|
 |10153|[10153_Download_Threads_Videos___Log_Results_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10153_Download_Threads_Videos___Log_Results_in_Google_Sheets.json)|
+|11121|[11121_Auto_Create___Publish_X-Threads__Twitter__with_GPT_via_Telegram___Approval_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11121_Auto_Create___Publish_X-Threads__Twitter__with_GPT_via_Telegram___Approval_Loop.json)|

@@ -1,4 +1,4 @@
-# organization : 12
+# organization : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |8042|[8042_Version_Control_n8n_Workflows_in_GitLab_with_Customer_Tag_Organization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8042_Version_Control_n8n_Workflows_in_GitLab_with_Customer_Tag_Organization.json)|
 |8336|[8336_Automatic_Email_Categorization_and_Organization_with_Outlook_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8336_Automatic_Email_Categorization_and_Organization_with_Outlook_and_GPT-4o.json)|
 |8788|[8788_AI-Powered_Document_Processing___Organization_with_Gemini__VLM_Run___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8788_AI-Powered_Document_Processing___Organization_with_Gemini__VLM_Run___Google_Sheets.json)|
+|11071|[11071_Automate_Gmail_Organization_with_AI-Powered_Email_Classification_and_Smart_Labeling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11071_Automate_Gmail_Organization_with_AI-Powered_Email_Classification_and_Smart_Labeling.json)|
+|11150|[11150_Automate_Image_Portfolio_Organization_with_GPT-4o_Vision__Google_Drive_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11150_Automate_Image_Portfolio_Organization_with_GPT-4o_Vision__Google_Drive_and_Notion.json)|

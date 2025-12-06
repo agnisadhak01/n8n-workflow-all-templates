@@ -1,4 +1,4 @@
-# discover : 19
+# discover : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |7620|[7620_Discover_Decision_Makers_by_Responsibilities__not_Titles__with_Octave___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7620_Discover_Decision_Makers_by_Responsibilities__not_Titles__with_Octave___Airtable.json)|
 |7758|[7758_Sitemap_Page_Extractor__Discover__Clean__and_Save_Website_URLs_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7758_Sitemap_Page_Extractor__Discover__Clean__and_Save_Website_URLs_to_Google_Sheets.json)|
 |7906|[7906_Scrape_Google_Maps_Data___Discover_Email_Addresses_with_SerpAPI_and_EmailListVerify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7906_Scrape_Google_Maps_Data___Discover_Email_Addresses_with_SerpAPI_and_EmailListVerify.json)|
+|11211|[11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json)|
+|11232|[11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json)|

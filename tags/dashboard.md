@@ -1,4 +1,4 @@
-# dashboard : 24
+# dashboard : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |9553|[9553_WhatsApp_Marketing_Dashboard_with_Dynamic_Broadcasts_from_Google_Sheets_to_Meta_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9553_WhatsApp_Marketing_Dashboard_with_Dynamic_Broadcasts_from_Google_Sheets_to_Meta_Templates.json)|
 |9832|[9832_Track_Jira_Epic_Health_with_Automated_Risk_Alerts_via_Slack__Monday___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9832_Track_Jira_Epic_Health_with_Automated_Risk_Alerts_via_Slack__Monday___Sheets.json)|
 |10283|[10283_Automate_Customer_Support_Triage_with_GPT__Gmail__Slack___Analytics_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10283_Automate_Customer_Support_Triage_with_GPT__Gmail__Slack___Analytics_Dashboard.json)|
+|11182|[11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json)|

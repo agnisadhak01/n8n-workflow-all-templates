@@ -1,4 +1,4 @@
-# team : 42
+# team : 43
 
 |id|file|
 |----|----|
@@ -44,3 +44,4 @@
 |9926|[9926_Team_Morale_Monitoring_from_Teams_Slack_Messages_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9926_Team_Morale_Monitoring_from_Teams_Slack_Messages_with_Gemini_AI.json)|
 |10102|[10102_Dynamic_Hubspot_Lead_Routing_with_GPT-4_and_Airtable_Sales_Team_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10102_Dynamic_Hubspot_Lead_Routing_with_GPT-4_and_Airtable_Sales_Team_Distribution.json)|
 |10113|[10113_Automated_Nicereply_Feedback_Routing_to_MS_Teams_by_Team_and_Sentiment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10113_Automated_Nicereply_Feedback_Routing_to_MS_Teams_by_Team_and_Sentiment.json)|
+|11109|[11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json)|

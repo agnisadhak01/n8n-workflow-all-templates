@@ -1,4 +1,4 @@
-# maker : 5
+# maker : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |7543|[7543_Find_B2B_Decision_Maker_Emails___Build_Lead_Database_with_Serper.dev___AnyMailFinder.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7543_Find_B2B_Decision_Maker_Emails___Build_Lead_Database_with_Serper.dev___AnyMailFinder.json)|
 |7637|[7637_Generate_Job-Specific_ATS_Resumes_with_Perplexity_AI_and_PDF_Export.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7637_Generate_Job-Specific_ATS_Resumes_with_Perplexity_AI_and_PDF_Export.json)|
 |9158|[9158_Generate_Meeting_Minutes_from_Videos_with_Whisper__Ollama_LLM_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9158_Generate_Meeting_Minutes_from_Videos_with_Whisper__Ollama_LLM_and_Notion.json)|
+|11086|[11086_Scrape_Business_Leads_from_Google_Maps_and_Extract_Decision-Maker_Info_with_Olostep.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11086_Scrape_Business_Leads_from_Google_Maps_and_Extract_Decision-Maker_Info_with_Olostep.json)|

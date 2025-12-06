@@ -1,4 +1,4 @@
-# descriptions : 18
+# descriptions : 19
 
 |id|file|
 |----|----|
@@ -20,3 +20,4 @@
 |8637|[8637_Match_CVs_to_Job_Descriptions_with_Gemini_Analysis___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8637_Match_CVs_to_Job_Descriptions_with_Gemini_Analysis___Email_Reports.json)|
 |8848|[8848_Auto-Generate_SEO_Product_Titles___Descriptions_with_GPT-4o-mini_for_Printify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8848_Auto-Generate_SEO_Product_Titles___Descriptions_with_GPT-4o-mini_for_Printify.json)|
 |9344|[9344_Generate_Template_Descriptions_from_Google_Drive_with_Azure_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9344_Generate_Template_Descriptions_from_Google_Drive_with_Azure_GPT-4.json)|
+|11082|[11082_Generate_eCommerce_Product_Descriptions_with_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11082_Generate_eCommerce_Product_Descriptions_with_GPT-4o-mini_and_Airtable.json)|

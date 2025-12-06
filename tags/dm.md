@@ -1,4 +1,4 @@
-# dm : 8
+# dm : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |7668|[7668_Write_Personalised_Direct_Messages_for_Instagram_with_Apify__OpenAI__GSheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7668_Write_Personalised_Direct_Messages_for_Instagram_with_Apify__OpenAI__GSheets.json)|
 |7844|[7844_LinkedIn_Lead_Generation__Auto_DM_System_with_Comment_Triggers_using_Unipile___NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7844_LinkedIn_Lead_Generation__Auto_DM_System_with_Comment_Triggers_using_Unipile___NocoDB.json)|
 |8066|[8066_Gemini-Powered_Facebook_Comment___DM_Assistant_with_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8066_Gemini-Powered_Facebook_Comment___DM_Assistant_with_Notion.json)|
+|11321|[11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json)|

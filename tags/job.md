@@ -1,4 +1,4 @@
-# job : 87
+# job : 88
 
 |id|file|
 |----|----|
@@ -89,3 +89,4 @@
 |9955|[9955_Screen_Job_Applicants_with_Gemini_AI__Jotform_to_Notion_Hiring_Pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9955_Screen_Job_Applicants_with_Gemini_AI__Jotform_to_Notion_Hiring_Pipeline.json)|
 |10101|[10101_AI_Recruiter___Analyze_Multiple_CVs_vs_Job_Description_using_OpenAI_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10101_AI_Recruiter___Analyze_Multiple_CVs_vs_Job_Description_using_OpenAI_GPT.json)|
 |10256|[10256_Automate_Job_Searching___Resume_Customization_with_Mistral_AI__LinkedIn___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10256_Automate_Job_Searching___Resume_Customization_with_Mistral_AI__LinkedIn___Google_Sheets.json)|
+|11215|[11215_Automate_Job_Applications_with_AI_Resume_Tailoring_using_GPT-4o__LinkedIn___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11215_Automate_Job_Applications_with_AI_Resume_Tailoring_using_GPT-4o__LinkedIn___Gmail.json)|

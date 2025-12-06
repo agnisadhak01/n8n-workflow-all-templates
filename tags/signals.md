@@ -1,4 +1,4 @@
-# signals : 7
+# signals : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |9015|[9015_Generate_Stock_Trading_Signals_with_Gemini_2.5_Pro___TwelveData_via_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9015_Generate_Stock_Trading_Signals_with_Gemini_2.5_Pro___TwelveData_via_Telegram_Bot.json)|
 |9219|[9219_Generate_Personalized_Sales_Outreach_from_LinkedIn_Job_Signals_with_Apify___Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9219_Generate_Personalized_Sales_Outreach_from_LinkedIn_Job_Signals_with_Apify___Google_Gemini.json)|
 |10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|
+|11366|[11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json)|

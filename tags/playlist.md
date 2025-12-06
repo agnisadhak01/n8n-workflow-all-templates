@@ -1,4 +1,4 @@
-# playlist : 13
+# playlist : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |5926|[5926_Get_a_summary_of_each_podcast_in_your_YouTube_playlist_daily_automatically_free.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5926_Get_a_summary_of_each_podcast_in_your_YouTube_playlist_daily_automatically_free.json)|
 |8801|[8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8801_AI_DJ__Text-to-Spotify_Playlist_Generator_with_Linkup_and_GPT4.json)|
 |9888|[9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9888_Automated_Spotify_Playlist_Organizer_-_Sort_and_Queue_Tracks_by_Popularity.json)|
+|11300|[11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json)|

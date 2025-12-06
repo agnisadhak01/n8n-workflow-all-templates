@@ -1,4 +1,4 @@
-# prompt : 25
+# prompt : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |9216|[9216_Generate___Edit_Images_with_Gemini_AI__Storage___Email_Delivery_Pipeline.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9216_Generate___Edit_Images_with_Gemini_AI__Storage___Email_Delivery_Pipeline.json)|
 |9853|[9853_Automated_AI_Media_Creation_with_MagicHour_AI_and_GPT-4_Prompt_Optimization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9853_Automated_AI_Media_Creation_with_MagicHour_AI_and_GPT-4_Prompt_Optimization.json)|
 |10180|[10180_AI_Blog_Post_Generator_with_Scheduled_or_Prompt-based_Content_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10180_AI_Blog_Post_Generator_with_Scheduled_or_Prompt-based_Content_for_WordPress.json)|
+|11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|

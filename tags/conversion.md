@@ -1,4 +1,4 @@
-# conversion : 19
+# conversion : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |8037|[8037_Automated_YouTube_Video_to_Blog_Post_Conversion_with_Gemini_AI_Transcription.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8037_Automated_YouTube_Video_to_Blog_Post_Conversion_with_Gemini_AI_Transcription.json)|
 |8358|[8358_Daily_Gmail_Inbox_Digest_to_Discord_with_GPT-4.1-mini_and_PDF_Conversion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8358_Daily_Gmail_Inbox_Digest_to_Discord_with_GPT-4.1-mini_and_PDF_Conversion.json)|
 |9997|[9997_Landing_Page_CRO_Analysis___Optimization_with_OpenAI___Multi-channel_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9997_Landing_Page_CRO_Analysis___Optimization_with_OpenAI___Multi-channel_Delivery.json)|
+|11327|[11327_Automate_Timesheet_to_Invoice_Conversion_with_OpenAI__Gmail___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11327_Automate_Timesheet_to_Invoice_Conversion_with_OpenAI__Gmail___Google_Workspace.json)|

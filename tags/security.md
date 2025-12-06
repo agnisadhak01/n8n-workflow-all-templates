@@ -1,4 +1,4 @@
-# security : 37
+# security : 39
 
 |id|file|
 |----|----|
@@ -39,3 +39,5 @@
 |9735|[9735_Subdomain_Enumeration_with_Subfinder__HTTPX___GPT-4-Mini_for_Security_Reconnaissance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9735_Subdomain_Enumeration_with_Subfinder__HTTPX___GPT-4-Mini_for_Security_Reconnaissance.json)|
 |10112|[10112_Automated_Weekly_Security_Audit_Reports_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10112_Automated_Weekly_Security_Audit_Reports_with_Gmail_Delivery.json)|
 |10801|[10801_Scan_Single_URLs_for_Security_Vulnerabilities_with_GPT-4__JS__PHP__Python.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10801_Scan_Single_URLs_for_Security_Vulnerabilities_with_GPT-4__JS__PHP__Python.json)|
+|11195|[11195_Generate_Security_Vulnerability_Reports_with_Google_Dorks__SerpAPI_and_PDF4me.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11195_Generate_Security_Vulnerability_Reports_with_Google_Dorks__SerpAPI_and_PDF4me.json)|
+|11220|[11220_Automated_Failed_Login_Detection_with_Jira_Tasks__Slack_Alerts___Notion_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11220_Automated_Failed_Login_Detection_with_Jira_Tasks__Slack_Alerts___Notion_Logging.json)|

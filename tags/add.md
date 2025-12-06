@@ -1,4 +1,4 @@
-# add : 63
+# add : 64
 
 |id|file|
 |----|----|
@@ -65,3 +65,4 @@
 |8032|[8032_Auto-Add_New_Calendly_Bookings_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8032_Auto-Add_New_Calendly_Bookings_to_Google_Sheets.json)|
 |9203|[9203_Add_User_Authorization_Layer_to_Your_Telegram_Bot_with_Admin_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9203_Add_User_Authorization_Layer_to_Your_Telegram_Bot_with_Admin_Alerts.json)|
 |10230|[10230_Add_Project_Tasks_to_Google_Sheets_with_GPT-4.1-mini_Chat_Assistant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10230_Add_Project_Tasks_to_Google_Sheets_with_GPT-4.1-mini_Chat_Assistant.json)|
+|11229|[11229_Automatically_Add_Watermarks_to_Images_with_Telegram_Bot_and_ImageKit.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11229_Automatically_Add_Watermarks_to_Images_with_Telegram_Bot_and_ImageKit.io.json)|

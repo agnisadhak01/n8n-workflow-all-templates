@@ -1,4 +1,4 @@
-# collector : 9
+# collector : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8846|[8846_Capture_and_Process_Ideas_with_GPT-4o-mini__Notion_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8846_Capture_and_Process_Ideas_with_GPT-4o-mini__Notion_and_Slack_Notifications.json)|
 |9787|[9787_Collect_Star_Rating_Feedback_with_Self-Contained_HTML_Forms_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9787_Collect_Star_Rating_Feedback_with_Self-Contained_HTML_Forms_and_Data_Tables.json)|
 |10327|[10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json)|
+|11228|[11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json)|

@@ -1,4 +1,4 @@
-# trending : 14
+# trending : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8271|[8271_Automated_Trending_Cryptocurrency_Updates_from_CoinGecko_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8271_Automated_Trending_Cryptocurrency_Updates_from_CoinGecko_to_Telegram.json)|
 |9641|[9641_YouTube_Competitor_Video_Analytics_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9641_YouTube_Competitor_Video_Analytics_to_Google_Sheets.json)|
 |10303|[10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json)|
+|11175|[11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json)|

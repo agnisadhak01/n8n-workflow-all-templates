@@ -1,4 +1,4 @@
-# scheduler : 21
+# scheduler : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |10104|[10104_Form_to_Meeting__Google_Calendar__Zoom__Gmail___Slack_Booking_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10104_Form_to_Meeting__Google_Calendar__Zoom__Gmail___Slack_Booking_Automation.json)|
 |10105|[10105_Automate_Performance_Review_Process_with_Google_Sheets__Calendar__Email___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10105_Automate_Performance_Review_Process_with_Google_Sheets__Calendar__Email___Slack.json)|
 |10292|[10292_Automate_Recruitment_with_GPT-4o-mini__CV_Screening_to_Interview_Scheduling_in_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10292_Automate_Recruitment_with_GPT-4o-mini__CV_Screening_to_Interview_Scheduling_in_Airtable.json)|
+|11166|[11166_Autonomous_Meeting_Scheduler_with_GPT-4o-mini__Telegram__and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11166_Autonomous_Meeting_Scheduler_with_GPT-4o-mini__Telegram__and_Google_Calendar.json)|

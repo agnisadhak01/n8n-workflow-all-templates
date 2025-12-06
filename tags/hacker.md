@@ -1,4 +1,4 @@
-# hacker : 11
+# hacker : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |9155|[9155_Daily_AI_News_Monitoring_and_Summarization_with_GPT-4_from_Google___Hacker_News_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9155_Daily_AI_News_Monitoring_and_Summarization_with_GPT-4_from_Google___Hacker_News_to_Telegram.json)|
 |9384|[9384_Daily_AI_News_Digest_from_Hacker_News_with_GPT-5_Summaries_and_Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9384_Daily_AI_News_Digest_from_Hacker_News_with_GPT-5_Summaries_and_Email_Delivery.json)|
 |9774|[9774_Generate_AI_Summaries_from_Hacker_News_to_Slack_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9774_Generate_AI_Summaries_from_Hacker_News_to_Slack_with_OpenRouter.json)|
+|11080|[11080_Track_Daily_Brand_Mentions_from_Hacker_News_to_Slack_with_GPT-4o-mini_Sentiment_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11080_Track_Daily_Brand_Mentions_from_Hacker_News_to_Slack_with_GPT-4o-mini_Sentiment_Analysis.json)|

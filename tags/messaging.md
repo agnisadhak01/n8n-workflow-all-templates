@@ -1,4 +1,4 @@
-# messaging : 19
+# messaging : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |8988|[8988_Send_Daily_Mortgage_Rate_Updates_from_Mortgage_News_Daily_to_Messaging_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8988_Send_Daily_Mortgage_Rate_Updates_from_Mortgage_News_Daily_to_Messaging_Platforms.json)|
 |9211|[9211_AI_secretary_for_scheduling_with_WhatsApp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9211_AI_secretary_for_scheduling_with_WhatsApp_and_Telegram.json)|
 |9738|[9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json)|
+|11321|[11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json)|

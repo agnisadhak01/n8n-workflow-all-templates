@@ -1,4 +1,4 @@
-# message : 68
+# message : 69
 
 |id|file|
 |----|----|
@@ -70,3 +70,4 @@
 |9254|[9254_Automate_Telegram_Message_Processing_-_Separate_Text_and_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9254_Automate_Telegram_Message_Processing_-_Separate_Text_and_Files.json)|
 |9738|[9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json)|
 |10129|[10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10129_Create_Professional_LinkedIn_Posts_from_Telegram_Messages_using_OpenAI_Text___Image.json)|
+|11321|[11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json)|

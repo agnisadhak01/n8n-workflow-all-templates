@@ -1,4 +1,4 @@
-# sql : 22
+# sql : 23
 
 |id|file|
 |----|----|
@@ -24,3 +24,4 @@
 |7451|[7451_Natural_Language_to_SQL_Converter_for_Google_Sheets_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7451_Natural_Language_to_SQL_Converter_for_Google_Sheets_with_GPT-4o.json)|
 |8890|[8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json)|
 |9544|[9544_Generate_Complete_Database_Schemas_with_Claude_for_SQL_Databases.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9544_Generate_Complete_Database_Schemas_with_Claude_for_SQL_Databases.json)|
+|11256|[11256_Monitor_Data_Quality_with_Notion_Rules__SQL_Checks___AI-Powered_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11256_Monitor_Data_Quality_with_Notion_Rules__SQL_Checks___AI-Powered_Alerts.json)|

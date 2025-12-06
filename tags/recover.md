@@ -1,4 +1,4 @@
-# recover : 5
+# recover : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |9959|[9959_Recover_Missed_Demos_with_Calendly__Zoom___AI-Generated_Follow-ups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9959_Recover_Missed_Demos_with_Calendly__Zoom___AI-Generated_Follow-ups.json)|
 |10146|[10146_Recover_No-Show_Appointments_with_Calendly__Telegram___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10146_Recover_No-Show_Appointments_with_Calendly__Telegram___Email_Alerts.json)|
 |10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|
+|11129|[11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json)|

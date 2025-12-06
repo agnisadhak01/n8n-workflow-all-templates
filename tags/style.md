@@ -1,4 +1,4 @@
-# style : 10
+# style : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |8568|[8568_Create_Structured_Logging_System_with_Supabase_and_Log4j2-style_Levels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8568_Create_Structured_Logging_System_with_Supabase_and_Log4j2-style_Levels.json)|
 |8887|[8887_Generating_Vintage_Polaroid_Style_Photos_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8887_Generating_Vintage_Polaroid_Style_Photos_with_Gemini_AI.json)|
 |10393|[10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10393_Create_UGC_Style_Product_Ad_Video_via_Telegram___Gemini___Kie.ai_s_Veo3.1_API.json)|
+|11268|[11268_Generate_Hollywood-Style_Video_Ads_from_Images_with_GPT-5_Mini_and_Fal.ai_Sora-2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11268_Generate_Hollywood-Style_Video_Ads_from_Images_with_GPT-5_Mini_and_Fal.ai_Sora-2.json)|

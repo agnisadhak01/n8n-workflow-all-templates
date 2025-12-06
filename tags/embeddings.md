@@ -1,4 +1,4 @@
-# embeddings : 12
+# embeddings : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |7717|[7717_Build_a_PDF_Q_A_System_with_LlamaIndex__OpenAI_Embeddings___Pinecone_Vector_DB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7717_Build_a_PDF_Q_A_System_with_LlamaIndex__OpenAI_Embeddings___Pinecone_Vector_DB.json)|
 |9174|[9174_Auto-Update_Knowledge_Base_with_Drive__LlamaIndex___Azure_OpenAI_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9174_Auto-Update_Knowledge_Base_with_Drive__LlamaIndex___Azure_OpenAI_Embeddings.json)|
 |9620|[9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9620_Create_Knowledge_Base_from_Jira_Tickets_with_OpenAI_Embeddings_and_Pinecone.json)|
+|11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|

@@ -1,4 +1,4 @@
-# llama : 27
+# llama : 28
 
 |id|file|
 |----|----|
@@ -29,3 +29,4 @@
 |7062|[7062_Llama_AI_Model_for_Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7062_Llama_AI_Model_for_Google_Sheets_Tracking.json)|
 |7386|[7386_Daily_Tech_News_Digest_from_Google_News_Summarized_with_Llama_AI_and_Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7386_Daily_Tech_News_Digest_from_Google_News_Summarized_with_Llama_AI_and_Email_Delivery.json)|
 |9147|[9147_RSS_to_Social__Automated_Content_Generation_with_Llama_3___GetLate_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9147_RSS_to_Social__Automated_Content_Generation_with_Llama_3___GetLate_Publishing.json)|
+|11116|[11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json)|

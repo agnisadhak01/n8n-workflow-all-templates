@@ -1,4 +1,4 @@
-# branded : 9
+# branded : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |9455|[9455_Create_branded_LinkedIn_carousels_with_GPT-4o-mini__Figma_templates___Templated.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9455_Create_branded_LinkedIn_carousels_with_GPT-4o-mini__Figma_templates___Templated.json)|
 |9537|[9537_Create_Branded_Social_Media_Images_with_Bannerbear__Sync_Async_modes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9537_Create_Branded_Social_Media_Images_with_Bannerbear__Sync_Async_modes.json)|
 |10553|[10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json)|
+|11370|[11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json)|

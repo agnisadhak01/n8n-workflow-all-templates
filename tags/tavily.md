@@ -1,4 +1,4 @@
-# tavily : 29
+# tavily : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |9551|[9551_Indonesian_Stock_Market_Research_Agent_with_Sectors_App__Gemini___Tavily.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9551_Indonesian_Stock_Market_Research_Agent_with_Sectors_App__Gemini___Tavily.json)|
 |9998|[9998_Generate_Platform-Specific_Social_Media_Posts_with_ChatGPT__Tavily___G-Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9998_Generate_Platform-Specific_Social_Media_Posts_with_ChatGPT__Tavily___G-Sheets.json)|
 |10009|[10009_Create_Personalized_B2B_Outreach_Emails_with_Tavily_Research___OpenRouter_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10009_Create_Personalized_B2B_Outreach_Emails_with_Tavily_Research___OpenRouter_LLM.json)|
+|11092|[11092_Create_AI-Curated_News_Digests_with_GPT-5.1__NewsAPI__Tavily___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11092_Create_AI-Curated_News_Digests_with_GPT-5.1__NewsAPI__Tavily___Telegram.json)|

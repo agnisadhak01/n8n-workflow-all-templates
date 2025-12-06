@@ -1,4 +1,4 @@
-# aggregator : 9
+# aggregator : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8600|[8600_Tech_News_Aggregator__The_Verge___TechCrunch_RSS_to_Notion_with_GPT-4_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8600_Tech_News_Aggregator__The_Verge___TechCrunch_RSS_to_Notion_with_GPT-4_Summaries.json)|
 |8815|[8815_Auto_Bug_Report_Aggregator__Sync_Zendesk_Bug_Tickets_into_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8815_Auto_Bug_Report_Aggregator__Sync_Zendesk_Bug_Tickets_into_Google_Sheets.json)|
 |10007|[10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json)|
+|11224|[11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json)|

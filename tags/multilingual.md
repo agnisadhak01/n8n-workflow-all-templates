@@ -1,4 +1,4 @@
-# multilingual : 15
+# multilingual : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |9027|[9027_WhatsApp_Customer_Support_with_Claude_AI__Google_Docs___Multilingual_Capabilities.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9027_WhatsApp_Customer_Support_with_Claude_AI__Google_Docs___Multilingual_Capabilities.json)|
 |10185|[10185_Automate_Multilingual_Slack_Communication__JA___EN__with_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10185_Automate_Multilingual_Slack_Communication__JA___EN__with_Gemini_2.5_Flash.json)|
 |10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|
+|11262|[11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json)|

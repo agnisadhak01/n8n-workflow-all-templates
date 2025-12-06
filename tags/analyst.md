@@ -1,4 +1,4 @@
-# analyst : 15
+# analyst : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |7197|[7197_Chat-Based_Financial_Analysis_of_P_L_and_Balance_Sheets_with_GPT-4___PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7197_Chat-Based_Financial_Analysis_of_P_L_and_Balance_Sheets_with_GPT-4___PostgreSQL.json)|
 |7718|[7718_Create_a_Data_Analyst_Chatbot_for_Real-time_Google_Sheets_Analysis_with_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7718_Create_a_Data_Analyst_Chatbot_for_Real-time_Google_Sheets_Analysis_with_GPT-5.json)|
 |10751|[10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10751_Analyze_Sales_Call_Objections_with_Fireflies_Transcripts__GPT-4o__and_Slack_Feedback.json)|
+|11159|[11159_Analyze_food_ingredients_from_Telegram_photos_using_Gemini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11159_Analyze_food_ingredients_from_Telegram_photos_using_Gemini_and_Airtable.json)|
+|11198|[11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json)|

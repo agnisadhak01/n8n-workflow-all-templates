@@ -1,4 +1,4 @@
-# replicate : 26
+# replicate : 27
 
 |id|file|
 |----|----|
@@ -28,3 +28,4 @@
 |9362|[9362_Transform_Text_to_UGC_Videos_with_OpenAI_SORA-2_on_Replicate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9362_Transform_Text_to_UGC_Videos_with_OpenAI_SORA-2_on_Replicate.json)|
 |9658|[9658_Automated_Blog_Creation_from_News_to_Publication_using_Gemini__Ideogram___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9658_Automated_Blog_Creation_from_News_to_Publication_using_Gemini__Ideogram___Slack.json)|
 |10103|[10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json)|
+|11175|[11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json)|

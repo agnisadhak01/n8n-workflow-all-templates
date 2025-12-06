@@ -1,4 +1,4 @@
-# billing : 6
+# billing : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |6515|[6515_Automated_Invoice_Workflow_with_Smart_Reminders_using_GPT-4__Stripe__and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6515_Automated_Invoice_Workflow_with_Smart_Reminders_using_GPT-4__Stripe__and_Google_Workspace.json)|
 |7086|[7086_Automate_Client_Billing_Detail_Collection___Invoicing_with_Outlook_and_QuickBooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7086_Automate_Client_Billing_Detail_Collection___Invoicing_with_Outlook_and_QuickBooks.json)|
 |9837|[9837_Auto-Generate_Developer_Invoices___Compliance_Reminders_with_Jira_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9837_Auto-Generate_Developer_Invoices___Compliance_Reminders_with_Jira_and_Gmail.json)|
+|11257|[11257_Automate_Assignee_Payroll_Calculations_with_Dart__Gemini_AI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11257_Automate_Assignee_Payroll_Calculations_with_Dart__Gemini_AI__and_Google_Sheets.json)|
