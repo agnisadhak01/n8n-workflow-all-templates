@@ -1,4 +1,4 @@
-# channel : 94
+# channel : 102
 
 |id|file|
 |----|----|
@@ -96,3 +96,11 @@
 |10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|
 |10896|[10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10896_Multi-Channel_Feedback_to_Jira_Pipeline_with_AI_Analysis___Notion_Reporting.json)|
 |11289|[11289_Monitor_NASA_asteroid_threats_with_AI_fact-check_and_multi-channel_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11289_Monitor_NASA_asteroid_threats_with_AI_fact-check_and_multi-channel_alerts.json)|
+|11470|[11470_Real-time_ISS_Overhead_Alert_with_Weather_Check_and_Multi-Channel_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11470_Real-time_ISS_Overhead_Alert_with_Weather_Check_and_Multi-Channel_Notifications.json)|
+|11514|[11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json)|
+|11621|[11621_Automated_Stock_Technical_Analysis_with_xAI_Grok___Multi-channel_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11621_Automated_Stock_Technical_Analysis_with_xAI_Grok___Multi-channel_Notifications.json)|
+|11708|[11708_Generate_Strategic_Business_Recommendations_with_GPT-4_Mini_and_Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11708_Generate_Strategic_Business_Recommendations_with_GPT-4_Mini_and_Multi-Channel_Distribution.json)|
+|11711|[11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json)|
+|11743|[11743_Generate_Multi-Channel_Release_Notes_from_ClickUp_Tasks_with_GPT-4o__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11743_Generate_Multi-Channel_Release_Notes_from_ClickUp_Tasks_with_GPT-4o__Notion___Slack.json)|
+|11795|[11795_Extract_Clean_Transcripts_from_Your_YouTube_Channel_Videos_using_Data_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11795_Extract_Clean_Transcripts_from_Your_YouTube_Channel_Videos_using_Data_API.json)|
+|11883|[11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json)|

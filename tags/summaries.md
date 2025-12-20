@@ -1,4 +1,4 @@
-# summaries : 95
+# summaries : 99
 
 |id|file|
 |----|----|
@@ -97,3 +97,7 @@
 |10851|[10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json)|
 |10911|[10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json)|
 |11083|[11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json)|
+|11497|[11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json)|
+|11690|[11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json)|
+|11736|[11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json)|
+|11786|[11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json)|

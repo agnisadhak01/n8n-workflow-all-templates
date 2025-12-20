@@ -1,4 +1,4 @@
-# custom : 58
+# custom : 61
 
 |id|file|
 |----|----|
@@ -60,3 +60,6 @@
 |10553|[10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10553_Generate_Custom_Branded_PDF_Invoices_from_QuickBooks___Email_to_Clients.json)|
 |11224|[11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json)|
 |11271|[11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json)|
+|11620|[11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json)|
+|11672|[11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json)|
+|11693|[11693_Scrape_LinkedIn_profiles_into_Google_Sheets_using_Google_Custom_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11693_Scrape_LinkedIn_profiles_into_Google_Sheets_using_Google_Custom_Search.json)|

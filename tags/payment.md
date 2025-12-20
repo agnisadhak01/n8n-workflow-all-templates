@@ -1,4 +1,4 @@
-# payment : 25
+# payment : 28
 
 |id|file|
 |----|----|
@@ -27,3 +27,6 @@
 |9844|[9844_Automated_Tour_Payment_Reminders_via_WhatsApp___Email_with_Payment_Links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9844_Automated_Tour_Payment_Reminders_via_WhatsApp___Email_with_Payment_Links.json)|
 |10111|[10111_AI-Powered_Invoice_Reminder___Payment_Tracker_for_Finance___Accounting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10111_AI-Powered_Invoice_Reminder___Payment_Tracker_for_Finance___Accounting.json)|
 |10558|[10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json)|
+|11601|[11601_Handle_Failed_Payment_Renewals_with_AI_Analysis__Jira_Tickets_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11601_Handle_Failed_Payment_Renewals_with_AI_Analysis__Jira_Tickets_and_Slack_Alerts.json)|
+|11684|[11684_Automate_Payment_Gateway___Database_Transaction_Reconciliation_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11684_Automate_Payment_Gateway___Database_Transaction_Reconciliation_with_Google_Sheets.json)|
+|11860|[11860_GPT_4.1-mini_Automated_Proposal_to_Payment_Lifecycle_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11860_GPT_4.1-mini_Automated_Proposal_to_Payment_Lifecycle_Management.json)|

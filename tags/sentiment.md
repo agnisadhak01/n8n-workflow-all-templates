@@ -1,4 +1,4 @@
-# sentiment : 62
+# sentiment : 64
 
 |id|file|
 |----|----|
@@ -64,3 +64,5 @@
 |11182|[11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json)|
 |11245|[11245_Japanese-to-English_Review_Sentiment_Analysis_with_GPT_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11245_Japanese-to-English_Review_Sentiment_Analysis_with_GPT_and_Telegram_Alerts.json)|
 |11366|[11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json)|
+|11381|[11381_Monitor_Google_Maps_Reviews_with_GPT-4o_Sentiment_Analysis___Telegram_RAG_Agent_using_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11381_Monitor_Google_Maps_Reviews_with_GPT-4o_Sentiment_Analysis___Telegram_RAG_Agent_using_Pinecone.json)|
+|11632|[11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json)|

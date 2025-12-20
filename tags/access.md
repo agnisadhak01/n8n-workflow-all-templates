@@ -1,4 +1,4 @@
-# access : 25
+# access : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |9615|[9615_Telegram_Chat_Access_Control_with_User_Permission_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9615_Telegram_Chat_Access_Control_with_User_Permission_Database.json)|
 |10038|[10038_Automate_Facebook_Page_Token_Renewal_with_Data_Tables_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10038_Automate_Facebook_Page_Token_Renewal_with_Data_Tables_Storage.json)|
 |10171|[10171_Role-Based_Access_Control__RBAC__for_Telegram_Automations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10171_Role-Based_Access_Control__RBAC__for_Telegram_Automations.json)|
+|11703|[11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json)|

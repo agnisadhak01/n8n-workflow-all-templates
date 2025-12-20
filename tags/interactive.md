@@ -1,4 +1,4 @@
-# interactive : 20
+# interactive : 22
 
 |id|file|
 |----|----|
@@ -22,3 +22,5 @@
 |8834|[8834_Interactive_Russian_Language_Tutor_Bot_with_GPT-4o_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8834_Interactive_Russian_Language_Tutor_Bot_with_GPT-4o_and_Telegram.json)|
 |10707|[10707_Track_Companies_House_Filing_Deadlines_with_Google_Sheets__Gmail___Interactive_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10707_Track_Companies_House_Filing_Deadlines_with_Google_Sheets__Gmail___Interactive_Alerts.json)|
 |10731|[10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10731_Daily_Space_Image_Gallery_with_AI_Captions_from_NASA_to_Slack___Google_Drive.json)|
+|11361|[11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json)|
+|11604|[11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json)|

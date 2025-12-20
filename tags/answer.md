@@ -1,4 +1,4 @@
-# answer : 14
+# answer : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |10239|[10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10239_Generate_Answer_Engine_Optimization_strategy_with_Firecrawl__Gemini__OpenAI.json)|
 |10331|[10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json)|
 |10501|[10501_Automated_Student_Answer_Sheet_Evaluation_with_Gemini_AI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10501_Automated_Student_Answer_Sheet_Evaluation_with_Gemini_AI_and_Google_Workspace.json)|
+|11820|[11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json)|

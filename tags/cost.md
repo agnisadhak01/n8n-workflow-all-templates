@@ -1,4 +1,4 @@
-# cost : 14
+# cost : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8044|[8044_Automate_Token_Purchases_with_Dollar_Cost_Averaging_on_Uniswap_V3___1Shot_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8044_Automate_Token_Purchases_with_Dollar_Cost_Averaging_on_Uniswap_V3___1Shot_API.json)|
 |10864|[10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10864_Translate_PDFs_into_Multiple_Languages_with_Google_Translate___ConvertAPI_Cost_Tracking.json)|
 |10967|[10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10967_Meal_Planner__Cost_Tracking__Leftover_Recipes___Nutrition_Diary_in_Google_Sheets.json)|
+|11612|[11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json)|

@@ -1,4 +1,4 @@
-# website : 121
+# website : 124
 
 |id|file|
 |----|----|
@@ -123,3 +123,6 @@
 |11098|[11098_Track_Website_Changes_with_Firecrawl__GPT-5-Mini__Notion__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11098_Track_Website_Changes_with_Firecrawl__GPT-5-Mini__Notion__and_Gmail.json)|
 |11211|[11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json)|
 |11360|[11360_Generate_Local_Business_Leads_with_Google_Places_API___Website_Email_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11360_Generate_Local_Business_Leads_with_Google_Places_API___Website_Email_Scraping.json)|
+|11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
+|11655|[11655_Monitor_Website_Uptime_with_Google_Sheets__Slack__Email___Phone_Call_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11655_Monitor_Website_Uptime_with_Google_Sheets__Slack__Email___Phone_Call_Alerts.json)|
+|11763|[11763_Website_Downtime_Monitoring_with_Smart_Alerts_via_Telegram___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11763_Website_Downtime_Monitoring_with_Smart_Alerts_via_Telegram___Email.json)|

@@ -1,4 +1,4 @@
-# alert : 78
+# alert : 84
 
 |id|file|
 |----|----|
@@ -80,3 +80,9 @@
 |10525|[10525_Health_Monitoring_System_with_Grok-3_AI_Analysis_and_Family_Doctor_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10525_Health_Monitoring_System_with_Grok-3_AI_Analysis_and_Family_Doctor_Email_Alerts.json)|
 |11289|[11289_Monitor_NASA_asteroid_threats_with_AI_fact-check_and_multi-channel_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11289_Monitor_NASA_asteroid_threats_with_AI_fact-check_and_multi-channel_alerts.json)|
 |11304|[11304_Send_asteroid_alerts_from_NASA_to_LINE_using_OpenAI_and_DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11304_Send_asteroid_alerts_from_NASA_to_LINE_using_OpenAI_and_DeepL.json)|
+|11469|[11469_Automate_B2B_SaaS_Renewal_Risk_Management_with_CRM__Support___Usage_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11469_Automate_B2B_SaaS_Renewal_Risk_Management_with_CRM__Support___Usage_Data.json)|
+|11470|[11470_Real-time_ISS_Overhead_Alert_with_Weather_Check_and_Multi-Channel_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11470_Real-time_ISS_Overhead_Alert_with_Weather_Check_and_Multi-Channel_Notifications.json)|
+|11485|[11485_Track___Alert_Team_Holidays_Across_Countries_with_Nager.Date_API__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11485_Track___Alert_Team_Holidays_Across_Countries_with_Nager.Date_API__Notion_and_Slack.json)|
+|11488|[11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json)|
+|11514|[11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json)|
+|11786|[11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json)|

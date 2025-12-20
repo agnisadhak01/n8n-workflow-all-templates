@@ -1,4 +1,4 @@
-# medical : 17
+# medical : 19
 
 |id|file|
 |----|----|
@@ -19,3 +19,5 @@
 |9366|[9366_Automate_Medical_Appointments_with_ElevenLabs_Voice_Agent___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9366_Automate_Medical_Appointments_with_ElevenLabs_Voice_Agent___Google_Calendar.json)|
 |9446|[9446_Medical_Triage___Appointment_Automation_with_GPT-4_and_Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9446_Medical_Triage___Appointment_Automation_with_GPT-4_and_Jotform.json)|
 |9839|[9839_Extract_Medical_Reports___Generate_AI_Health_Advice_with_Mistral_AI___GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9839_Extract_Medical_Reports___Generate_AI_Health_Advice_with_Mistral_AI___GPT-4.json)|
+|11690|[11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json)|
+|11722|[11722_Healthcare_Policy_Monitoring_with_ScrapeGraphAI__Pipedrive_and_Matrix_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11722_Healthcare_Policy_Monitoring_with_ScrapeGraphAI__Pipedrive_and_Matrix_Alerts.json)|

@@ -1,4 +1,4 @@
-# transcripts : 34
+# transcripts : 37
 
 |id|file|
 |----|----|
@@ -36,3 +36,6 @@
 |10851|[10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10851_Create_AI_Meeting_Summaries_with_Fireflies_Transcripts___Dart_Tasks_using_Gemini.json)|
 |11083|[11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json)|
 |11123|[11123_Generate_AI_Sales_Proposals_from_Transcripts_using_Azure_OpenAI__PandaDoc___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11123_Generate_AI_Sales_Proposals_from_Transcripts_using_Azure_OpenAI__PandaDoc___Slack_Approval.json)|
+|11795|[11795_Extract_Clean_Transcripts_from_Your_YouTube_Channel_Videos_using_Data_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11795_Extract_Clean_Transcripts_from_Your_YouTube_Channel_Videos_using_Data_API.json)|
+|11867|[11867_Extract_transcripts_from_external_YouTube_Videos_using_YouTube_Transcript_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11867_Extract_transcripts_from_external_YouTube_Videos_using_YouTube_Transcript_API.json)|
+|11883|[11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json)|

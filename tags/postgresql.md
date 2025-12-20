@@ -1,4 +1,4 @@
-# postgresql : 37
+# postgresql : 38
 
 |id|file|
 |----|----|
@@ -39,3 +39,4 @@
 |9802|[9802_Hardware_Store_Product_Assistant_with_PostgreSQL___Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9802_Hardware_Store_Product_Assistant_with_PostgreSQL___Google_Gemini_AI.json)|
 |9885|[9885_Automate_Instagram_Influencer_Lead_Collection_with_Apify__GPT_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9885_Automate_Instagram_Influencer_Lead_Collection_with_Apify__GPT_and_PostgreSQL.json)|
 |10040|[10040_Create_a_Complete_User_Authentication_System_with_PostgreSQL___Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10040_Create_a_Complete_User_Authentication_System_with_PostgreSQL___Webhooks.json)|
+|11669|[11669_Breaking_News_Aggregator_with_SendGrid_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11669_Breaking_News_Aggregator_with_SendGrid_and_PostgreSQL.json)|

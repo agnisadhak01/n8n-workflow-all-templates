@@ -1,4 +1,4 @@
-# openrouter : 61
+# openrouter : 62
 
 |id|file|
 |----|----|
@@ -63,3 +63,4 @@
 |10293|[10293_Multi-Agent_AI_Content_Creator_for_SEO_Blogs___Newsletters_with_OpenRouter__DALL-E__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10293_Multi-Agent_AI_Content_Creator_for_SEO_Blogs___Newsletters_with_OpenRouter__DALL-E__Gemini.json)|
 |10424|[10424_Track_Government_Grants_with_OpenRouter_AI__RSS_Feeds__Google_Sheets___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10424_Track_Government_Grants_with_OpenRouter_AI__RSS_Feeds__Google_Sheets___Gmail.json)|
 |10635|[10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json)|
+|11441|[11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json)|

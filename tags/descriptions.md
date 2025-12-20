@@ -1,4 +1,4 @@
-# descriptions : 19
+# descriptions : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |8848|[8848_Auto-Generate_SEO_Product_Titles___Descriptions_with_GPT-4o-mini_for_Printify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8848_Auto-Generate_SEO_Product_Titles___Descriptions_with_GPT-4o-mini_for_Printify.json)|
 |9344|[9344_Generate_Template_Descriptions_from_Google_Drive_with_Azure_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9344_Generate_Template_Descriptions_from_Google_Drive_with_Azure_GPT-4.json)|
 |11082|[11082_Generate_eCommerce_Product_Descriptions_with_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11082_Generate_eCommerce_Product_Descriptions_with_GPT-4o-mini_and_Airtable.json)|
+|11441|[11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json)|
+|11695|[11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json)|

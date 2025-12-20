@@ -1,4 +1,4 @@
-# financial : 33
+# financial : 35
 
 |id|file|
 |----|----|
@@ -35,3 +35,5 @@
 |10420|[10420_Automated_Daily_Financial_Analysis_from_Loyverse_POS_with_Google_Sheets___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10420_Automated_Daily_Financial_Analysis_from_Loyverse_POS_with_Google_Sheets___Email.json)|
 |11227|[11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json)|
 |11290|[11290_AI-Powered_Financial_Document_Extraction_from_Gmail_to_Google_Sheets_with_Smart_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11290_AI-Powered_Financial_Document_Extraction_from_Gmail_to_Google_Sheets_with_Smart_Guardrails.json)|
+|11749|[11749_Monitor_German_Company_Register___Financial_Events_with_Implisense_API___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11749_Monitor_German_Company_Register___Financial_Events_with_Implisense_API___Notifications.json)|
+|11862|[11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json)|

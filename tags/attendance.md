@@ -1,4 +1,4 @@
-# attendance : 9
+# attendance : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |9327|[9327_Extract_Attendance_from_Google_Drive_Images_to_Sheets_with_VLM_Run_AI___Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9327_Extract_Attendance_from_Google_Drive_Images_to_Sheets_with_VLM_Run_AI___Gmail_Alerts.json)|
 |10028|[10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json)|
 |10106|[10106_Track_Employee_Attendance_with_Analytics__Email_Reports___Slack_Alerts_Using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10106_Track_Employee_Attendance_with_Analytics__Email_Reports___Slack_Alerts_Using_Google_Sheets.json)|
+|11625|[11625_Automated_Employee_Attendance___Salary_Deduction_with_Google_Sheets_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11625_Automated_Employee_Attendance___Salary_Deduction_with_Google_Sheets_and_GPT-4.json)|

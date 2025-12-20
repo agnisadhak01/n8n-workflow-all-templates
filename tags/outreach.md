@@ -1,4 +1,4 @@
-# outreach : 83
+# outreach : 86
 
 |id|file|
 |----|----|
@@ -85,3 +85,6 @@
 |11326|[11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json)|
 |11329|[11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json)|
 |11333|[11333_Generate_Cold_Outreach_Drafts_from_Google_Sheets_with_GPT-4o-mini___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11333_Generate_Cold_Outreach_Drafts_from_Google_Sheets_with_GPT-4o-mini___Gmail.json)|
+|11448|[11448_Automated_B2B_Lead_Management_and_AI_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11448_Automated_B2B_Lead_Management_and_AI_Outreach.json)|
+|11517|[11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json)|
+|11647|[11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json)|

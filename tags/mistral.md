@@ -1,4 +1,4 @@
-# mistral : 51
+# mistral : 53
 
 |id|file|
 |----|----|
@@ -53,3 +53,5 @@
 |10559|[10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10559_Automated_Candidate_Screening___Response_using_GPT-4__Mistral_OCR_and_Slack_Notifications.json)|
 |10900|[10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json)|
 |10901|[10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json)|
+|11407|[11407_Book_Club_Manager___Recommendation_Engine_with_Mistral_AI_and_Gemini_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11407_Book_Club_Manager___Recommendation_Engine_with_Mistral_AI_and_Gemini_Vision.json)|
+|11755|[11755_Mistral_OCR__GPT-4o-mini__and_Google_Sheets_Integration_for_Enhanced_Data_Processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11755_Mistral_OCR__GPT-4o-mini__and_Google_Sheets_Integration_for_Enhanced_Data_Processing.json)|

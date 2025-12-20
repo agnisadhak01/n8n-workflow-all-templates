@@ -1,4 +1,4 @@
-# git : 7
+# git : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6773|[6773_Automate_GitHub_PRs___JIRA_Updates_from_Git_Commit_Commands-Single_Repo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6773_Automate_GitHub_PRs___JIRA_Updates_from_Git_Commit_Commands-Single_Repo.json)|
 |7048|[7048_Auto-Create_GitHub_PRs___JIRA_Updates_from_Git_Commit_Commands__Multi-Repo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7048_Auto-Create_GitHub_PRs___JIRA_Updates_from_Git_Commit_Commands__Multi-Repo.json)|
 |8137|[8137_Generate_Professional_Changelogs_from_Git_Commits_with_GPT-4_and_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8137_Generate_Professional_Changelogs_from_Git_Commits_with_GPT-4_and_GitHub.json)|
+|11828|[11828_CI_Artifact_Completeness_Gate__Git_Push__Sentry_Artifact_Verification__Commit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11828_CI_Artifact_Completeness_Gate__Git_Push__Sentry_Artifact_Verification__Commit.json)|

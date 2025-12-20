@@ -1,4 +1,4 @@
-# chatgpt : 38
+# chatgpt : 42
 
 |id|file|
 |----|----|
@@ -40,3 +40,7 @@
 |10288|[10288_Automate_invoice_analysis_via_Telegram_with_ChatGPT-4o-mini_extraction.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10288_Automate_invoice_analysis_via_Telegram_with_ChatGPT-4o-mini_extraction.json)|
 |11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|
 |11284|[11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json)|
+|11345|[11345_Daily_Team_Progress_Checks___Reports_with_Slack__ChatGPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11345_Daily_Team_Progress_Checks___Reports_with_Slack__ChatGPT_and_Google_Sheets.json)|
+|11442|[11442_Generate_Multiple_LinkedIn_Posts_from_Notion_with_ChatGPT___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11442_Generate_Multiple_LinkedIn_Posts_from_Notion_with_ChatGPT___Claude_AI.json)|
+|11461|[11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json)|
+|11782|[11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json)|

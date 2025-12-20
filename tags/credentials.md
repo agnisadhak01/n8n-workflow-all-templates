@@ -1,4 +1,4 @@
-# credentials : 15
+# credentials : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |8620|[8620_Transfer_Workflows_with_Credentials___Sub-workflow_Management_Between_n8n_Instances.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8620_Transfer_Workflows_with_Credentials___Sub-workflow_Management_Between_n8n_Instances.json)|
 |9151|[9151_Complete_Backup_Solution_for_n8n_Workflows___Credentials__Local_FTP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9151_Complete_Backup_Solution_for_n8n_Workflows___Credentials__Local_FTP.json)|
 |9156|[9156_Restore_Workflows_and_Credentials_from_Remote_FTP_Backup_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9156_Restore_Workflows_and_Credentials_from_Remote_FTP_Backup_Storage.json)|
+|11842|[11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json)|

@@ -1,4 +1,4 @@
-# wordpress : 121
+# wordpress : 125
 
 |id|file|
 |----|----|
@@ -123,3 +123,7 @@
 |11136|[11136_Auto-Generate_WordPress_Blog_Tags_with_GPT-4.1-mini_and_Smart_Tag_Mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11136_Auto-Generate_WordPress_Blog_Tags_with_GPT-4.1-mini_and_Smart_Tag_Mapping.json)|
 |11226|[11226_Automated_WordPress_Post_Tagging_with_AI_Analysis_and_Claude_Opus_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11226_Automated_WordPress_Post_Tagging_with_AI_Analysis_and_Claude_Opus_4.5.json)|
 |11262|[11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json)|
+|11358|[11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json)|
+|11677|[11677_Publish_RSS_Articles_to_WordPress_and_Social_Media_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11677_Publish_RSS_Articles_to_WordPress_and_Social_Media_Platforms.json)|
+|11724|[11724_Generate_News_Digest_Videos_from_WordPress_Articles_to_YouTube_Shorts_with_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11724_Generate_News_Digest_Videos_from_WordPress_Articles_to_YouTube_Shorts_with_Shotstack.json)|
+|11789|[11789_Convert_WordPress_Articles_to_Multilingual_Voiceovers_with_Google_TTS_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11789_Convert_WordPress_Articles_to_Multilingual_Voiceovers_with_Google_TTS_and_OpenAI.json)|

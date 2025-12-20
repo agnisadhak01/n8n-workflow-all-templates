@@ -1,4 +1,4 @@
-# keywords : 34
+# keywords : 35
 
 |id|file|
 |----|----|
@@ -36,3 +36,4 @@
 |9250|[9250_Research___Generate_Blog_Posts_from_Keywords_with_Dumpling_AI_and_GPT-4_to_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9250_Research___Generate_Blog_Posts_from_Keywords_with_Dumpling_AI_and_GPT-4_to_WordPress.json)|
 |9774|[9774_Generate_AI_Summaries_from_Hacker_News_to_Slack_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9774_Generate_AI_Summaries_from_Hacker_News_to_Slack_with_OpenRouter.json)|
 |10002|[10002_Track_Competitor_SEO_Keywords_with_Decodo___GPT-4.1-mini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10002_Track_Competitor_SEO_Keywords_with_Decodo___GPT-4.1-mini___Google_Sheets.json)|
+|11630|[11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json)|

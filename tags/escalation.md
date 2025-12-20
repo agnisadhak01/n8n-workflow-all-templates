@@ -1,4 +1,4 @@
-# escalation : 6
+# escalation : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |9829|[9829_Proactive_SLA_Monitoring___Ticket_Escalation_with_Zendesk__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9829_Proactive_SLA_Monitoring___Ticket_Escalation_with_Zendesk__Slack_and_Google_Sheets.json)|
 |10321|[10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json)|
 |10539|[10539_Generate_Empathetic_Customer_Replies_with_Claude_AI_and_Auto-Escalation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10539_Generate_Empathetic_Customer_Replies_with_Claude_AI_and_Auto-Escalation.json)|
+|11697|[11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json)|

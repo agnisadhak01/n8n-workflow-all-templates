@@ -1,4 +1,4 @@
-# qualification : 31
+# qualification : 32
 
 |id|file|
 |----|----|
@@ -33,3 +33,4 @@
 |10025|[10025_Automate_Interior_Design_Lead_Qualification_with_AI___Human_Approval_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10025_Automate_Interior_Design_Lead_Qualification_with_AI___Human_Approval_to_Notion.json)|
 |10203|[10203_Smart_Lead_Qualification___Routing_from_Typeform_to_HubSpot_with_Data_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10203_Smart_Lead_Qualification___Routing_from_Typeform_to_HubSpot_with_Data_Enrichment.json)|
 |10745|[10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json)|
+|11598|[11598_AI-Powered_Lead_Qualification_with_Zoho_CRM__People_Data_Labs_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11598_AI-Powered_Lead_Qualification_with_Zoho_CRM__People_Data_Labs_and_Google_Gemini.json)|

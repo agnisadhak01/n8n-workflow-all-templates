@@ -1,4 +1,4 @@
-# limiting : 5
+# limiting : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |7834|[7834_Telegram_AI_Assistant_with_Rate_Limiting_and_Auto-Reset_using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7834_Telegram_AI_Assistant_with_Rate_Limiting_and_Auto-Reset_using_Google_Sheets.json)|
 |11126|[11126_Sync_Upcoming_Anime_Releases_from_Jikan_API_to_Google_Calendar_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11126_Sync_Upcoming_Anime_Releases_from_Jikan_API_to_Google_Calendar_with_Rate_Limiting.json)|
 |11329|[11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json)|
+|11759|[11759_Email_Newsletter_System_with_SendGrid__Google_Sheets___Freemium_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11759_Email_Newsletter_System_with_SendGrid__Google_Sheets___Freemium_Rate_Limiting.json)|

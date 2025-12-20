@@ -1,4 +1,4 @@
-# migration : 7
+# migration : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6305|[6305_Salesforce_to_S3_File_Migration___Cleanup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6305_Salesforce_to_S3_File_Migration___Cleanup.json)|
 |8161|[8161_Automated_FTP_File_Migration_with_Smart_Cleanup_and_Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8161_Automated_FTP_File_Migration_with_Smart_Cleanup_and_Email_Notifications.json)|
 |9135|[9135_Automated_Content_Migration_from_ClickUp_Docs_to_Airtable_Records.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9135_Automated_Content_Migration_from_ClickUp_Docs_to_Airtable_Records.json)|
+|11517|[11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json)|

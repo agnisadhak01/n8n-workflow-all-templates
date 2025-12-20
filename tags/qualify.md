@@ -1,4 +1,4 @@
-# qualify : 24
+# qualify : 26
 
 |id|file|
 |----|----|
@@ -26,3 +26,5 @@
 |9887|[9887_Find___Qualify_Funded_Leads_with_BrowserAct___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9887_Find___Qualify_Funded_Leads_with_BrowserAct___Gemini.json)|
 |10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|
 |11258|[11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json)|
+|11493|[11493_Qualify___Enrich_Leads_with_GPT-4_and_LinkedIn_Data_for_Intelligent_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11493_Qualify___Enrich_Leads_with_GPT-4_and_LinkedIn_Data_for_Intelligent_Routing.json)|
+|11794|[11794_Qualify_Insurance_Leads_using_Vapi__GPT-4_Proposals_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11794_Qualify_Insurance_Leads_using_Vapi__GPT-4_Proposals_and_Airtable.json)|

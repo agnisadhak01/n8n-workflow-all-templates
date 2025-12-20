@@ -1,4 +1,4 @@
-# by : 105
+# by : 107
 
 |id|file|
 |----|----|
@@ -107,3 +107,5 @@
 |10303|[10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json)|
 |10317|[10317_Auto-Rename_Workflow_Nodes_with_AI__Gemini_Claude__for_Better_Readability.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10317_Auto-Rename_Workflow_Nodes_with_AI__Gemini_Claude__for_Better_Readability.json)|
 |11197|[11197_Build_a_RAG_system_by_uploading_PDFs_to_the_Google_Gemini_File_Search_Store.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11197_Build_a_RAG_system_by_uploading_PDFs_to_the_Google_Gemini_File_Search_Store.json)|
+|11454|[11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json)|
+|11707|[11707_Generate_B2B_Leads_by_Industry___Location_with_Google_Places_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11707_Generate_B2B_Leads_by_Industry___Location_with_Google_Places_API_and_Google_Sheets.json)|

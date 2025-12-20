@@ -1,4 +1,4 @@
-# questions : 24
+# questions : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |9528|[9528_Automate_HR_Recruitment_with_OpenAI_Resume_Screening___Interview_Questions_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9528_Automate_HR_Recruitment_with_OpenAI_Resume_Screening___Interview_Questions_Generator.json)|
 |10331|[10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json)|
 |10339|[10339_Classify_Developer_Questions_with_GPT-4o_from_Slack_to_Notion___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10339_Classify_Developer_Questions_with_GPT-4o_from_Slack_to_Notion___Airtable.json)|
+|11361|[11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json)|

@@ -1,4 +1,4 @@
-# approval : 64
+# approval : 69
 
 |id|file|
 |----|----|
@@ -66,3 +66,8 @@
 |11138|[11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json)|
 |11285|[11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json)|
 |11298|[11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json)|
+|11355|[11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json)|
+|11362|[11362_Convert_Task_Ideas_to_Implementation_Plans_with_GPT-4o__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11362_Convert_Task_Ideas_to_Implementation_Plans_with_GPT-4o__Slack___Google_Sheets.json)|
+|11526|[11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json)|
+|11638|[11638_Bulk_Auto-Publish_Videos_to_Social_Networks_with_AI_Copy_and_Client_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11638_Bulk_Auto-Publish_Videos_to_Social_Networks_with_AI_Copy_and_Client_Approval.json)|
+|11734|[11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json)|

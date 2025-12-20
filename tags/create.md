@@ -1,4 +1,4 @@
-# create : 483
+# create : 492
 
 |id|file|
 |----|----|
@@ -485,3 +485,12 @@
 |11280|[11280_Create_Daily_Trivia_Icebreakers_in_Slack_with_OpenTDB___Google_Sheets_Log.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11280_Create_Daily_Trivia_Icebreakers_in_Slack_with_OpenTDB___Google_Sheets_Log.json)|
 |11300|[11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json)|
 |11326|[11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json)|
+|11425|[11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json)|
+|11445|[11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json)|
+|11452|[11452_Create_Daily_Google_Alerts_Digest_with_Gemini_AI_Summarization_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11452_Create_Daily_Google_Alerts_Digest_with_Gemini_AI_Summarization_and_Gmail.json)|
+|11466|[11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json)|
+|11575|[11575_Create_AI_Dream_Videos_with_Analysis_using_Veo3_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11575_Create_AI_Dream_Videos_with_Analysis_using_Veo3_and_Telegram.json)|
+|11591|[11591_Create___Publish_Inspirational_Videos_with_FFmpeg__Google_Drive___YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11591_Create___Publish_Inspirational_Videos_with_FFmpeg__Google_Drive___YouTube.json)|
+|11694|[11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json)|
+|11748|[11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json)|
+|11886|[11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json)|

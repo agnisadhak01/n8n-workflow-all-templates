@@ -1,4 +1,4 @@
-# report : 108
+# report : 114
 
 |id|file|
 |----|----|
@@ -110,3 +110,9 @@
 |11148|[11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json)|
 |11228|[11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json)|
 |11232|[11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json)|
+|11483|[11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json)|
+|11499|[11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json)|
+|11665|[11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json)|
+|11690|[11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json)|
+|11709|[11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json)|
+|11786|[11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json)|

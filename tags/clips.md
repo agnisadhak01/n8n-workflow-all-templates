@@ -1,4 +1,4 @@
-# clips : 7
+# clips : 10
 
 |id|file|
 |----|----|
@@ -9,3 +9,6 @@
 |5698|[5698_Auto-Extract___Distribute_Video_Clips_to_Multiple_Social_Platforms_with_Klap_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5698_Auto-Extract___Distribute_Video_Clips_to_Multiple_Social_Platforms_with_Klap_AI.json)|
 |6036|[6036_Generate_Viral_TikTok_IG_Reel_Clips_from_YouTube_Videos_with_Vizard_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6036_Generate_Viral_TikTok_IG_Reel_Clips_from_YouTube_Videos_with_Vizard_AI.json)|
 |8709|[8709_Create_Viral_Videos_from_Reference_Images_with_VIDU___Upload_to_YouTube_TikTok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8709_Create_Viral_Videos_from_Reference_Images_with_VIDU___Upload_to_YouTube_TikTok.json)|
+|11505|[11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json)|
+|11584|[11584_Extract_Viral-Worthy_Clips_from_YouTube_Videos_with_Gemini_AI___FFmpeg_Editing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11584_Extract_Viral-Worthy_Clips_from_YouTube_Videos_with_Gemini_AI___FFmpeg_Editing.json)|
+|11645|[11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json)|

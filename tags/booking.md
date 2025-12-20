@@ -1,4 +1,4 @@
-# booking : 45
+# booking : 46
 
 |id|file|
 |----|----|
@@ -47,3 +47,4 @@
 |11188|[11188_Automate_Multi-Modal_Appointment_Booking_via_WhatsApp_using_GPT-4_and_Cal.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11188_Automate_Multi-Modal_Appointment_Booking_via_WhatsApp_using_GPT-4_and_Cal.com.json)|
 |11247|[11247_Track_Calendly_Schedule_Changes_with_Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11247_Track_Calendly_Schedule_Changes_with_Google_Sheets___Slack_Notifications.json)|
 |11253|[11253_Generate_Single-Use_Personalized_Calendly_Links_with_Google_Sheets_Tracking___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11253_Generate_Single-Use_Personalized_Calendly_Links_with_Google_Sheets_Tracking___Slack_Alerts.json)|
+|11672|[11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json)|

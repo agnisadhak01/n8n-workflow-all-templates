@@ -1,4 +1,4 @@
-# features : 5
+# features : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |7162|[7162_Flow_from_Reddit_to_Gmail_with_Key_Features_and_GPT-4o_Mini_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7162_Flow_from_Reddit_to_Gmail_with_Key_Features_and_GPT-4o_Mini_Usage.json)|
 |8891|[8891_Sync_Productboard_Features_to_Linear_Issues_with_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8891_Sync_Productboard_Features_to_Linear_Issues_with_Telegram_Notifications.json)|
 |9166|[9166_GPT-4o__Twilio_Integration_with_Auto_Follow-up_Features.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9166_GPT-4o__Twilio_Integration_with_Auto_Follow-up_Features.json)|
+|11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|

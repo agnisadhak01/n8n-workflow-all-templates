@@ -1,4 +1,4 @@
-# prep : 8
+# prep : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8199|[8199_Automated_Meeting_Prep_with_GPT-5___Gemini_Research_from_Calendar_to_Slack_via_Attio_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8199_Automated_Meeting_Prep_with_GPT-5___Gemini_Research_from_Calendar_to_Slack_via_Attio_CRM.json)|
 |8935|[8935_Meeting_Prep_with_Google_Calendar__Tavily_AI_Research___Gmail_Briefings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8935_Meeting_Prep_with_Google_Calendar__Tavily_AI_Research___Gmail_Briefings.json)|
 |10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
+|11430|[11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json)|

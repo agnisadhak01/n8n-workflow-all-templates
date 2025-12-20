@@ -1,4 +1,4 @@
-# structured : 37
+# structured : 39
 
 |id|file|
 |----|----|
@@ -39,3 +39,5 @@
 |8868|[8868_Extract_Structured_Data_from_D_B_Company_Reports_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8868_Extract_Structured_Data_from_D_B_Company_Reports_with_GPT-4o.json)|
 |9963|[9963_Extract_Structured_Invoice_Data_from_JotForm_PDFs_with_GPT-4.1-mini___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9963_Extract_Structured_Invoice_Data_from_JotForm_PDFs_with_GPT-4.1-mini___Sheets.json)|
 |10086|[10086_How_to_Transform_Unstructured_Email_Data_into_Structured_Format_with_AI_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10086_How_to_Transform_Unstructured_Email_Data_into_Structured_Format_with_AI_Agent.json)|
+|11361|[11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json)|
+|11736|[11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json)|

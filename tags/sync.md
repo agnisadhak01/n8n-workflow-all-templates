@@ -1,4 +1,4 @@
-# sync : 156
+# sync : 161
 
 |id|file|
 |----|----|
@@ -158,3 +158,8 @@
 |10866|[10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json)|
 |11122|[11122_Automatically_Sync_Beex_Leads_to_HubSpot__Create___Update.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11122_Automatically_Sync_Beex_Leads_to_HubSpot__Create___Update.json)|
 |11126|[11126_Sync_Upcoming_Anime_Releases_from_Jikan_API_to_Google_Calendar_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11126_Sync_Upcoming_Anime_Releases_from_Jikan_API_to_Google_Calendar_with_Rate_Limiting.json)|
+|11375|[11375_Discover_GitHub_Developers_with_Hunter.io_Email_Lookup___Google_Sheets_CRM_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11375_Discover_GitHub_Developers_with_Hunter.io_Email_Lookup___Google_Sheets_CRM_Sync.json)|
+|11479|[11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json)|
+|11593|[11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json)|
+|11711|[11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json)|
+|11780|[11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json)|

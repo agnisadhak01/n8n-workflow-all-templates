@@ -1,4 +1,4 @@
-# complete : 44
+# complete : 48
 
 |id|file|
 |----|----|
@@ -46,3 +46,7 @@
 |10302|[10302_Automated_Kubernetes_Testing_with_Robot_Framework__ArgoCD___With_KinD_Lifecycle.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10302_Automated_Kubernetes_Testing_with_Robot_Framework__ArgoCD___With_KinD_Lifecycle.json)|
 |11109|[11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json)|
 |11141|[11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json)|
+|11462|[11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json)|
+|11666|[11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json)|
+|11694|[11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json)|
+|11734|[11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json)|

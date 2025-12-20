@@ -1,4 +1,4 @@
-# blog : 127
+# blog : 132
 
 |id|file|
 |----|----|
@@ -129,3 +129,8 @@
 |11136|[11136_Auto-Generate_WordPress_Blog_Tags_with_GPT-4.1-mini_and_Smart_Tag_Mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11136_Auto-Generate_WordPress_Blog_Tags_with_GPT-4.1-mini_and_Smart_Tag_Mapping.json)|
 |11285|[11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json)|
 |11298|[11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json)|
+|11358|[11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json)|
+|11367|[11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json)|
+|11394|[11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json)|
+|11536|[11536_The_Blog_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11536_The_Blog_Agent.json)|
+|11599|[11599_Repurpose_Blog___YouTube_Content_to_Social_Media_with_GPT-5.1_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11599_Repurpose_Blog___YouTube_Content_to_Social_Media_with_GPT-5.1_and_Google_Docs.json)|

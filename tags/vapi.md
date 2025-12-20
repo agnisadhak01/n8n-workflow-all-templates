@@ -1,4 +1,4 @@
-# vapi : 28
+# vapi : 29
 
 |id|file|
 |----|----|
@@ -30,3 +30,4 @@
 |8987|[8987_Automate_Lead_Calling_with_VAPI__Google_Sheets_Logging__and_Calendar_Bookings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8987_Automate_Lead_Calling_with_VAPI__Google_Sheets_Logging__and_Calendar_Bookings.json)|
 |9803|[9803_Automate_Lead_Qualification_with_AI_Voice_Calls_using_GPT-3.5__Notion_and_Vapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9803_Automate_Lead_Qualification_with_AI_Voice_Calls_using_GPT-3.5__Notion_and_Vapi.json)|
 |10905|[10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10905_Voice_Appointment_Booking___Confirmation_System_with_Vapi__Gemini___Google_Calendar.json)|
+|11794|[11794_Qualify_Insurance_Leads_using_Vapi__GPT-4_Proposals_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11794_Qualify_Insurance_Leads_using_Vapi__GPT-4_Proposals_and_Airtable.json)|

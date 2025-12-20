@@ -1,4 +1,4 @@
-# lead : 241
+# lead : 250
 
 |id|file|
 |----|----|
@@ -243,3 +243,12 @@
 |11309|[11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json)|
 |11337|[11337_Automated_Lead_Nurturing_with_Gemini_AI__Telegram__and_Gmail_Reply_Detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11337_Automated_Lead_Nurturing_with_Gemini_AI__Telegram__and_Gmail_Reply_Detection.json)|
 |11371|[11371_Automate_Lead_Enrichment_with_Web_Scraping__GPT-4o__Airtable_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11371_Automate_Lead_Enrichment_with_Web_Scraping__GPT-4o__Airtable_and_Slack_Notifications.json)|
+|11408|[11408_Lead_Scoring___Auto-Assignment_with_GPT-4_and_GoHighLevel___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11408_Lead_Scoring___Auto-Assignment_with_GPT-4_and_GoHighLevel___Slack_Alerts.json)|
+|11448|[11448_Automated_B2B_Lead_Management_and_AI_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11448_Automated_B2B_Lead_Management_and_AI_Outreach.json)|
+|11586|[11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json)|
+|11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
+|11598|[11598_AI-Powered_Lead_Qualification_with_Zoho_CRM__People_Data_Labs_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11598_AI-Powered_Lead_Qualification_with_Zoho_CRM__People_Data_Labs_and_Google_Gemini.json)|
+|11600|[11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json)|
+|11622|[11622_ZIP_Code-Based_Business_Lead_Generation_with_Google_Maps_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11622_ZIP_Code-Based_Business_Lead_Generation_with_Google_Maps_and_Sheets.json)|
+|11647|[11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json)|
+|11650|[11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json)|

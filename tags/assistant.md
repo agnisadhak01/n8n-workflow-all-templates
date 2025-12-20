@@ -1,4 +1,4 @@
-# assistant : 214
+# assistant : 220
 
 |id|file|
 |----|----|
@@ -216,3 +216,9 @@
 |11148|[11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json)|
 |11165|[11165_Create_an_AI-Powered_Telegram_Customer_Support_Bot_with_Lead_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11165_Create_an_AI-Powered_Telegram_Customer_Support_Bot_with_Lead_Management.json)|
 |11243|[11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json)|
+|11440|[11440_Discord_AI_Trading_Assistant_with_Proper_Position_Sizing__metatrader5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11440_Discord_AI_Trading_Assistant_with_Proper_Position_Sizing__metatrader5.json)|
+|11461|[11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json)|
+|11754|[11754_Build_a_WhatsApp_Assistant_for_Text__Audio___Images_using_GPT-4o___Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11754_Build_a_WhatsApp_Assistant_for_Text__Audio___Images_using_GPT-4o___Evolution_API.json)|
+|11780|[11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json)|
+|11790|[11790_Analyze_LinkedIn_Content_Performance_with_OpenAI__Bright_Data_and_NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11790_Analyze_LinkedIn_Content_Performance_with_OpenAI__Bright_Data_and_NocoDB.json)|
+|11817|[11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json)|

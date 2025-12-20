@@ -1,4 +1,4 @@
-# websites : 25
+# websites : 28
 
 |id|file|
 |----|----|
@@ -27,3 +27,6 @@
 |10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|
 |10739|[10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json)|
 |11232|[11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json)|
+|11367|[11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json)|
+|11658|[11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json)|
+|11682|[11682_Extract_Company_Data_from_Websites_with_Gemini_AI_through_Chat_Conversation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11682_Extract_Company_Data_from_Websites_with_Gemini_AI_through_Chat_Conversation.json)|

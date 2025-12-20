@@ -1,4 +1,4 @@
-# onboarding : 30
+# onboarding : 34
 
 |id|file|
 |----|----|
@@ -32,3 +32,7 @@
 |9834|[9834_Automate_Employee_Onboarding_with_GPT-4o__Jira__Notion___Gmail_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9834_Automate_Employee_Onboarding_with_GPT-4o__Jira__Notion___Gmail_Integration.json)|
 |10747|[10747_Automate_Zoom_User_Onboarding_with_OAuth_Token_Management_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10747_Automate_Zoom_User_Onboarding_with_OAuth_Token_Management_and_Data_Tables.json)|
 |11050|[11050_Automate_Calendly_User_Onboarding___Offboarding_with_Google_Sheets_and_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11050_Automate_Calendly_User_Onboarding___Offboarding_with_Google_Sheets_and_Human_Approval.json)|
+|11429|[11429_Automate_client_onboarding_across_Google_Drive__Slack__Notion___Gmail_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11429_Automate_client_onboarding_across_Google_Drive__Slack__Notion___Gmail_with_GPT-4o-mini.json)|
+|11586|[11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json)|
+|11666|[11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json)|
+|11735|[11735_Transform_HR_PDFs_into_Engaging_Onboarding_Videos_with_AI__HeyGen_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11735_Transform_HR_PDFs_into_Engaging_Onboarding_Videos_with_AI__HeyGen_and_Google_Drive.json)|

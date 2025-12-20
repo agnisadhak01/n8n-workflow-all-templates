@@ -1,4 +1,4 @@
-# publisher : 19
+# publisher : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |9441|[9441_Web_Content_to_Telegram_Publisher_with_AI_Enhancement___Image_Watermarking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9441_Web_Content_to_Telegram_Publisher_with_AI_Enhancement___Image_Watermarking.json)|
 |11127|[11127_Cross-Platform_Content_Publisher__Telegram_to_WordPress__Facebook__Twitter___LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11127_Cross-Platform_Content_Publisher__Telegram_to_WordPress__Facebook__Twitter___LinkedIn.json)|
 |11276|[11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json)|
+|11566|[11566_Automated_RSS_to_Telegram_Publisher_with_Groq_AI_Rewriting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11566_Automated_RSS_to_Telegram_Publisher_with_Groq_AI_Rewriting.json)|

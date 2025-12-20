@@ -1,4 +1,4 @@
-# marketing : 60
+# marketing : 61
 
 |id|file|
 |----|----|
@@ -62,3 +62,4 @@
 |10715|[10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10715_Marketing_Analytics_Reports_with_Google_Analytics__Sheets__Slides___Email_Alerts.json)|
 |10786|[10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json)|
 |11205|[11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json)|
+|11704|[11704_Automate_Stripe_Checkout_Sales_Tracking_in_RD_Station_Marketing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11704_Automate_Stripe_Checkout_Sales_Tracking_in_RD_Station_Marketing.json)|

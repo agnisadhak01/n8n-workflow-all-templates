@@ -1,4 +1,4 @@
-# podcasts : 13
+# podcasts : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |8755|[8755_Transcribe_and_Analyze_Meetings_or_Podcasts_with_ElevenLabs_and_Google_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8755_Transcribe_and_Analyze_Meetings_or_Podcasts_with_ElevenLabs_and_Google_Gemini_AI.json)|
 |9521|[9521_Convert_PDF_Articles_to_Audio_Podcasts_with_Google_TTS___Cloudflare_R2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9521_Convert_PDF_Articles_to_Audio_Podcasts_with_Google_TTS___Cloudflare_R2.json)|
 |10968|[10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json)|
+|11505|[11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json)|

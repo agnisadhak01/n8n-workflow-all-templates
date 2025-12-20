@@ -1,4 +1,4 @@
-# request : 35
+# request : 36
 
 |id|file|
 |----|----|
@@ -37,3 +37,4 @@
 |10585|[10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json)|
 |10726|[10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10726_Lusha_to_Easy_Redmine_CRM__Automated_Lead_Enrichment.json)|
 |11072|[11072_Automate_GDPR_Consent_Management_with_Azure_OpenAI_Emails_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11072_Automate_GDPR_Consent_Management_with_Azure_OpenAI_Emails_and_Slack_Alerts.json)|
+|11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|

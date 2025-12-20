@@ -1,4 +1,4 @@
-# performance : 36
+# performance : 40
 
 |id|file|
 |----|----|
@@ -38,3 +38,7 @@
 |10441|[10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json)|
 |10556|[10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json)|
 |11222|[11222_Generate_Weekly_Cold_Email_Performance_Reports_with_ManyReach__GPT-4.1___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11222_Generate_Weekly_Cold_Email_Performance_Reports_with_ManyReach__GPT-4.1___Slack.json)|
+|11483|[11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json)|
+|11499|[11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json)|
+|11790|[11790_Analyze_LinkedIn_Content_Performance_with_OpenAI__Bright_Data_and_NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11790_Analyze_LinkedIn_Content_Performance_with_OpenAI__Bright_Data_and_NocoDB.json)|
+|11855|[11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json)|

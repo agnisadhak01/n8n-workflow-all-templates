@@ -1,4 +1,4 @@
-# top : 23
+# top : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |9056|[9056_Create_SEO_Outlines_from_Top_Google_Results_with_SerpAPI_and_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9056_Create_SEO_Outlines_from_Top_Google_Results_with_SerpAPI_and_GPT-4o.json)|
 |9891|[9891_Source_Top_GitHub_Talent_by_Language___Location_with_Gemini_AI_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9891_Source_Top_GitHub_Talent_by_Language___Location_with_Gemini_AI_and_BrowserAct.json)|
 |10556|[10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10556_Generate_Weekly_Twitter___Facebook_Performance_Reports_with_GPT-4o_Analysis.json)|
+|11426|[11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json)|

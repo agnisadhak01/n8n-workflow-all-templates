@@ -1,4 +1,4 @@
-# suite : 25
+# suite : 27
 
 |id|file|
 |----|----|
@@ -27,3 +27,5 @@
 |10729|[10729_Benchmark_Content_Safety_Guardrails_with_Automated_Test_Suite___Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10729_Benchmark_Content_Safety_Guardrails_with_Automated_Test_Suite___Reports.json)|
 |11003|[11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11003_Scrape_TikTok_Trends___Generate_AI_Videos_with_Apify__Fal_AI___Google_Suite.json)|
 |11141|[11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json)|
+|11649|[11649_Post-Surgery_Patient_Triage___Follow-up_System_with_Gemini_AI__Telegram___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11649_Post-Surgery_Patient_Triage___Follow-up_System_with_Gemini_AI__Telegram___Google_Suite.json)|
+|11883|[11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json)|

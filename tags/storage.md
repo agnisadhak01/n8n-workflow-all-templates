@@ -1,4 +1,4 @@
-# storage : 59
+# storage : 62
 
 |id|file|
 |----|----|
@@ -61,3 +61,6 @@
 |10281|[10281_Generate_Post-Event_Reports_with_GPT-4__Email_Delivery___Database_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10281_Generate_Post-Event_Reports_with_GPT-4__Email_Delivery___Database_Storage.json)|
 |10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|
 |10900|[10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10900_Generate_LinkedIn_Carousel_Images_from_Text_with_Mistral_AI___S3_Storage.json)|
+|11445|[11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json)|
+|11454|[11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json)|
+|11721|[11721_Poll_Multiple_Gmail_Accounts_with_Unified_Data_Table_Storage___Discord_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11721_Poll_Multiple_Gmail_Accounts_with_Unified_Data_Table_Storage___Discord_Notifications.json)|

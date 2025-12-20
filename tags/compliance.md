@@ -1,4 +1,4 @@
-# compliance : 30
+# compliance : 32
 
 |id|file|
 |----|----|
@@ -32,3 +32,5 @@
 |10333|[10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json)|
 |10606|[10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json)|
 |10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|
+|11775|[11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json)|
+|11861|[11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json)|

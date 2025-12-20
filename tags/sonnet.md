@@ -1,4 +1,4 @@
-# sonnet : 19
+# sonnet : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |9629|[9629_Generate_Personalized_Cold_Email_Icebreakers_with_Perplexity_Research___Claude_Sonnet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9629_Generate_Personalized_Cold_Email_Icebreakers_with_Perplexity_Research___Claude_Sonnet.json)|
 |9746|[9746_Generate_Multi-Format_Documentation_with_Claude_Sonnet___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9746_Generate_Multi-Format_Documentation_with_Claude_Sonnet___Google_Docs.json)|
 |10216|[10216_E-commerce_Price_Monitor_with_Firecrawl__Claude-Sonnet_AI___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10216_E-commerce_Price_Monitor_with_Firecrawl__Claude-Sonnet_AI___Telegram_Alerts.json)|
+|11780|[11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json)|

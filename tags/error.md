@@ -1,4 +1,4 @@
-# error : 38
+# error : 39
 
 |id|file|
 |----|----|
@@ -40,3 +40,4 @@
 |10335|[10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json)|
 |10755|[10755_Simple_error_workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10755_Simple_error_workflow.json)|
 |11219|[11219_Error_Monitor__AI-Powered_Resolution__Context7__Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11219_Error_Monitor__AI-Powered_Resolution__Context7__Supabase.json)|
+|11507|[11507_Automated_Error_Notifications_with_Optional_GPT-4o_Diagnostics_via_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11507_Automated_Error_Notifications_with_Optional_GPT-4o_Diagnostics_via_Email.json)|

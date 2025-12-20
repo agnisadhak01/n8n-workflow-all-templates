@@ -1,4 +1,4 @@
-# tech : 17
+# tech : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |8665|[8665_Create_AI-Curated_Tech_News_Digests_with_GPT-4.1_Mini_and_Notion_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8665_Create_AI-Curated_Tech_News_Digests_with_GPT-4.1_Mini_and_Notion_Database.json)|
 |9730|[9730_X___Reddit_Tech_Trend_Analysis_with_Gemini_AI_for_Notion___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9730_X___Reddit_Tech_Trend_Analysis_with_Gemini_AI_for_Notion___Telegram.json)|
 |11309|[11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json)|
+|11466|[11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# models : 24
+# models : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |8573|[8573_Forum_Pulse_for_Telegram__Community_Monitoring_with_Gemini___Groq_AI_Models.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8573_Forum_Pulse_for_Telegram__Community_Monitoring_with_Gemini___Groq_AI_Models.json)|
 |9247|[9247_Smart_Chat_Routing_Between_Gemini_and_GPT_Models_Based_on_Query_Complexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9247_Smart_Chat_Routing_Between_Gemini_and_GPT_Models_Based_on_Query_Complexity.json)|
 |9283|[9283_Compare_AI_Models_with_Nvidia_API__Qwen__DeepSeek__Seed-OSS___Nemotron.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9283_Compare_AI_Models_with_Nvidia_API__Qwen__DeepSeek__Seed-OSS___Nemotron.json)|
+|11660|[11660_Generate_Consensus_Answers_with_Multiple_AI_Models___Peer_Review_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11660_Generate_Consensus_Answers_with_Multiple_AI_Models___Peer_Review_System.json)|

@@ -1,4 +1,4 @@
-# docs : 90
+# docs : 95
 
 |id|file|
 |----|----|
@@ -92,3 +92,8 @@
 |10569|[10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10569_Generate_AI_Meeting_Summaries_and_Tasks_from_Fathom_Recordings_to_Dart.json)|
 |10754|[10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10754_Automate_SEO_Blog_Creation_from_Trends_using_Gemini_AI__Apify__and_Google_Docs.json)|
 |11285|[11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json)|
+|11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|
+|11599|[11599_Repurpose_Blog___YouTube_Content_to_Social_Media_with_GPT-5.1_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11599_Repurpose_Blog___YouTube_Content_to_Social_Media_with_GPT-5.1_and_Google_Docs.json)|
+|11703|[11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json)|
+|11809|[11809_Generate_SEO_Content_Outlines_from_SERP_Analysis_with_OpenAI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11809_Generate_SEO_Content_Outlines_from_SERP_Analysis_with_OpenAI_and_Google_Docs.json)|
+|11840|[11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json)|

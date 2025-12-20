@@ -1,4 +1,4 @@
-# posts : 175
+# posts : 178
 
 |id|file|
 |----|----|
@@ -177,3 +177,6 @@
 |10370|[10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json)|
 |10450|[10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json)|
 |10551|[10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json)|
+|11442|[11442_Generate_Multiple_LinkedIn_Posts_from_Notion_with_ChatGPT___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11442_Generate_Multiple_LinkedIn_Posts_from_Notion_with_ChatGPT___Claude_AI.json)|
+|11505|[11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json)|
+|11856|[11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json)|

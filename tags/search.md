@@ -1,4 +1,4 @@
-# search : 171
+# search : 176
 
 |id|file|
 |----|----|
@@ -173,3 +173,8 @@
 |11116|[11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json)|
 |11197|[11197_Build_a_RAG_system_by_uploading_PDFs_to_the_Google_Gemini_File_Search_Store.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11197_Build_a_RAG_system_by_uploading_PDFs_to_the_Google_Gemini_File_Search_Store.json)|
 |11269|[11269_Build_Enterprise_RAG_System_with_Google_Gemini_File_Search___Retell_AI_Voice.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11269_Build_Enterprise_RAG_System_with_Google_Gemini_File_Search___Retell_AI_Voice.json)|
+|11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|
+|11401|[11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json)|
+|11665|[11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json)|
+|11693|[11693_Scrape_LinkedIn_profiles_into_Google_Sheets_using_Google_Custom_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11693_Scrape_LinkedIn_profiles_into_Google_Sheets_using_Google_Custom_Search.json)|
+|11748|[11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json)|

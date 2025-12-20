@@ -1,4 +1,4 @@
-# labs : 6
+# labs : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |6873|[6873_Creating_Images_from_Text_Prompts_with_Flux_Kontext_Max_on_Replicate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6873_Creating_Images_from_Text_Prompts_with_Flux_Kontext_Max_on_Replicate.json)|
 |6875|[6875_Create_Images_from_Text_Prompts_using_Flux_Kontext_Pro_and_Replicate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6875_Create_Images_from_Text_Prompts_using_Flux_Kontext_Pro_and_Replicate.json)|
 |10051|[10051_Automate_Podcast_Creation_with_GPT__Claude___Eleven_Labs_Text-to-Speech.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10051_Automate_Podcast_Creation_with_GPT__Claude___Eleven_Labs_Text-to-Speech.json)|
+|11598|[11598_AI-Powered_Lead_Qualification_with_Zoho_CRM__People_Data_Labs_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11598_AI-Powered_Lead_Qualification_with_Zoho_CRM__People_Data_Labs_and_Google_Gemini.json)|

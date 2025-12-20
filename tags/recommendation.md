@@ -1,4 +1,4 @@
-# recommendation : 9
+# recommendation : 12
 
 |id|file|
 |----|----|
@@ -11,3 +11,6 @@
 |9437|[9437_Course_Recommendation_System_for_Surveys_with_Data_Tables_and_GPT-4.1-Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9437_Course_Recommendation_System_for_Surveys_with_Data_Tables_and_GPT-4.1-Mini.json)|
 |10221|[10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10221_Generate_Event_Speaker_Recommendations_with_Claude_AI_and_Google_Sheets.json)|
 |10624|[10624_Automate_Singapore_COE_Price_Analysis___Purchase_Timing_with_GLM-4.5_AI_Predictions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10624_Automate_Singapore_COE_Price_Analysis___Purchase_Timing_with_GLM-4.5_AI_Predictions.json)|
+|11407|[11407_Book_Club_Manager___Recommendation_Engine_with_Mistral_AI_and_Gemini_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11407_Book_Club_Manager___Recommendation_Engine_with_Mistral_AI_and_Gemini_Vision.json)|
+|11432|[11432_Smart_Break_Recommendation_System_using_Google_Calendar__Weather_Data__and_GPT-4_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11432_Smart_Break_Recommendation_System_using_Google_Calendar__Weather_Data__and_GPT-4_to_Slack.json)|
+|11689|[11689_Generate_Personalized_Deal_Content_Recommendations_with_Zoho_CRM__GPT-4o-mini___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11689_Generate_Personalized_Deal_Content_Recommendations_with_Zoho_CRM__GPT-4o-mini___Gmail.json)|

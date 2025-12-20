@@ -1,4 +1,4 @@
-# transcript : 20
+# transcript : 22
 
 |id|file|
 |----|----|
@@ -22,3 +22,5 @@
 |9749|[9749_Scheduled_YouTube_Transcription_with_De-duplication_using_Transcript.io_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9749_Scheduled_YouTube_Transcription_with_De-duplication_using_Transcript.io_and_Supabase.json)|
 |9929|[9929_Process_Meeting_Transcripts_into_Notion_Notes___Tasks_with_AI_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9929_Process_Meeting_Transcripts_into_Notion_Notes___Tasks_with_AI_and_Google_Drive.json)|
 |10037|[10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10037_Audio_Transcription_with_Telegram_and_Groq_Whisper.json)|
+|11867|[11867_Extract_transcripts_from_external_YouTube_Videos_using_YouTube_Transcript_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11867_Extract_transcripts_from_external_YouTube_Videos_using_YouTube_Transcript_API.json)|
+|11883|[11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json)|

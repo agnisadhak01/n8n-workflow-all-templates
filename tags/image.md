@@ -1,4 +1,4 @@
-# image : 187
+# image : 189
 
 |id|file|
 |----|----|
@@ -189,3 +189,5 @@
 |10982|[10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10982_Automate_Image_Compression_in_Google_Drive_with_Tinify_API_and_Email_Reports.json)|
 |11150|[11150_Automate_Image_Portfolio_Organization_with_GPT-4o_Vision__Google_Drive_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11150_Automate_Image_Portfolio_Organization_with_GPT-4o_Vision__Google_Drive_and_Notion.json)|
 |11163|[11163_Generate_100__Ad_Variations_from_One_Image_with_Fal.AI_Nano_Banana_and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11163_Generate_100__Ad_Variations_from_One_Image_with_Fal.AI_Nano_Banana_and_GPT-5.json)|
+|11358|[11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json)|
+|11459|[11459_AI-Enhanced_Image_Generation_with_GPT-4.1__Google_Drive___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11459_AI-Enhanced_Image_Generation_with_GPT-4.1__Google_Drive___Slack_Notifications.json)|

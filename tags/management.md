@@ -1,4 +1,4 @@
-# management : 127
+# management : 137
 
 |id|file|
 |----|----|
@@ -129,3 +129,13 @@
 |11072|[11072_Automate_GDPR_Consent_Management_with_Azure_OpenAI_Emails_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11072_Automate_GDPR_Consent_Management_with_Azure_OpenAI_Emails_and_Slack_Alerts.json)|
 |11117|[11117_Automated_Product_Health_Monitor_with_Anomaly_Detection___AI_Root_Cause_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11117_Automated_Product_Health_Monitor_with_Anomaly_Detection___AI_Root_Cause_Analysis.json)|
 |11165|[11165_Create_an_AI-Powered_Telegram_Customer_Support_Bot_with_Lead_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11165_Create_an_AI-Powered_Telegram_Customer_Support_Bot_with_Lead_Management.json)|
+|11448|[11448_Automated_B2B_Lead_Management_and_AI_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11448_Automated_B2B_Lead_Management_and_AI_Outreach.json)|
+|11462|[11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json)|
+|11469|[11469_Automate_B2B_SaaS_Renewal_Risk_Management_with_CRM__Support___Usage_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11469_Automate_B2B_SaaS_Renewal_Risk_Management_with_CRM__Support___Usage_Data.json)|
+|11678|[11678_Automate_Invoice_Processing___Stock_Management_with_AI__Gmail__Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11678_Automate_Invoice_Processing___Stock_Management_with_AI__Gmail__Sheets___Slack.json)|
+|11679|[11679_Automate_Inventory_Management_with_Google_Sheets___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11679_Automate_Inventory_Management_with_Google_Sheets___Gmail.json)|
+|11713|[11713_Automate_Vendor_Analysis___Contract_Management_with_GPT-4o__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11713_Automate_Vendor_Analysis___Contract_Management_with_GPT-4o__Gmail__and_Google_Sheets.json)|
+|11859|[11859_Automate_SaaS_Operations_with_GPT-4.1-mini_for_User__Support___Billing_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11859_Automate_SaaS_Operations_with_GPT-4.1-mini_for_User__Support___Billing_Management.json)|
+|11860|[11860_GPT_4.1-mini_Automated_Proposal_to_Payment_Lifecycle_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11860_GPT_4.1-mini_Automated_Proposal_to_Payment_Lifecycle_Management.json)|
+|11863|[11863_Intelligent_Project_Delivery_and_Task_Management_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11863_Intelligent_Project_Delivery_and_Task_Management_System.json)|
+|11864|[11864_GPT-4.1_mini-Powered_Learning_Management_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11864_GPT-4.1_mini-Powered_Learning_Management_Automation.json)|

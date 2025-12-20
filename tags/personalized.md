@@ -1,4 +1,4 @@
-# personalized : 126
+# personalized : 135
 
 |id|file|
 |----|----|
@@ -128,3 +128,12 @@
 |11284|[11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11284_Automate_Lead_Nurturing_with_ChatGPT-4o___Gemini_for_Personalized_Email_Drafting.json)|
 |11326|[11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json)|
 |11329|[11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json)|
+|11420|[11420_Send_AI-Personalized_LinkedIn_Connection_Requests_from_Google_Sheets_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11420_Send_AI-Personalized_LinkedIn_Connection_Requests_from_Google_Sheets_with_Gemini.json)|
+|11425|[11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json)|
+|11517|[11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json)|
+|11530|[11530_Send_Personalized_Connection_Requests_to_LinkedIn_Post_Commenters_with_ConnectSafely.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11530_Send_Personalized_Connection_Requests_to_LinkedIn_Post_Commenters_with_ConnectSafely.ai.json)|
+|11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
+|11647|[11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json)|
+|11689|[11689_Generate_Personalized_Deal_Content_Recommendations_with_Zoho_CRM__GPT-4o-mini___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11689_Generate_Personalized_Deal_Content_Recommendations_with_Zoho_CRM__GPT-4o-mini___Gmail.json)|
+|11746|[11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json)|
+|11857|[11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json)|

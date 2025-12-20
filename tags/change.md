@@ -1,4 +1,4 @@
-# change : 8
+# change : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |7304|[7304_Automated_Workflow_Backup_with_Intelligent_Change_Detection_using_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7304_Automated_Workflow_Backup_with_Intelligent_Change_Detection_using_GitHub.json)|
 |9685|[9685_Automate_Change_Request_Approvals_with_Monday.com__Jira__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9685_Automate_Change_Request_Approvals_with_Monday.com__Jira__Slack___Google_Sheets.json)|
 |9825|[9825_Automate_Change_Request_Workflow__Monday.com_to_Jira_with_Slack___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9825_Automate_Change_Request_Workflow__Monday.com_to_Jira_with_Slack___Sheets.json)|
+|11569|[11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json)|
+|11606|[11606_Clone_and_change_your_voice____with_Elevenlabs_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11606_Clone_and_change_your_voice____with_Elevenlabs_and_Telegram.json)|

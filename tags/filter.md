@@ -1,4 +1,4 @@
-# filter : 17
+# filter : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |9379|[9379_Filter_for_Positive_Google_Reviews_using_Telegram__Web_Form___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9379_Filter_for_Positive_Google_Reviews_using_Telegram__Web_Form___Google_Sheets.json)|
 |10248|[10248_Filter_Breaking_Geopolitical_News_with_AI_Scoring___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10248_Filter_Breaking_Geopolitical_News_with_AI_Scoring___Telegram_Alerts.json)|
 |11091|[11091_Filter_TikTok_Real_Estate_Videos_for_Couples_with_AI__Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11091_Filter_TikTok_Real_Estate_Videos_for_Couples_with_AI__Apify_and_Google_Sheets.json)|
+|11834|[11834_Daily_News_Curation_with_Gemini_AI__Auto-filter___Publish_to_Notion___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11834_Daily_News_Curation_with_Gemini_AI__Auto-filter___Publish_to_Notion___Telegram.json)|

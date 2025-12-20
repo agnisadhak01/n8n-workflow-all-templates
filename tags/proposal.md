@@ -1,4 +1,4 @@
-# proposal : 14
+# proposal : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |10777|[10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json)|
 |10836|[10836_Automated_Sales_Proposal___Summary_Generator_using_GPT-4o__Sheets__Drive___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10836_Automated_Sales_Proposal___Summary_Generator_using_GPT-4o__Sheets__Drive___Gmail.json)|
 |11123|[11123_Generate_AI_Sales_Proposals_from_Transcripts_using_Azure_OpenAI__PandaDoc___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11123_Generate_AI_Sales_Proposals_from_Transcripts_using_Azure_OpenAI__PandaDoc___Slack_Approval.json)|
+|11860|[11860_GPT_4.1-mini_Automated_Proposal_to_Payment_Lifecycle_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11860_GPT_4.1-mini_Automated_Proposal_to_Payment_Lifecycle_Management.json)|

@@ -1,4 +1,4 @@
-# facebook : 90
+# facebook : 92
 
 |id|file|
 |----|----|
@@ -92,3 +92,5 @@
 |11127|[11127_Cross-Platform_Content_Publisher__Telegram_to_WordPress__Facebook__Twitter___LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11127_Cross-Platform_Content_Publisher__Telegram_to_WordPress__Facebook__Twitter___LinkedIn.json)|
 |11138|[11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json)|
 |11321|[11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json)|
+|11410|[11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json)|
+|11805|[11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json)|

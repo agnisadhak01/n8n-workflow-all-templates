@@ -1,4 +1,4 @@
-# deepseek : 39
+# deepseek : 40
 
 |id|file|
 |----|----|
@@ -41,3 +41,4 @@
 |9860|[9860_Automatically_Save_Kindle_Handwritten_Notes_to_Google_Drive_with_DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9860_Automatically_Save_Kindle_Handwritten_Notes_to_Google_Drive_with_DeepSeek_AI.json)|
 |9869|[9869_Bulk_YouTube_Channel_Content_Analysis_with_Apify___DeepSeek_AI_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9869_Bulk_YouTube_Channel_Content_Analysis_with_Apify___DeepSeek_AI_to_Google_Sheets.json)|
 |10522|[10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json)|
+|11394|[11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json)|

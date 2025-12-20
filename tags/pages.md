@@ -1,4 +1,4 @@
-# pages : 19
+# pages : 20
 
 |id|file|
 |----|----|
@@ -21,3 +21,4 @@
 |10242|[10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json)|
 |10447|[10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json)|
 |11370|[11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json)|
+|11650|[11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json)|

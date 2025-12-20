@@ -1,4 +1,4 @@
-# automation : 280
+# automation : 290
 
 |id|file|
 |----|----|
@@ -282,3 +282,13 @@
 |11271|[11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json)|
 |11283|[11283_B2B_Lead_Follow-up_Automation_with_Gemini_AI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11283_B2B_Lead_Follow-up_Automation_with_Gemini_AI__Gmail_and_Google_Sheets.json)|
 |11285|[11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json)|
+|11355|[11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json)|
+|11505|[11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json)|
+|11604|[11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json)|
+|11621|[11621_Automated_Stock_Technical_Analysis_with_xAI_Grok___Multi-channel_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11621_Automated_Stock_Technical_Analysis_with_xAI_Grok___Multi-channel_Notifications.json)|
+|11690|[11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json)|
+|11708|[11708_Generate_Strategic_Business_Recommendations_with_GPT-4_Mini_and_Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11708_Generate_Strategic_Business_Recommendations_with_GPT-4_Mini_and_Multi-Channel_Distribution.json)|
+|11782|[11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json)|
+|11824|[11824_Automate_Vulnerability_Triage_from_Snyk_with_Jira__Slack___Airtable_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11824_Automate_Vulnerability_Triage_from_Snyk_with_Jira__Slack___Airtable_Integration.json)|
+|11861|[11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json)|
+|11864|[11864_GPT-4.1_mini-Powered_Learning_Management_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11864_GPT-4.1_mini-Powered_Learning_Management_Automation.json)|

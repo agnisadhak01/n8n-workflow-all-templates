@@ -1,4 +1,4 @@
-# campaign : 26
+# campaign : 28
 
 |id|file|
 |----|----|
@@ -28,3 +28,5 @@
 |8770|[8770_Generate_Social_Media_Campaign_Images_with_Mistral_AI___Pollinations.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8770_Generate_Social_Media_Campaign_Images_with_Mistral_AI___Pollinations.ai.json)|
 |8963|[8963_Automate_Influencer_Evaluation___Campaign_Management_with_Instagram_YouTube_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8963_Automate_Influencer_Evaluation___Campaign_Management_with_Instagram_YouTube_APIs.json)|
 |10174|[10174_PPC_Campaign_Intelligence___Optimization_with_Google_Ads__Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10174_PPC_Campaign_Intelligence___Optimization_with_Google_Ads__Sheets___Slack.json)|
+|11499|[11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json)|
+|11734|[11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json)|

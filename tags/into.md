@@ -1,4 +1,4 @@
-# into : 140
+# into : 149
 
 |id|file|
 |----|----|
@@ -142,3 +142,12 @@
 |11079|[11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json)|
 |11300|[11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json)|
 |11306|[11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json)|
+|11362|[11362_Convert_Task_Ideas_to_Implementation_Plans_with_GPT-4o__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11362_Convert_Task_Ideas_to_Implementation_Plans_with_GPT-4o__Slack___Google_Sheets.json)|
+|11394|[11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json)|
+|11458|[11458_Transform_Selfies_into_Professional_LinkedIn_Headshots_with_Nano_Banana_Pro___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11458_Transform_Selfies_into_Professional_LinkedIn_Headshots_with_Nano_Banana_Pro___Telegram.json)|
+|11505|[11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json)|
+|11572|[11572_Aggregate_News_Articles_from_NewsAPI__Mediastack___CurrentsAPI_into_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11572_Aggregate_News_Articles_from_NewsAPI__Mediastack___CurrentsAPI_into_Database.json)|
+|11653|[11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json)|
+|11672|[11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json)|
+|11693|[11693_Scrape_LinkedIn_profiles_into_Google_Sheets_using_Google_Custom_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11693_Scrape_LinkedIn_profiles_into_Google_Sheets_using_Google_Custom_Search.json)|
+|11735|[11735_Transform_HR_PDFs_into_Engaging_Onboarding_Videos_with_AI__HeyGen_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11735_Transform_HR_PDFs_into_Engaging_Onboarding_Videos_with_AI__HeyGen_and_Google_Drive.json)|

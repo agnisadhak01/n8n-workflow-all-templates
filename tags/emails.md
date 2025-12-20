@@ -1,4 +1,4 @@
-# emails : 171
+# emails : 175
 
 |id|file|
 |----|----|
@@ -173,3 +173,7 @@
 |10739|[10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10739_Extract_Emails__Phones___Social_Links_from_Websites_with_Apify_and_Google_Sheets.json)|
 |11072|[11072_Automate_GDPR_Consent_Management_with_Azure_OpenAI_Emails_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11072_Automate_GDPR_Consent_Management_with_Azure_OpenAI_Emails_and_Slack_Alerts.json)|
 |11233|[11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json)|
+|11397|[11397_Convert_Gmail_Emails_to_Telegram_Voice_Messages_with_GPT-5_and_Inworld_TTS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11397_Convert_Gmail_Emails_to_Telegram_Voice_Messages_with_GPT-5_and_Inworld_TTS.json)|
+|11529|[11529_Organize_School_Emails_with_AI__Google_Calendar_and_Drive_Auto-Triage_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11529_Organize_School_Emails_with_AI__Google_Calendar_and_Drive_Auto-Triage_System.json)|
+|11758|[11758_Automated_Post-Purchase_Emails_for_Gumroad_with_Notion_CRM_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11758_Automated_Post-Purchase_Emails_for_Gumroad_with_Notion_CRM_and_Gemini_AI.json)|
+|11883|[11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json)|

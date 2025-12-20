@@ -1,4 +1,4 @@
-# ocr : 60
+# ocr : 63
 
 |id|file|
 |----|----|
@@ -62,3 +62,6 @@
 |10566|[10566_Process_Large_Documents_with_OCR_using_SubworkflowAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10566_Process_Large_Documents_with_OCR_using_SubworkflowAI_and_Gemini.json)|
 |10901|[10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json)|
 |11368|[11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json)|
+|11413|[11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json)|
+|11653|[11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json)|
+|11755|[11755_Mistral_OCR__GPT-4o-mini__and_Google_Sheets_Integration_for_Enhanced_Data_Processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11755_Mistral_OCR__GPT-4o-mini__and_Google_Sheets_Integration_for_Enhanced_Data_Processing.json)|

@@ -1,4 +1,4 @@
-# product : 128
+# product : 138
 
 |id|file|
 |----|----|
@@ -130,3 +130,13 @@
 |11117|[11117_Automated_Product_Health_Monitor_with_Anomaly_Detection___AI_Root_Cause_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11117_Automated_Product_Health_Monitor_with_Anomaly_Detection___AI_Root_Cause_Analysis.json)|
 |11131|[11131_Scrape_and_Analyze_Amazon_Product_Info_with_Decodo___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11131_Scrape_and_Analyze_Amazon_Product_Info_with_Decodo___OpenAI.json)|
 |11158|[11158_Extract_Amazon_Product_Data_to_Sheets_with_Olostep_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11158_Extract_Amazon_Product_Data_to_Sheets_with_Olostep_API.json)|
+|11394|[11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json)|
+|11446|[11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json)|
+|11585|[11585_E-commerce_Price_Tracker_with_ScrapeGraphAI__MongoDB__and_Mailgun_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11585_E-commerce_Price_Tracker_with_ScrapeGraphAI__MongoDB__and_Mailgun_Alerts.json)|
+|11608|[11608_Automated_Product_Price_Tracking_with_ScrapeGraphAI__Slack_Alerts_and_Jira_Tickets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11608_Automated_Product_Price_Tracking_with_ScrapeGraphAI__Slack_Alerts_and_Jira_Tickets.json)|
+|11609|[11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json)|
+|11632|[11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json)|
+|11634|[11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json)|
+|11695|[11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json)|
+|11803|[11803_Track_E-commerce_Price_Changes_with_ScrapeGraphAI__Baserow___Pushover_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11803_Track_E-commerce_Price_Changes_with_ScrapeGraphAI__Baserow___Pushover_Alerts.json)|
+|11820|[11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json)|

@@ -1,4 +1,4 @@
-# contract : 9
+# contract : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |9328|[9328_Extract_Legal_Contract_Data___Send_Alerts_with_VLM_Run__Google_Workspace___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9328_Extract_Legal_Contract_Data___Send_Alerts_with_VLM_Run__Google_Workspace___Slack.json)|
 |10333|[10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10333_Automate_Instagram_Influencer_Contract_Compliance_with_Claude_AI___Slack_Alerts.json)|
 |10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|
+|11713|[11713_Automate_Vendor_Analysis___Contract_Management_with_GPT-4o__Gmail__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11713_Automate_Vendor_Analysis___Contract_Management_with_GPT-4o__Gmail__and_Google_Sheets.json)|

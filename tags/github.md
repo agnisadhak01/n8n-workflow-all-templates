@@ -1,4 +1,4 @@
-# github : 117
+# github : 124
 
 |id|file|
 |----|----|
@@ -119,3 +119,10 @@
 |10585|[10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10585_Daily_Pull_Request_Summaries_from_GitHub_to_Telegram_using_GPT-4o-mini.json)|
 |10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
 |11147|[11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|
+|11375|[11375_Discover_GitHub_Developers_with_Hunter.io_Email_Lookup___Google_Sheets_CRM_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11375_Discover_GitHub_Developers_with_Hunter.io_Email_Lookup___Google_Sheets_CRM_Sync.json)|
+|11549|[11549_Curate_Contributor-Friendly_Issues_with_AI_and_Send_GitHub_Newsletter_via_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11549_Curate_Contributor-Friendly_Issues_with_AI_and_Send_GitHub_Newsletter_via_Email.json)|
+|11569|[11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json)|
+|11706|[11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json)|
+|11728|[11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|
+|11780|[11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json)|
+|11835|[11835_Track_Certification_Requirement_Changes_with_ScrapeGraphAI__GitHub_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11835_Track_Certification_Requirement_Changes_with_ScrapeGraphAI__GitHub_and_Email.json)|

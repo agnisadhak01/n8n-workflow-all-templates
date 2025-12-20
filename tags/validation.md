@@ -1,4 +1,4 @@
-# validation : 32
+# validation : 34
 
 |id|file|
 |----|----|
@@ -34,3 +34,5 @@
 |10745|[10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json)|
 |11017|[11017_Email_List_Validation_and_Cleanup_with_Google_Sheets_and_VerifiEmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11017_Email_List_Validation_and_Cleanup_with_Google_Sheets_and_VerifiEmail.json)|
 |11097|[11097_Automated_Digital_Certificate_Creator___Validator_with_PDF_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11097_Automated_Digital_Certificate_Creator___Validator_with_PDF_Generation.json)|
+|11538|[11538_Bulk_Email_Validation_and_AI_Scoring_with_ZeroBounce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11538_Bulk_Email_Validation_and_AI_Scoring_with_ZeroBounce.json)|
+|11886|[11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json)|

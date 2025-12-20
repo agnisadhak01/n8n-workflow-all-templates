@@ -1,4 +1,4 @@
-# sales : 122
+# sales : 126
 
 |id|file|
 |----|----|
@@ -124,3 +124,7 @@
 |10840|[10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10840_Sales_CRM_Chatbot_with_GPT-4o-mini__Google_Sheets_Lookup___Memory.json)|
 |11123|[11123_Generate_AI_Sales_Proposals_from_Transcripts_using_Azure_OpenAI__PandaDoc___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11123_Generate_AI_Sales_Proposals_from_Transcripts_using_Azure_OpenAI__PandaDoc___Slack_Approval.json)|
 |11198|[11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json)|
+|11477|[11477_Analyze_Sales_Calls_with_GPT-4_and_Deliver_Coaching_Feedback_via_Slack___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11477_Analyze_Sales_Calls_with_GPT-4_and_Deliver_Coaching_Feedback_via_Slack___Sheets.json)|
+|11574|[11574_Extract_Sales_Leads_from_Google_Jobs__LinkedIn___Indeed_with_GPT-4o_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11574_Extract_Sales_Leads_from_Google_Jobs__LinkedIn___Indeed_with_GPT-4o_and_Apify.json)|
+|11704|[11704_Automate_Stripe_Checkout_Sales_Tracking_in_RD_Station_Marketing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11704_Automate_Stripe_Checkout_Sales_Tracking_in_RD_Station_Marketing.json)|
+|11820|[11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json)|

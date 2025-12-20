@@ -1,4 +1,4 @@
-# intake : 9
+# intake : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |9830|[9830_Sync_Monday.com_Items_to_Jira_with_Smart_Duplicate_Detection___Feedback_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9830_Sync_Monday.com_Items_to_Jira_with_Smart_Duplicate_Detection___Feedback_Loop.json)|
 |10745|[10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10745_Typeform_Lead_Qualification_with_Vero__Gmail__Google_Sheets___Slack_Notifications.json)|
 |11233|[11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json)|
+|11586|[11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json)|

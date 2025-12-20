@@ -1,4 +1,4 @@
-# metrics : 17
+# metrics : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |8814|[8814_Track_Support_Performance_Metrics_Across_Zendesk___Freshdesk_with_Sheets__Slack___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8814_Track_Support_Performance_Metrics_Across_Zendesk___Freshdesk_with_Sheets__Slack___Gmail.json)|
 |9464|[9464_Sync_KPI_Metrics_from_ClickUp_and_Google_Sheets_to_Slack_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9464_Sync_KPI_Metrics_from_ClickUp_and_Google_Sheets_to_Slack_and_Gmail.json)|
 |9497|[9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9497_AI_Model_Usage_Dashboard__Track_Token_Metrics_and_Costs_for_LLM_Workflows.json)|
+|11483|[11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json)|

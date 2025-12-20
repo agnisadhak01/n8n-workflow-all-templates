@@ -1,4 +1,4 @@
-# batch : 18
+# batch : 19
 
 |id|file|
 |----|----|
@@ -20,3 +20,4 @@
 |8703|[8703_Automatically_Transfer_FTP_Files_to_Google_Drive_with_Batch_Processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8703_Automatically_Transfer_FTP_Files_to_Google_Drive_with_Batch_Processing.json)|
 |9245|[9245_Batch_ID_Photo_Converter___Enhancer_With_Google_Drive___Nano_Banana_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9245_Batch_ID_Photo_Converter___Enhancer_With_Google_Drive___Nano_Banana_API.json)|
 |9397|[9397_Automated_Compliance_Control_Scoring_with_CyberPulse__GPT-4o___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9397_Automated_Compliance_Control_Scoring_with_CyberPulse__GPT-4o___Google_Sheets.json)|
+|11667|[11667_Batch_Resume_Analysis_with_Google_Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11667_Batch_Resume_Analysis_with_Google_Gemini_AI_and_Google_Sheets.json)|

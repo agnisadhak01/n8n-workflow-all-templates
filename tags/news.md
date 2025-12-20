@@ -1,4 +1,4 @@
-# news : 165
+# news : 174
 
 |id|file|
 |----|----|
@@ -167,3 +167,12 @@
 |11210|[11210_Automated_MIT_AI_News_Delivery_to_Discord_with_Deduplication.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11210_Automated_MIT_AI_News_Delivery_to_Discord_with_Deduplication.json)|
 |11227|[11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json)|
 |11366|[11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json)|
+|11425|[11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json)|
+|11466|[11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json)|
+|11572|[11572_Aggregate_News_Articles_from_NewsAPI__Mediastack___CurrentsAPI_into_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11572_Aggregate_News_Articles_from_NewsAPI__Mediastack___CurrentsAPI_into_Database.json)|
+|11652|[11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json)|
+|11669|[11669_Breaking_News_Aggregator_with_SendGrid_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11669_Breaking_News_Aggregator_with_SendGrid_and_PostgreSQL.json)|
+|11700|[11700_Track_and_Score_Contact_Engagement_with_Zoho_CRM__PDL__News___Reddit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11700_Track_and_Score_Contact_Engagement_with_Zoho_CRM__PDL__News___Reddit.json)|
+|11724|[11724_Generate_News_Digest_Videos_from_WordPress_Articles_to_YouTube_Shorts_with_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11724_Generate_News_Digest_Videos_from_WordPress_Articles_to_YouTube_Shorts_with_Shotstack.json)|
+|11772|[11772_Generate_AI_Stock_Reports_w__Fundamental__Technical____News_Analysis__Free_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11772_Generate_AI_Stock_Reports_w__Fundamental__Technical____News_Analysis__Free_APIs.json)|
+|11834|[11834_Daily_News_Curation_with_Gemini_AI__Auto-filter___Publish_to_Notion___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11834_Daily_News_Curation_with_Gemini_AI__Auto-filter___Publish_to_Notion___Telegram.json)|

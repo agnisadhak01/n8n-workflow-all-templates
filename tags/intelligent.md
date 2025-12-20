@@ -1,4 +1,4 @@
-# intelligent : 28
+# intelligent : 33
 
 |id|file|
 |----|----|
@@ -30,3 +30,8 @@
 |9563|[9563_Event_Registration___AI_Networking_with_GPT-4o__Jotform___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9563_Event_Registration___AI_Networking_with_GPT-4o__Jotform___Google_Sheets.json)|
 |9739|[9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9739_Qualify___Route_Leads_Across_Channels_with_GPT-4o__Slack___CRM_Integration.json)|
 |9762|[9762_Create_an_Intelligent_FAQ_Telegram_Bot_with_Google_Gemini_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9762_Create_an_Intelligent_FAQ_Telegram_Bot_with_Google_Gemini_and_Supabase.json)|
+|11413|[11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json)|
+|11493|[11493_Qualify___Enrich_Leads_with_GPT-4_and_LinkedIn_Data_for_Intelligent_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11493_Qualify___Enrich_Leads_with_GPT-4_and_LinkedIn_Data_for_Intelligent_Routing.json)|
+|11861|[11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json)|
+|11862|[11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json)|
+|11863|[11863_Intelligent_Project_Delivery_and_Task_Management_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11863_Intelligent_Project_Delivery_and_Task_Management_System.json)|

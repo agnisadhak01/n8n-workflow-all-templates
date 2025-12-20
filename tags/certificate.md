@@ -1,4 +1,4 @@
-# certificate : 17
+# certificate : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |10397|[10397_Automated_Workshop_Certificate_System_with_JotForm__Email_Verification___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10397_Automated_Workshop_Certificate_System_with_JotForm__Email_Verification___Google_Workspace.json)|
 |11012|[11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json)|
 |11097|[11097_Automated_Digital_Certificate_Creator___Validator_with_PDF_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11097_Automated_Digital_Certificate_Creator___Validator_with_PDF_Generation.json)|
+|11886|[11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# budget : 10
+# budget : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |8268|[8268_Expense_Logging_with_Telegram_and_Google_Sheets__Weekly_Summaries_and_Budget_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8268_Expense_Logging_with_Telegram_and_Google_Sheets__Weekly_Summaries_and_Budget_Alerts.json)|
 |10219|[10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10219_Automate_Event_Planning___Budget_Optimization_with_Claude_AI_and_Google_Sheets.json)|
 |10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|
+|11339|[11339_Record_Transactions___Generate_Budget_Reports_with_Gemini_AI__Telegram___Firefly_III.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11339_Record_Transactions___Generate_Budget_Reports_with_Gemini_AI__Telegram___Firefly_III.json)|

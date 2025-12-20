@@ -1,4 +1,4 @@
-# risk : 19
+# risk : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |9832|[9832_Track_Jira_Epic_Health_with_Automated_Risk_Alerts_via_Slack__Monday___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9832_Track_Jira_Epic_Health_with_Automated_Risk_Alerts_via_Slack__Monday___Sheets.json)|
 |9835|[9835_Dependency_Update_Risk_Analysis_with_GPT-4o__Slack__Jira___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9835_Dependency_Update_Risk_Analysis_with_GPT-4o__Slack__Jira___Google_Sheets.json)|
 |10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|
+|11469|[11469_Automate_B2B_SaaS_Renewal_Risk_Management_with_CRM__Support___Usage_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11469_Automate_B2B_SaaS_Renewal_Risk_Management_with_CRM__Support___Usage_Data.json)|
+|11862|[11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json)|

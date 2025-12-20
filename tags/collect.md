@@ -1,4 +1,4 @@
-# collect : 21
+# collect : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |9787|[9787_Collect_Star_Rating_Feedback_with_Self-Contained_HTML_Forms_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9787_Collect_Star_Rating_Feedback_with_Self-Contained_HTML_Forms_and_Data_Tables.json)|
 |9840|[9840_Collect_Customer_Testimonials_with_GPT-4_Analysis__Jotform__Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9840_Collect_Customer_Testimonials_with_GPT-4_Analysis__Jotform__Gmail___Google_Sheets.json)|
 |10725|[10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10725_Collect_API_User_Data_and_Store_in_Google_Sheets_with_CSV_backup.json)|
+|11421|[11421_Collect_Viral_Instagram_AI_Art_with_GPT-4_Analysis_and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11421_Collect_Viral_Instagram_AI_Art_with_GPT-4_Analysis_and_Telegram_Delivery.json)|

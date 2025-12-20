@@ -1,4 +1,4 @@
-# validate : 26
+# validate : 28
 
 |id|file|
 |----|----|
@@ -28,3 +28,5 @@
 |9738|[9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9738_Automated_Lead_Follow-Up_with_Follow_Up_Boss__Gmail__Twilio___WhatsApp_Messaging.json)|
 |10329|[10329_Validate_GitHub_Configurations_with_GPT-4o-mini_and_Log_Issues_to_Sheets_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10329_Validate_GitHub_Configurations_with_GPT-4o-mini_and_Log_Issues_to_Sheets_and_Slack.json)|
 |10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|
+|11498|[11498_Validate_and_Score_Email_Addresses_with_ZeroBounce_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11498_Validate_and_Score_Email_Addresses_with_ZeroBounce_AI.json)|
+|11886|[11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# documents : 69
+# documents : 71
 
 |id|file|
 |----|----|
@@ -71,3 +71,5 @@
 |10947|[10947_AI-Powered_Company_Documents_Q_A_Assistant_with_Google_Drive_and_GPT-4_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10947_AI-Powered_Company_Documents_Q_A_Assistant_with_Google_Drive_and_GPT-4_Mini.json)|
 |11049|[11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json)|
 |11370|[11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json)|
+|11653|[11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json)|
+|11736|[11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json)|

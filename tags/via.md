@@ -1,4 +1,4 @@
-# via : 483
+# via : 496
 
 |id|file|
 |----|----|
@@ -485,3 +485,16 @@
 |11204|[11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json)|
 |11212|[11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json)|
 |11257|[11257_Automate_Assignee_Payroll_Calculations_with_Dart__Gemini_AI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11257_Automate_Assignee_Payroll_Calculations_with_Dart__Gemini_AI__and_Google_Sheets.json)|
+|11446|[11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json)|
+|11454|[11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json)|
+|11477|[11477_Analyze_Sales_Calls_with_GPT-4_and_Deliver_Coaching_Feedback_via_Slack___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11477_Analyze_Sales_Calls_with_GPT-4_and_Deliver_Coaching_Feedback_via_Slack___Sheets.json)|
+|11497|[11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json)|
+|11507|[11507_Automated_Error_Notifications_with_Optional_GPT-4o_Diagnostics_via_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11507_Automated_Error_Notifications_with_Optional_GPT-4o_Diagnostics_via_Email.json)|
+|11549|[11549_Curate_Contributor-Friendly_Issues_with_AI_and_Send_GitHub_Newsletter_via_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11549_Curate_Contributor-Friendly_Issues_with_AI_and_Send_GitHub_Newsletter_via_Email.json)|
+|11632|[11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json)|
+|11763|[11763_Website_Downtime_Monitoring_with_Smart_Alerts_via_Telegram___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11763_Website_Downtime_Monitoring_with_Smart_Alerts_via_Telegram___Email.json)|
+|11787|[11787_Play_RPG_with_Groq_Dungeon_Master_via_Telegram_voice_messages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11787_Play_RPG_with_Groq_Dungeon_Master_via_Telegram_voice_messages.json)|
+|11817|[11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json)|
+|11820|[11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json)|
+|11842|[11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json)|
+|11843|[11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json)|

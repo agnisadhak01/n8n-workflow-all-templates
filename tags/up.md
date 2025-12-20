@@ -1,4 +1,4 @@
-# up : 55
+# up : 56
 
 |id|file|
 |----|----|
@@ -57,3 +57,4 @@
 |10827|[10827_AI-Powered_Outreach___Follow-Up_Automation__GPT-4o___Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10827_AI-Powered_Outreach___Follow-Up_Automation__GPT-4o___Gmail___Google_Sheets.json)|
 |11283|[11283_B2B_Lead_Follow-up_Automation_with_Gemini_AI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11283_B2B_Lead_Follow-up_Automation_with_Gemini_AI__Gmail_and_Google_Sheets.json)|
 |11370|[11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json)|
+|11649|[11649_Post-Surgery_Patient_Triage___Follow-up_System_with_Gemini_AI__Telegram___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11649_Post-Surgery_Patient_Triage___Follow-up_System_with_Gemini_AI__Telegram___Google_Suite.json)|

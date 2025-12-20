@@ -1,4 +1,4 @@
-# agents : 100
+# agents : 102
 
 |id|file|
 |----|----|
@@ -102,3 +102,5 @@
 |10524|[10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10524_Phase-Based_Blog_Creation_System_with_Specialized_AI_Sub-Agents.json)|
 |10841|[10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10841_Create___Publish_SEO_Content_with_AI_Agents___Google_Sheets_Tracking.json)|
 |11147|[11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|
+|11703|[11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json)|
+|11728|[11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|

@@ -1,4 +1,4 @@
-# location : 12
+# location : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |5836|[5836_Create_an_Offline_DIGIPIN_Microservice_API_for_Precise_Location_Mapping_in_India.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5836_Create_an_Offline_DIGIPIN_Microservice_API_for_Precise_Location_Mapping_in_India.json)|
 |9891|[9891_Source_Top_GitHub_Talent_by_Language___Location_with_Gemini_AI_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9891_Source_Top_GitHub_Talent_by_Language___Location_with_Gemini_AI_and_BrowserAct.json)|
 |11087|[11087_Create_Film_Location_Database_with_Google_Maps__AI_Analysis___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11087_Create_Film_Location_Database_with_Google_Maps__AI_Analysis___Google_Sheets.json)|
+|11707|[11707_Generate_B2B_Leads_by_Industry___Location_with_Google_Places_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11707_Generate_B2B_Leads_by_Industry___Location_with_Google_Places_API_and_Google_Sheets.json)|

@@ -1,4 +1,4 @@
-# promotion : 7
+# promotion : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8884|[8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json)|
 |10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|
 |11181|[11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json)|
+|11797|[11797_YouTube_Video_Optimization___Cross-Platform_Distribution_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11797_YouTube_Video_Optimization___Cross-Platform_Distribution_with_GPT-4o.json)|

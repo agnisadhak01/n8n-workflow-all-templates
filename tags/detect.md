@@ -1,4 +1,4 @@
-# detect : 21
+# detect : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |10306|[10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10306_Detect_Stock_Price_Anomalies___Send_News_Alerts_with_Marketstack__HackerNews___DeepL.json)|
 |10335|[10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10335_Automatically_Detect___Classify_GitHub_API_Errors_with_GPT-4o_to_Airtable__Notion___Slack.json)|
 |11248|[11248_Automate_Email_Tracking___Generate_Pixel_for_Lead_Nurturing_with_Google_Sheet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11248_Automate_Email_Tracking___Generate_Pixel_for_Lead_Nurturing_with_Google_Sheet.json)|
+|11612|[11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json)|

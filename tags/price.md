@@ -1,4 +1,4 @@
-# price : 49
+# price : 54
 
 |id|file|
 |----|----|
@@ -51,3 +51,8 @@
 |10915|[10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10915_Automatically_send_daily_Nikkei_225_closing_price_to_LINE.json)|
 |11062|[11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json)|
 |11063|[11063_AI-Powered_Price_Watchdog__Competitor_Monitoring___Alerting__Decodo___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11063_AI-Powered_Price_Watchdog__Competitor_Monitoring___Alerting__Decodo___Gemini.json)|
+|11585|[11585_E-commerce_Price_Tracker_with_ScrapeGraphAI__MongoDB__and_Mailgun_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11585_E-commerce_Price_Tracker_with_ScrapeGraphAI__MongoDB__and_Mailgun_Alerts.json)|
+|11608|[11608_Automated_Product_Price_Tracking_with_ScrapeGraphAI__Slack_Alerts_and_Jira_Tickets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11608_Automated_Product_Price_Tracking_with_ScrapeGraphAI__Slack_Alerts_and_Jira_Tickets.json)|
+|11609|[11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json)|
+|11634|[11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json)|
+|11803|[11803_Track_E-commerce_Price_Changes_with_ScrapeGraphAI__Baserow___Pushover_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11803_Track_E-commerce_Price_Changes_with_ScrapeGraphAI__Baserow___Pushover_Alerts.json)|

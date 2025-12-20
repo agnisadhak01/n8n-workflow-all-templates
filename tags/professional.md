@@ -1,4 +1,4 @@
-# professional : 22
+# professional : 25
 
 |id|file|
 |----|----|
@@ -24,3 +24,6 @@
 |10486|[10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json)|
 |11018|[11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json)|
 |11049|[11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11049_Generate_Professional_Documents_with_Claude_AI_Skills_and_Upload_to_Google_Drive.json)|
+|11446|[11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json)|
+|11458|[11458_Transform_Selfies_into_Professional_LinkedIn_Headshots_with_Nano_Banana_Pro___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11458_Transform_Selfies_into_Professional_LinkedIn_Headshots_with_Nano_Banana_Pro___Telegram.json)|
+|11856|[11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json)|

@@ -1,4 +1,4 @@
-# generation : 191
+# generation : 198
 
 |id|file|
 |----|----|
@@ -193,3 +193,10 @@
 |11298|[11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json)|
 |11306|[11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json)|
 |11309|[11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json)|
+|11358|[11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json)|
+|11459|[11459_AI-Enhanced_Image_Generation_with_GPT-4.1__Google_Drive___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11459_AI-Enhanced_Image_Generation_with_GPT-4.1__Google_Drive___Slack_Notifications.json)|
+|11460|[11460_Automate_3D_Body_Model_Generation_from_Images_Using_SAM-3D___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11460_Automate_3D_Body_Model_Generation_from_Images_Using_SAM-3D___Google_Sheets.json)|
+|11589|[11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json)|
+|11622|[11622_ZIP_Code-Based_Business_Lead_Generation_with_Google_Maps_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11622_ZIP_Code-Based_Business_Lead_Generation_with_Google_Maps_and_Sheets.json)|
+|11647|[11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11647_Automated_LinkedIn_Lead_Generation___AI_Personalized_Outreach_with_Apollo___Instantly.json)|
+|11663|[11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json)|

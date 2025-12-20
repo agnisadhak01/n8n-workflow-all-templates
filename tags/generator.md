@@ -1,4 +1,4 @@
-# generator : 233
+# generator : 243
 
 |id|file|
 |----|----|
@@ -235,3 +235,13 @@
 |11253|[11253_Generate_Single-Use_Personalized_Calendly_Links_with_Google_Sheets_Tracking___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11253_Generate_Single-Use_Personalized_Calendly_Links_with_Google_Sheets_Tracking___Slack_Alerts.json)|
 |11276|[11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json)|
 |11309|[11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11309_Automated_NASA_Patent_Lead_Generation___Scoring_with_OpenAI__Google__and_Notion.json)|
+|11361|[11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json)|
+|11389|[11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json)|
+|11482|[11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json)|
+|11537|[11537_Convert_CDP_Network_Topology_to_Lucidchart_Prompts_with_AWX_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11537_Convert_CDP_Network_Topology_to_Lucidchart_Prompts_with_AWX_and_Gemini_AI.json)|
+|11631|[11631_AI-Driven_Instagram_Reels_Creation_and_Publishing_with_GPT__Creatomate_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11631_AI-Driven_Instagram_Reels_Creation_and_Publishing_with_GPT__Creatomate_and_Slack.json)|
+|11658|[11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json)|
+|11672|[11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json)|
+|11734|[11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json)|
+|11840|[11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json)|
+|11886|[11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json)|

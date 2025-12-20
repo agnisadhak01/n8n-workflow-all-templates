@@ -1,4 +1,4 @@
-# landing : 8
+# landing : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |9545|[9545_Landing_Page_Analysis___Optimization_with_Claude_s_4-Agent_AI_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9545_Landing_Page_Analysis___Optimization_with_Claude_s_4-Agent_AI_System.json)|
 |9997|[9997_Landing_Page_CRO_Analysis___Optimization_with_OpenAI___Multi-channel_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9997_Landing_Page_CRO_Analysis___Optimization_with_OpenAI___Multi-channel_Delivery.json)|
 |10447|[10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json)|
+|11650|[11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json)|

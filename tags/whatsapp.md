@@ -1,4 +1,4 @@
-# whatsapp : 210
+# whatsapp : 216
 
 |id|file|
 |----|----|
@@ -212,3 +212,9 @@
 |10790|[10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json)|
 |11129|[11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json)|
 |11188|[11188_Automate_Multi-Modal_Appointment_Booking_via_WhatsApp_using_GPT-4_and_Cal.com.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11188_Automate_Multi-Modal_Appointment_Booking_via_WhatsApp_using_GPT-4_and_Cal.com.json)|
+|11604|[11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json)|
+|11648|[11648_AI_WhatsApp_Support_with_Human_Handoff_using_Gemini__Twilio__and_Supabase_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11648_AI_WhatsApp_Support_with_Human_Handoff_using_Gemini__Twilio__and_Supabase_RAG.json)|
+|11754|[11754_Build_a_WhatsApp_Assistant_for_Text__Audio___Images_using_GPT-4o___Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11754_Build_a_WhatsApp_Assistant_for_Text__Audio___Images_using_GPT-4o___Evolution_API.json)|
+|11786|[11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json)|
+|11805|[11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json)|
+|11820|[11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json)|

@@ -1,4 +1,4 @@
-# photos : 24
+# photos : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |10970|[10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10970_Track_Expenses_from_Receipt_Photos_with_AI__Google_Sheets___Slack_Reports.json)|
 |11138|[11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json)|
 |11159|[11159_Analyze_food_ingredients_from_Telegram_photos_using_Gemini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11159_Analyze_food_ingredients_from_Telegram_photos_using_Gemini_and_Airtable.json)|
+|11445|[11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json)|

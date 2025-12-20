@@ -1,4 +1,4 @@
-# sources : 14
+# sources : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8782|[8782_Create_Fact-Based_Articles_from_Knowledge_Sources_with_Lookio_and_OpenAI_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8782_Create_Fact-Based_Articles_from_Knowledge_Sources_with_Lookio_and_OpenAI_GPT.json)|
 |8890|[8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json)|
 |11103|[11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json)|
+|11496|[11496_Automate_Video_Translation_from_Multiple_Sources_with_Rask_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11496_Automate_Video_Translation_from_Multiple_Sources_with_Rask_AI.json)|

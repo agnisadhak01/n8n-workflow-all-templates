@@ -1,4 +1,4 @@
-# read : 16
+# read : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |3896|[3896_Instagram_MCP_AI_Agent___Read__Reply___Manage_Comments_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3896_Instagram_MCP_AI_Agent___Read__Reply___Manage_Comments_with_GPT-4o.json)|
 |3949|[3949_Automated_Facebook_Comment_Management_with_GPT-4o_and_LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3949_Automated_Facebook_Comment_Management_with_GPT-4o_and_LangChain.json)|
 |5820|[5820_Automatic_Gmail_Categorization_and_Labeling_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5820_Automatic_Gmail_Categorization_and_Labeling_with_AI.json)|
+|11703|[11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json)|

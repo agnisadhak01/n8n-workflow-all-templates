@@ -1,4 +1,4 @@
-# find : 57
+# find : 58
 
 |id|file|
 |----|----|
@@ -59,3 +59,4 @@
 |11189|[11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json)|
 |11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|
 |11216|[11216_Find_low-competition_keyword_opportunities_with_DataForSEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11216_Find_low-competition_keyword_opportunities_with_DataForSEO.json)|
+|11709|[11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json)|

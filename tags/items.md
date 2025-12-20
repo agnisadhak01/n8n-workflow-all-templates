@@ -1,4 +1,4 @@
-# items : 21
+# items : 23
 
 |id|file|
 |----|----|
@@ -23,3 +23,5 @@
 |8643|[8643_Sync_Azure_DevOps_Work_Items_to_GitHub_Issues_with_Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8643_Sync_Azure_DevOps_Work_Items_to_GitHub_Issues_with_Google_Sheets_Tracking.json)|
 |9284|[9284_Automate_Meeting_Summaries___Action_Items_with_Google_Meet__AssemblyAI___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9284_Automate_Meeting_Summaries___Action_Items_with_Google_Meet__AssemblyAI___Claude_AI.json)|
 |9830|[9830_Sync_Monday.com_Items_to_Jira_with_Smart_Duplicate_Detection___Feedback_Loop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9830_Sync_Monday.com_Items_to_Jira_with_Smart_Duplicate_Detection___Feedback_Loop.json)|
+|11409|[11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json)|
+|11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|

@@ -1,4 +1,4 @@
-# technical : 20
+# technical : 22
 
 |id|file|
 |----|----|
@@ -22,3 +22,5 @@
 |8247|[8247_Automate_Marker.io_Issues_to_ServiceNow_Incidents_with_Full_Technical_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8247_Automate_Marker.io_Issues_to_ServiceNow_Incidents_with_Full_Technical_Context.json)|
 |9296|[9296_Technical_SEO_Audits_with_GPT-4o-mini___Multi-format_Reporting__Sheets_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9296_Technical_SEO_Audits_with_GPT-4o-mini___Multi-format_Reporting__Sheets_Email.json)|
 |9593|[9593_Optimize_Technical_Manuals_for_RAG___Agents_with_Blockify_IdeaBlocks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9593_Optimize_Technical_Manuals_for_RAG___Agents_with_Blockify_IdeaBlocks.json)|
+|11621|[11621_Automated_Stock_Technical_Analysis_with_xAI_Grok___Multi-channel_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11621_Automated_Stock_Technical_Analysis_with_xAI_Grok___Multi-channel_Notifications.json)|
+|11772|[11772_Generate_AI_Stock_Reports_w__Fundamental__Technical____News_Analysis__Free_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11772_Generate_AI_Stock_Reports_w__Fundamental__Technical____News_Analysis__Free_APIs.json)|

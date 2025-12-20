@@ -1,4 +1,4 @@
-# learning : 10
+# learning : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |8265|[8265_Transform_Long_Content_into_Bite-sized_Learning_Modules_with_GPT-4___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8265_Transform_Long_Content_into_Bite-sized_Learning_Modules_with_GPT-4___Google_Docs.json)|
 |9595|[9595_Create_a_Factual_Learning_Assistant_with_RAG__Gemini__Telegram___MongoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9595_Create_a_Factual_Learning_Assistant_with_RAG__Gemini__Telegram___MongoDB.json)|
 |10007|[10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json)|
+|11864|[11864_GPT-4.1_mini-Powered_Learning_Management_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11864_GPT-4.1_mini-Powered_Learning_Management_Automation.json)|

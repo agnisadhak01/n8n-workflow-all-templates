@@ -1,4 +1,4 @@
-# template : 161
+# template : 168
 
 |id|file|
 |----|----|
@@ -163,3 +163,10 @@
 |10993|[10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10993_Expense_Logging_with_Telegram_to_Google_Sheets_using_AI_Voice___Text_Parsing.json)|
 |11089|[11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json)|
 |11366|[11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json)|
+|11367|[11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json)|
+|11436|[11436_Automated_SEO_SERP_Analysis_with_Decodo___Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11436_Automated_SEO_SERP_Analysis_with_Decodo___Google_Gemini.json)|
+|11507|[11507_Automated_Error_Notifications_with_Optional_GPT-4o_Diagnostics_via_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11507_Automated_Error_Notifications_with_Optional_GPT-4o_Diagnostics_via_Email.json)|
+|11572|[11572_Aggregate_News_Articles_from_NewsAPI__Mediastack___CurrentsAPI_into_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11572_Aggregate_News_Articles_from_NewsAPI__Mediastack___CurrentsAPI_into_Database.json)|
+|11663|[11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json)|
+|11665|[11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json)|
+|11758|[11758_Automated_Post-Purchase_Emails_for_Gumroad_with_Notion_CRM_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11758_Automated_Post-Purchase_Emails_for_Gumroad_with_Notion_CRM_and_Gemini_AI.json)|

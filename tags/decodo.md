@@ -1,4 +1,4 @@
-# decodo : 21
+# decodo : 25
 
 |id|file|
 |----|----|
@@ -23,3 +23,7 @@
 |11063|[11063_AI-Powered_Price_Watchdog__Competitor_Monitoring___Alerting__Decodo___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11063_AI-Powered_Price_Watchdog__Competitor_Monitoring___Alerting__Decodo___Gemini.json)|
 |11131|[11131_Scrape_and_Analyze_Amazon_Product_Info_with_Decodo___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11131_Scrape_and_Analyze_Amazon_Product_Info_with_Decodo___OpenAI.json)|
 |11145|[11145_YouTube_to_Telegram_Summary_Bot_with_Decodo___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11145_YouTube_to_Telegram_Summary_Bot_with_Decodo___Gemini_AI.json)|
+|11389|[11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json)|
+|11436|[11436_Automated_SEO_SERP_Analysis_with_Decodo___Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11436_Automated_SEO_SERP_Analysis_with_Decodo___Google_Gemini.json)|
+|11632|[11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json)|
+|11782|[11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json)|

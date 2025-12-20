@@ -1,4 +1,4 @@
-# zoom : 22
+# zoom : 23
 
 |id|file|
 |----|----|
@@ -24,3 +24,4 @@
 |9959|[9959_Recover_Missed_Demos_with_Calendly__Zoom___AI-Generated_Follow-ups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9959_Recover_Missed_Demos_with_Calendly__Zoom___AI-Generated_Follow-ups.json)|
 |10104|[10104_Form_to_Meeting__Google_Calendar__Zoom__Gmail___Slack_Booking_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10104_Form_to_Meeting__Google_Calendar__Zoom__Gmail___Slack_Booking_Automation.json)|
 |10747|[10747_Automate_Zoom_User_Onboarding_with_OAuth_Token_Management_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10747_Automate_Zoom_User_Onboarding_with_OAuth_Token_Management_and_Data_Tables.json)|
+|11593|[11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json)|

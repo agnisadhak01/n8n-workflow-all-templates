@@ -1,4 +1,4 @@
-# messages : 85
+# messages : 88
 
 |id|file|
 |----|----|
@@ -87,3 +87,6 @@
 |10790|[10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10790_Automated_WhatsApp_Upsell_Messages_for_Shopify_Cancellations_with_Rapiwa___Google_Sheets.json)|
 |10907|[10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10907_Multilingual_Email_Auto-Replies_with_DeepL__GPT-4o_and_Slack_Human_Approval.json)|
 |11129|[11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json)|
+|11397|[11397_Convert_Gmail_Emails_to_Telegram_Voice_Messages_with_GPT-5_and_Inworld_TTS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11397_Convert_Gmail_Emails_to_Telegram_Voice_Messages_with_GPT-5_and_Inworld_TTS.json)|
+|11787|[11787_Play_RPG_with_Groq_Dungeon_Master_via_Telegram_voice_messages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11787_Play_RPG_with_Groq_Dungeon_Master_via_Telegram_voice_messages.json)|
+|11817|[11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json)|

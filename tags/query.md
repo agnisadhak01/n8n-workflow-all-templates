@@ -1,4 +1,4 @@
-# query : 38
+# query : 39
 
 |id|file|
 |----|----|
@@ -40,3 +40,4 @@
 |9570|[9570_Secure_GET_Webhooks_with_Query_Parameter_Validation_for_Limited_Authentication_Cases.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9570_Secure_GET_Webhooks_with_Query_Parameter_Validation_for_Limited_Authentication_Cases.json)|
 |10290|[10290_Track___Query_Expenses_via_Telegram_with_GPT-4.1_Mini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10290_Track___Query_Expenses_via_Telegram_with_GPT-4.1_Mini___Google_Sheets.json)|
 |11234|[11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json)|
+|11580|[11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json)|

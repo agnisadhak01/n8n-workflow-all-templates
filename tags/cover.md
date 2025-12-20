@@ -1,4 +1,4 @@
-# cover : 9
+# cover : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8589|[8589_Automate_Job_Search_with_AI_Cover_Letters_using_Google_Jobs__RemoteOK___GPT-3.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8589_Automate_Job_Search_with_AI_Cover_Letters_using_Google_Jobs__RemoteOK___GPT-3.5.json)|
 |10201|[10201_Optimize_Resumes___Generate_Cover_Letters_with_Gemini_AI_and_PDF.co.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10201_Optimize_Resumes___Generate_Cover_Letters_with_Gemini_AI_and_PDF.co.json)|
 |10242|[10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json)|
+|11840|[11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json)|

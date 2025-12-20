@@ -1,4 +1,4 @@
-# legal : 14
+# legal : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |7946|[7946_Evaluate_Hybrid_Search_for_Legal_Question-Answering_using_Qdrant___BM25_mxbai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7946_Evaluate_Hybrid_Search_for_Legal_Question-Answering_using_Qdrant___BM25_mxbai.json)|
 |8504|[8504_Extract___Validate_Legal_Citations_from_Documents_with_PDF_Vector_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8504_Extract___Validate_Legal_Citations_from_Documents_with_PDF_Vector_AI.json)|
 |9328|[9328_Extract_Legal_Contract_Data___Send_Alerts_with_VLM_Run__Google_Workspace___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9328_Extract_Legal_Contract_Data___Send_Alerts_with_VLM_Run__Google_Workspace___Slack.json)|
+|11861|[11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json)|

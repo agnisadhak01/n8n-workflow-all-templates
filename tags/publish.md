@@ -1,4 +1,4 @@
-# publish : 74
+# publish : 81
 
 |id|file|
 |----|----|
@@ -76,3 +76,10 @@
 |11181|[11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json)|
 |11204|[11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json)|
 |11276|[11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json)|
+|11591|[11591_Create___Publish_Inspirational_Videos_with_FFmpeg__Google_Drive___YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11591_Create___Publish_Inspirational_Videos_with_FFmpeg__Google_Drive___YouTube.json)|
+|11638|[11638_Bulk_Auto-Publish_Videos_to_Social_Networks_with_AI_Copy_and_Client_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11638_Bulk_Auto-Publish_Videos_to_Social_Networks_with_AI_Copy_and_Client_Approval.json)|
+|11677|[11677_Publish_RSS_Articles_to_WordPress_and_Social_Media_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11677_Publish_RSS_Articles_to_WordPress_and_Social_Media_Platforms.json)|
+|11694|[11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json)|
+|11695|[11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json)|
+|11710|[11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json)|
+|11834|[11834_Daily_News_Curation_with_Gemini_AI__Auto-filter___Publish_to_Notion___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11834_Daily_News_Curation_with_Gemini_AI__Auto-filter___Publish_to_Notion___Telegram.json)|

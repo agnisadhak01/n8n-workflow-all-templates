@@ -1,4 +1,4 @@
-# customer : 146
+# customer : 153
 
 |id|file|
 |----|----|
@@ -148,3 +148,10 @@
 |11011|[11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11011_Analyze_Customer_Sentiment_with_Zoho_CRM__Google_Gemini___Send_Gmail_Alerts.json)|
 |11076|[11076_Analyze_Customer_Reviews_from_5_Platforms_with_Thordata_Scraping___GPT-4.1_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11076_Analyze_Customer_Reviews_from_5_Platforms_with_Thordata_Scraping___GPT-4.1_Reports.json)|
 |11165|[11165_Create_an_AI-Powered_Telegram_Customer_Support_Bot_with_Lead_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11165_Create_an_AI-Powered_Telegram_Customer_Support_Bot_with_Lead_Management.json)|
+|11580|[11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json)|
+|11604|[11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json)|
+|11628|[11628_AI-Powered_Customer_Feedback_Routing_with_Gmail__Slack__Pipedrive__Zendesk___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11628_AI-Powered_Customer_Feedback_Routing_with_Gmail__Slack__Pipedrive__Zendesk___Notion.json)|
+|11709|[11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json)|
+|11711|[11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json)|
+|11807|[11807_Enhance_Customer_Support_with_RAG-Powered_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11807_Enhance_Customer_Support_with_RAG-Powered_AI.json)|
+|11857|[11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json)|

@@ -1,4 +1,4 @@
-# campaigns : 16
+# campaigns : 18
 
 |id|file|
 |----|----|
@@ -18,3 +18,5 @@
 |9430|[9430_Analyze_Email_Performance___Optimize_Campaigns_with_GPT-4__SendGrid__and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9430_Analyze_Email_Performance___Optimize_Campaigns_with_GPT-4__SendGrid__and_Airtable.json)|
 |9743|[9743_Sync_Leads_from_Google_Sheets_to_Instantly_Email_Campaigns_with_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9743_Sync_Leads_from_Google_Sheets_to_Instantly_Email_Campaigns_with_Data_Tables.json)|
 |10278|[10278_Automated_Cold_Email_Campaigns_with_Random_Templates___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10278_Automated_Cold_Email_Campaigns_with_Random_Templates___Google_Sheets_Tracking.json)|
+|11734|[11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json)|
+|11857|[11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json)|

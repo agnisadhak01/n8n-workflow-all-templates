@@ -1,4 +1,4 @@
-# position : 8
+# position : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |917|[917_Receive_updates_of_the_position_of_the_ISS_and_add_it_to_a_table_in_TimescaleDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/917_Receive_updates_of_the_position_of_the_ISS_and_add_it_to_a_table_in_TimescaleDB.json)|
 |3792|[3792_Track_SEO_Keyword_Position_in_Google_SERP__Google_Sheets___SerpAPI_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3792_Track_SEO_Keyword_Position_in_Google_SERP__Google_Sheets___SerpAPI_Integration.json)|
 |10136|[10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json)|
+|11440|[11440_Discord_AI_Trading_Assistant_with_Proper_Position_Sizing__metatrader5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11440_Discord_AI_Trading_Assistant_with_Proper_Position_Sizing__metatrader5.json)|
+|11461|[11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json)|

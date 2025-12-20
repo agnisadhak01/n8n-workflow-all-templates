@@ -1,4 +1,4 @@
-# weekly : 93
+# weekly : 94
 
 |id|file|
 |----|----|
@@ -95,3 +95,4 @@
 |10911|[10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10911_Create_Weekly_Space_Newsletter_with_NASA_APIs__GPT-4___Google_Workspace.json)|
 |10977|[10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json)|
 |11222|[11222_Generate_Weekly_Cold_Email_Performance_Reports_with_ManyReach__GPT-4.1___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11222_Generate_Weekly_Cold_Email_Performance_Reports_with_ManyReach__GPT-4.1___Slack.json)|
+|11483|[11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json)|

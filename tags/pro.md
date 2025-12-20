@@ -1,4 +1,4 @@
-# pro : 37
+# pro : 42
 
 |id|file|
 |----|----|
@@ -39,3 +39,8 @@
 |11204|[11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json)|
 |11205|[11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json)|
 |11244|[11244_Instant_Infographic_Generator__LINE___Nano_Banana_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11244_Instant_Infographic_Generator__LINE___Nano_Banana_Pro.json)|
+|11446|[11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json)|
+|11458|[11458_Transform_Selfies_into_Professional_LinkedIn_Headshots_with_Nano_Banana_Pro___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11458_Transform_Selfies_into_Professional_LinkedIn_Headshots_with_Nano_Banana_Pro___Telegram.json)|
+|11497|[11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json)|
+|11694|[11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json)|
+|11711|[11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json)|

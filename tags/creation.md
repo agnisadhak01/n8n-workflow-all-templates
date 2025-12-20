@@ -1,4 +1,4 @@
-# creation : 122
+# creation : 128
 
 |id|file|
 |----|----|
@@ -124,3 +124,9 @@
 |11184|[11184_Automate_Airtable_inventory_tracking_and_purchase_order_creation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11184_Automate_Airtable_inventory_tracking_and_purchase_order_creation.json)|
 |11186|[11186_Automate_Real_Estate_Client_Folder_Creation_with_Google_Sheets_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11186_Automate_Real_Estate_Client_Folder_Creation_with_Google_Sheets_and_Drive.json)|
 |11252|[11252_Automate_LinkedIn_Content_Creation_with_OpenAI__Notion__and_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11252_Automate_LinkedIn_Content_Creation_with_OpenAI__Notion__and_Google_Slides.json)|
+|11355|[11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json)|
+|11358|[11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json)|
+|11589|[11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json)|
+|11631|[11631_AI-Driven_Instagram_Reels_Creation_and_Publishing_with_GPT__Creatomate_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11631_AI-Driven_Instagram_Reels_Creation_and_Publishing_with_GPT__Creatomate_and_Slack.json)|
+|11652|[11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json)|
+|11694|[11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json)|

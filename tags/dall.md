@@ -1,4 +1,4 @@
-# dall : 21
+# dall : 24
 
 |id|file|
 |----|----|
@@ -23,3 +23,6 @@
 |10293|[10293_Multi-Agent_AI_Content_Creator_for_SEO_Blogs___Newsletters_with_OpenRouter__DALL-E__Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10293_Multi-Agent_AI_Content_Creator_for_SEO_Blogs___Newsletters_with_OpenRouter__DALL-E__Gemini.json)|
 |11094|[11094_Automate_Trend_Research_to_Blog_Content_with_GPT-4o__DALL-E___Apify_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11094_Automate_Trend_Research_to_Blog_Content_with_GPT-4o__DALL-E___Apify_to_Notion.json)|
 |11271|[11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json)|
+|11652|[11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json)|
+|11734|[11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json)|
+|11856|[11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json)|

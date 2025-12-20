@@ -1,4 +1,4 @@
-# trading : 18
+# trading : 21
 
 |id|file|
 |----|----|
@@ -20,3 +20,6 @@
 |10400|[10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json)|
 |10630|[10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10630_Generate_AI-Powered_Stock_Trading_Recommendations_using_Candlestick___News_Analysis.json)|
 |11366|[11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json)|
+|11439|[11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json)|
+|11440|[11440_Discord_AI_Trading_Assistant_with_Proper_Position_Sizing__metatrader5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11440_Discord_AI_Trading_Assistant_with_Proper_Position_Sizing__metatrader5.json)|
+|11461|[11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11461_AI_Trading_Assistant_for_Telegram_using_chatGPT-4o__with_Position_Sizing.json)|

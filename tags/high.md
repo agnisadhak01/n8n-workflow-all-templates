@@ -1,4 +1,4 @@
-# high : 21
+# high : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |8644|[8644_Create_High_Quality_UGC_Images_with_Nano_Banana__Cheaper___Faster.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8644_Create_High_Quality_UGC_Images_with_Nano_Banana__Cheaper___Faster.json)|
 |10151|[10151_Automate_High-Value_Lead_Alerts_from_GoHighLevel_to_Slack__Sheets_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10151_Automate_High-Value_Lead_Alerts_from_GoHighLevel_to_Slack__Sheets_and_Calendar.json)|
 |11200|[11200_Auto-Schedule_Demos_for_High-Intent_Leads_with_Clearbit__Slack__and_Calendly.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11200_Auto-Schedule_Demos_for_High-Intent_Leads_with_Clearbit__Slack__and_Calendly.json)|
+|11526|[11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json)|

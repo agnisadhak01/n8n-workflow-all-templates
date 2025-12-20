@@ -1,4 +1,4 @@
-# docker : 13
+# docker : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |6140|[6140_Set_DevOps_Infrastructure_with_Docker__K3s__Jenkins___Grafana_for_Linux_Servers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6140_Set_DevOps_Infrastructure_with_Docker__K3s__Jenkins___Grafana_for_Linux_Servers.json)|
 |10471|[10471_Self_Update_Docker-based_n8n_with_Email_Approval_and_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10471_Self_Update_Docker-based_n8n_with_Email_Approval_and_SSH.json)|
 |10476|[10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json)|
+|11842|[11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json)|

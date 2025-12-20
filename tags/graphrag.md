@@ -1,4 +1,4 @@
-# graphrag : 8
+# graphrag : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |5746|[5746_Generate_Research_Ideas_from_PDFs_using_InfraNodus_GraphRAG_Content_Gap_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5746_Generate_Research_Ideas_from_PDFs_using_InfraNodus_GraphRAG_Content_Gap_Analysis.json)|
 |6816|[6816_Create_Custom_Reasoning_Patterns_for_AI_Agents_with_GraphRAG___Knowledge_Ontology.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6816_Create_Custom_Reasoning_Patterns_for_AI_Agents_with_GraphRAG___Knowledge_Ontology.json)|
 |6887|[6887_Enhance_AI_Chatbot_Responses_with_InfraNodus_Knowledge_Graph_Reasoning___GraphRAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6887_Enhance_AI_Chatbot_Responses_with_InfraNodus_Knowledge_Graph_Reasoning___GraphRAG.json)|
+|11570|[11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json)|

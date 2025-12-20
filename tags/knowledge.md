@@ -1,4 +1,4 @@
-# knowledge : 64
+# knowledge : 69
 
 |id|file|
 |----|----|
@@ -66,3 +66,8 @@
 |10033|[10033_WhatsApp_Virtual_Receptionist_with_Gemini_AI_-_Handles_Text___Voice_with_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10033_WhatsApp_Virtual_Receptionist_with_Gemini_AI_-_Handles_Text___Voice_with_Knowledge_Base.json)|
 |10142|[10142_Website_Chatbot_with_Google_Drive_Knowledge_Base_using_GPT-4_and_Mistral_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10142_Website_Chatbot_with_Google_Drive_Knowledge_Base_using_GPT-4_and_Mistral_AI.json)|
 |10565|[10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10565_Create_RAG-Ready_Knowledge_Bases_from_Websites_using_Apify__Gemini___Supabase.json)|
+|11570|[11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json)|
+|11653|[11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json)|
+|11780|[11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json)|
+|11820|[11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json)|
+|11854|[11854_AI-Powered_Ticket_Triage_with_Multi-Model_Classification___Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11854_AI-Powered_Ticket_Triage_with_Multi-Model_Classification___Knowledge_Base.json)|

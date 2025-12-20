@@ -1,4 +1,4 @@
-# evaluation : 26
+# evaluation : 27
 
 |id|file|
 |----|----|
@@ -28,3 +28,4 @@
 |10025|[10025_Automate_Interior_Design_Lead_Qualification_with_AI___Human_Approval_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10025_Automate_Interior_Design_Lead_Qualification_with_AI___Human_Approval_to_Notion.json)|
 |10312|[10312_Automate_Peer_Review_Assignments_with_Sonar_Pro_AI___Multi-Channel_Deadline_Reminders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10312_Automate_Peer_Review_Assignments_with_Sonar_Pro_AI___Multi-Channel_Deadline_Reminders.json)|
 |10501|[10501_Automated_Student_Answer_Sheet_Evaluation_with_Gemini_AI_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10501_Automated_Student_Answer_Sheet_Evaluation_with_Gemini_AI_and_Google_Workspace.json)|
+|11618|[11618_Compare_GPT-4__Claude___Gemini_Responses_with_Contextual_AI_s_LMUnit_Evaluation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11618_Compare_GPT-4__Claude___Gemini_Responses_with_Contextual_AI_s_LMUnit_Evaluation.json)|

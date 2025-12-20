@@ -1,4 +1,4 @@
-# smart : 121
+# smart : 127
 
 |id|file|
 |----|----|
@@ -123,3 +123,9 @@
 |11150|[11150_Automate_Image_Portfolio_Organization_with_GPT-4o_Vision__Google_Drive_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11150_Automate_Image_Portfolio_Organization_with_GPT-4o_Vision__Google_Drive_and_Notion.json)|
 |11243|[11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json)|
 |11290|[11290_AI-Powered_Financial_Document_Extraction_from_Gmail_to_Google_Sheets_with_Smart_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11290_AI-Powered_Financial_Document_Extraction_from_Gmail_to_Google_Sheets_with_Smart_Guardrails.json)|
+|11432|[11432_Smart_Break_Recommendation_System_using_Google_Calendar__Weather_Data__and_GPT-4_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11432_Smart_Break_Recommendation_System_using_Google_Calendar__Weather_Data__and_GPT-4_to_Slack.json)|
+|11518|[11518_Smart_Gmail_Auto-Labeler_with_Gemini_AI___Sender_History.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11518_Smart_Gmail_Auto-Labeler_with_Gemini_AI___Sender_History.json)|
+|11600|[11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json)|
+|11711|[11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json)|
+|11763|[11763_Website_Downtime_Monitoring_with_Smart_Alerts_via_Telegram___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11763_Website_Downtime_Monitoring_with_Smart_Alerts_via_Telegram___Email.json)|
+|11857|[11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json)|

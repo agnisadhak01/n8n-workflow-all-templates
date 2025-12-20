@@ -1,4 +1,4 @@
-# line : 32
+# line : 34
 
 |id|file|
 |----|----|
@@ -34,3 +34,5 @@
 |11205|[11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json)|
 |11244|[11244_Instant_Infographic_Generator__LINE___Nano_Banana_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11244_Instant_Infographic_Generator__LINE___Nano_Banana_Pro.json)|
 |11304|[11304_Send_asteroid_alerts_from_NASA_to_LINE_using_OpenAI_and_DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11304_Send_asteroid_alerts_from_NASA_to_LINE_using_OpenAI_and_DeepL.json)|
+|11413|[11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json)|
+|11445|[11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json)|

@@ -1,4 +1,4 @@
-# gohighlevel : 14
+# gohighlevel : 16
 
 |id|file|
 |----|----|
@@ -16,3 +16,5 @@
 |10151|[10151_Automate_High-Value_Lead_Alerts_from_GoHighLevel_to_Slack__Sheets_and_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10151_Automate_High-Value_Lead_Alerts_from_GoHighLevel_to_Slack__Sheets_and_Calendar.json)|
 |10255|[10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10255_Transcribe___Summarize_GoHighLevel_Call_Recordings.json)|
 |10325|[10325_Automate_Inactive_Deal_Cleanup_from_GoHighLevel_to_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10325_Automate_Inactive_Deal_Cleanup_from_GoHighLevel_to_Slack_and_Sheets.json)|
+|11408|[11408_Lead_Scoring___Auto-Assignment_with_GPT-4_and_GoHighLevel___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11408_Lead_Scoring___Auto-Assignment_with_GPT-4_and_GoHighLevel___Slack_Alerts.json)|
+|11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|

@@ -1,4 +1,4 @@
-# research : 151
+# research : 157
 
 |id|file|
 |----|----|
@@ -153,3 +153,9 @@
 |11116|[11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json)|
 |11228|[11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json)|
 |11291|[11291_Generate_merchandise_proposals_and_market_research_from_NASA_APOD.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11291_Generate_merchandise_proposals_and_market_research_from_NASA_APOD.json)|
+|11358|[11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json)|
+|11389|[11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json)|
+|11482|[11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json)|
+|11694|[11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json)|
+|11722|[11722_Healthcare_Policy_Monitoring_with_ScrapeGraphAI__Pipedrive_and_Matrix_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11722_Healthcare_Policy_Monitoring_with_ScrapeGraphAI__Pipedrive_and_Matrix_Alerts.json)|
+|11782|[11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json)|

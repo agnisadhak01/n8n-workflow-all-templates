@@ -1,4 +1,4 @@
-# drive : 369
+# drive : 380
 
 |id|file|
 |----|----|
@@ -371,3 +371,14 @@
 |11203|[11203_Generate_avatar_snippet_videos_from_Google_Sheets_scripts_in_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11203_Generate_avatar_snippet_videos_from_Google_Sheets_scripts_in_Google_Drive.json)|
 |11228|[11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json)|
 |11246|[11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json)|
+|11429|[11429_Automate_client_onboarding_across_Google_Drive__Slack__Notion___Gmail_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11429_Automate_client_onboarding_across_Google_Drive__Slack__Notion___Gmail_with_GPT-4o-mini.json)|
+|11441|[11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json)|
+|11445|[11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11445_Create_AI_Diary_Entries_from_LINE_Photos_with_OpenAI_Vision_and_Google_Drive.json)|
+|11459|[11459_AI-Enhanced_Image_Generation_with_GPT-4.1__Google_Drive___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11459_AI-Enhanced_Image_Generation_with_GPT-4.1__Google_Drive___Slack_Notifications.json)|
+|11529|[11529_Organize_School_Emails_with_AI__Google_Calendar_and_Drive_Auto-Triage_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11529_Organize_School_Emails_with_AI__Google_Calendar_and_Drive_Auto-Triage_System.json)|
+|11591|[11591_Create___Publish_Inspirational_Videos_with_FFmpeg__Google_Drive___YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11591_Create___Publish_Inspirational_Videos_with_FFmpeg__Google_Drive___YouTube.json)|
+|11653|[11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json)|
+|11663|[11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json)|
+|11666|[11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json)|
+|11735|[11735_Transform_HR_PDFs_into_Engaging_Onboarding_Videos_with_AI__HeyGen_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11735_Transform_HR_PDFs_into_Engaging_Onboarding_Videos_with_AI__HeyGen_and_Google_Drive.json)|
+|11842|[11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json)|

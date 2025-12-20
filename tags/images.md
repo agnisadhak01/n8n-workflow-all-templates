@@ -1,4 +1,4 @@
-# images : 186
+# images : 190
 
 |id|file|
 |----|----|
@@ -188,3 +188,7 @@
 |11246|[11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json)|
 |11262|[11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json)|
 |11268|[11268_Generate_Hollywood-Style_Video_Ads_from_Images_with_GPT-5_Mini_and_Fal.ai_Sora-2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11268_Generate_Hollywood-Style_Video_Ads_from_Images_with_GPT-5_Mini_and_Fal.ai_Sora-2.json)|
+|11355|[11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json)|
+|11460|[11460_Automate_3D_Body_Model_Generation_from_Images_Using_SAM-3D___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11460_Automate_3D_Body_Model_Generation_from_Images_Using_SAM-3D___Google_Sheets.json)|
+|11695|[11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json)|
+|11754|[11754_Build_a_WhatsApp_Assistant_for_Text__Audio___Images_using_GPT-4o___Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11754_Build_a_WhatsApp_Assistant_for_Text__Audio___Images_using_GPT-4o___Evolution_API.json)|

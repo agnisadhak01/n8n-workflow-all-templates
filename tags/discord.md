@@ -1,4 +1,4 @@
-# discord : 80
+# discord : 84
 
 |id|file|
 |----|----|
@@ -82,3 +82,7 @@
 |10945|[10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json)|
 |11210|[11210_Automated_MIT_AI_News_Delivery_to_Discord_with_Deduplication.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11210_Automated_MIT_AI_News_Delivery_to_Discord_with_Deduplication.json)|
 |11212|[11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json)|
+|11439|[11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json)|
+|11440|[11440_Discord_AI_Trading_Assistant_with_Proper_Position_Sizing__metatrader5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11440_Discord_AI_Trading_Assistant_with_Proper_Position_Sizing__metatrader5.json)|
+|11721|[11721_Poll_Multiple_Gmail_Accounts_with_Unified_Data_Table_Storage___Discord_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11721_Poll_Multiple_Gmail_Accounts_with_Unified_Data_Table_Storage___Discord_Notifications.json)|
+|11812|[11812_Discord_Server_Anti-Impersonation___Scammer_Tracker_with_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11812_Discord_Server_Anti-Impersonation___Scammer_Tracker_with_Data_Tables.json)|

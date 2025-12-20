@@ -1,4 +1,4 @@
-# hub : 22
+# hub : 24
 
 |id|file|
 |----|----|
@@ -24,3 +24,5 @@
 |10168|[10168_Automate_News_Intelligence_with_Gemini_AI_for_RSS_Feeds_to_Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10168_Automate_News_Intelligence_with_Gemini_AI_for_RSS_Feeds_to_Notion_and_Slack.json)|
 |11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|
 |11247|[11247_Track_Calendly_Schedule_Changes_with_Google_Sheets___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11247_Track_Calendly_Schedule_Changes_with_Google_Sheets___Slack_Notifications.json)|
+|11529|[11529_Organize_School_Emails_with_AI__Google_Calendar_and_Drive_Auto-Triage_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11529_Organize_School_Emails_with_AI__Google_Calendar_and_Drive_Auto-Triage_System.json)|
+|11783|[11783_Advanced_Market_Trends___Competitor_GPT-4o_Intelligence_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11783_Advanced_Market_Trends___Competitor_GPT-4o_Intelligence_Hub.json)|

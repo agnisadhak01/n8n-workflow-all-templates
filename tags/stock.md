@@ -1,4 +1,4 @@
-# stock : 58
+# stock : 63
 
 |id|file|
 |----|----|
@@ -60,3 +60,8 @@
 |10776|[10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json)|
 |11095|[11095_Automate_Pokemon_Card_Stock_Monitoring_with_Apify__AI__and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11095_Automate_Pokemon_Card_Stock_Monitoring_with_Apify__AI__and_Slack_Alerts.json)|
 |11103|[11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json)|
+|11479|[11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json)|
+|11621|[11621_Automated_Stock_Technical_Analysis_with_xAI_Grok___Multi-channel_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11621_Automated_Stock_Technical_Analysis_with_xAI_Grok___Multi-channel_Notifications.json)|
+|11674|[11674_Automate_Fundamental_Stock_Analysis_with_FinnHub_Data_and_Google_Sheets_DCF_Calculator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11674_Automate_Fundamental_Stock_Analysis_with_FinnHub_Data_and_Google_Sheets_DCF_Calculator.json)|
+|11678|[11678_Automate_Invoice_Processing___Stock_Management_with_AI__Gmail__Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11678_Automate_Invoice_Processing___Stock_Management_with_AI__Gmail__Sheets___Slack.json)|
+|11772|[11772_Generate_AI_Stock_Reports_w__Fundamental__Technical____News_Analysis__Free_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11772_Generate_AI_Stock_Reports_w__Fundamental__Technical____News_Analysis__Free_APIs.json)|

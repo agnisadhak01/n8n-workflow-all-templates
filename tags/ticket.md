@@ -1,4 +1,4 @@
-# ticket : 45
+# ticket : 47
 
 |id|file|
 |----|----|
@@ -47,3 +47,5 @@
 |10241|[10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json)|
 |10324|[10324_Automate_Instagram_Complaint_Handling_with_Claude_AI__Tickets___SLA_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10324_Automate_Instagram_Complaint_Handling_with_Claude_AI__Tickets___SLA_Management.json)|
 |10484|[10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json)|
+|11613|[11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json)|
+|11854|[11854_AI-Powered_Ticket_Triage_with_Multi-Model_Classification___Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11854_AI-Powered_Ticket_Triage_with_Multi-Model_Classification___Knowledge_Base.json)|

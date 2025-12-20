@@ -1,4 +1,4 @@
-# nano : 48
+# nano : 51
 
 |id|file|
 |----|----|
@@ -50,3 +50,6 @@
 |11163|[11163_Generate_100__Ad_Variations_from_One_Image_with_Fal.AI_Nano_Banana_and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11163_Generate_100__Ad_Variations_from_One_Image_with_Fal.AI_Nano_Banana_and_GPT-5.json)|
 |11205|[11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11205_Generate_Marketing_Ad_Banners_with_LINE__Gemini__and_Nano_Banana_Pro.json)|
 |11244|[11244_Instant_Infographic_Generator__LINE___Nano_Banana_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11244_Instant_Infographic_Generator__LINE___Nano_Banana_Pro.json)|
+|11446|[11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11446_Generate_Professional_Product_Advertisements_with_Nano_Banana_Pro_via_Telegram.json)|
+|11458|[11458_Transform_Selfies_into_Professional_LinkedIn_Headshots_with_Nano_Banana_Pro___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11458_Transform_Selfies_into_Professional_LinkedIn_Headshots_with_Nano_Banana_Pro___Telegram.json)|
+|11694|[11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11694_Create___Publish_Instagram_Carousels_with_AI_Research__Nano_Banana_Pro___Slack.json)|

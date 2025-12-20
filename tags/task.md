@@ -1,4 +1,4 @@
-# task : 68
+# task : 73
 
 |id|file|
 |----|----|
@@ -70,3 +70,8 @@
 |10825|[10825_Automate_Task_Deadline_Reminders_with_Google_Sheets_and_Gmail__Today_3-Day_7-Day.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10825_Automate_Task_Deadline_Reminders_with_Google_Sheets_and_Gmail__Today_3-Day_7-Day.json)|
 |10945|[10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json)|
 |11257|[11257_Automate_Assignee_Payroll_Calculations_with_Dart__Gemini_AI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11257_Automate_Assignee_Payroll_Calculations_with_Dart__Gemini_AI__and_Google_Sheets.json)|
+|11362|[11362_Convert_Task_Ideas_to_Implementation_Plans_with_GPT-4o__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11362_Convert_Task_Ideas_to_Implementation_Plans_with_GPT-4o__Slack___Google_Sheets.json)|
+|11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|
+|11650|[11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json)|
+|11708|[11708_Generate_Strategic_Business_Recommendations_with_GPT-4_Mini_and_Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11708_Generate_Strategic_Business_Recommendations_with_GPT-4_Mini_and_Multi-Channel_Distribution.json)|
+|11863|[11863_Intelligent_Project_Delivery_and_Task_Management_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11863_Intelligent_Project_Delivery_and_Task_Management_System.json)|

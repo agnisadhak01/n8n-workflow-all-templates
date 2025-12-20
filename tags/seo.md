@@ -1,4 +1,4 @@
-# seo : 149
+# seo : 156
 
 |id|file|
 |----|----|
@@ -151,3 +151,10 @@
 |11109|[11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json)|
 |11135|[11135_WordPress_Blog_Automation__AI_SEO_Content__Images__Scheduling___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11135_WordPress_Blog_Automation__AI_SEO_Content__Images__Scheduling___Email_Alerts.json)|
 |11285|[11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json)|
+|11394|[11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json)|
+|11401|[11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json)|
+|11436|[11436_Automated_SEO_SERP_Analysis_with_Decodo___Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11436_Automated_SEO_SERP_Analysis_with_Decodo___Google_Gemini.json)|
+|11630|[11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json)|
+|11665|[11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json)|
+|11797|[11797_YouTube_Video_Optimization___Cross-Platform_Distribution_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11797_YouTube_Video_Optimization___Cross-Platform_Distribution_with_GPT-4o.json)|
+|11809|[11809_Generate_SEO_Content_Outlines_from_SERP_Analysis_with_OpenAI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11809_Generate_SEO_Content_Outlines_from_SERP_Analysis_with_OpenAI_and_Google_Docs.json)|

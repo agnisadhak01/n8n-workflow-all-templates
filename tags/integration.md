@@ -1,4 +1,4 @@
-# integration : 147
+# integration : 153
 
 |id|file|
 |----|----|
@@ -149,3 +149,9 @@
 |10738|[10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10738_Find_Company_LinkedIn_URLs_using_Apify_-_Google_Sheets_Integration.json)|
 |10861|[10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10861_Create_Stunning_CGI_Videos_with_Sora_2_API_and_Google_Drive_Integration.json)|
 |10994|[10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10994_Daily_Space_Quiz_Bot__NASA_APOD_to_Slack_with_GPT-4_Turbo.json)|
+|11389|[11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json)|
+|11463|[11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json)|
+|11593|[11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json)|
+|11613|[11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json)|
+|11755|[11755_Mistral_OCR__GPT-4o-mini__and_Google_Sheets_Integration_for_Enhanced_Data_Processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11755_Mistral_OCR__GPT-4o-mini__and_Google_Sheets_Integration_for_Enhanced_Data_Processing.json)|
+|11824|[11824_Automate_Vulnerability_Triage_from_Snyk_with_Jira__Slack___Airtable_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11824_Automate_Vulnerability_Triage_from_Snyk_with_Jira__Slack___Airtable_Integration.json)|

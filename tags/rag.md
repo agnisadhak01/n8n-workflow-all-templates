@@ -1,4 +1,4 @@
-# rag : 167
+# rag : 175
 
 |id|file|
 |----|----|
@@ -169,3 +169,11 @@
 |10924|[10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json)|
 |11197|[11197_Build_a_RAG_system_by_uploading_PDFs_to_the_Google_Gemini_File_Search_Store.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11197_Build_a_RAG_system_by_uploading_PDFs_to_the_Google_Gemini_File_Search_Store.json)|
 |11269|[11269_Build_Enterprise_RAG_System_with_Google_Gemini_File_Search___Retell_AI_Voice.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11269_Build_Enterprise_RAG_System_with_Google_Gemini_File_Search___Retell_AI_Voice.json)|
+|11381|[11381_Monitor_Google_Maps_Reviews_with_GPT-4o_Sentiment_Analysis___Telegram_RAG_Agent_using_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11381_Monitor_Google_Maps_Reviews_with_GPT-4o_Sentiment_Analysis___Telegram_RAG_Agent_using_Pinecone.json)|
+|11468|[11468_Build_a_RAG_Agent_with_n8n__Qdrant___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11468_Build_a_RAG_Agent_with_n8n__Qdrant___OpenAI.json)|
+|11580|[11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json)|
+|11619|[11619_Automate_Document_Q_A_with_Multi-Agent_RAG_Orchestration_using_Contextual_AI___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11619_Automate_Document_Q_A_with_Multi-Agent_RAG_Orchestration_using_Contextual_AI___Gemini.json)|
+|11648|[11648_AI_WhatsApp_Support_with_Human_Handoff_using_Gemini__Twilio__and_Supabase_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11648_AI_WhatsApp_Support_with_Human_Handoff_using_Gemini__Twilio__and_Supabase_RAG.json)|
+|11653|[11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json)|
+|11807|[11807_Enhance_Customer_Support_with_RAG-Powered_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11807_Enhance_Customer_Support_with_RAG-Powered_AI.json)|
+|11888|[11888_Audio_Transcription___Chat_Bot_with_AssemblyAI__Gemini__and_Pinecone_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11888_Audio_Transcription___Chat_Bot_with_AssemblyAI__Gemini__and_Pinecone_RAG.json)|

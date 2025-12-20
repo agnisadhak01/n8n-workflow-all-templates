@@ -1,4 +1,4 @@
-# trend : 24
+# trend : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |11094|[11094_Automate_Trend_Research_to_Blog_Content_with_GPT-4o__DALL-E___Apify_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11094_Automate_Trend_Research_to_Blog_Content_with_GPT-4o__DALL-E___Apify_to_Notion.json)|
 |11175|[11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json)|
 |11298|[11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json)|
+|11411|[11411_AI-Powered_Viral_Trend_Analysis_for_TikTok_and_Instagram_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11411_AI-Powered_Viral_Trend_Analysis_for_TikTok_and_Instagram_with_GPT-4.json)|

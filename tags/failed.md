@@ -1,4 +1,4 @@
-# failed : 5
+# failed : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |7076|[7076_Automated_Hourly_n8n_Error_Monitoring_with_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7076_Automated_Hourly_n8n_Error_Monitoring_with_Slack_Notifications.json)|
 |8794|[8794_Recover_failed_Stripe_payments_with_AI_emails__by_FlyCode.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8794_Recover_failed_Stripe_payments_with_AI_emails__by_FlyCode.json)|
 |11220|[11220_Automated_Failed_Login_Detection_with_Jira_Tasks__Slack_Alerts___Notion_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11220_Automated_Failed_Login_Detection_with_Jira_Tasks__Slack_Alerts___Notion_Logging.json)|
+|11601|[11601_Handle_Failed_Payment_Renewals_with_AI_Analysis__Jira_Tickets_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11601_Handle_Failed_Payment_Renewals_with_AI_Analysis__Jira_Tickets_and_Slack_Alerts.json)|

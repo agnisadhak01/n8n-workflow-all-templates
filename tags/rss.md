@@ -1,4 +1,4 @@
-# rss : 93
+# rss : 98
 
 |id|file|
 |----|----|
@@ -95,3 +95,8 @@
 |11212|[11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json)|
 |11262|[11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json)|
 |11298|[11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json)|
+|11466|[11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json)|
+|11566|[11566_Automated_RSS_to_Telegram_Publisher_with_Groq_AI_Rewriting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11566_Automated_RSS_to_Telegram_Publisher_with_Groq_AI_Rewriting.json)|
+|11677|[11677_Publish_RSS_Articles_to_WordPress_and_Social_Media_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11677_Publish_RSS_Articles_to_WordPress_and_Social_Media_Platforms.json)|
+|11791|[11791_Automate_RSS_to_Instagram_with_AI-Generated_Content_and_Cloudinary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11791_Automate_RSS_to_Instagram_with_AI-Generated_Content_and_Cloudinary.json)|
+|11813|[11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json)|

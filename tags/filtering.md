@@ -1,4 +1,4 @@
-# filtering : 24
+# filtering : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |10007|[10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json)|
 |10347|[10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json)|
 |10977|[10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10977_Daily_News_Digest___Weekly_Trends_with_AI_Filtering__Slack___Google_Sheets.json)|
+|11593|[11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json)|

@@ -1,4 +1,4 @@
-# history : 18
+# history : 20
 
 |id|file|
 |----|----|
@@ -20,3 +20,5 @@
 |8105|[8105_GitHub_Workflow_Version_Control_Dashboard_with_Commit_History_and_Rollbacks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8105_GitHub_Workflow_Version_Control_Dashboard_with_Commit_History_and_Rollbacks.json)|
 |9192|[9192_Smart_Facebook_Messenger_Chatbot_with_Gemini_AI__Message_Batching_and_History.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9192_Smart_Facebook_Messenger_Chatbot_with_Gemini_AI__Message_Batching_and_History.json)|
 |9598|[9598_Create___Publish_YouTube_Shorts_on_Historical_What-Ifs_with_GPT-4o___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9598_Create___Publish_YouTube_Shorts_on_Historical_What-Ifs_with_GPT-4o___Blotato.json)|
+|11482|[11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json)|
+|11518|[11518_Smart_Gmail_Auto-Labeler_with_Gemini_AI___Sender_History.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11518_Smart_Gmail_Auto-Labeler_with_Gemini_AI___Sender_History.json)|

@@ -1,4 +1,4 @@
-# delivery : 70
+# delivery : 73
 
 |id|file|
 |----|----|
@@ -72,3 +72,6 @@
 |11016|[11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11016_Hackathon_Participant_Badge_Generator_with_QR_Code__PDF___Email_Delivery.json)|
 |11018|[11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11018_Generate_Professional_Email_Signatures_in_HTML___PDF_with_Gmail_Delivery.json)|
 |11210|[11210_Automated_MIT_AI_News_Delivery_to_Discord_with_Deduplication.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11210_Automated_MIT_AI_News_Delivery_to_Discord_with_Deduplication.json)|
+|11421|[11421_Collect_Viral_Instagram_AI_Art_with_GPT-4_Analysis_and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11421_Collect_Viral_Instagram_AI_Art_with_GPT-4_Analysis_and_Telegram_Delivery.json)|
+|11425|[11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json)|
+|11863|[11863_Intelligent_Project_Delivery_and_Task_Management_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11863_Intelligent_Project_Delivery_and_Task_Management_System.json)|

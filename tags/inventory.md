@@ -1,4 +1,4 @@
-# inventory : 22
+# inventory : 25
 
 |id|file|
 |----|----|
@@ -24,3 +24,6 @@
 |11055|[11055_AI_Warehouse_Inventory_Cycle_Count_Bot_using_GPT__Telegram_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11055_AI_Warehouse_Inventory_Cycle_Count_Bot_using_GPT__Telegram_and_Google_Sheets.json)|
 |11184|[11184_Automate_Airtable_inventory_tracking_and_purchase_order_creation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11184_Automate_Airtable_inventory_tracking_and_purchase_order_creation.json)|
 |11321|[11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json)|
+|11479|[11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json)|
+|11679|[11679_Automate_Inventory_Management_with_Google_Sheets___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11679_Automate_Inventory_Management_with_Google_Sheets___Gmail.json)|
+|11799|[11799_Automate_Shopify_Inventory_Reordering_with_Predictive_Analytics_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11799_Automate_Shopify_Inventory_Reordering_with_Predictive_Analytics_and_Google_Sheets.json)|

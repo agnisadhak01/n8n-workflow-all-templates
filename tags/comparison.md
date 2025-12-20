@@ -1,4 +1,4 @@
-# comparison : 12
+# comparison : 14
 
 |id|file|
 |----|----|
@@ -14,3 +14,5 @@
 |9788|[9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json)|
 |10359|[10359_Automate_CV_Screening_and_Candidate_Scoring_with_Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10359_Automate_CV_Screening_and_Candidate_Scoring_with_Gemini_AI_and_Google_Sheets.json)|
 |11062|[11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json)|
+|11569|[11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json)|
+|11684|[11684_Automate_Payment_Gateway___Database_Transaction_Reconciliation_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11684_Automate_Payment_Gateway___Database_Transaction_Reconciliation_with_Google_Sheets.json)|

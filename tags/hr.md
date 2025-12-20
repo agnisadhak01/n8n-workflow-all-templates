@@ -1,4 +1,4 @@
-# hr : 27
+# hr : 29
 
 |id|file|
 |----|----|
@@ -29,3 +29,5 @@
 |9399|[9399_AI-powered_HR_Screening_Automation_via_Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9399_AI-powered_HR_Screening_Automation_via_Jotform.json)|
 |9528|[9528_Automate_HR_Recruitment_with_OpenAI_Resume_Screening___Interview_Questions_Generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9528_Automate_HR_Recruitment_with_OpenAI_Resume_Screening___Interview_Questions_Generator.json)|
 |11329|[11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11329_Automate_Personalized_HR_Email_Outreach_using_Gmail__Google_Sheets_with_Rate_Limiting.json)|
+|11696|[11696_Automate_HR_Celebrations_with_Google_Gemini__Sheets___Chat_for_Team_Milestones.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11696_Automate_HR_Celebrations_with_Google_Gemini__Sheets___Chat_for_Team_Milestones.json)|
+|11735|[11735_Transform_HR_PDFs_into_Engaging_Onboarding_Videos_with_AI__HeyGen_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11735_Transform_HR_PDFs_into_Engaging_Onboarding_Videos_with_AI__HeyGen_and_Google_Drive.json)|

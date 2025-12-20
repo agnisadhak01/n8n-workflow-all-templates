@@ -1,4 +1,4 @@
-# responses : 51
+# responses : 54
 
 |id|file|
 |----|----|
@@ -53,3 +53,6 @@
 |10323|[10323_Facebook_Lead_Management__Automate_Email_Responses_with_Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10323_Facebook_Lead_Management__Automate_Email_Responses_with_Gmail___Google_Sheets.json)|
 |10344|[10344_Automate_Gmail_Responses_with_GPT_and_Human-in-the-loop_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10344_Automate_Gmail_Responses_with_GPT_and_Human-in-the-loop_Verification.json)|
 |10634|[10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10634_Instant_CRM_Lead_Notifications_with_Gmail_SMTP_for_Teams___Auto-Responses.json)|
+|11503|[11503_Automate_Google_My_Business_Responses_with_Gemini_AI_and_Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11503_Automate_Google_My_Business_Responses_with_Gemini_AI_and_Google_Sheets_Tracking.json)|
+|11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
+|11618|[11618_Compare_GPT-4__Claude___Gemini_Responses_with_Contextual_AI_s_LMUnit_Evaluation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11618_Compare_GPT-4__Claude___Gemini_Responses_with_Contextual_AI_s_LMUnit_Evaluation.json)|

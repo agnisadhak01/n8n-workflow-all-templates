@@ -1,4 +1,4 @@
-# chat : 119
+# chat : 123
 
 |id|file|
 |----|----|
@@ -121,3 +121,7 @@
 |10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
 |10837|[10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10837_Chat_with_GitHub_Issues_using_OpenAI_and_Redis_Vector_Search.json)|
 |10996|[10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10996_Chat_with_News_Articles_using_AI_Analysis_in_Telegram_with_Vector_Search.json)|
+|11682|[11682_Extract_Company_Data_from_Websites_with_Gemini_AI_through_Chat_Conversation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11682_Extract_Company_Data_from_Websites_with_Gemini_AI_through_Chat_Conversation.json)|
+|11696|[11696_Automate_HR_Celebrations_with_Google_Gemini__Sheets___Chat_for_Team_Milestones.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11696_Automate_HR_Celebrations_with_Google_Gemini__Sheets___Chat_for_Team_Milestones.json)|
+|11843|[11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json)|
+|11888|[11888_Audio_Transcription___Chat_Bot_with_AssemblyAI__Gemini__and_Pinecone_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11888_Audio_Transcription___Chat_Bot_with_AssemblyAI__Gemini__and_Pinecone_RAG.json)|

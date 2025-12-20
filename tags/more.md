@@ -1,4 +1,4 @@
-# more : 10
+# more : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |7934|[7934_Publish_Content_to_Instagram__TikTok___More_from_Google_Drive_using_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7934_Publish_Content_to_Instagram__TikTok___More_from_Google_Drive_using_PostPulse.json)|
 |8250|[8250_Scrape_Jobs_from_Indeed__LinkedIn___More_with_RapidAPI_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8250_Scrape_Jobs_from_Indeed__LinkedIn___More_with_RapidAPI_to_Google_Sheets.json)|
 |8369|[8369_Task_Time_Analysis__Automated_Overspend_Time_Insights_for_ClickUp_and_More.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8369_Task_Time_Analysis__Automated_Overspend_Time_Insights_for_ClickUp_and_More.json)|
+|11637|[11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json)|

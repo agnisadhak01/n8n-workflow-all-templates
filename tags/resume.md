@@ -1,4 +1,4 @@
-# resume : 40
+# resume : 42
 
 |id|file|
 |----|----|
@@ -42,3 +42,5 @@
 |10635|[10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10635_Automated_Resume_Tailoring_with_Telegram_Bot__LinkedIn___OpenRouter_AI.json)|
 |10722|[10722_Automate_Resume_Screening___Candidate_Routing_with_Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10722_Automate_Resume_Screening___Candidate_Routing_with_Gemini_AI_and_Google_Sheets.json)|
 |11215|[11215_Automate_Job_Applications_with_AI_Resume_Tailoring_using_GPT-4o__LinkedIn___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11215_Automate_Job_Applications_with_AI_Resume_Tailoring_using_GPT-4o__LinkedIn___Gmail.json)|
+|11667|[11667_Batch_Resume_Analysis_with_Google_Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11667_Batch_Resume_Analysis_with_Google_Gemini_AI_and_Google_Sheets.json)|
+|11840|[11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11840_AI-Powered_Cover_Letter_Generator_with_Resume_Matching___Google_Docs.json)|

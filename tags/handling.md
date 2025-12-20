@@ -1,4 +1,4 @@
-# handling : 21
+# handling : 23
 
 |id|file|
 |----|----|
@@ -23,3 +23,5 @@
 |10321|[10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10321_Facebook_Messenger_Chatbot_with_GPT-4.1___Human_Escalation_Support.json)|
 |10324|[10324_Automate_Instagram_Complaint_Handling_with_Claude_AI__Tickets___SLA_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10324_Automate_Instagram_Complaint_Handling_with_Claude_AI__Tickets___SLA_Management.json)|
 |11084|[11084_Automate_Consent_Dispute_Handling_with_GPT-4o__Google_Sheets__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11084_Automate_Consent_Dispute_Handling_with_GPT-4o__Google_Sheets__Gmail___Slack.json)|
+|11462|[11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json)|
+|11580|[11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json)|

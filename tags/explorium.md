@@ -1,4 +1,4 @@
-# explorium : 15
+# explorium : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |10560|[10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10560_Qualify_Leads_with_Salesforce__Explorium_Data___Claude_AI_Analysis_of_API_Usage.json)|
 |10561|[10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10561_Generate_Personalized_Sales_Leads_with_Claude_AI___Explorium_for_Gmail_Outreach.json)|
 |10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
+|11517|[11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json)|

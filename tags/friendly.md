@@ -1,4 +1,4 @@
-# friendly : 6
+# friendly : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |7275|[7275_Convert_Radiology_Images_to_Patient-Friendly_Reports_with_GPT-4_Vision___PDF_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7275_Convert_Radiology_Images_to_Patient-Friendly_Reports_with_GPT-4_Vision___PDF_Email.json)|
 |7392|[7392_User-Friendly_Technical_Support_Portal_for_GLPI_Ticket_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7392_User-Friendly_Technical_Support_Portal_for_GLPI_Ticket_Management.json)|
 |11082|[11082_Generate_eCommerce_Product_Descriptions_with_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11082_Generate_eCommerce_Product_Descriptions_with_GPT-4o-mini_and_Airtable.json)|
+|11549|[11549_Curate_Contributor-Friendly_Issues_with_AI_and_Send_GitHub_Newsletter_via_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11549_Curate_Contributor-Friendly_Issues_with_AI_and_Send_GitHub_Newsletter_via_Email.json)|

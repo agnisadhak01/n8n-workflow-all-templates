@@ -1,4 +1,4 @@
-# discover : 21
+# discover : 23
 
 |id|file|
 |----|----|
@@ -23,3 +23,5 @@
 |7906|[7906_Scrape_Google_Maps_Data___Discover_Email_Addresses_with_SerpAPI_and_EmailListVerify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7906_Scrape_Google_Maps_Data___Discover_Email_Addresses_with_SerpAPI_and_EmailListVerify.json)|
 |11211|[11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11211_Discover_Article_URLs_from_Any_Website_with_GPT-5-mini_and_Google_Sheets.json)|
 |11232|[11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json)|
+|11375|[11375_Discover_GitHub_Developers_with_Hunter.io_Email_Lookup___Google_Sheets_CRM_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11375_Discover_GitHub_Developers_with_Hunter.io_Email_Lookup___Google_Sheets_CRM_Sync.json)|
+|11630|[11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json)|

@@ -1,4 +1,4 @@
-# competitor : 57
+# competitor : 59
 
 |id|file|
 |----|----|
@@ -59,3 +59,5 @@
 |10341|[10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10341_Monitor_Instagram_Competitor_Trends_with_Claude_3.5___Multi-Channel_Alerts.json)|
 |11062|[11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json)|
 |11063|[11063_AI-Powered_Price_Watchdog__Competitor_Monitoring___Alerting__Decodo___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11063_AI-Powered_Price_Watchdog__Competitor_Monitoring___Alerting__Decodo___Gemini.json)|
+|11573|[11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json)|
+|11783|[11783_Advanced_Market_Trends___Competitor_GPT-4o_Intelligence_Hub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11783_Advanced_Market_Trends___Competitor_GPT-4o_Intelligence_Hub.json)|

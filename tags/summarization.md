@@ -1,4 +1,4 @@
-# summarization : 36
+# summarization : 39
 
 |id|file|
 |----|----|
@@ -38,3 +38,6 @@
 |9633|[9633_Newsletter_Summarization___Briefing_with_Gmail__AI__Google_Sheets___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9633_Newsletter_Summarization___Briefing_with_Gmail__AI__Google_Sheets___Email.json)|
 |10132|[10132_Nested_PDF_Analysis_with_Mistral_AI___OneDrive_for_Document_Summarization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10132_Nested_PDF_Analysis_with_Mistral_AI___OneDrive_for_Document_Summarization.json)|
 |10184|[10184_Automate_Customer_Support_with_GPT-4o__Slack__and_CRM_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10184_Automate_Customer_Support_with_GPT-4o__Slack__and_CRM_Integration.json)|
+|11413|[11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json)|
+|11452|[11452_Create_Daily_Google_Alerts_Digest_with_Gemini_AI_Summarization_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11452_Create_Daily_Google_Alerts_Digest_with_Gemini_AI_Summarization_and_Gmail.json)|
+|11782|[11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json)|

@@ -1,4 +1,4 @@
-# insights : 71
+# insights : 73
 
 |id|file|
 |----|----|
@@ -73,3 +73,5 @@
 |10805|[10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10805_AI-Powered_Amazon_Product_Recommendations_via_Telegram_with_Gemini_2.5.json)|
 |11001|[11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11001_AI-Powered_Amazon_Product_Recommendations_with_Gemini_2.5_Flash_via_Telegram.json)|
 |11182|[11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json)|
+|11698|[11698_Generate_Content_Strategy_Insights_from_Reddit___X_Using_Gemini_AI_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11698_Generate_Content_Strategy_Insights_from_Reddit___X_Using_Gemini_AI_Analysis.json)|
+|11855|[11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json)|

@@ -1,4 +1,4 @@
-# accounts : 12
+# accounts : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |9695|[9695_Sync_NetSuite_Customers_to_Salesforce_Accounts___Contacts_with_Auto_Upserts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9695_Sync_NetSuite_Customers_to_Salesforce_Accounts___Contacts_with_Auto_Upserts.json)|
 |9758|[9758_Scheduled_Automation_for_X_and_Google_Sheets_Services.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9758_Scheduled_Automation_for_X_and_Google_Sheets_Services.json)|
 |9766|[9766_Retweet_Cleanup_with_Scheduling_for_X_Twitter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9766_Retweet_Cleanup_with_Scheduling_for_X_Twitter.json)|
+|11721|[11721_Poll_Multiple_Gmail_Accounts_with_Unified_Data_Table_Storage___Discord_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11721_Poll_Multiple_Gmail_Accounts_with_Unified_Data_Table_Storage___Discord_Notifications.json)|

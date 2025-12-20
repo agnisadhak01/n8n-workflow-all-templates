@@ -1,4 +1,4 @@
-# design : 8
+# design : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |9500|[9500_Standardized_Workflow_Design_Pattern_with_Color-Coding_System_for_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9500_Standardized_Workflow_Design_Pattern_with_Color-Coding_System_for_Teams.json)|
 |10025|[10025_Automate_Interior_Design_Lead_Qualification_with_AI___Human_Approval_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10025_Automate_Interior_Design_Lead_Qualification_with_AI___Human_Approval_to_Notion.json)|
 |11181|[11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json)|
+|11620|[11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json)|

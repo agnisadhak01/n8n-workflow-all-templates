@@ -1,4 +1,4 @@
-# rates : 7
+# rates : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |8380|[8380_Daily_Currency_Rates_Email_Report_with_USD_EUR_NGN___BTC_ETH_Price_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8380_Daily_Currency_Rates_Email_Report_with_USD_EUR_NGN___BTC_ETH_Price_Tracking.json)|
 |8387|[8387_Track_Crypto_Prices___FX_Rates_with_CoinGecko___ExchangeRate-API_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8387_Track_Crypto_Prices___FX_Rates_with_CoinGecko___ExchangeRate-API_to_Notion.json)|
 |9550|[9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json)|
+|11426|[11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json)|

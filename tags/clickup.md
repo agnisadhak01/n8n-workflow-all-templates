@@ -1,4 +1,4 @@
-# clickup : 42
+# clickup : 44
 
 |id|file|
 |----|----|
@@ -44,3 +44,5 @@
 |9542|[9542_Automate_Stripe_Invoicing_Workflow_with_ClickUp___Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9542_Automate_Stripe_Invoicing_Workflow_with_ClickUp___Gmail_Notifications.json)|
 |9736|[9736_Automate_Support_Ticket_Prioritization_with_Jotform__Gemini_AI__ClickUp_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9736_Automate_Support_Ticket_Prioritization_with_Jotform__Gemini_AI__ClickUp_Tasks.json)|
 |10332|[10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json)|
+|11743|[11743_Generate_Multi-Channel_Release_Notes_from_ClickUp_Tasks_with_GPT-4o__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11743_Generate_Multi-Channel_Release_Notes_from_ClickUp_Tasks_with_GPT-4o__Notion___Slack.json)|
+|11786|[11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json)|

@@ -1,4 +1,4 @@
-# semantic : 5
+# semantic : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6543|[6543_Vectorize_Medical_Procedures_for_Semantic_Search_with_TUSS__Gemini___pgVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6543_Vectorize_Medical_Procedures_for_Semantic_Search_with_TUSS__Gemini___pgVector.json)|
 |7882|[7882_Process_Documents___Build_Semantic_Search_with_OpenAI__Gemini___Qdrant.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7882_Process_Documents___Build_Semantic_Search_with_OpenAI__Gemini___Qdrant.json)|
 |10887|[10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10887_Reduce_LLM_Costs_with_Semantic_Caching_using_Redis_Vector_Store_and_HuggingFace.json)|
+|11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|

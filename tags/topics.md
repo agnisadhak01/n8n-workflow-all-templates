@@ -1,4 +1,4 @@
-# topics : 8
+# topics : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |7608|[7608_Cybersecurity_Intelligence__Create_Daily_Digest___Viral_Topics_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7608_Cybersecurity_Intelligence__Create_Daily_Digest___Viral_Topics_with_Gemini_AI.json)|
 |9277|[9277_Automate_Google_Classroom_with_Gemini_AI__Topics__Assignments___Student_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9277_Automate_Google_Classroom_with_Gemini_AI__Topics__Assignments___Student_Tracking.json)|
 |11075|[11075_Cluster_webpage_topics_from_Google_Sheets_to_Google_Sheets_for_AI_discovery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11075_Cluster_webpage_topics_from_Google_Sheets_to_Google_Sheets_for_AI_discovery.json)|
+|11856|[11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json)|

@@ -1,4 +1,4 @@
-# mailchimp : 14
+# mailchimp : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |8207|[8207_Automate_Product_Launch_Sequence_with_Notion__Mailchimp__Buffer__Google_Calendar___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8207_Automate_Product_Launch_Sequence_with_Notion__Mailchimp__Buffer__Google_Calendar___Telegram.json)|
 |8590|[8590_Automate_Lead_Qualification___Follow-up_with_Gemini__HubSpot__Zoom___Mailchimp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8590_Automate_Lead_Qualification___Follow-up_with_Gemini__HubSpot__Zoom___Mailchimp.json)|
 |8909|[8909_AI_Lead_Scoring___Enrichment_from_Mailchimp_to_HubSpot_and_Pipedrive_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8909_AI_Lead_Scoring___Enrichment_from_Mailchimp_to_HubSpot_and_Pipedrive_with_GPT-4o.json)|
+|11593|[11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json)|

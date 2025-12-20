@@ -1,4 +1,4 @@
-# documentation : 18
+# documentation : 20
 
 |id|file|
 |----|----|
@@ -20,3 +20,5 @@
 |9828|[9828_Auto_Documentation_Sync__GitHub_to_Slack_with_GPT-4o_Mini_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9828_Auto_Documentation_Sync__GitHub_to_Slack_with_GPT-4o_Mini_Summaries.json)|
 |10337|[10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10337_Track_SDK_Documentation_Drift_with_GitHub__Notion__Google_Sheets__and_Slack.json)|
 |10550|[10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json)|
+|11467|[11467_Automate_n8n_Workflow_Documentation_with_Google_Gemini_AI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11467_Automate_n8n_Workflow_Documentation_with_Google_Gemini_AI_and_Telegram.json)|
+|11780|[11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json)|

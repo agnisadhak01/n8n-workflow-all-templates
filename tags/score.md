@@ -1,4 +1,4 @@
-# score : 19
+# score : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |10550|[10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10550_Score_SDK_Documentation_Localization_Readiness_with_Azure_GPT-4o-mini_and_Slack_Alerts.json)|
 |10586|[10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json)|
 |11189|[11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json)|
+|11498|[11498_Validate_and_Score_Email_Addresses_with_ZeroBounce_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11498_Validate_and_Score_Email_Addresses_with_ZeroBounce_AI.json)|
+|11700|[11700_Track_and_Score_Contact_Engagement_with_Zoho_CRM__PDL__News___Reddit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11700_Track_and_Score_Contact_Engagement_with_Zoho_CRM__PDL__News___Reddit.json)|

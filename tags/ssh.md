@@ -1,4 +1,4 @@
-# ssh : 7
+# ssh : 9
 
 |id|file|
 |----|----|
@@ -9,3 +9,5 @@
 |8792|[8792_Monitor_VPS_Security_with_GPT-4_Mini_Analysis_via_SSH_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8792_Monitor_VPS_Security_with_GPT-4_Mini_Analysis_via_SSH_and_Telegram_Alerts.json)|
 |9852|[9852_Automated_Server_Health_Check_with_SSH__Azure_GPT-4_Analysis___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9852_Automated_Server_Health_Check_with_SSH__Azure_GPT-4_Analysis___Email_Alerts.json)|
 |10471|[10471_Self_Update_Docker-based_n8n_with_Email_Approval_and_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10471_Self_Update_Docker-based_n8n_with_Email_Approval_and_SSH.json)|
+|11842|[11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json)|
+|11843|[11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json)|

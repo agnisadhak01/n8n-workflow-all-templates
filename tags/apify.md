@@ -1,4 +1,4 @@
-# apify : 122
+# apify : 125
 
 |id|file|
 |----|----|
@@ -124,3 +124,6 @@
 |11094|[11094_Automate_Trend_Research_to_Blog_Content_with_GPT-4o__DALL-E___Apify_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11094_Automate_Trend_Research_to_Blog_Content_with_GPT-4o__DALL-E___Apify_to_Notion.json)|
 |11095|[11095_Automate_Pokemon_Card_Stock_Monitoring_with_Apify__AI__and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11095_Automate_Pokemon_Card_Stock_Monitoring_with_Apify__AI__and_Slack_Alerts.json)|
 |11271|[11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11271_Personalize_Instagram_Trends_for_Custom_Skin_Tones_with_GPT-4o__DALL-E___Slack.json)|
+|11514|[11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json)|
+|11574|[11574_Extract_Sales_Leads_from_Google_Jobs__LinkedIn___Indeed_with_GPT-4o_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11574_Extract_Sales_Leads_from_Google_Jobs__LinkedIn___Indeed_with_GPT-4o_and_Apify.json)|
+|11615|[11615_Track_TikTok_Ads_Library_with_Apify__Google_Sheets___Slack_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11615_Track_TikTok_Ads_Library_with_Apify__Google_Sheets___Slack_Telegram_Notifications.json)|

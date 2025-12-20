@@ -1,4 +1,4 @@
-# basic : 7
+# basic : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |3119|[3119_Create_a_REST_API_for_PDF_Digital_Signatures_with_Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3119_Create_a_REST_API_for_PDF_Digital_Signatures_with_Webhooks.json)|
 |3616|[3616_Automated_Lead_Generation___Contact_Enrichment_with_Hunter.io_and_Perplexity_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3616_Automated_Lead_Generation___Contact_Enrichment_with_Hunter.io_and_Perplexity_AI.json)|
 |5028|[5028_Basic_RAG_chat.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5028_Basic_RAG_chat.json)|
+|11570|[11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json)|

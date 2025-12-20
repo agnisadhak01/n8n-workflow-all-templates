@@ -1,4 +1,4 @@
-# detector : 13
+# detector : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |10152|[10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json)|
 |10394|[10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json)|
 |10486|[10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10486_Automated_QuickBooks_Sales_Anomaly_Detector_with_Professional_Email_Alerts.json)|
+|11612|[11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json)|

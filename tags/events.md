@@ -1,4 +1,4 @@
-# events : 55
+# events : 56
 
 |id|file|
 |----|----|
@@ -57,3 +57,4 @@
 |10376|[10376_Sync_Events_from_Excel_to_Google_Calendar_with_GPT-4o-Mini_Smart_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10376_Sync_Events_from_Excel_to_Google_Calendar_with_GPT-4o-Mini_Smart_Summaries.json)|
 |10723|[10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10723_Automate_Daily_Google_Calendar_Events_to_Trello_Cards.json)|
 |10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|
+|11749|[11749_Monitor_German_Company_Register___Financial_Events_with_Implisense_API___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11749_Monitor_German_Company_Register___Financial_Events_with_Implisense_API___Notifications.json)|

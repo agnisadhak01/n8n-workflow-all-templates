@@ -1,4 +1,4 @@
-# notes : 35
+# notes : 39
 
 |id|file|
 |----|----|
@@ -37,3 +37,7 @@
 |10332|[10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json)|
 |10806|[10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10806_Voice-to-Ideas__Transcribe_Telegram_Voice_Notes_with_OpenAI_Whisper_to_Google_Sheets.json)|
 |10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|
+|11409|[11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json)|
+|11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|
+|11569|[11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json)|
+|11743|[11743_Generate_Multi-Channel_Release_Notes_from_ClickUp_Tasks_with_GPT-4o__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11743_Generate_Multi-Channel_Release_Notes_from_ClickUp_Tasks_with_GPT-4o__Notion___Slack.json)|

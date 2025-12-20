@@ -1,4 +1,4 @@
-# webhooks : 26
+# webhooks : 27
 
 |id|file|
 |----|----|
@@ -28,3 +28,4 @@
 |9876|[9876_Automated_DHL_Shipment_Tracking_Bot_for_Web_Forms_and_Email_Inquiries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9876_Automated_DHL_Shipment_Tracking_Bot_for_Web_Forms_and_Email_Inquiries.json)|
 |10040|[10040_Create_a_Complete_User_Authentication_System_with_PostgreSQL___Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10040_Create_a_Complete_User_Authentication_System_with_PostgreSQL___Webhooks.json)|
 |10287|[10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json)|
+|11439|[11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json)|

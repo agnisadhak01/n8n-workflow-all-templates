@@ -1,4 +1,4 @@
-# send : 342
+# send : 351
 
 |id|file|
 |----|----|
@@ -344,3 +344,12 @@
 |11212|[11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11212_Monitor_YouTube_Channels_and_Send_Daily_Updates_to_Discord_via_RSS__No_API_Key.json)|
 |11304|[11304_Send_asteroid_alerts_from_NASA_to_LINE_using_OpenAI_and_DeepL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11304_Send_asteroid_alerts_from_NASA_to_LINE_using_OpenAI_and_DeepL.json)|
 |11306|[11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json)|
+|11420|[11420_Send_AI-Personalized_LinkedIn_Connection_Requests_from_Google_Sheets_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11420_Send_AI-Personalized_LinkedIn_Connection_Requests_from_Google_Sheets_with_Gemini.json)|
+|11466|[11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json)|
+|11497|[11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json)|
+|11530|[11530_Send_Personalized_Connection_Requests_to_LinkedIn_Post_Commenters_with_ConnectSafely.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11530_Send_Personalized_Connection_Requests_to_LinkedIn_Post_Commenters_with_ConnectSafely.ai.json)|
+|11549|[11549_Curate_Contributor-Friendly_Issues_with_AI_and_Send_GitHub_Newsletter_via_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11549_Curate_Contributor-Friendly_Issues_with_AI_and_Send_GitHub_Newsletter_via_Email.json)|
+|11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
+|11612|[11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json)|
+|11746|[11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json)|
+|11813|[11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json)|

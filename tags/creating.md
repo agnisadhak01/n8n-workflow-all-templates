@@ -1,4 +1,4 @@
-# creating : 13
+# creating : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |8394|[8394_Creating_SEO-Optimized_Blogs_for_WordPress_Using_Specific_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8394_Creating_SEO-Optimized_Blogs_for_WordPress_Using_Specific_Tools.json)|
 |8707|[8707_From_Sitemap_Crawling_to_Vector_Storage__Creating_an_Efficient_Workflow_for_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8707_From_Sitemap_Crawling_to_Vector_Storage__Creating_an_Efficient_Workflow_for_RAG.json)|
 |10089|[10089_Synchronizing_WooCommerce_Inventory_and_Creating_Products_with_Google_Gemini_AI_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10089_Synchronizing_WooCommerce_Inventory_and_Creating_Products_with_Google_Gemini_AI_and_BrowserAct.json)|
+|11594|[11594_Creating_Consistent_Character_Videos_with_Veo_3.1__GPT-4o__and_Google_NanoBanana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11594_Creating_Consistent_Character_Videos_with_Veo_3.1__GPT-4o__and_Google_NanoBanana.json)|

@@ -1,4 +1,4 @@
-# update : 110
+# update : 111
 
 |id|file|
 |----|----|
@@ -112,3 +112,4 @@
 |10913|[10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json)|
 |11122|[11122_Automatically_Sync_Beex_Leads_to_HubSpot__Create___Update.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11122_Automatically_Sync_Beex_Leads_to_HubSpot__Create___Update.json)|
 |11235|[11235_Learn_How_to_use_Binary_Data_in_n8n__Video_Included.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11235_Learn_How_to_use_Binary_Data_in_n8n__Video_Included.json)|
+|11780|[11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json)|

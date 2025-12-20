@@ -1,4 +1,4 @@
-# web : 103
+# web : 105
 
 |id|file|
 |----|----|
@@ -105,3 +105,5 @@
 |11116|[11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json)|
 |11224|[11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json)|
 |11371|[11371_Automate_Lead_Enrichment_with_Web_Scraping__GPT-4o__Airtable_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11371_Automate_Lead_Enrichment_with_Web_Scraping__GPT-4o__Airtable_and_Slack_Notifications.json)|
+|11389|[11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json)|
+|11637|[11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json)|

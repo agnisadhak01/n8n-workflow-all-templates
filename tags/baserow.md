@@ -1,4 +1,4 @@
-# baserow : 24
+# baserow : 26
 
 |id|file|
 |----|----|
@@ -26,3 +26,5 @@
 |8485|[8485_Generate_Filtered_Calendar_Views_in_Baserow_with_External_Calendar_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8485_Generate_Filtered_Calendar_Views_in_Baserow_with_External_Calendar_Integration.json)|
 |8602|[8602_Automated_Task_Generation_from_Blueprints_with_Baserow___Weekend-Aware_Scheduling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8602_Automated_Task_Generation_from_Blueprints_with_Baserow___Weekend-Aware_Scheduling.json)|
 |8677|[8677_Automate_Process_Improvement_with_Employee_Feedback_using_AI_and_Baserow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8677_Automate_Process_Improvement_with_Employee_Feedback_using_AI_and_Baserow.json)|
+|11609|[11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json)|
+|11803|[11803_Track_E-commerce_Price_Changes_with_ScrapeGraphAI__Baserow___Pushover_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11803_Track_E-commerce_Price_Changes_with_ScrapeGraphAI__Baserow___Pushover_Alerts.json)|

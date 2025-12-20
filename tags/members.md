@@ -1,4 +1,4 @@
-# members : 6
+# members : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |2109|[2109_Enrich_new_Discourse_members_with_Clearbit_then_notify_in_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2109_Enrich_new_Discourse_members_with_Clearbit_then_notify_in_Slack.json)|
 |4509|[4509_Daily_US_Congress_Members_Stock_Trades_Report_via_Firecrawl___OpenAI___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4509_Daily_US_Congress_Members_Stock_Trades_Report_via_Firecrawl___OpenAI___Gmail.json)|
 |6462|[6462_Send_Private_Welcome_Messages_to_New_WhatsApp_Group_Members_with_Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6462_Send_Private_Welcome_Messages_to_New_WhatsApp_Group_Members_with_Evolution_API.json)|
+|11450|[11450_Extract_Premium___Verified_LinkedIn_Group_Members_to_Google_Sheets_with_ConnectSafely.AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11450_Extract_Premium___Verified_LinkedIn_Group_Members_to_Google_Sheets_with_ConnectSafely.AI.json)|

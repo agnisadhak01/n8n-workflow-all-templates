@@ -1,4 +1,4 @@
-# hunter : 21
+# hunter : 24
 
 |id|file|
 |----|----|
@@ -23,3 +23,6 @@
 |9176|[9176_Automate_Job_Applications_with_Gemini_AI__Notion_Tracking___Multi-platform_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9176_Automate_Job_Applications_with_Gemini_AI__Notion_Tracking___Multi-platform_Search.json)|
 |9299|[9299_LinkedIn_Lead_Enrichment___Personalized_Cold_Outreach_with_Hunter.io__GPT-4___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9299_LinkedIn_Lead_Enrichment___Personalized_Cold_Outreach_with_Hunter.io__GPT-4___Sheets.json)|
 |11070|[11070_Email_Verification_and_Enrichment_from_Google_Sheets_with_Hunter_and_Dropcontact.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11070_Email_Verification_and_Enrichment_from_Google_Sheets_with_Hunter_and_Dropcontact.json)|
+|11375|[11375_Discover_GitHub_Developers_with_Hunter.io_Email_Lookup___Google_Sheets_CRM_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11375_Discover_GitHub_Developers_with_Hunter.io_Email_Lookup___Google_Sheets_CRM_Sync.json)|
+|11650|[11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json)|
+|11681|[11681_LinkedIn_Email_Finder_with_AI_Domain_Detection_using_Google_Sheets___Hunter.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11681_LinkedIn_Email_Finder_with_AI_Domain_Detection_using_Google_Sheets___Hunter.io.json)|

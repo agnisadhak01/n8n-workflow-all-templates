@@ -1,4 +1,4 @@
-# manager : 35
+# manager : 38
 
 |id|file|
 |----|----|
@@ -37,3 +37,6 @@
 |10388|[10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json)|
 |10664|[10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10664_Smart_Gmail_Inbox_Management_with_Gemini__Auto-label_and_Draft_Replies.json)|
 |10945|[10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10945_Discord_to_Google_Sheets_Task_Manager_with_GPT_Prioritization_and_Deep_Work_Focus.json)|
+|11407|[11407_Book_Club_Manager___Recommendation_Engine_with_Mistral_AI_and_Gemini_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11407_Book_Club_Manager___Recommendation_Engine_with_Mistral_AI_and_Gemini_Vision.json)|
+|11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|
+|11855|[11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json)|

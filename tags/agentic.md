@@ -1,4 +1,4 @@
-# agentic : 8
+# agentic : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8944|[8944_My_solution_for_the__Agentic_Arena_Community_Contest___RAG__Qdrant__Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8944_My_solution_for_the__Agentic_Arena_Community_Contest___RAG__Qdrant__Mistral_OCR.json)|
 |10157|[10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json)|
 |11116|[11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11116_Generate_Fact-Checked_Research_Reports_with_Llama_AI_and_Web_Search.json)|
+|11580|[11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11580_Automated_Customer_Support_System_with_Gemini_AI__RAG___Security_Guardrails.json)|

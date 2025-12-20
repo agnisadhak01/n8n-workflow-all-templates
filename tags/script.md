@@ -1,4 +1,4 @@
-# script : 7
+# script : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7142|[7142_Voice_to_Podcast_Script_Generator_with_OpenAI___Notion_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7142_Voice_to_Podcast_Script_Generator_with_OpenAI___Notion_via_Telegram.json)|
 |8290|[8290_Automate_Faceless_Shorts_with_OpenAI__RunwayML___ElevenLabs__Script_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8290_Automate_Faceless_Shorts_with_OpenAI__RunwayML___ElevenLabs__Script_to_Social_Media.json)|
 |8918|[8918_Create___Auto-Post_Instagram_Reels_with_AI_Clones__Script-to-Post__Heygen___Submagic___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8918_Create___Auto-Post_Instagram_Reels_with_AI_Clones__Script-to-Post__Heygen___Submagic___Blotato.json)|
+|11663|[11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json)|

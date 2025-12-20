@@ -1,4 +1,4 @@
-# viral : 51
+# viral : 56
 
 |id|file|
 |----|----|
@@ -53,3 +53,8 @@
 |10175|[10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json)|
 |10303|[10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json)|
 |11204|[11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json)|
+|11411|[11411_AI-Powered_Viral_Trend_Analysis_for_TikTok_and_Instagram_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11411_AI-Powered_Viral_Trend_Analysis_for_TikTok_and_Instagram_with_GPT-4.json)|
+|11421|[11421_Collect_Viral_Instagram_AI_Art_with_GPT-4_Analysis_and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11421_Collect_Viral_Instagram_AI_Art_with_GPT-4_Analysis_and_Telegram_Delivery.json)|
+|11505|[11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json)|
+|11584|[11584_Extract_Viral-Worthy_Clips_from_YouTube_Videos_with_Gemini_AI___FFmpeg_Editing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11584_Extract_Viral-Worthy_Clips_from_YouTube_Videos_with_Gemini_AI___FFmpeg_Editing.json)|
+|11710|[11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json)|

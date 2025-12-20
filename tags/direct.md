@@ -1,4 +1,4 @@
-# direct : 5
+# direct : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |7668|[7668_Write_Personalised_Direct_Messages_for_Instagram_with_Apify__OpenAI__GSheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7668_Write_Personalised_Direct_Messages_for_Instagram_with_Apify__OpenAI__GSheets.json)|
 |8203|[8203_Lead_Routing_System__Qualify___Direct_Typeform_Leads_to_HubSpot__Sheets___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8203_Lead_Routing_System__Qualify___Direct_Typeform_Leads_to_HubSpot__Sheets___Airtable.json)|
 |10299|[10299_Upload_Files_to_Dropbox_and_Generate_Direct_Download_Links.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10299_Upload_Files_to_Dropbox_and_Generate_Direct_Download_Links.json)|
+|11672|[11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json)|

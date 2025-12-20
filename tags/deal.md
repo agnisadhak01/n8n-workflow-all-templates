@@ -1,4 +1,4 @@
-# deal : 21
+# deal : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |10325|[10325_Automate_Inactive_Deal_Cleanup_from_GoHighLevel_to_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10325_Automate_Inactive_Deal_Cleanup_from_GoHighLevel_to_Slack_and_Sheets.json)|
 |10398|[10398_Smart_CSM_Assignment___AI_Welcome_Emails_for_HubSpot_Deal_Wins_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10398_Smart_CSM_Assignment___AI_Welcome_Emails_for_HubSpot_Deal_Wins_with_Gmail.json)|
 |10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|
+|11689|[11689_Generate_Personalized_Deal_Content_Recommendations_with_Zoho_CRM__GPT-4o-mini___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11689_Generate_Personalized_Deal_Content_Recommendations_with_Zoho_CRM__GPT-4o-mini___Gmail.json)|

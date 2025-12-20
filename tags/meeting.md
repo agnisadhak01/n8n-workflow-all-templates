@@ -1,4 +1,4 @@
-# meeting : 74
+# meeting : 79
 
 |id|file|
 |----|----|
@@ -76,3 +76,8 @@
 |11148|[11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json)|
 |11166|[11166_Autonomous_Meeting_Scheduler_with_GPT-4o-mini__Telegram__and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11166_Autonomous_Meeting_Scheduler_with_GPT-4o-mini__Telegram__and_Google_Calendar.json)|
 |11243|[11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json)|
+|11409|[11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json)|
+|11430|[11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json)|
+|11497|[11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11497_Auto-send_FireFlies_meeting_summaries_via_email_using_Gemini_2.5_Pro.json)|
+|11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|
+|11600|[11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json)|

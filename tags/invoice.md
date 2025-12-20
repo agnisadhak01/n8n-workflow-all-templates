@@ -1,4 +1,4 @@
-# invoice : 89
+# invoice : 90
 
 |id|file|
 |----|----|
@@ -91,3 +91,4 @@
 |10581|[10581_Automate_Bank_Statement_and_Invoice_Reconciliation_with_GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10581_Automate_Bank_Statement_and_Invoice_Reconciliation_with_GPT-4.1-mini_and_Google_Sheets.json)|
 |10602|[10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10602_Automatic_Microsoft_Outlook_Attachment_Storage_to_OneDrive_with_Excel_Logging.json)|
 |11327|[11327_Automate_Timesheet_to_Invoice_Conversion_with_OpenAI__Gmail___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11327_Automate_Timesheet_to_Invoice_Conversion_with_OpenAI__Gmail___Google_Workspace.json)|
+|11678|[11678_Automate_Invoice_Processing___Stock_Management_with_AI__Gmail__Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11678_Automate_Invoice_Processing___Stock_Management_with_AI__Gmail__Sheets___Slack.json)|

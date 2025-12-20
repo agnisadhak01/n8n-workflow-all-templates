@@ -1,4 +1,4 @@
-# dental : 5
+# dental : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |7971|[7971_Automated_Patient_Response_System_with_GPT-3.5_and_Google_Sheets_for_Dental_Clinics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7971_Automated_Patient_Response_System_with_GPT-3.5_and_Google_Sheets_for_Dental_Clinics.json)|
 |8043|[8043_Automate_Dental_Appointments_with_Google_Calendar__AI_Assistant___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8043_Automate_Dental_Appointments_with_Google_Calendar__AI_Assistant___Email_Notifications.json)|
 |9473|[9473_AI-Powered_Dental_Appointment_System_with_Telegram__Google_Calendar_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9473_AI-Powered_Dental_Appointment_System_with_Telegram__Google_Calendar_and_Sheets.json)|
+|11463|[11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json)|

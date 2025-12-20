@@ -1,4 +1,4 @@
-# time : 98
+# time : 103
 
 |id|file|
 |----|----|
@@ -100,3 +100,8 @@
 |11254|[11254_Create_a_Calendly_Availability_API_Endpoint_for_Real-time_Scheduling_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11254_Create_a_Calendly_Availability_API_Endpoint_for_Real-time_Scheduling_Data.json)|
 |11257|[11257_Automate_Assignee_Payroll_Calculations_with_Dart__Gemini_AI__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11257_Automate_Assignee_Payroll_Calculations_with_Dart__Gemini_AI__and_Google_Sheets.json)|
 |11289|[11289_Monitor_NASA_asteroid_threats_with_AI_fact-check_and_multi-channel_alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11289_Monitor_NASA_asteroid_threats_with_AI_fact-check_and_multi-channel_alerts.json)|
+|11470|[11470_Real-time_ISS_Overhead_Alert_with_Weather_Check_and_Multi-Channel_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11470_Real-time_ISS_Overhead_Alert_with_Weather_Check_and_Multi-Channel_Notifications.json)|
+|11514|[11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json)|
+|11634|[11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json)|
+|11711|[11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json)|
+|11862|[11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json)|

@@ -1,4 +1,4 @@
-# shorts : 26
+# shorts : 28
 
 |id|file|
 |----|----|
@@ -28,3 +28,5 @@
 |9867|[9867_Transform_Long_Videos_into_Viral_Shorts_with_AI_and_Schedule_to_Social_Media_using_Whisper___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9867_Transform_Long_Videos_into_Viral_Shorts_with_AI_and_Schedule_to_Social_Media_using_Whisper___Gemini.json)|
 |10103|[10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json)|
 |10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|
+|11441|[11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json)|
+|11724|[11724_Generate_News_Digest_Videos_from_WordPress_Articles_to_YouTube_Shorts_with_Shotstack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11724_Generate_News_Digest_Videos_from_WordPress_Articles_to_YouTube_Shorts_with_Shotstack.json)|

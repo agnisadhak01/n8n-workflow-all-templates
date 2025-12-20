@@ -1,4 +1,4 @@
-# b2b : 26
+# b2b : 29
 
 |id|file|
 |----|----|
@@ -28,3 +28,6 @@
 |9890|[9890_Automated_B2B_Lead_Generation__Google_Maps_to_Sheets_with_BrowserAct___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9890_Automated_B2B_Lead_Generation__Google_Maps_to_Sheets_with_BrowserAct___Telegram.json)|
 |10009|[10009_Create_Personalized_B2B_Outreach_Emails_with_Tavily_Research___OpenRouter_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10009_Create_Personalized_B2B_Outreach_Emails_with_Tavily_Research___OpenRouter_LLM.json)|
 |11283|[11283_B2B_Lead_Follow-up_Automation_with_Gemini_AI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11283_B2B_Lead_Follow-up_Automation_with_Gemini_AI__Gmail_and_Google_Sheets.json)|
+|11448|[11448_Automated_B2B_Lead_Management_and_AI_Outreach.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11448_Automated_B2B_Lead_Management_and_AI_Outreach.json)|
+|11469|[11469_Automate_B2B_SaaS_Renewal_Risk_Management_with_CRM__Support___Usage_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11469_Automate_B2B_SaaS_Renewal_Risk_Management_with_CRM__Support___Usage_Data.json)|
+|11707|[11707_Generate_B2B_Leads_by_Industry___Location_with_Google_Places_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11707_Generate_B2B_Leads_by_Industry___Location_with_Google_Places_API_and_Google_Sheets.json)|

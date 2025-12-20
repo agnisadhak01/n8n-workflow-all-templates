@@ -1,4 +1,4 @@
-# document : 75
+# document : 79
 
 |id|file|
 |----|----|
@@ -77,3 +77,7 @@
 |10924|[10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json)|
 |11234|[11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json)|
 |11290|[11290_AI-Powered_Financial_Document_Extraction_from_Gmail_to_Google_Sheets_with_Smart_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11290_AI-Powered_Financial_Document_Extraction_from_Gmail_to_Google_Sheets_with_Smart_Guardrails.json)|
+|11413|[11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json)|
+|11619|[11619_Automate_Document_Q_A_with_Multi-Agent_RAG_Orchestration_using_Contextual_AI___Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11619_Automate_Document_Q_A_with_Multi-Agent_RAG_Orchestration_using_Contextual_AI___Gemini.json)|
+|11736|[11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json)|
+|11861|[11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json)|

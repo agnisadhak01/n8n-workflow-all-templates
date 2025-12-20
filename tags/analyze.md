@@ -1,4 +1,4 @@
-# analyze : 135
+# analyze : 140
 
 |id|file|
 |----|----|
@@ -137,3 +137,8 @@
 |11131|[11131_Scrape_and_Analyze_Amazon_Product_Info_with_Decodo___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11131_Scrape_and_Analyze_Amazon_Product_Info_with_Decodo___OpenAI.json)|
 |11159|[11159_Analyze_food_ingredients_from_Telegram_photos_using_Gemini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11159_Analyze_food_ingredients_from_Telegram_photos_using_Gemini_and_Airtable.json)|
 |11198|[11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json)|
+|11477|[11477_Analyze_Sales_Calls_with_GPT-4_and_Deliver_Coaching_Feedback_via_Slack___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11477_Analyze_Sales_Calls_with_GPT-4_and_Deliver_Coaching_Feedback_via_Slack___Sheets.json)|
+|11483|[11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json)|
+|11526|[11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json)|
+|11573|[11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json)|
+|11790|[11790_Analyze_LinkedIn_Content_Performance_with_OpenAI__Bright_Data_and_NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11790_Analyze_LinkedIn_Content_Performance_with_OpenAI__Bright_Data_and_NocoDB.json)|

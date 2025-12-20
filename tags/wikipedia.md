@@ -1,4 +1,4 @@
-# wikipedia : 7
+# wikipedia : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6433|[6433_Generate_LinkedIn_Posts_from_Wikipedia_with_GPT-4_Summaries_and_Ideogram_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6433_Generate_LinkedIn_Posts_from_Wikipedia_with_GPT-4_Summaries_and_Ideogram_Images.json)|
 |6972|[6972_Build_Comprehensive_Entity_Profiles_with_GPT-4__Wikipedia___Vector_DB_for_Content.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6972_Build_Comprehensive_Entity_Profiles_with_GPT-4__Wikipedia___Vector_DB_for_Content.json)|
 |9018|[9018_Automated_Blog_Post_Generator_with_GPT-4__DALL-E__and_Wikipedia_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9018_Automated_Blog_Post_Generator_with_GPT-4__DALL-E__and_Wikipedia_for_WordPress.json)|
+|11482|[11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11482_Automate_Niche_Research_with_Wikipedia__GPT-4o-mini__and_Google_Sheets.json)|

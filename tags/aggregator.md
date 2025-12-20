@@ -1,4 +1,4 @@
-# aggregator : 10
+# aggregator : 13
 
 |id|file|
 |----|----|
@@ -12,3 +12,6 @@
 |8815|[8815_Auto_Bug_Report_Aggregator__Sync_Zendesk_Bug_Tickets_into_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8815_Auto_Bug_Report_Aggregator__Sync_Zendesk_Bug_Tickets_into_Google_Sheets.json)|
 |10007|[10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json)|
 |11224|[11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json)|
+|11410|[11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json)|
+|11669|[11669_Breaking_News_Aggregator_with_SendGrid_and_PostgreSQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11669_Breaking_News_Aggregator_with_SendGrid_and_PostgreSQL.json)|
+|11835|[11835_Track_Certification_Requirement_Changes_with_ScrapeGraphAI__GitHub_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11835_Track_Certification_Requirement_Changes_with_ScrapeGraphAI__GitHub_and_Email.json)|

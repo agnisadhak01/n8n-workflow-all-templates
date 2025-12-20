@@ -1,4 +1,4 @@
-# review : 51
+# review : 55
 
 |id|file|
 |----|----|
@@ -53,3 +53,7 @@
 |10734|[10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10734_Validate_Newsletter_Quality_with_GPT-5_Quality_Gate_before_Sending.json)|
 |10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|
 |11245|[11245_Japanese-to-English_Review_Sentiment_Analysis_with_GPT_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11245_Japanese-to-English_Review_Sentiment_Analysis_with_GPT_and_Telegram_Alerts.json)|
+|11410|[11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json)|
+|11632|[11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11632_Automated_Product_Review_Monitoring_with_Sentiment_Analysis_via_Decodo__Gemini___Telegram.json)|
+|11660|[11660_Generate_Consensus_Answers_with_Multiple_AI_Models___Peer_Review_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11660_Generate_Consensus_Answers_with_Multiple_AI_Models___Peer_Review_System.json)|
+|11861|[11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11861_Intelligent_Legal_Document_Review_and_Compliance_Automation.json)|

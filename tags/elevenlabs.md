@@ -1,4 +1,4 @@
-# elevenlabs : 55
+# elevenlabs : 57
 
 |id|file|
 |----|----|
@@ -57,3 +57,5 @@
 |10968|[10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10968_English_Lesson_Generator_from_Podcasts_with_RSS__GPT-4.1-mini__ElevenLabs_and_Gmail.json)|
 |11047|[11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json)|
 |11326|[11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json)|
+|11532|[11532_Automated_AI_Voice_Cloning____from_YouTube_videos_to_ElevenLabs___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11532_Automated_AI_Voice_Cloning____from_YouTube_videos_to_ElevenLabs___Google_Sheets.json)|
+|11606|[11606_Clone_and_change_your_voice____with_Elevenlabs_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11606_Clone_and_change_your_voice____with_Elevenlabs_and_Telegram.json)|

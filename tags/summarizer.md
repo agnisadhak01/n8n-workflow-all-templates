@@ -1,4 +1,4 @@
-# summarizer : 26
+# summarizer : 28
 
 |id|file|
 |----|----|
@@ -28,3 +28,5 @@
 |9847|[9847_Auto_Summarize_YouTube_Videos_to_Japanese_with_GPT-4o-mini___Post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9847_Auto_Summarize_YouTube_Videos_to_Japanese_with_GPT-4o-mini___Post_to_Slack.json)|
 |10484|[10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json)|
 |10652|[10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10652_Transcribe__Translate____Summarize_YouTube_Videos_with_Gemini__DeepL____GPT.json)|
+|11389|[11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11389_Web_Research_Summarizer_with_Decodo_Scraper__Google_Gemini_AI___Sheets_Integration.json)|
+|11813|[11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json)|

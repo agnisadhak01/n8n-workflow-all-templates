@@ -1,4 +1,4 @@
-# nanobanana : 11
+# nanobanana : 12
 
 |id|file|
 |----|----|
@@ -13,3 +13,4 @@
 |9470|[9470_Generate_MemeCoin_Art_with_Gemini_Flash___NanoBanana_and_Post_to_Twitter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9470_Generate_MemeCoin_Art_with_Gemini_Flash___NanoBanana_and_Post_to_Twitter.json)|
 |9922|[9922_Generate_UGC_Images_from_Form_Submissions_with_Google_Gemini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9922_Generate_UGC_Images_from_Form_Submissions_with_Google_Gemini_and_Telegram.json)|
 |11204|[11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json)|
+|11594|[11594_Creating_Consistent_Character_Videos_with_Veo_3.1__GPT-4o__and_Google_NanoBanana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11594_Creating_Consistent_Character_Videos_with_Veo_3.1__GPT-4o__and_Google_NanoBanana.json)|

@@ -1,4 +1,4 @@
-# apps : 10
+# apps : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |6872|[6872_Create_Portrait_Series_from_Single_Images_using_Flux_Kontext_Portrait_Series_and_Replicate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6872_Create_Portrait_Series_from_Single_Images_using_Flux_Kontext_Portrait_Series_and_Replicate.json)|
 |7460|[7460_Generate_ASO_Reports_from_Google_Play_Apps_with_Gemini_AI___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7460_Generate_ASO_Reports_from_Google_Play_Apps_with_Gemini_AI___Google_Docs.json)|
 |9211|[9211_AI_secretary_for_scheduling_with_WhatsApp_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9211_AI_secretary_for_scheduling_with_WhatsApp_and_Telegram.json)|
+|11663|[11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11663_Template-Based_Google_Drive_Folder_Generation_with_Forms_and_Apps_Script.json)|

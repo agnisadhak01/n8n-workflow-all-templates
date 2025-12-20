@@ -1,4 +1,4 @@
-# post : 186
+# post : 193
 
 |id|file|
 |----|----|
@@ -188,3 +188,10 @@
 |10850|[10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10850_Create___Share_AI_Videos_with_Telegram__Gemini___Post_to_TikTok__Instagram__Facebook.json)|
 |11138|[11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json)|
 |11226|[11226_Automated_WordPress_Post_Tagging_with_AI_Analysis_and_Claude_Opus_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11226_Automated_WordPress_Post_Tagging_with_AI_Analysis_and_Claude_Opus_4.5.json)|
+|11355|[11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json)|
+|11441|[11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11441_Auto-Post_YouTube_Shorts_from_Google_Drive_with_OpenRouter_AI_Titles___Descriptions.json)|
+|11530|[11530_Send_Personalized_Connection_Requests_to_LinkedIn_Post_Commenters_with_ConnectSafely.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11530_Send_Personalized_Connection_Requests_to_LinkedIn_Post_Commenters_with_ConnectSafely.ai.json)|
+|11620|[11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json)|
+|11649|[11649_Post-Surgery_Patient_Triage___Follow-up_System_with_Gemini_AI__Telegram___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11649_Post-Surgery_Patient_Triage___Follow-up_System_with_Gemini_AI__Telegram___Google_Suite.json)|
+|11758|[11758_Automated_Post-Purchase_Emails_for_Gumroad_with_Notion_CRM_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11758_Automated_Post-Purchase_Emails_for_Gumroad_with_Notion_CRM_and_Gemini_AI.json)|
+|11856|[11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json)|

@@ -1,4 +1,4 @@
-# tts : 16
+# tts : 19
 
 |id|file|
 |----|----|
@@ -18,3 +18,6 @@
 |10103|[10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10103_Generate_Horror_Faceless_Shorts_with_OpenAI_TTS__Replicate_Video__and_YouTube_Upload.json)|
 |10297|[10297_Convert_Websites_to_Audio_Summaries_via_WhatsApp_using_GPT_and_TTS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10297_Convert_Websites_to_Audio_Summaries_via_WhatsApp_using_GPT_and_TTS.json)|
 |10649|[10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json)|
+|11367|[11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json)|
+|11397|[11397_Convert_Gmail_Emails_to_Telegram_Voice_Messages_with_GPT-5_and_Inworld_TTS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11397_Convert_Gmail_Emails_to_Telegram_Voice_Messages_with_GPT-5_and_Inworld_TTS.json)|
+|11789|[11789_Convert_WordPress_Articles_to_Multilingual_Voiceovers_with_Google_TTS_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11789_Convert_WordPress_Articles_to_Multilingual_Voiceovers_with_Google_TTS_and_OpenAI.json)|

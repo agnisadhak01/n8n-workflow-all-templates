@@ -1,4 +1,4 @@
-# bulk : 39
+# bulk : 41
 
 |id|file|
 |----|----|
@@ -41,3 +41,5 @@
 |9869|[9869_Bulk_YouTube_Channel_Content_Analysis_with_Apify___DeepSeek_AI_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9869_Bulk_YouTube_Channel_Content_Analysis_with_Apify___DeepSeek_AI_to_Google_Sheets.json)|
 |9908|[9908_Run_bulk_RAG_queries_from_CSV_with_Lookio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9908_Run_bulk_RAG_queries_from_CSV_with_Lookio.json)|
 |10323|[10323_Facebook_Lead_Management__Automate_Email_Responses_with_Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10323_Facebook_Lead_Management__Automate_Email_Responses_with_Gmail___Google_Sheets.json)|
+|11538|[11538_Bulk_Email_Validation_and_AI_Scoring_with_ZeroBounce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11538_Bulk_Email_Validation_and_AI_Scoring_with_ZeroBounce.json)|
+|11638|[11638_Bulk_Auto-Publish_Videos_to_Social_Networks_with_AI_Copy_and_Client_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11638_Bulk_Auto-Publish_Videos_to_Social_Networks_with_AI_Copy_and_Client_Approval.json)|

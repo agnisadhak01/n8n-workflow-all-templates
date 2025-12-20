@@ -1,4 +1,4 @@
-# card : 20
+# card : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |10267|[10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10267_Generate_News_Cards_from_Spotify_Emotions_with_LLM__Google_News_and_APITemplate.io.json)|
 |10771|[10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json)|
 |11095|[11095_Automate_Pokemon_Card_Stock_Monitoring_with_Apify__AI__and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11095_Automate_Pokemon_Card_Stock_Monitoring_with_Apify__AI__and_Slack_Alerts.json)|
+|11658|[11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11658_Auto-Generate_Competitive_Battle_Cards_from_Websites_with_Zoho_CRM_and_Gemini_AI.json)|

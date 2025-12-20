@@ -1,4 +1,4 @@
-# group : 21
+# group : 22
 
 |id|file|
 |----|----|
@@ -23,3 +23,4 @@
 |8206|[8206_Organizing_UI_Toolbar_Icons__Apple_HIG_Standards_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8206_Organizing_UI_Toolbar_Icons__Apple_HIG_Standards_and_Gemini_AI.json)|
 |8880|[8880_Automatically_Join_WhatsApp_Groups_with_Google_Sheets_and_Evolution_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8880_Automatically_Join_WhatsApp_Groups_with_Google_Sheets_and_Evolution_API.json)|
 |10370|[10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10370_Automated_Facebook_Group_Scraper__Posts__Comments__and_Sub-comments_to_Supabase.json)|
+|11450|[11450_Extract_Premium___Verified_LinkedIn_Group_Members_to_Google_Sheets_with_ConnectSafely.AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11450_Extract_Premium___Verified_LinkedIn_Group_Members_to_Google_Sheets_with_ConnectSafely.AI.json)|

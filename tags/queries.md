@@ -1,4 +1,4 @@
-# queries : 15
+# queries : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |7645|[7645_Track_New_Search_Queries_with_Zero-Click_Analysis_in_Google_Search_Console.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7645_Track_New_Search_Queries_with_Zero-Click_Analysis_in_Google_Search_Console.json)|
 |9908|[9908_Run_bulk_RAG_queries_from_CSV_with_Lookio.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9908_Run_bulk_RAG_queries_from_CSV_with_Lookio.json)|
 |10136|[10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json)|
+|11820|[11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11820_Answer_Product_Queries_via_WhatsApp_using_OpenAI_GPT-4o_and_PDF_Knowledge_Base.json)|

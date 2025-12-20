@@ -1,4 +1,4 @@
-# serp : 17
+# serp : 20
 
 |id|file|
 |----|----|
@@ -19,3 +19,6 @@
 |10252|[10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10252_Competitor_Intelligence_Agent__SERP_Monitoring___Summary_with_Thordata___OpenAI.json)|
 |10829|[10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10829_Generate_SEO_Content_Briefs_with_GPT-4o__DataForSEO_Keyword_Research___SERP_Analysis.json)|
 |10832|[10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10832_AI-Powered_SEO_Content_Optimization_with_SERP_Analysis___Slack_Approval_Workflow.json)|
+|11436|[11436_Automated_SEO_SERP_Analysis_with_Decodo___Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11436_Automated_SEO_SERP_Analysis_with_Decodo___Google_Gemini.json)|
+|11630|[11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json)|
+|11809|[11809_Generate_SEO_Content_Outlines_from_SERP_Analysis_with_OpenAI_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11809_Generate_SEO_Content_Outlines_from_SERP_Analysis_with_OpenAI_and_Google_Docs.json)|

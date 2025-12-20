@@ -1,4 +1,4 @@
-# model : 37
+# model : 39
 
 |id|file|
 |----|----|
@@ -39,3 +39,5 @@
 |9971|[9971_Track_AI_Model_Executions_with_LangFuse_Observability_for_Better_Performance_Insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9971_Track_AI_Model_Executions_with_LangFuse_Observability_for_Better_Performance_Insights.json)|
 |10214|[10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10214_Hotel_Receptionist_with_WhatsApp__Gemini_Model-Switching__Redis___Google_Sheets.json)|
 |10615|[10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10615_AI-Powered_Stock_Analysis_with_Multi-Model_Consensus_and_Telegram_Alerts.json)|
+|11460|[11460_Automate_3D_Body_Model_Generation_from_Images_Using_SAM-3D___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11460_Automate_3D_Body_Model_Generation_from_Images_Using_SAM-3D___Google_Sheets.json)|
+|11854|[11854_AI-Powered_Ticket_Triage_with_Multi-Model_Classification___Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11854_AI-Powered_Ticket_Triage_with_Multi-Model_Classification___Knowledge_Base.json)|

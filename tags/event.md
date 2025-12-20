@@ -1,4 +1,4 @@
-# event : 53
+# event : 54
 
 |id|file|
 |----|----|
@@ -55,3 +55,4 @@
 |10295|[10295_Synchronize_Events___Attendees_Between_KlickTipp_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10295_Synchronize_Events___Attendees_Between_KlickTipp_and_Google_Calendar.json)|
 |10346|[10346_Multi-Channel_Event_Countdown_Manager_with_Telegram__Slack_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10346_Multi-Channel_Event_Countdown_Manager_with_Telegram__Slack_and_Email.json)|
 |10376|[10376_Sync_Events_from_Excel_to_Google_Calendar_with_GPT-4o-Mini_Smart_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10376_Sync_Events_from_Excel_to_Google_Calendar_with_GPT-4o-Mini_Smart_Summaries.json)|
+|11749|[11749_Monitor_German_Company_Register___Financial_Events_with_Implisense_API___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11749_Monitor_German_Company_Register___Financial_Events_with_Implisense_API___Notifications.json)|

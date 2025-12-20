@@ -1,4 +1,4 @@
-# templates : 13
+# templates : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |10278|[10278_Automated_Cold_Email_Campaigns_with_Random_Templates___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10278_Automated_Cold_Email_Campaigns_with_Random_Templates___Google_Sheets_Tracking.json)|
 |10450|[10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json)|
 |10800|[10800_AI_sticky_generator_for_n8n_templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10800_AI_sticky_generator_for_n8n_templates.json)|
+|11620|[11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json)|

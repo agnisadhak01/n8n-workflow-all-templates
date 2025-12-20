@@ -1,4 +1,4 @@
-# on : 287
+# on : 290
 
 |id|file|
 |----|----|
@@ -289,3 +289,6 @@
 |11004|[11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11004_Daily_AI_Outfit_Recommendations_Based_on_Weather_Forecast_to_Slack.json)|
 |11175|[11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json)|
 |11181|[11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json)|
+|11488|[11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json)|
+|11710|[11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json)|
+|11856|[11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json)|

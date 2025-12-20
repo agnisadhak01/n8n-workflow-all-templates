@@ -1,4 +1,4 @@
-# plans : 7
+# plans : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7181|[7181_Create_Personalized_Diet_Plans_from_Health_Reports_with_Ollama_AI_and_Email_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7181_Create_Personalized_Diet_Plans_from_Health_Reports_with_Ollama_AI_and_Email_Automation.json)|
 |8325|[8325_Generate_7-Day_Event_Plans_with_Google_Calendar__GPT-3.5_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8325_Generate_7-Day_Event_Plans_with_Google_Calendar__GPT-3.5_and_Notion.json)|
 |10223|[10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10223_Create_Dynamic_Seating___Venue_Layout_Plans_with_Google_Sheets.json)|
+|11362|[11362_Convert_Task_Ideas_to_Implementation_Plans_with_GPT-4o__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11362_Convert_Task_Ideas_to_Implementation_Plans_with_GPT-4o__Slack___Google_Sheets.json)|

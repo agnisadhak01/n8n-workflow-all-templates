@@ -1,4 +1,4 @@
-# mongodb : 16
+# mongodb : 20
 
 |id|file|
 |----|----|
@@ -18,3 +18,7 @@
 |8890|[8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json)|
 |9595|[9595_Create_a_Factual_Learning_Assistant_with_RAG__Gemini__Telegram___MongoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9595_Create_a_Factual_Learning_Assistant_with_RAG__Gemini__Telegram___MongoDB.json)|
 |10665|[10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10665_University_FAQ___Calendar_Assistant_with_Telegram__MongoDB_and_Gemini_AI.json)|
+|11585|[11585_E-commerce_Price_Tracker_with_ScrapeGraphAI__MongoDB__and_Mailgun_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11585_E-commerce_Price_Tracker_with_ScrapeGraphAI__MongoDB__and_Mailgun_Alerts.json)|
+|11608|[11608_Automated_Product_Price_Tracking_with_ScrapeGraphAI__Slack_Alerts_and_Jira_Tickets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11608_Automated_Product_Price_Tracking_with_ScrapeGraphAI__Slack_Alerts_and_Jira_Tickets.json)|
+|11609|[11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json)|
+|11634|[11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json)|

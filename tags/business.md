@@ -1,4 +1,4 @@
-# business : 115
+# business : 119
 
 |id|file|
 |----|----|
@@ -117,3 +117,7 @@
 |11086|[11086_Scrape_Business_Leads_from_Google_Maps_and_Extract_Decision-Maker_Info_with_Olostep.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11086_Scrape_Business_Leads_from_Google_Maps_and_Extract_Decision-Maker_Info_with_Olostep.json)|
 |11306|[11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11306_Transform_NASA_Patents_into_Business_Ideas_with_OpenAI_and_Send_to_Google_Sheets___Slack.json)|
 |11360|[11360_Generate_Local_Business_Leads_with_Google_Places_API___Website_Email_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11360_Generate_Local_Business_Leads_with_Google_Places_API___Website_Email_Scraping.json)|
+|11454|[11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11454_Scrape_Yelp_Business_Data_with_Scrape.do_API___Google_Sheets_Storage.json)|
+|11503|[11503_Automate_Google_My_Business_Responses_with_Gemini_AI_and_Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11503_Automate_Google_My_Business_Responses_with_Gemini_AI_and_Google_Sheets_Tracking.json)|
+|11622|[11622_ZIP_Code-Based_Business_Lead_Generation_with_Google_Maps_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11622_ZIP_Code-Based_Business_Lead_Generation_with_Google_Maps_and_Sheets.json)|
+|11708|[11708_Generate_Strategic_Business_Recommendations_with_GPT-4_Mini_and_Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11708_Generate_Strategic_Business_Recommendations_with_GPT-4_Mini_and_Multi-Channel_Distribution.json)|

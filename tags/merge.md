@@ -1,4 +1,4 @@
-# merge : 16
+# merge : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |8149|[8149_Personalized_Email_Mail_Merge_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8149_Personalized_Email_Mail_Merge_with_Google_Sheets_and_Gmail.json)|
 |8373|[8373_Merge_Multiple_Excel_Files_into_a_Single_Multi-Sheet_File_with_Summary_Page.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8373_Merge_Multiple_Excel_Files_into_a_Single_Multi-Sheet_File_with_Summary_Page.json)|
 |11065|[11065_Strip_Secrets_from_JSON_file_via_AI_Formatter___Merge_node_send_mail_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11065_Strip_Secrets_from_JSON_file_via_AI_Formatter___Merge_node_send_mail_report.json)|
+|11710|[11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json)|

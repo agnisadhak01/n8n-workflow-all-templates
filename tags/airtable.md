@@ -1,4 +1,4 @@
-# airtable : 224
+# airtable : 232
 
 |id|file|
 |----|----|
@@ -226,3 +226,11 @@
 |11198|[11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json)|
 |11321|[11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11321_Automated_Facebook_Message_Response_with_GPT-4o_and_Airtable_Inventory_Matching.json)|
 |11371|[11371_Automate_Lead_Enrichment_with_Web_Scraping__GPT-4o__Airtable_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11371_Automate_Lead_Enrichment_with_Web_Scraping__GPT-4o__Airtable_and_Slack_Notifications.json)|
+|11479|[11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json)|
+|11526|[11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json)|
+|11586|[11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json)|
+|11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
+|11630|[11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json)|
+|11645|[11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json)|
+|11794|[11794_Qualify_Insurance_Leads_using_Vapi__GPT-4_Proposals_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11794_Qualify_Insurance_Leads_using_Vapi__GPT-4_Proposals_and_Airtable.json)|
+|11824|[11824_Automate_Vulnerability_Triage_from_Snyk_with_Jira__Slack___Airtable_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11824_Automate_Vulnerability_Triage_from_Snyk_with_Jira__Slack___Airtable_Integration.json)|

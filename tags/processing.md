@@ -1,4 +1,4 @@
-# processing : 65
+# processing : 69
 
 |id|file|
 |----|----|
@@ -67,3 +67,7 @@
 |10107|[10107_Automate_Payroll_Processing_with_GPT-4__Google_Sheets__PDF_Payslips___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10107_Automate_Payroll_Processing_with_GPT-4__Google_Sheets__PDF_Payslips___Slack_Alerts.json)|
 |10899|[10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10899_Order_Processing_with_Google_Sheets_and_Slack__Inventory_Checks_and_Alerts.json)|
 |11233|[11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11233_Automate_Lead_Intake___CRM_with_Tally_Forms_to_Google_Sheets_and_SendGrid_Emails.json)|
+|11413|[11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11413_OCR_Document_Processing_from_LINE_Gmail_using_GPT-4o_to_Google_Workspace.json)|
+|11650|[11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11650_Automate_Lead_Processing_from_Landing_Pages_with_Zoho_CRM__Jira___Slack.json)|
+|11678|[11678_Automate_Invoice_Processing___Stock_Management_with_AI__Gmail__Sheets___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11678_Automate_Invoice_Processing___Stock_Management_with_AI__Gmail__Sheets___Slack.json)|
+|11755|[11755_Mistral_OCR__GPT-4o-mini__and_Google_Sheets_Integration_for_Enhanced_Data_Processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11755_Mistral_OCR__GPT-4o-mini__and_Google_Sheets_Integration_for_Enhanced_Data_Processing.json)|

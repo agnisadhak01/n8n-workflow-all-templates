@@ -1,4 +1,4 @@
-# trending : 15
+# trending : 17
 
 |id|file|
 |----|----|
@@ -17,3 +17,5 @@
 |9641|[9641_YouTube_Competitor_Video_Analytics_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9641_YouTube_Competitor_Video_Analytics_to_Google_Sheets.json)|
 |10303|[10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json)|
 |11175|[11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11175_Auto-Generate_Trending_Merchandise_on_Printify_with_GPT-4o__Stable_Diffusion___Google_Trends.json)|
+|11706|[11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json)|
+|11856|[11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11856_Automate_Professional_LinkedIn_Posts_with_OpenAI_GPT__DALL-E_and_Trending_Topics.json)|

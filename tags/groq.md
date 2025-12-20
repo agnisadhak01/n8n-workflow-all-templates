@@ -1,4 +1,4 @@
-# groq : 25
+# groq : 27
 
 |id|file|
 |----|----|
@@ -27,3 +27,5 @@
 |10776|[10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10776_Daily_Finance___Stock_Market_News_Analysis_with_OpenAI__Groq___Email_Reports.json)|
 |10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|
 |11141|[11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11141_Complete_AI_Safety_Suite__Test_9_Guardrail_Layers_with_Groq_LLM.json)|
+|11566|[11566_Automated_RSS_to_Telegram_Publisher_with_Groq_AI_Rewriting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11566_Automated_RSS_to_Telegram_Publisher_with_Groq_AI_Rewriting.json)|
+|11787|[11787_Play_RPG_with_Groq_Dungeon_Master_via_Telegram_voice_messages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11787_Play_RPG_with_Groq_Dungeon_Master_via_Telegram_voice_messages.json)|

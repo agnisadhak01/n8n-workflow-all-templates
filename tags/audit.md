@@ -1,4 +1,4 @@
-# audit : 26
+# audit : 29
 
 |id|file|
 |----|----|
@@ -28,3 +28,6 @@
 |9982|[9982_Weekly_SEO_Watchlist_Audit_to_Google_Sheets_with_Gemini_and_Decodo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9982_Weekly_SEO_Watchlist_Audit_to_Google_Sheets_with_Gemini_and_Decodo.json)|
 |10112|[10112_Automated_Weekly_Security_Audit_Reports_with_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10112_Automated_Weekly_Security_Audit_Reports_with_Gmail_Delivery.json)|
 |10761|[10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10761_Contract_Extraction__Risk_Analysis___Compliance_Automation_with_GPT-4.1_Mini.json)|
+|11401|[11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json)|
+|11488|[11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11488_Monitor_Zoho_CRM_Changes___Alert_on_Suspicious_Activity_with_Google_Sheets.json)|
+|11775|[11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json)|

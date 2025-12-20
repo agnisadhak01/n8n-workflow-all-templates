@@ -1,4 +1,4 @@
-# qa : 5
+# qa : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |5831|[5831_Automate_Support_QA_Reviews_with_Intercom__GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5831_Automate_Support_QA_Reviews_with_Intercom__GPT_and_Google_Sheets.json)|
 |9050|[9050_Build_a_Document_QA_System_with_Google_Drive__Pinecone__and_OpenAI_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9050_Build_a_Document_QA_System_with_Google_Drive__Pinecone__and_OpenAI_RAG.json)|
 |10326|[10326_Generate_QA_Test_Cases_from_Figma_Designs_to_Google_Sheets_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10326_Generate_QA_Test_Cases_from_Figma_Designs_to_Google_Sheets_using_GPT-4o-mini.json)|
+|11697|[11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json)|

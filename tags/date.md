@@ -1,4 +1,4 @@
-# date : 12
+# date : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |7074|[7074_Multi-Platform_Source_Discovery_with_SerpAPI__DuckDuckGo__GitHub__Reddit___Bluesky.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7074_Multi-Platform_Source_Discovery_with_SerpAPI__DuckDuckGo__GitHub__Reddit___Bluesky.json)|
 |8948|[8948_Automatic_Invoice_Due_Date_Reminders_from_Stripe_to_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8948_Automatic_Invoice_Due_Date_Reminders_from_Stripe_to_Google_Calendar.json)|
 |10232|[10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json)|
+|11485|[11485_Track___Alert_Team_Holidays_Across_Countries_with_Nager.Date_API__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11485_Track___Alert_Team_Holidays_Across_Countries_with_Nager.Date_API__Notion_and_Slack.json)|

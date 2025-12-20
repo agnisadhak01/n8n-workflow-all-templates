@@ -1,4 +1,4 @@
-# employee : 19
+# employee : 21
 
 |id|file|
 |----|----|
@@ -21,3 +21,5 @@
 |10189|[10189_Employee_Time_Tracking_System_with_GPT-4o_Reports___Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10189_Employee_Time_Tracking_System_with_GPT-4o_Reports___Gmail_Notifications.json)|
 |10222|[10222_Automate_Employee_Recognition_with_Slack__Sheets__Gmail___Optional_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10222_Automate_Employee_Recognition_with_Slack__Sheets__Gmail___Optional_GPT-4.json)|
 |10430|[10430_Automate_Employee_Birthdays___Work_Anniversaries_with_Google_Gemini_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10430_Automate_Employee_Birthdays___Work_Anniversaries_with_Google_Gemini_and_Slack.json)|
+|11625|[11625_Automated_Employee_Attendance___Salary_Deduction_with_Google_Sheets_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11625_Automated_Employee_Attendance___Salary_Deduction_with_Google_Sheets_and_GPT-4.json)|
+|11855|[11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11855_MCP_Employee_Performance___Productivity_Insights_Engine_with_Automated_Manager.json)|

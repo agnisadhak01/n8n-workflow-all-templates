@@ -1,4 +1,4 @@
-# patient : 8
+# patient : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |7317|[7317_Automated_Patient_Vitals_Monitoring___Alerts_with_Philips_IntelliVue___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7317_Automated_Patient_Vitals_Monitoring___Alerts_with_Philips_IntelliVue___Google_Sheets.json)|
 |7971|[7971_Automated_Patient_Response_System_with_GPT-3.5_and_Google_Sheets_for_Dental_Clinics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7971_Automated_Patient_Response_System_with_GPT-3.5_and_Google_Sheets_for_Dental_Clinics.json)|
 |10771|[10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10771_Patient_Pre-registration_System_with_Email_Verification___QR_Health_Cards_using_Google_Drive.json)|
+|11649|[11649_Post-Surgery_Patient_Triage___Follow-up_System_with_Gemini_AI__Telegram___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11649_Post-Surgery_Patient_Triage___Follow-up_System_with_Gemini_AI__Telegram___Google_Suite.json)|

@@ -1,4 +1,4 @@
-# markets : 5
+# markets : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6090|[6090_Weekly_Financial_Markets_Report__Generate_with_Gemini_AI_for_Telegram___Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6090_Weekly_Financial_Markets_Report__Generate_with_Gemini_AI_for_Telegram___Discord.json)|
 |7701|[7701_Real-Time_Stock_Monitor_with_Smart_Alerts_for_Indian___US_Markets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7701_Real-Time_Stock_Monitor_with_Smart_Alerts_for_Indian___US_Markets.json)|
 |7742|[7742_Daily_Financial_Markets_Summaries_with_SerpAPI_and_OpenAI_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7742_Daily_Financial_Markets_Summaries_with_SerpAPI_and_OpenAI_GPT.json)|
+|11514|[11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json)|

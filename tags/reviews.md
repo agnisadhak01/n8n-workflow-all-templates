@@ -1,4 +1,4 @@
-# reviews : 35
+# reviews : 36
 
 |id|file|
 |----|----|
@@ -37,3 +37,4 @@
 |10869|[10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10869_Transform_Voice_Notes_into_Business_Reviews_with_Groq_Whisper___GPT-5_to_Google_Slides.json)|
 |11053|[11053_Monitor___Respond_to_Google_Maps_Reviews_using_AI__Apify__Slack__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11053_Monitor___Respond_to_Google_Maps_Reviews_using_AI__Apify__Slack__and_Sheets.json)|
 |11076|[11076_Analyze_Customer_Reviews_from_5_Platforms_with_Thordata_Scraping___GPT-4.1_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11076_Analyze_Customer_Reviews_from_5_Platforms_with_Thordata_Scraping___GPT-4.1_Reports.json)|
+|11381|[11381_Monitor_Google_Maps_Reviews_with_GPT-4o_Sentiment_Analysis___Telegram_RAG_Agent_using_Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11381_Monitor_Google_Maps_Reviews_with_GPT-4o_Sentiment_Analysis___Telegram_RAG_Agent_using_Pinecone.json)|

@@ -1,4 +1,4 @@
-# reports : 172
+# reports : 178
 
 |id|file|
 |----|----|
@@ -174,3 +174,9 @@
 |11195|[11195_Generate_Security_Vulnerability_Reports_with_Google_Dorks__SerpAPI_and_PDF4me.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11195_Generate_Security_Vulnerability_Reports_with_Google_Dorks__SerpAPI_and_PDF4me.json)|
 |11222|[11222_Generate_Weekly_Cold_Email_Performance_Reports_with_ManyReach__GPT-4.1___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11222_Generate_Weekly_Cold_Email_Performance_Reports_with_ManyReach__GPT-4.1___Slack.json)|
 |11232|[11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json)|
+|11339|[11339_Record_Transactions___Generate_Budget_Reports_with_Gemini_AI__Telegram___Firefly_III.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11339_Record_Transactions___Generate_Budget_Reports_with_Gemini_AI__Telegram___Firefly_III.json)|
+|11345|[11345_Daily_Team_Progress_Checks___Reports_with_Slack__ChatGPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11345_Daily_Team_Progress_Checks___Reports_with_Slack__ChatGPT_and_Google_Sheets.json)|
+|11483|[11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json)|
+|11612|[11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json)|
+|11772|[11772_Generate_AI_Stock_Reports_w__Fundamental__Technical____News_Analysis__Free_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11772_Generate_AI_Stock_Reports_w__Fundamental__Technical____News_Analysis__Free_APIs.json)|
+|11775|[11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json)|

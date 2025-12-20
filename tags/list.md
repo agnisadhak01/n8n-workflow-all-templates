@@ -1,4 +1,4 @@
-# list : 23
+# list : 24
 
 |id|file|
 |----|----|
@@ -25,3 +25,4 @@
 |9252|[9252_Validate_Email_Lists_Weekly_with_Google_Sheets__VerifiEmail_and_Gmail_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9252_Validate_Email_Lists_Weekly_with_Google_Sheets__VerifiEmail_and_Gmail_Reports.json)|
 |10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|
 |11017|[11017_Email_List_Validation_and_Cleanup_with_Google_Sheets_and_VerifiEmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11017_Email_List_Validation_and_Cleanup_with_Google_Sheets_and_VerifiEmail.json)|
+|11604|[11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11604_Interactive_Recruitment_Customer_Service_with_WhatsApp__Google_Sheets_CRM___Notifications.json)|

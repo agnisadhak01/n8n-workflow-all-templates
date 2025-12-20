@@ -1,4 +1,4 @@
-# router : 13
+# router : 15
 
 |id|file|
 |----|----|
@@ -15,3 +15,5 @@
 |10113|[10113_Automated_Nicereply_Feedback_Routing_to_MS_Teams_by_Team_and_Sentiment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10113_Automated_Nicereply_Feedback_Routing_to_MS_Teams_by_Team_and_Sentiment.json)|
 |10287|[10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json)|
 |11198|[11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json)|
+|11613|[11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json)|
+|11838|[11838_Slack_Workflow_Router__AI-Powered_Workflow_Selection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11838_Slack_Workflow_Router__AI-Powered_Workflow_Selection.json)|

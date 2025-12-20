@@ -1,4 +1,4 @@
-# contacts : 65
+# contacts : 67
 
 |id|file|
 |----|----|
@@ -67,3 +67,5 @@
 |9275|[9275_Stripe___Pipedrive__Auto_Create_Contacts_and_Deals_from_Payments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9275_Stripe___Pipedrive__Auto_Create_Contacts_and_Deals_from_Payments.json)|
 |9695|[9695_Sync_NetSuite_Customers_to_Salesforce_Accounts___Contacts_with_Auto_Upserts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9695_Sync_NetSuite_Customers_to_Salesforce_Accounts___Contacts_with_Auto_Upserts.json)|
 |9700|[9700_Capture_and_Store_CRM_Contacts_with_Telegram___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9700_Capture_and_Store_CRM_Contacts_with_Telegram___Gemini_AI.json)|
+|11408|[11408_Lead_Scoring___Auto-Assignment_with_GPT-4_and_GoHighLevel___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11408_Lead_Scoring___Auto-Assignment_with_GPT-4_and_GoHighLevel___Slack_Alerts.json)|
+|11593|[11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11593_Sync_Zoom_Webinar_Attendees_to_Mailchimp_with_Double_Opt-in_and_Email_Filtering.json)|

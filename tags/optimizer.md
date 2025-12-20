@@ -1,4 +1,4 @@
-# optimizer : 7
+# optimizer : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |6962|[6962_Landing_Page_Conversion_Optimizer_with_Gemini_2.5-pro___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6962_Landing_Page_Conversion_Optimizer_with_Gemini_2.5-pro___Telegram.json)|
 |7606|[7606_AI_System_Prompt_Generator___Optimizer__n8n___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7606_AI_System_Prompt_Generator___Optimizer__n8n___OpenAI.json)|
 |8637|[8637_Match_CVs_to_Job_Descriptions_with_Gemini_Analysis___Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8637_Match_CVs_to_Job_Descriptions_with_Gemini_Analysis___Email_Reports.json)|
+|11612|[11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json)|

@@ -1,4 +1,4 @@
-# external : 8
+# external : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8485|[8485_Generate_Filtered_Calendar_Views_in_Baserow_with_External_Calendar_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8485_Generate_Filtered_Calendar_Views_in_Baserow_with_External_Calendar_Integration.json)|
 |9369|[9369_Create_a_Simple_Data_Caching_System_with_No_External_Dependencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9369_Create_a_Simple_Data_Caching_System_with_No_External_Dependencies.json)|
 |10740|[10740_Automate_External_Attack_Surface_Mapping_with_Shodan_API_and_DNS_Lookups.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10740_Automate_External_Attack_Surface_Mapping_with_Shodan_API_and_DNS_Lookups.json)|
+|11867|[11867_Extract_transcripts_from_external_YouTube_Videos_using_YouTube_Transcript_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11867_Extract_transcripts_from_external_YouTube_Videos_using_YouTube_Transcript_API.json)|

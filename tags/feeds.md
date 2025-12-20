@@ -1,4 +1,4 @@
-# feeds : 29
+# feeds : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |10196|[10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10196_Create_a_Personalized_Daily_Newsletter_with_Google_Gemini_AI_and_RSS_Feeds.json)|
 |10311|[10311_Transform_RSS_Feeds_into_Blog_Articles_with_GPT-4__Human_Review___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10311_Transform_RSS_Feeds_into_Blog_Articles_with_GPT-4__Human_Review___Google_Docs.json)|
 |10424|[10424_Track_Government_Grants_with_OpenRouter_AI__RSS_Feeds__Google_Sheets___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10424_Track_Government_Grants_with_OpenRouter_AI__RSS_Feeds__Google_Sheets___Gmail.json)|
+|11813|[11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json)|

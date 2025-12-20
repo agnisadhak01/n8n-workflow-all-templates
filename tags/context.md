@@ -1,4 +1,4 @@
-# context : 24
+# context : 25
 
 |id|file|
 |----|----|
@@ -26,3 +26,4 @@
 |10828|[10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10828_Smart_Chat_Assistant_with_GPT-5__Google_Sheets__and_Pinecone_RAG_Memory.json)|
 |11147|[11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|
 |11148|[11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11148_Send_Pre-Meeting_Attendee_Context_with_OpenAI__Google_Calendar__and_Slack.json)|
+|11728|[11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|

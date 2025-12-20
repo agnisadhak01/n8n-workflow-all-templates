@@ -1,4 +1,4 @@
-# profiles : 33
+# profiles : 35
 
 |id|file|
 |----|----|
@@ -35,3 +35,5 @@
 |9153|[9153_Collect_LinkedIn_Profiles_with_SerpAPI_Google_Search_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9153_Collect_LinkedIn_Profiles_with_SerpAPI_Google_Search_and_Sheets.json)|
 |9945|[9945_Scrape_Detailed_GitHub_Profiles_to_Google_Sheets_Using_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9945_Scrape_Detailed_GitHub_Profiles_to_Google_Sheets_Using_BrowserAct.json)|
 |10163|[10163_Create_Verified_User_Profiles_with_Email_Validation__PDF_Generation___Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10163_Create_Verified_User_Profiles_with_Email_Validation__PDF_Generation___Gmail_Delivery.json)|
+|11693|[11693_Scrape_LinkedIn_profiles_into_Google_Sheets_using_Google_Custom_Search.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11693_Scrape_LinkedIn_profiles_into_Google_Sheets_using_Google_Custom_Search.json)|
+|11709|[11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json)|

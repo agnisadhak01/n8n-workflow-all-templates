@@ -1,4 +1,4 @@
-# repurpose : 8
+# repurpose : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |8800|[8800_Automate_RSS_News_to_Multi-Platform_Social_Media_Publishing_via_PostPulse.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8800_Automate_RSS_News_to_Multi-Platform_Social_Media_Publishing_via_PostPulse.json)|
 |9395|[9395_Repurpose_Reddit_Posts_into_AI_Tweets_with_Gemini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9395_Repurpose_Reddit_Posts_into_AI_Tweets_with_Gemini_and_Google_Sheets.json)|
 |9780|[9780_Cross-Post_Tiktok_Videos_to_Multiple_Social_Media_Platforms_with_RSS___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9780_Cross-Post_Tiktok_Videos_to_Multiple_Social_Media_Platforms_with_RSS___Blotato.json)|
+|11599|[11599_Repurpose_Blog___YouTube_Content_to_Social_Media_with_GPT-5.1_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11599_Repurpose_Blog___YouTube_Content_to_Social_Media_with_GPT-5.1_and_Google_Docs.json)|
+|11645|[11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json)|

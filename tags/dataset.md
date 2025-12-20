@@ -1,4 +1,4 @@
-# dataset : 7
+# dataset : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |5013|[5013_Track_n8n_Workflow_Changes_Over_Time_with_Compare_Dataset___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5013_Track_n8n_Workflow_Changes_Over_Time_with_Compare_Dataset___Google_Sheets.json)|
 |7154|[7154_Beginner_AI_Dataset_Generator_using_OpenAI___LangChain_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7154_Beginner_AI_Dataset_Generator_using_OpenAI___LangChain_in_n8n.json)|
 |7336|[7336_Automate_Power_BI_Dataset_Refreshes_with_History_Monitoring.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7336_Automate_Power_BI_Dataset_Refreshes_with_History_Monitoring.json)|
+|11748|[11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json)|

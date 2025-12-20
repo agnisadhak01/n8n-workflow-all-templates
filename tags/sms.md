@@ -1,4 +1,4 @@
-# sms : 43
+# sms : 45
 
 |id|file|
 |----|----|
@@ -45,3 +45,5 @@
 |9846|[9846_Travel_Itinerary_Reminders_with_Google_Calendar__Excel__and_SMS_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9846_Travel_Itinerary_Reminders_with_Google_Calendar__Excel__and_SMS_Email_Alerts.json)|
 |9865|[9865_Monitor_PKI_Certificates___CRLs_for_Expiration_with_Telegram___SMS_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9865_Monitor_PKI_Certificates___CRLs_for_Expiration_with_Telegram___SMS_Alerts.json)|
 |10134|[10134_Get_Daily_Calendar_Summaries_via_SMS_with_Google_Calendar__Twilio_and_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10134_Get_Daily_Calendar_Summaries_via_SMS_with_Google_Calendar__Twilio_and_Claude_AI.json)|
+|11711|[11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11711_AI-Powered_Multi-Channel_Customer_Journey_with_Email__SMS___Retargeting_using_OpenAI.json)|
+|11805|[11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json)|

@@ -1,4 +1,4 @@
-# the : 178
+# the : 179
 
 |id|file|
 |----|----|
@@ -180,3 +180,4 @@
 |11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|
 |11197|[11197_Build_a_RAG_system_by_uploading_PDFs_to_the_Google_Gemini_File_Search_Store.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11197_Build_a_RAG_system_by_uploading_PDFs_to_the_Google_Gemini_File_Search_Store.json)|
 |11300|[11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11300_Turn_NASA_Astronomy_Pictures_into_Matching_Spotify_Tracks_using_GPT-4o_Vision.json)|
+|11536|[11536_The_Blog_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11536_The_Blog_Agent.json)|

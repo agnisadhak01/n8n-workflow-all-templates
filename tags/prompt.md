@@ -1,4 +1,4 @@
-# prompt : 26
+# prompt : 29
 
 |id|file|
 |----|----|
@@ -28,3 +28,6 @@
 |9853|[9853_Automated_AI_Media_Creation_with_MagicHour_AI_and_GPT-4_Prompt_Optimization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9853_Automated_AI_Media_Creation_with_MagicHour_AI_and_GPT-4_Prompt_Optimization.json)|
 |10180|[10180_AI_Blog_Post_Generator_with_Scheduled_or_Prompt-based_Content_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10180_AI_Blog_Post_Generator_with_Scheduled_or_Prompt-based_Content_for_WordPress.json)|
 |11194|[11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11194_AI_Prompt_Hub__Notion___ChatGPT___Auto-Find_the_Right_Prompt_with_Embeddings.json)|
+|11361|[11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json)|
+|11537|[11537_Convert_CDP_Network_Topology_to_Lucidchart_Prompts_with_AWX_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11537_Convert_CDP_Network_Topology_to_Lucidchart_Prompts_with_AWX_and_Gemini_AI.json)|
+|11748|[11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json)|

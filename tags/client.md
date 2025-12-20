@@ -1,4 +1,4 @@
-# client : 50
+# client : 55
 
 |id|file|
 |----|----|
@@ -52,3 +52,8 @@
 |10441|[10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10441_Weekly_Facebook_Ads_Performance_Reports_with_AI-Powered_Analysis___Gmail_Delivery.json)|
 |10777|[10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10777_Client_Proposal_Generator_with_GPT-4o__Tally.so__and_Google_Slides_for_Agencies.json)|
 |11186|[11186_Automate_Real_Estate_Client_Folder_Creation_with_Google_Sheets_and_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11186_Automate_Real_Estate_Client_Folder_Creation_with_Google_Sheets_and_Drive.json)|
+|11429|[11429_Automate_client_onboarding_across_Google_Drive__Slack__Notion___Gmail_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11429_Automate_client_onboarding_across_Google_Drive__Slack__Notion___Gmail_with_GPT-4o-mini.json)|
+|11430|[11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json)|
+|11586|[11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11586_Automate_Client_Lifecycle__Lead_Intake_to_Onboarding_with_Airtable__Notion___Google_Calendar.json)|
+|11638|[11638_Bulk_Auto-Publish_Videos_to_Social_Networks_with_AI_Copy_and_Client_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11638_Bulk_Auto-Publish_Videos_to_Social_Networks_with_AI_Copy_and_Client_Approval.json)|
+|11666|[11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json)|

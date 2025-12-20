@@ -1,4 +1,4 @@
-# action : 8
+# action : 10
 
 |id|file|
 |----|----|
@@ -10,3 +10,5 @@
 |9146|[9146_AI-Powered_Meeting_Minutes_with_GPT-4__Task_Assignment___Multichannel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9146_AI-Powered_Meeting_Minutes_with_GPT-4__Task_Assignment___Multichannel_Distribution.json)|
 |9284|[9284_Automate_Meeting_Summaries___Action_Items_with_Google_Meet__AssemblyAI___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9284_Automate_Meeting_Summaries___Action_Items_with_Google_Meet__AssemblyAI___Claude_AI.json)|
 |10286|[10286_AI_Meeting_Summary___Action_Item_Tracker_with_Notion__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10286_AI_Meeting_Summary___Action_Item_Tracker_with_Notion__Slack__and_Gmail.json)|
+|11409|[11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json)|
+|11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|

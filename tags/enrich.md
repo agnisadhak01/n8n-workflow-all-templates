@@ -1,4 +1,4 @@
-# enrich : 64
+# enrich : 65
 
 |id|file|
 |----|----|
@@ -66,3 +66,4 @@
 |10668|[10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10668_Enrich_LinkedIn_Leads_with_Apify_using_Google_Sheets.json)|
 |10760|[10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10760_Scrape___Enrich_Google_Maps_Leads_with_Decodo_API_and_Gemini_2.5_Flash.json)|
 |11258|[11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11258_Enrich___Qualify_Leads_with_Azure_OpenAI__Bright_Data_MCP___HubSpot_CRM.json)|
+|11493|[11493_Qualify___Enrich_Leads_with_GPT-4_and_LinkedIn_Data_for_Intelligent_Routing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11493_Qualify___Enrich_Leads_with_GPT-4_and_LinkedIn_Data_for_Intelligent_Routing.json)|

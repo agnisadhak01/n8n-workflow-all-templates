@@ -1,4 +1,4 @@
-# tiktok : 70
+# tiktok : 76
 
 |id|file|
 |----|----|
@@ -72,3 +72,9 @@
 |11091|[11091_Filter_TikTok_Real_Estate_Videos_for_Couples_with_AI__Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11091_Filter_TikTok_Real_Estate_Videos_for_Couples_with_AI__Apify_and_Google_Sheets.json)|
 |11138|[11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11138_Generate_AI_Photos_with_Gemini___Auto-Post_to_Facebook__Instagram___X_with_Approval.json)|
 |11298|[11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11298_AI-Powered_Content_Factory__RSS_to_Blog__Instagram___TikTok_with_Slack_Approval.json)|
+|11411|[11411_AI-Powered_Viral_Trend_Analysis_for_TikTok_and_Instagram_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11411_AI-Powered_Viral_Trend_Analysis_for_TikTok_and_Instagram_with_GPT-4.json)|
+|11483|[11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11483_Generate_Automated_Content_Performance_Reports_from_YouTube__TikTok_and_Skool_with_AI.json)|
+|11505|[11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11505_Transform_Podcasts_into_Viral_Social_Media_Clips_with_Gemini_AI_and_Multi-Platform_Posting.json)|
+|11546|[11546_Telegram_Bot__Extract___Store_TikTok_and_LinkedIn_Data_to_Google_Sheets_with_Dumpling_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11546_Telegram_Bot__Extract___Store_TikTok_and_LinkedIn_Data_to_Google_Sheets_with_Dumpling_AI.json)|
+|11573|[11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json)|
+|11615|[11615_Track_TikTok_Ads_Library_with_Apify__Google_Sheets___Slack_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11615_Track_TikTok_Ads_Library_with_Apify__Google_Sheets___Slack_Telegram_Notifications.json)|

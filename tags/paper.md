@@ -1,4 +1,4 @@
-# paper : 10
+# paper : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |8847|[8847_Daily_RAG_Research_Paper_Hub_with_arXiv__Gemini_AI__and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8847_Daily_RAG_Research_Paper_Hub_with_arXiv__Gemini_AI__and_Notion.json)|
 |9994|[9994_Automated_Academic_Paper_Metadata___Variable_Extraction_with_Gemini_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9994_Automated_Academic_Paper_Metadata___Variable_Extraction_with_Gemini_to_Google_Sheets.json)|
 |10314|[10314_Qwen-Max__Journal_Paper_Generation_from_Title_Abstract.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10314_Qwen-Max__Journal_Paper_Generation_from_Title_Abstract.json)|
+|11782|[11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json)|

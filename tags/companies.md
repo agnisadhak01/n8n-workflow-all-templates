@@ -1,4 +1,4 @@
-# companies : 18
+# companies : 21
 
 |id|file|
 |----|----|
@@ -20,3 +20,6 @@
 |10213|[10213_Automate_Email_Discovery_for_Companies_with_Anymail_Finder__Google_Sheets___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10213_Automate_Email_Discovery_for_Companies_with_Anymail_Finder__Google_Sheets___Telegram_Alerts.json)|
 |10707|[10707_Track_Companies_House_Filing_Deadlines_with_Google_Sheets__Gmail___Interactive_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10707_Track_Companies_House_Filing_Deadlines_with_Google_Sheets__Gmail___Interactive_Alerts.json)|
 |11189|[11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11189_Find___Score_LinkedIn_Leads_with_GPT-4_AI_and_Export_to_Google_Sheets_CRM.json)|
+|11709|[11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11709_Generate_Ideal_Customer_Profiles___Find_Lookalike_Companies_in_Germany.json)|
+|11749|[11749_Monitor_German_Company_Register___Financial_Events_with_Implisense_API___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11749_Monitor_German_Company_Register___Financial_Events_with_Implisense_API___Notifications.json)|
+|11750|[11750_Regional_Prospecting_for_registered_Companies_in_Germany.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11750_Regional_Prospecting_for_registered_Companies_in_Germany.json)|

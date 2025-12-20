@@ -1,4 +1,4 @@
-# assignments : 7
+# assignments : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |9409|[9409_Automate_Random_Chore_Assignments_with_Google_Sheets_and_Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9409_Automate_Random_Chore_Assignments_with_Google_Sheets_and_Gmail_Notifications.json)|
 |10310|[10310_Automate_Peer_Review_Assignments_with_GPT-4-nano__Slack_and_Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10310_Automate_Peer_Review_Assignments_with_GPT-4-nano__Slack_and_Email_Notifications.json)|
 |10312|[10312_Automate_Peer_Review_Assignments_with_Sonar_Pro_AI___Multi-Channel_Deadline_Reminders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10312_Automate_Peer_Review_Assignments_with_Sonar_Pro_AI___Multi-Channel_Deadline_Reminders.json)|
+|11746|[11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json)|

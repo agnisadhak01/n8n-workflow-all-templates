@@ -1,4 +1,4 @@
-# form : 106
+# form : 110
 
 |id|file|
 |----|----|
@@ -108,3 +108,7 @@
 |10435|[10435_Create_Long-Form_Documents_from_Simple_Titles_with_GPT-5_and_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10435_Create_Long-Form_Documents_from_Simple_Titles_with_GPT-5_and_Google_Docs.json)|
 |10586|[10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json)|
 |11079|[11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json)|
+|11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
+|11643|[11643_Manage_Contact_Form_Submissions_with_Google_Sheets__Slack_Alerts___Gmail_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11643_Manage_Contact_Form_Submissions_with_Google_Sheets__Slack_Alerts___Gmail_Replies.json)|
+|11645|[11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json)|
+|11666|[11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11666_Complete_Client_Onboarding__Form_to_Monday.com__Google_Drive___Email.json)|

@@ -1,4 +1,4 @@
-# infranodus : 13
+# infranodus : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |6245|[6245_Analyze_and_Optimize_Top_Website_Content_using_Google_Analytics__Firecrawl_and_InfraNodus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6245_Analyze_and_Optimize_Top_Website_Content_using_Google_Analytics__Firecrawl_and_InfraNodus.json)|
 |6818|[6818_Build_an_AI_Chatbot_with_InfraNodus_Knowledge_Graph_for_Enhanced_Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6818_Build_an_AI_Chatbot_with_InfraNodus_Knowledge_Graph_for_Enhanced_Responses.json)|
 |6887|[6887_Enhance_AI_Chatbot_Responses_with_InfraNodus_Knowledge_Graph_Reasoning___GraphRAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6887_Enhance_AI_Chatbot_Responses_with_InfraNodus_Knowledge_Graph_Reasoning___GraphRAG.json)|
+|11570|[11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json)|

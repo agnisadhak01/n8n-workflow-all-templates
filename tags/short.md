@@ -1,4 +1,4 @@
-# short : 14
+# short : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |9598|[9598_Create___Publish_YouTube_Shorts_on_Historical_What-Ifs_with_GPT-4o___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9598_Create___Publish_YouTube_Shorts_on_Historical_What-Ifs_with_GPT-4o___Blotato.json)|
 |9861|[9861_Generate_and_Manage_Short_Links_with_GPT-4.1_and_Data_Storage.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9861_Generate_and_Manage_Short_Links_with_GPT-4.1_and_Data_Storage.json)|
 |10308|[10308_Generate_AI_Short-Form_Videos_with_Creatomate__ElevenLabs___Pexels_Stock.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10308_Generate_AI_Short-Form_Videos_with_Creatomate__ElevenLabs___Pexels_Stock.json)|
+|11645|[11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11645_Generate_Short-form_Clips_from_YouTube_Videos_with_GPT-4o__Grok___Airtable.json)|

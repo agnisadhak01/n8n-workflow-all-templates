@@ -1,4 +1,4 @@
-# platforms : 27
+# platforms : 29
 
 |id|file|
 |----|----|
@@ -29,3 +29,5 @@
 |10090|[10090_Automate_RSS_to_Social_Media_Pipeline_with_AI__Airtable___GetLate_for_Multiple_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10090_Automate_RSS_to_Social_Media_Pipeline_with_AI__Airtable___GetLate_for_Multiple_Platforms.json)|
 |10298|[10298_Publishing_Videos_Across_Multiple_Platforms_with_Blotato__Instagram__YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10298_Publishing_Videos_Across_Multiple_Platforms_with_Blotato__Instagram__YouTube.json)|
 |11076|[11076_Analyze_Customer_Reviews_from_5_Platforms_with_Thordata_Scraping___GPT-4.1_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11076_Analyze_Customer_Reviews_from_5_Platforms_with_Thordata_Scraping___GPT-4.1_Reports.json)|
+|11677|[11677_Publish_RSS_Articles_to_WordPress_and_Social_Media_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11677_Publish_RSS_Articles_to_WordPress_and_Social_Media_Platforms.json)|
+|11748|[11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json)|

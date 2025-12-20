@@ -1,4 +1,4 @@
-# coding : 4
+# coding : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |5731|[5731_Learn_JavaScript_Coding_with_an_Interactive_RPG-Style_Tutorial_Game.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5731_Learn_JavaScript_Coding_with_an_Interactive_RPG-Style_Tutorial_Game.json)|
 |9500|[9500_Standardized_Workflow_Design_Pattern_with_Color-Coding_System_for_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9500_Standardized_Workflow_Design_Pattern_with_Color-Coding_System_for_Teams.json)|
 |11147|[11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11147_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|
+|11728|[11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|

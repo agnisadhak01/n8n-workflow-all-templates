@@ -1,4 +1,4 @@
-# builder : 12
+# builder : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |7529|[7529_Transform_Cloud_Documentation_into_Security_Baselines_with_OpenAI_and_GDrive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7529_Transform_Cloud_Documentation_into_Security_Baselines_with_OpenAI_and_GDrive.json)|
 |9345|[9345_Automate_Lead_Ranking___Task_Creation_with_Google_Sheets___ClickUp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9345_Automate_Lead_Ranking___Task_Creation_with_Google_Sheets___ClickUp.json)|
 |9635|[9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9635_Integrate_Google_Workspace_with_ChatGPT___OpenAI_Agent_Builder_using_MCP_Bridge.json)|
+|11361|[11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11361_Interactive_Structured_Prompt_Builder_with_GPT-4.1-mini_and_Guided_Questions.json)|

@@ -1,4 +1,4 @@
-# enhance : 12
+# enhance : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |8726|[8726_Enhance_Real-Estate_Photos_with_Google_Nano_Banana_AI_via_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8726_Enhance_Real-Estate_Photos_with_Google_Nano_Banana_AI_via_Telegram_Bot.json)|
 |9390|[9390_Enhance_Product_Photos_with_Google_Gemini_AI_for_E-commerce_Catalog.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9390_Enhance_Product_Photos_with_Google_Gemini_AI_for_E-commerce_Catalog.json)|
 |9442|[9442_Enhance_Google_Drive_Images_with_Gemini_2.5_Flash_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9442_Enhance_Google_Drive_Images_with_Gemini_2.5_Flash_AI.json)|
+|11807|[11807_Enhance_Customer_Support_with_RAG-Powered_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11807_Enhance_Customer_Support_with_RAG-Powered_AI.json)|

@@ -1,4 +1,4 @@
-# gold : 5
+# gold : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |6265|[6265_Automated_Gold_Price_Threshold_Alerts_via_LINE_with_Web_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6265_Automated_Gold_Price_Threshold_Alerts_via_LINE_with_Web_Scraping.json)|
 |6520|[6520_Monitor_Egyptian_Gold___Currency_Prices_with_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6520_Monitor_Egyptian_Gold___Currency_Prices_with_Telegram_Notifications.json)|
 |10379|[10379_Gold_Market_Prediction_System_with_Perplexity_Sonar-Pro__FRED_Data__and_WordPress_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10379_Gold_Market_Prediction_System_with_Perplexity_Sonar-Pro__FRED_Data__and_WordPress_Reporting.json)|
+|11439|[11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11439_Forex___Gold_Trading_Signal_Handler_for_MT5_using_Webhooks__telegram_discord.json)|

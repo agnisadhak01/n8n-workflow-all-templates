@@ -1,4 +1,4 @@
-# generated : 49
+# generated : 50
 
 |id|file|
 |----|----|
@@ -51,3 +51,4 @@
 |10084|[10084_Monitor_Emails___Send_AI-Generated_Auto-Replies_with_Ollama___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10084_Monitor_Emails___Send_AI-Generated_Auto-Replies_with_Ollama___Telegram_Alerts.json)|
 |11083|[11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json)|
 |11262|[11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json)|
+|11791|[11791_Automate_RSS_to_Instagram_with_AI-Generated_Content_and_Cloudinary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11791_Automate_RSS_to_Instagram_with_AI-Generated_Content_and_Cloudinary.json)|

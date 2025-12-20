@@ -1,4 +1,4 @@
-# rankings : 10
+# rankings : 11
 
 |id|file|
 |----|----|
@@ -12,3 +12,4 @@
 |8036|[8036_Track_Play_Store_App_Rankings_with_SerpApi__Baserow___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8036_Track_Play_Store_App_Rankings_with_SerpApi__Baserow___Slack_Alerts.json)|
 |8225|[8225_Track_Weekly_Keyword_Rankings_with_Google_SERP__Serper_API__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8225_Track_Weekly_Keyword_Rankings_with_Google_SERP__Serper_API__and_Google_Sheets.json)|
 |10136|[10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10136_Track_Daily_SEO_Rankings_with_DataForSEO_and_Google_Sheets.json)|
+|11630|[11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11630_Track_SERP_Rankings___Discover_Keywords_using_DataForSEO___Airtable.json)|

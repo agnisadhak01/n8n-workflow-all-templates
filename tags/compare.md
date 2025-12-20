@@ -1,4 +1,4 @@
-# compare : 17
+# compare : 18
 
 |id|file|
 |----|----|
@@ -19,3 +19,4 @@
 |9788|[9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json)|
 |10287|[10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10287_Multi-AI_Agent_Router__Compare_OpenAI__Anthropic___Groq_Responses_with_Webhooks.json)|
 |10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|
+|11618|[11618_Compare_GPT-4__Claude___Gemini_Responses_with_Contextual_AI_s_LMUnit_Evaluation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11618_Compare_GPT-4__Claude___Gemini_Responses_with_Contextual_AI_s_LMUnit_Evaluation.json)|

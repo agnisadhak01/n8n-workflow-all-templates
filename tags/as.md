@@ -1,4 +1,4 @@
-# as : 29
+# as : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |8480|[8480_Generate_Business_Proposals_with_Azure_GPT-4o___Save_as_Gmail_Drafts_from_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8480_Generate_Business_Proposals_with_Azure_GPT-4o___Save_as_Gmail_Drafts_from_Sheets.json)|
 |9369|[9369_Create_a_Simple_Data_Caching_System_with_No_External_Dependencies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9369_Create_a_Simple_Data_Caching_System_with_No_External_Dependencies.json)|
 |9785|[9785_Exporting_Tawk.to_Help_Center_Articles_to_Google_Drive_as_Markdown_Files.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9785_Exporting_Tawk.to_Help_Center_Articles_to_Google_Drive_as_Markdown_Files.json)|
+|11736|[11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json)|

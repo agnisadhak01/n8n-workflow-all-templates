@@ -1,4 +1,4 @@
-# retrieve : 14
+# retrieve : 15
 
 |id|file|
 |----|----|
@@ -16,3 +16,4 @@
 |5566|[5566_Search_and_Retrieve_eBay_Product_Data_with_Catalog_API_for_AI_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5566_Search_and_Retrieve_eBay_Product_Data_with_Catalog_API_for_AI_Agents.json)|
 |6671|[6671_Retrieve___Share_NFL_Fantasy_Football_Draft_Results_from_Sleeper_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6671_Retrieve___Share_NFL_Fantasy_Football_Draft_Results_from_Sleeper_to_Telegram.json)|
 |9318|[9318_Retrieve_and_Filter_Kagi_News_by_Category.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9318_Retrieve_and_Filter_Kagi_News_by_Category.json)|
+|11570|[11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11570_Retrieve_Answers_from_Knowledge_Base_with_InfraNodus_GraphRAG_Chatbot.json)|

@@ -1,4 +1,4 @@
-# local : 38
+# local : 39
 
 |id|file|
 |----|----|
@@ -40,3 +40,4 @@
 |10157|[10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10157_Local_Document_Question_Answering_with_Ollama_AI__Agentic_RAG___PGVector.json)|
 |10232|[10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10232_Generate_Weather-Based_Date_Itineraries_with_Google_Places__OpenRouter_AI__and_Slack.json)|
 |11360|[11360_Generate_Local_Business_Leads_with_Google_Places_API___Website_Email_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11360_Generate_Local_Business_Leads_with_Google_Places_API___Website_Email_Scraping.json)|
+|11843|[11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11843_Chat_with_Gemini_AI_through_Local_CLI_via_SSH.json)|

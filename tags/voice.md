@@ -1,4 +1,4 @@
-# voice : 126
+# voice : 131
 
 |id|file|
 |----|----|
@@ -128,3 +128,8 @@
 |11269|[11269_Build_Enterprise_RAG_System_with_Google_Gemini_File_Search___Retell_AI_Voice.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11269_Build_Enterprise_RAG_System_with_Google_Gemini_File_Search___Retell_AI_Voice.json)|
 |11326|[11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11326_Create_AI_Personalized_Video___Voice_Outreach_with_HeyGen__ElevenLabs___Perplexity.json)|
 |11368|[11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json)|
+|11397|[11397_Convert_Gmail_Emails_to_Telegram_Voice_Messages_with_GPT-5_and_Inworld_TTS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11397_Convert_Gmail_Emails_to_Telegram_Voice_Messages_with_GPT-5_and_Inworld_TTS.json)|
+|11532|[11532_Automated_AI_Voice_Cloning____from_YouTube_videos_to_ElevenLabs___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11532_Automated_AI_Voice_Cloning____from_YouTube_videos_to_ElevenLabs___Google_Sheets.json)|
+|11606|[11606_Clone_and_change_your_voice____with_Elevenlabs_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11606_Clone_and_change_your_voice____with_Elevenlabs_and_Telegram.json)|
+|11787|[11787_Play_RPG_with_Groq_Dungeon_Master_via_Telegram_voice_messages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11787_Play_RPG_with_Groq_Dungeon_Master_via_Telegram_voice_messages.json)|
+|11817|[11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11817_Manage_Notion_To-Do_Tasks_via_Telegram_with_Voice_Messages___OpenAI.json)|

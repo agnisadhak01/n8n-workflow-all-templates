@@ -1,4 +1,4 @@
-# shopify : 81
+# shopify : 85
 
 |id|file|
 |----|----|
@@ -83,3 +83,7 @@
 |10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|
 |11129|[11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json)|
 |11181|[11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json)|
+|11394|[11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json)|
+|11695|[11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11695_Generate_product_descriptions_from_images_and_publish_to_Shopify_using_AI.json)|
+|11799|[11799_Automate_Shopify_Inventory_Reordering_with_Predictive_Analytics_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11799_Automate_Shopify_Inventory_Reordering_with_Predictive_Analytics_and_Google_Sheets.json)|
+|11805|[11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json)|

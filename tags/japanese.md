@@ -1,4 +1,4 @@
-# japanese : 5
+# japanese : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |10300|[10300_Auto-Translate_YouTube_Videos_to_Japanese_with_DeepL_and_Post_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10300_Auto-Translate_YouTube_Videos_to_Japanese_with_DeepL_and_Post_to_Slack.json)|
 |10592|[10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10592_Transform_NASA_DONKI_Space_Alerts_to_Japanese_with_GPT-4_for_Slack_and_Sheets.json)|
 |11245|[11245_Japanese-to-English_Review_Sentiment_Analysis_with_GPT_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11245_Japanese-to-English_Review_Sentiment_Analysis_with_GPT_and_Telegram_Alerts.json)|
+|11883|[11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11883_Convert_Audio_Emails_to_Japanese_Transcripts_with_OpenAI_GPT-4o___Google_Suite.json)|

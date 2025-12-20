@@ -1,4 +1,4 @@
-# certificates : 9
+# certificates : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |9865|[9865_Monitor_PKI_Certificates___CRLs_for_Expiration_with_Telegram___SMS_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9865_Monitor_PKI_Certificates___CRLs_for_Expiration_with_Telegram___SMS_Alerts.json)|
 |10606|[10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json)|
 |11012|[11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json)|
+|11886|[11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json)|

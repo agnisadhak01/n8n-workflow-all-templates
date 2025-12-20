@@ -1,4 +1,4 @@
-# between : 27
+# between : 29
 
 |id|file|
 |----|----|
@@ -29,3 +29,5 @@
 |10295|[10295_Synchronize_Events___Attendees_Between_KlickTipp_and_Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10295_Synchronize_Events___Attendees_Between_KlickTipp_and_Google_Calendar.json)|
 |10749|[10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json)|
 |10866|[10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10866_Workflow_for_Two-Way_Sync_Between_Airtable_and_HubSpot.json)|
+|11396|[11396_Monitor_Bitcoin_Arbitrage_Between_Binance___Upbit_with_GPT_Analysis___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11396_Monitor_Bitcoin_Arbitrage_Between_Binance___Upbit_with_GPT_Analysis___Email.json)|
+|11479|[11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11479_Inventory_Reconciliation_between_Notion___Airtable_with_GPT-4o_Slack_Alerts.json)|

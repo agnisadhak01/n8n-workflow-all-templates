@@ -1,4 +1,4 @@
-# qdrant : 41
+# qdrant : 43
 
 |id|file|
 |----|----|
@@ -43,3 +43,5 @@
 |10096|[10096_Document_RAG___Chat_Agent__Google_Drive_to_Qdrant_with_Mistral_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10096_Document_RAG___Chat_Agent__Google_Drive_to_Qdrant_with_Mistral_OCR.json)|
 |10241|[10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json)|
 |10924|[10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10924_Voice_AI_Chatbot_with_OpenAI__RAG__Qdrant____Guardrails_for_WordPress.json)|
+|11468|[11468_Build_a_RAG_Agent_with_n8n__Qdrant___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11468_Build_a_RAG_Agent_with_n8n__Qdrant___OpenAI.json)|
+|11525|[11525_Build_a_Multi-Agent_system_with_n8n__Qdrant__Gmail___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11525_Build_a_Multi-Agent_system_with_n8n__Qdrant__Gmail___OpenAI.json)|

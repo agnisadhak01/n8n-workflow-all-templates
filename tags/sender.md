@@ -1,4 +1,4 @@
-# sender : 8
+# sender : 9
 
 |id|file|
 |----|----|
@@ -10,3 +10,4 @@
 |8682|[8682_Airtable_SMS_Sender_-_Bulk_Text_Sender_Template_for_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8682_Airtable_SMS_Sender_-_Bulk_Text_Sender_Template_for_Airtable.json)|
 |8978|[8978_LinkedIn_Lead_Enrichment___Cold-Email_Sender_with_Apify___OpenRouter___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8978_LinkedIn_Lead_Enrichment___Cold-Email_Sender_with_Apify___OpenRouter___Gmail.json)|
 |8986|[8986_Automated_Local_Lead_Finder___Cold_Email_Sender_with_Apify__AI__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8986_Automated_Local_Lead_Finder___Cold_Email_Sender_with_Apify__AI__and_Gmail.json)|
+|11518|[11518_Smart_Gmail_Auto-Labeler_with_Gemini_AI___Sender_History.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11518_Smart_Gmail_Auto-Labeler_with_Gemini_AI___Sender_History.json)|

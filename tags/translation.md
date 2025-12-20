@@ -1,4 +1,4 @@
-# translation : 16
+# translation : 18
 
 |id|file|
 |----|----|
@@ -18,3 +18,5 @@
 |8179|[8179_Generate_Multilingual_Shopify_Product_Descriptions_with_Gemini_2.5_Vision_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8179_Generate_Multilingual_Shopify_Product_Descriptions_with_Gemini_2.5_Vision_AI.json)|
 |10385|[10385_Telegram_Multi-language_Translation_Bot_with_GPT-3.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10385_Telegram_Multi-language_Translation_Bot_with_GPT-3.5.json)|
 |10791|[10791_AI-Powered_Product_Hunt_Data_Collection___Translation_with_GPT-4_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10791_AI-Powered_Product_Hunt_Data_Collection___Translation_with_GPT-4_and_Google_Sheets.json)|
+|11496|[11496_Automate_Video_Translation_from_Multiple_Sources_with_Rask_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11496_Automate_Video_Translation_from_Multiple_Sources_with_Rask_AI.json)|
+|11514|[11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11514_Monitor_Commodity_Markets_with_Apify__DeepL_Translation___Sector_Impact_Analysis.json)|

@@ -1,4 +1,4 @@
-# reddit : 70
+# reddit : 72
 
 |id|file|
 |----|----|
@@ -72,3 +72,5 @@
 |10394|[10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json)|
 |10750|[10750_Automate_Blog-to-Social_Media_with_GPT-4_for_LinkedIn__X__and_Reddit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10750_Automate_Blog-to-Social_Media_with_GPT-4_for_LinkedIn__X__and_Reddit.json)|
 |11182|[11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json)|
+|11698|[11698_Generate_Content_Strategy_Insights_from_Reddit___X_Using_Gemini_AI_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11698_Generate_Content_Strategy_Insights_from_Reddit___X_Using_Gemini_AI_Analysis.json)|
+|11700|[11700_Track_and_Score_Contact_Engagement_with_Zoho_CRM__PDL__News___Reddit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11700_Track_and_Score_Contact_Engagement_with_Zoho_CRM__PDL__News___Reddit.json)|

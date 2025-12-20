@@ -1,4 +1,4 @@
-# trustpilot : 9
+# trustpilot : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |5950|[5950_Trustpilot_Review_Sentiment_Analysis_with_OpenAI___Bright_Data_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5950_Trustpilot_Review_Sentiment_Analysis_with_OpenAI___Bright_Data_to_Google_Sheets.json)|
 |6112|[6112_Shopify_Review_Aggregator__Trustpilot__Google__Facebook_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6112_Shopify_Review_Aggregator__Trustpilot__Google__Facebook_to_Google_Sheets.json)|
 |9985|[9985_Analyze_Trustpilot___Sitejabber_sentiment_with_Decodo___Gemini_to_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9985_Analyze_Trustpilot___Sitejabber_sentiment_with_Decodo___Gemini_to_Sheets.json)|
+|11410|[11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11410_Review_Aggregator_and_AI_Alerts_for_Google__Facebook__Trustpilot__and_Yelp.json)|

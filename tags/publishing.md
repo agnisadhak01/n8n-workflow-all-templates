@@ -1,4 +1,4 @@
-# publishing : 63
+# publishing : 67
 
 |id|file|
 |----|----|
@@ -65,3 +65,7 @@
 |10830|[10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10830_Automate_Content_Publishing_with_GPT-4_via_Google_Sheets_to_Email___Slack_Approval.json)|
 |11079|[11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json)|
 |11262|[11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11262_Multilingual_RSS_to_WordPress_Publishing_with_OpenAI__ACF__and_AI-Generated_Images.json)|
+|11358|[11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11358_AI-Powered_WordPress_Blog_Generation_with_Research__Image_Creation___Auto_Publishing.json)|
+|11589|[11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json)|
+|11631|[11631_AI-Driven_Instagram_Reels_Creation_and_Publishing_with_GPT__Creatomate_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11631_AI-Driven_Instagram_Reels_Creation_and_Publishing_with_GPT__Creatomate_and_Slack.json)|
+|11652|[11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json)|

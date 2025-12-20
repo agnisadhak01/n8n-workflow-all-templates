@@ -1,4 +1,4 @@
-# analytics : 53
+# analytics : 57
 
 |id|file|
 |----|----|
@@ -55,3 +55,7 @@
 |10815|[10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10815_Conversational_Razorpay_Analytics_with_Google_Gemini___Telegram_Bot.json)|
 |10891|[10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10891_Predict_and_Forecast_HDB_Flat_Prices_with_GPT-4o_and_Google_Sheets_Analytics.json)|
 |11010|[11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11010_Automated_GA4_Analytics_Data_Backfill_to_BigQuery_with_Telegram_Alerts.json)|
+|11625|[11625_Automated_Employee_Attendance___Salary_Deduction_with_Google_Sheets_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11625_Automated_Employee_Attendance___Salary_Deduction_with_Google_Sheets_and_GPT-4.json)|
+|11786|[11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11786_Daily_Google_Analytics_Report_with_GPT-4_Mini_Summaries__WhatsApp_Alerts___ClickUp_Tasks.json)|
+|11799|[11799_Automate_Shopify_Inventory_Reordering_with_Predictive_Analytics_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11799_Automate_Shopify_Inventory_Reordering_with_Predictive_Analytics_and_Google_Sheets.json)|
+|11857|[11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11857_Personalized_Customer_Retention_Campaigns_with_GPT-4o_Analytics___Gmail.json)|

@@ -1,4 +1,4 @@
-# prompts : 41
+# prompts : 43
 
 |id|file|
 |----|----|
@@ -43,3 +43,5 @@
 |9341|[9341_Generate_AI_Videos_from_Text_Prompts_with_OpenAI_Sora_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9341_Generate_AI_Videos_from_Text_Prompts_with_OpenAI_Sora_2.json)|
 |9687|[9687_Create_viral_storytelling_videos_with_GPT__Gemini___JsonCut_from_text_prompts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9687_Create_viral_storytelling_videos_with_GPT__Gemini___JsonCut_from_text_prompts.json)|
 |10005|[10005_Generate_Song_Lyrics_and_Music_from_Text_Prompts_using_OpenAI_and_Fal.ai_Minimax.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10005_Generate_Song_Lyrics_and_Music_from_Text_Prompts_using_OpenAI_and_Fal.ai_Minimax.json)|
+|11495|[11495_Automatically_Optimize_AI_Prompts_with_OpenAI_Using_OPRO___DSPy_Methodology.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11495_Automatically_Optimize_AI_Prompts_with_OpenAI_Using_OPRO___DSPy_Methodology.json)|
+|11537|[11537_Convert_CDP_Network_Topology_to_Lucidchart_Prompts_with_AWX_and_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11537_Convert_CDP_Network_Topology_to_Lucidchart_Prompts_with_AWX_and_Gemini_AI.json)|

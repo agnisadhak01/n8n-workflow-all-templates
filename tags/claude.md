@@ -1,4 +1,4 @@
-# claude : 120
+# claude : 125
 
 |id|file|
 |----|----|
@@ -122,3 +122,8 @@
 |11114|[11114_Automatic_Email_Classification_with_Gmail_and_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11114_Automatic_Email_Classification_with_Gmail_and_Claude_AI.json)|
 |11226|[11226_Automated_WordPress_Post_Tagging_with_AI_Analysis_and_Claude_Opus_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11226_Automated_WordPress_Post_Tagging_with_AI_Analysis_and_Claude_Opus_4.5.json)|
 |11370|[11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11370_Generate_Branded_Word_Documents_with_Claude_AI_and_Json2Doc__up_to_20_Pages.json)|
+|11442|[11442_Generate_Multiple_LinkedIn_Posts_from_Notion_with_ChatGPT___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11442_Generate_Multiple_LinkedIn_Posts_from_Notion_with_ChatGPT___Claude_AI.json)|
+|11517|[11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json)|
+|11618|[11618_Compare_GPT-4__Claude___Gemini_Responses_with_Contextual_AI_s_LMUnit_Evaluation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11618_Compare_GPT-4__Claude___Gemini_Responses_with_Contextual_AI_s_LMUnit_Evaluation.json)|
+|11748|[11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json)|
+|11780|[11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11780_Aggregate___Update_Documentation_from_Slack__Teams___GitHub_with_Claude_Sonnet_4.5.json)|

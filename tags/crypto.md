@@ -1,4 +1,4 @@
-# crypto : 37
+# crypto : 38
 
 |id|file|
 |----|----|
@@ -39,3 +39,4 @@
 |10394|[10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10394_Reddit_Crypto_Market_Intelligence_with_CoinGecko_Alerts_to_Discord.json)|
 |11103|[11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json)|
 |11366|[11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11366_Generate_Crypto_Trading_Signals_with_Multi-Timeframe_Data__News_Sentiment___Gemini_AI.json)|
+|11426|[11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json)|

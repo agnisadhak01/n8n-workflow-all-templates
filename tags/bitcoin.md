@@ -1,4 +1,4 @@
-# bitcoin : 6
+# bitcoin : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |8382|[8382_Monitor_Bitcoin___Ethereum_Prices_with_CoinGecko_Alerts_via_Email_SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8382_Monitor_Bitcoin___Ethereum_Prices_with_CoinGecko_Alerts_via_Email_SMS.json)|
 |8386|[8386_Cryptocurrency_Dip_Alerts_for_Bitcoin___Ethereum_via_Telegram__Slack___SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8386_Cryptocurrency_Dip_Alerts_for_Bitcoin___Ethereum_via_Telegram__Slack___SMS.json)|
 |9308|[9308_Automate_Bitcoin_Trading_Insights_with_10-Exchange_Liquidity_Data_and_GPT-4.1_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9308_Automate_Bitcoin_Trading_Insights_with_10-Exchange_Liquidity_Data_and_GPT-4.1_Analysis.json)|
+|11396|[11396_Monitor_Bitcoin_Arbitrage_Between_Binance___Upbit_with_GPT_Analysis___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11396_Monitor_Bitcoin_Arbitrage_Between_Binance___Upbit_with_GPT_Analysis___Email.json)|

@@ -1,4 +1,4 @@
-# scripts : 12
+# scripts : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |10303|[10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json)|
 |10649|[10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10649_Generate_AI_Voiceovers_from_Scripts_with_Gemini_TTS_and_Upload_to_Google_Drive.json)|
 |11203|[11203_Generate_avatar_snippet_videos_from_Google_Sheets_scripts_in_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11203_Generate_avatar_snippet_videos_from_Google_Sheets_scripts_in_Google_Drive.json)|
+|11589|[11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json)|

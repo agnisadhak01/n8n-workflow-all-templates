@@ -1,4 +1,4 @@
-# scheduling : 37
+# scheduling : 39
 
 |id|file|
 |----|----|
@@ -39,3 +39,5 @@
 |11234|[11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11234_Simple_Scheduling_and_Internal_Document_Query_Bot_with_Telegram.json)|
 |11243|[11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json)|
 |11254|[11254_Create_a_Calendly_Availability_API_Endpoint_for_Real-time_Scheduling_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11254_Create_a_Calendly_Availability_API_Endpoint_for_Real-time_Scheduling_Data.json)|
+|11462|[11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json)|
+|11600|[11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11600_Automate_Lead_Meeting_Scheduling_with_Zoho_CRM__Google_Calendar___Gemini_AI.json)|

@@ -1,4 +1,4 @@
-# analyzer : 36
+# analyzer : 37
 
 |id|file|
 |----|----|
@@ -38,3 +38,4 @@
 |10626|[10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10626_Singapore_University_Eligibility_Analyzer_with_GPT-4o-Mini__WordPress_and_Slack_Notifications.json)|
 |10826|[10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10826_Analyze_Social_Media_Sentiment___Trends_from_Twitter___Facebook_using_GPT-4o.json)|
 |10913|[10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10913_Analyze_Call_Recordings_with_OpenAI_and_Update_Zoho_CRM_Leads_Automatically.json)|
+|11411|[11411_AI-Powered_Viral_Trend_Analysis_for_TikTok_and_Instagram_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11411_AI-Powered_Viral_Trend_Analysis_for_TikTok_and_Instagram_with_GPT-4.json)|

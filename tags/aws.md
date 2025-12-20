@@ -1,4 +1,4 @@
-# aws : 40
+# aws : 41
 
 |id|file|
 |----|----|
@@ -42,3 +42,4 @@
 |8733|[8733_AWS_News_Monitoring___LinkedIn_Content_Automation_with_Claude_3___Feishu.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8733_AWS_News_Monitoring___LinkedIn_Content_Automation_with_Claude_3___Feishu.json)|
 |9541|[9541_Create_Deepfake_Videos_by_Swapping_Faces_with_Fal.ai_Wan_2.2_and_AWS_S3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9541_Create_Deepfake_Videos_by_Swapping_Faces_with_Fal.ai_Wan_2.2_and_AWS_S3.json)|
 |10348|[10348_Monitor___Auto-Heal_AWS_EC2_Instances_with_Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10348_Monitor___Auto-Heal_AWS_EC2_Instances_with_Multi-Channel_Alerts.json)|
+|11612|[11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json)|

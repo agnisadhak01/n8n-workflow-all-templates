@@ -1,4 +1,4 @@
-# record : 7
+# record : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |3282|[3282_Create_Notes_and_Comments_on_Any_Odoo_Model_Record.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3282_Create_Notes_and_Comments_on_Any_Odoo_Model_Record.json)|
 |5197|[5197_Automated_Meeting_Recording___AI_Summaries_with_Google_Calendar__Vexa___Llama_3.2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5197_Automated_Meeting_Recording___AI_Summaries_with_Google_Calendar__Vexa___Llama_3.2.json)|
 |5705|[5705_Record_Payout_from_Stripe_in_Wave_Accounting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5705_Record_Payout_from_Stripe_in_Wave_Accounting.json)|
+|11339|[11339_Record_Transactions___Generate_Budget_Reports_with_Gemini_AI__Telegram___Firefly_III.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11339_Record_Transactions___Generate_Budget_Reports_with_Gemini_AI__Telegram___Firefly_III.json)|

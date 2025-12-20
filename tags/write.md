@@ -1,4 +1,4 @@
-# write : 9
+# write : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |4492|[4492_Learn_Anything__Write_a_Book__Design_a_Curriculum.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4492_Learn_Anything__Write_a_Book__Design_a_Curriculum.json)|
 |7668|[7668_Write_Personalised_Direct_Messages_for_Instagram_with_Apify__OpenAI__GSheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7668_Write_Personalised_Direct_Messages_for_Instagram_with_Apify__OpenAI__GSheets.json)|
 |9018|[9018_Automated_Blog_Post_Generator_with_GPT-4__DALL-E__and_Wikipedia_for_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9018_Automated_Blog_Post_Generator_with_GPT-4__DALL-E__and_Wikipedia_for_WordPress.json)|
+|11703|[11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11703_Google_Docs_MCP_Server___Read___Write_Access_for_Agents.json)|

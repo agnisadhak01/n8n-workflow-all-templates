@@ -1,4 +1,4 @@
-# serpapi : 45
+# serpapi : 46
 
 |id|file|
 |----|----|
@@ -47,3 +47,4 @@
 |10425|[10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10425_Auto-Publish_News_to_Social_Media_with_AI_Search___SerpAPI_to_Telegram__Facebook__Twitter___WordPress.json)|
 |11109|[11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11109_Generate_Complete_SEO_Strategy_Reports_with_SerpAPI_Data_and_GPT-4_Agent_Team.json)|
 |11195|[11195_Generate_Security_Vulnerability_Reports_with_Google_Dorks__SerpAPI_and_PDF4me.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11195_Generate_Security_Vulnerability_Reports_with_Google_Dorks__SerpAPI_and_PDF4me.json)|
+|11425|[11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json)|

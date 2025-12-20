@@ -1,4 +1,4 @@
-# notify : 36
+# notify : 37
 
 |id|file|
 |----|----|
@@ -38,3 +38,4 @@
 |10320|[10320_AI-Powered_Facebook_Comment_Management__Auto-Reply__Delete__Ban___Notify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10320_AI-Powered_Facebook_Comment_Management__Auto-Reply__Delete__Ban___Notify.json)|
 |10586|[10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10586_Score_Website_Leads_with_GPT-4o__Respond_via_Gmail__and_Notify_via_Telegram.json)|
 |11129|[11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json)|
+|11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|

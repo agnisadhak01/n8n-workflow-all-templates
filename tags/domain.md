@@ -1,4 +1,4 @@
-# domain : 25
+# domain : 26
 
 |id|file|
 |----|----|
@@ -27,3 +27,4 @@
 |8852|[8852_Domain-Specific_Web_Content_Crawler_with_Depth_Control___Text_Extraction.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8852_Domain-Specific_Web_Content_Crawler_with_Depth_Control___Text_Extraction.json)|
 |10068|[10068_Find_Domain-Based_Gmail_Addresses_for_Outreach_with_EmailListVerify___Google_Sheet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10068_Find_Domain-Based_Gmail_Addresses_for_Outreach_with_EmailListVerify___Google_Sheet.json)|
 |10378|[10378_Domain_Availability_Monitor_with_Porkbun__Google_Sheets___Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10378_Domain_Availability_Monitor_with_Porkbun__Google_Sheets___Multi-Channel_Alerts.json)|
+|11681|[11681_LinkedIn_Email_Finder_with_AI_Domain_Detection_using_Google_Sheets___Hunter.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11681_LinkedIn_Email_Finder_with_AI_Domain_Detection_using_Google_Sheets___Hunter.io.json)|

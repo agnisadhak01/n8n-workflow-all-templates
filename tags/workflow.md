@@ -1,4 +1,4 @@
-# workflow : 432
+# workflow : 445
 
 |id|file|
 |----|----|
@@ -434,3 +434,16 @@
 |11062|[11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11062_Track_Amazon_Prices___Monitor_Competitors_with_Apify_and_Google_Sheets.json)|
 |11084|[11084_Automate_Consent_Dispute_Handling_with_GPT-4o__Google_Sheets__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11084_Automate_Consent_Dispute_Handling_with_GPT-4o__Google_Sheets__Gmail___Slack.json)|
 |11227|[11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json)|
+|11355|[11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11355_LinkedIn_Content_Automation__AI_Post_Creation___Images_with_Sheet_Approval_Workflow.json)|
+|11404|[11404_Track_Software_Vulnerability_Patents_with_ScrapeGraphAI__Matrix__and_Intercom.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11404_Track_Software_Vulnerability_Patents_with_ScrapeGraphAI__Matrix__and_Intercom.json)|
+|11442|[11442_Generate_Multiple_LinkedIn_Posts_from_Notion_with_ChatGPT___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11442_Generate_Multiple_LinkedIn_Posts_from_Notion_with_ChatGPT___Claude_AI.json)|
+|11462|[11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json)|
+|11467|[11467_Automate_n8n_Workflow_Documentation_with_Google_Gemini_AI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11467_Automate_n8n_Workflow_Documentation_with_Google_Gemini_AI_and_Telegram.json)|
+|11496|[11496_Automate_Video_Translation_from_Multiple_Sources_with_Rask_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11496_Automate_Video_Translation_from_Multiple_Sources_with_Rask_AI.json)|
+|11613|[11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11613_Xano_Support_Ticket_Router__AI___Xano_Node_Integration.json)|
+|11690|[11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11690_Automate_Medical_Rep_Visit_Workflow_with_Google_Sheets__Gmail___OpenAI_Summaries.json)|
+|11734|[11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11734_Generate_Complete_Social_Media_Campaigns_with_DALL_E__GPT-4o_and_Slack_Approval.json)|
+|11782|[11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json)|
+|11824|[11824_Automate_Vulnerability_Triage_from_Snyk_with_Jira__Slack___Airtable_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11824_Automate_Vulnerability_Triage_from_Snyk_with_Jira__Slack___Airtable_Integration.json)|
+|11838|[11838_Slack_Workflow_Router__AI-Powered_Workflow_Selection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11838_Slack_Workflow_Router__AI-Powered_Workflow_Selection.json)|
+|11889|[11889_AI-Powered_Webinar_Feedback_Replies_with_GPT-4__Google_Sheets__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11889_AI-Powered_Webinar_Feedback_Replies_with_GPT-4__Google_Sheets__and_Gmail.json)|

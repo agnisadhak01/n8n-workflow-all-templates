@@ -1,4 +1,4 @@
-# meta : 47
+# meta : 48
 
 |id|file|
 |----|----|
@@ -49,3 +49,4 @@
 |10551|[10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10551_Auto-Publish_Facebook_Posts_from_Google_Sheets_with_Slack___Email_Alerts.json)|
 |11079|[11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11079_Transform_Long-Form_Content_into_Social_Snippets_with_GPT-4o-mini_and_Meta_Auto-Publishing.json)|
 |11089|[11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json)|
+|11499|[11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json)|

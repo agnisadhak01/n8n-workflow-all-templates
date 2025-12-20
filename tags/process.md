@@ -1,4 +1,4 @@
-# process : 59
+# process : 60
 
 |id|file|
 |----|----|
@@ -61,3 +61,4 @@
 |10347|[10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10347_Gmail_Attachment_Manager_with_Google_Drive_Upload_and_Smart_Filtering.json)|
 |10566|[10566_Process_Large_Documents_with_OCR_using_SubworkflowAI_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10566_Process_Large_Documents_with_OCR_using_SubworkflowAI_and_Gemini.json)|
 |11246|[11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json)|
+|11653|[11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11653_Process_OCR_Documents_from_Google_Drive_into_Searchable_Knowledge_Base_with_OpenAI___Pinecone.json)|

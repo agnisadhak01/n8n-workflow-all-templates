@@ -1,4 +1,4 @@
-# resource : 5
+# resource : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |5636|[5636_EPA_Environmental_Compliance_Data_API_for_AI_Agents_with_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5636_EPA_Environmental_Compliance_Data_API_for_AI_Agents_with_MCP_Server.json)|
 |9686|[9686_Monitoring_Team_Capacity_in_Jira_and_Sending_Alerts_for_Over-Allocation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9686_Monitoring_Team_Capacity_in_Jira_and_Sending_Alerts_for_Over-Allocation.json)|
 |9733|[9733_Proxmox_System_Monitor_-_VM_Status__Host_Resources___Temperature_Alerts_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9733_Proxmox_System_Monitor_-_VM_Status__Host_Resources___Temperature_Alerts_via_Telegram.json)|
+|11612|[11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11612_Detect_AWS_Orphaned_Resources___Send_Cost_Reports_to_Slack__Email__and_Sheets.json)|

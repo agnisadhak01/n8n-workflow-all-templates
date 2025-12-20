@@ -1,4 +1,4 @@
-# stripe : 51
+# stripe : 52
 
 |id|file|
 |----|----|
@@ -53,3 +53,4 @@
 |10145|[10145_Automated_Template_Delivery_System_with_Stripe__GPT-4o___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10145_Automated_Template_Delivery_System_with_Stripe__GPT-4o___Gmail.json)|
 |10384|[10384_Automate_Cancellation_Feedback_Collection_with_Stripe_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10384_Automate_Cancellation_Feedback_Collection_with_Stripe_and_Google_Sheets.json)|
 |10558|[10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10558_Automate_Stripe_Payment_to_QuickBooks_Sales_Receipt_Sync.json)|
+|11704|[11704_Automate_Stripe_Checkout_Sales_Tracking_in_RD_Station_Marketing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11704_Automate_Stripe_Checkout_Sales_Tracking_in_RD_Station_Marketing.json)|

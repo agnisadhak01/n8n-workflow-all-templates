@@ -1,4 +1,4 @@
-# kling : 12
+# kling : 13
 
 |id|file|
 |----|----|
@@ -14,3 +14,4 @@
 |6918|[6918_Create_Viral_Social_Media_Videos_with_FalAI_Flux_Kling_and_GPT-4_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6918_Create_Viral_Social_Media_Videos_with_FalAI_Flux_Kling_and_GPT-4_Automation.json)|
 |8318|[8318_Transform_Product_Photos_into_Social_Media_Videos_with_Gemini_AI__Kling___LATE.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8318_Transform_Product_Photos_into_Social_Media_Videos_with_Gemini_AI__Kling___LATE.json)|
 |9099|[9099_Create___Upload_AI_Videos_to_YouTube_with_Kling_2.5___Auto-SEO.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9099_Create___Upload_AI_Videos_to_YouTube_with_Kling_2.5___Auto-SEO.json)|
+|11710|[11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11710_Extend_and_Merge_UGC_Viral_Videos_Using_Kling_2.1__Then_Publish_on_Social_Media.json)|

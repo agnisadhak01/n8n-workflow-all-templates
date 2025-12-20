@@ -1,4 +1,4 @@
-# specific : 20
+# specific : 21
 
 |id|file|
 |----|----|
@@ -22,3 +22,4 @@
 |9130|[9130_Auto-Generate_Instagram__Facebook___LinkedIn_Posts_from_YouTube_Videos_with_GPT-4o___Dumpling_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9130_Auto-Generate_Instagram__Facebook___LinkedIn_Posts_from_YouTube_Videos_with_GPT-4o___Dumpling_AI.json)|
 |9774|[9774_Generate_AI_Summaries_from_Hacker_News_to_Slack_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9774_Generate_AI_Summaries_from_Hacker_News_to_Slack_with_OpenRouter.json)|
 |9998|[9998_Generate_Platform-Specific_Social_Media_Posts_with_ChatGPT__Tavily___G-Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9998_Generate_Platform-Specific_Social_Media_Posts_with_ChatGPT__Tavily___G-Sheets.json)|
+|11652|[11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11652_News_Collection___Multi-Platform_Publishing_with_GPT__DALL-E__and_Social_Media_APIs.json)|

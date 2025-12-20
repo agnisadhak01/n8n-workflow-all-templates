@@ -1,4 +1,4 @@
-# book : 13
+# book : 14
 
 |id|file|
 |----|----|
@@ -15,3 +15,4 @@
 |8142|[8142_Extract_Amazon_Book_Data___Generate_Purchase_Reports_with_Decodo_Scraper.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8142_Extract_Amazon_Book_Data___Generate_Purchase_Reports_with_Decodo_Scraper.json)|
 |9026|[9026_AI_Sales_Assistant_with_GPT___Claude__Qualify_Leads__Book_Meetings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9026_AI_Sales_Assistant_with_GPT___Claude__Qualify_Leads__Book_Meetings.json)|
 |10211|[10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10211_Food_Photo_Analysis_to_Restaurant___Book_Recommendations_with_GPT_Vision_and_Google_APIs.json)|
+|11407|[11407_Book_Club_Manager___Recommendation_Engine_with_Mistral_AI_and_Gemini_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11407_Book_Club_Manager___Recommendation_Engine_with_Mistral_AI_and_Gemini_Vision.json)|

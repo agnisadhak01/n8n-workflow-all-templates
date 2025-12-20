@@ -1,4 +1,4 @@
-# priority : 4
+# priority : 5
 
 |id|file|
 |----|----|
@@ -6,3 +6,4 @@
 |7073|[7073_Export_Dialogflow_Intents_with_Priority_Levels_to_Google_Sheets_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7073_Export_Dialogflow_Intents_with_Priority_Levels_to_Google_Sheets_via_Telegram.json)|
 |8240|[8240_Qualify_High-Budget_Leads__Typeform_to_HubSpot__Google_Sheets___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8240_Qualify_High-Budget_Leads__Typeform_to_HubSpot__Google_Sheets___Slack_Alerts.json)|
 |9345|[9345_Automate_Lead_Ranking___Task_Creation_with_Google_Sheets___ClickUp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9345_Automate_Lead_Ranking___Task_Creation_with_Google_Sheets___ClickUp.json)|
+|11526|[11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11526_Analyze_high-priority_tenders_from_Airtable_to_Slack_for_Go_No-Go_approval.json)|

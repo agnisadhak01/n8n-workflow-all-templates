@@ -1,4 +1,4 @@
-# cloudinary : 7
+# cloudinary : 8
 
 |id|file|
 |----|----|
@@ -9,3 +9,4 @@
 |7601|[7601_Instagram_Carousel_Posts_from_Google_Drive_via_Cloudinary_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7601_Instagram_Carousel_Posts_from_Google_Drive_via_Cloudinary_with_Telegram_Alerts.json)|
 |8989|[8989_Auto-Post_Instagram_Carousels_using_Google_Sheets__Drive__Cloudinary___Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8989_Auto-Post_Instagram_Carousels_using_Google_Sheets__Drive__Cloudinary___Graph_API.json)|
 |9312|[9312_Process___Catalog_Dress_Images_with_GPT-4o__Cloudinary__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9312_Process___Catalog_Dress_Images_with_GPT-4o__Cloudinary__and_Google_Sheets.json)|
+|11791|[11791_Automate_RSS_to_Instagram_with_AI-Generated_Content_and_Cloudinary.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11791_Automate_RSS_to_Instagram_with_AI-Generated_Content_and_Cloudinary.json)|

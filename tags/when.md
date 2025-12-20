@@ -1,4 +1,4 @@
-# when : 59
+# when : 60
 
 |id|file|
 |----|----|
@@ -61,3 +61,4 @@
 |3480|[3480_Get_notified_when_your_competitors_change_their_pricing_with_Airtop_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3480_Get_notified_when_your_competitors_change_their_pricing_with_Airtop_and_Slack.json)|
 |6774|[6774_Automate_Construction_Site_Attendance_Tracking_with_Geofencing__Google_Sheets___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6774_Automate_Construction_Site_Attendance_Tracking_with_Geofencing__Google_Sheets___Email_Alerts.json)|
 |10237|[10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10237_Send_Rapiwa_WhatsApp_Apology___Reorder_Link_When_Shopify_Order_is_Cancelled.json)|
+|11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|

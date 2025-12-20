@@ -1,4 +1,4 @@
-# extraction : 49
+# extraction : 52
 
 |id|file|
 |----|----|
@@ -51,3 +51,6 @@
 |10901|[10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json)|
 |11224|[11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11224_Build_a_Multi-Site_Content_Aggregator_with_Google_Sheets___Custom_Extraction_Logic.json)|
 |11290|[11290_AI-Powered_Financial_Document_Extraction_from_Gmail_to_Google_Sheets_with_Smart_Guardrails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11290_AI-Powered_Financial_Document_Extraction_from_Gmail_to_Google_Sheets_with_Smart_Guardrails.json)|
+|11637|[11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json)|
+|11682|[11682_Extract_Company_Data_from_Websites_with_Gemini_AI_through_Chat_Conversation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11682_Extract_Company_Data_from_Websites_with_Gemini_AI_through_Chat_Conversation.json)|
+|11782|[11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11782_Decodo-Powered_AI_Research_Paper_Extraction___Summarization_with_ChatGPT.json)|

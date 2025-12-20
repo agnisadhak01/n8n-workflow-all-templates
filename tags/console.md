@@ -1,4 +1,4 @@
-# console : 16
+# console : 18
 
 |id|file|
 |----|----|
@@ -18,3 +18,5 @@
 |7645|[7645_Track_New_Search_Queries_with_Zero-Click_Analysis_in_Google_Search_Console.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7645_Track_New_Search_Queries_with_Zero-Click_Analysis_in_Google_Search_Console.json)|
 |8679|[8679_Export_Google_Search_Console_Data_to_Airtable_Automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8679_Export_Google_Search_Console_Data_to_Airtable_Automatically.json)|
 |8897|[8897_Detect_Keyword_Cannibalization_with_GPT-4o_and_Google_Search_Console.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8897_Detect_Keyword_Cannibalization_with_GPT-4o_and_Google_Search_Console.json)|
+|11401|[11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11401_Auto-Audit_SEO_Traffic_Drops_with_AI___Google_Search_Console_to_Slack.json)|
+|11665|[11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11665_Automate_SEO_Reporting_with_Google_Search_Console__GA4__and_Google_Sheets.json)|

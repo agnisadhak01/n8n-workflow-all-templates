@@ -1,4 +1,4 @@
-# digests : 22
+# digests : 24
 
 |id|file|
 |----|----|
@@ -24,3 +24,5 @@
 |9303|[9303_Automate_Job_Opportunity_Digests_with_OpenRouter_GPT-5_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9303_Automate_Job_Opportunity_Digests_with_OpenRouter_GPT-5_and_Email.json)|
 |10246|[10246_Generate_AI-Curated_Reddit_Digests_for_Telegram__Discord___Slack_with_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10246_Generate_AI-Curated_Reddit_Digests_for_Telegram__Discord___Slack_with_Gemini.json)|
 |11092|[11092_Create_AI-Curated_News_Digests_with_GPT-5.1__NewsAPI__Tavily___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11092_Create_AI-Curated_News_Digests_with_GPT-5.1__NewsAPI__Tavily___Telegram.json)|
+|11425|[11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11425_Create_Personalized_News_Digests_with_GPT-5.1__SerpAPI__and_Telegram_Delivery.json)|
+|11466|[11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11466_Create_and_Send_Tech_News_Digests_with_RSS__Gemini_AI_and_Gmail.json)|

@@ -1,4 +1,4 @@
-# tools : 27
+# tools : 28
 
 |id|file|
 |----|----|
@@ -29,3 +29,4 @@
 |8826|[8826_Deploy_a_Google_Gemini_AI_Assistant_on_WhatsApp_with_Email___Calendar_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8826_Deploy_a_Google_Gemini_AI_Assistant_on_WhatsApp_with_Email___Calendar_Tools.json)|
 |8890|[8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8890_Consolidate_Data_from_5_Sources_for_Automated_Reporting_with_SQL__MongoDB___Google_Tools.json)|
 |10117|[10117_Automated_Event_Management_with_Typeform__Stripe__Google_Tools___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10117_Automated_Event_Management_with_Typeform__Stripe__Google_Tools___Slack_Notifications.json)|
+|11706|[11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json)|

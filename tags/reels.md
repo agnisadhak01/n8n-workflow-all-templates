@@ -1,4 +1,4 @@
-# reels : 23
+# reels : 25
 
 |id|file|
 |----|----|
@@ -25,3 +25,5 @@
 |10175|[10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json)|
 |10303|[10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10303_Generate_Viral_Instagram_Scripts_by_Analyzing_Trending_Reels_with_Apify_and_GPT-4.json)|
 |10786|[10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10786_Create_Comedic_Marketing_Reels_with_Sora2__OpenAI___Auto-Post_to_Social_Media.json)|
+|11367|[11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json)|
+|11631|[11631_AI-Driven_Instagram_Reels_Creation_and_Publishing_with_GPT__Creatomate_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11631_AI-Driven_Instagram_Reels_Creation_and_Publishing_with_GPT__Creatomate_and_Slack.json)|

@@ -1,4 +1,4 @@
-# automatically : 152
+# automatically : 155
 
 |id|file|
 |----|----|
@@ -154,3 +154,6 @@
 |11229|[11229_Automatically_Add_Watermarks_to_Images_with_Telegram_Bot_and_ImageKit.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11229_Automatically_Add_Watermarks_to_Images_with_Telegram_Bot_and_ImageKit.io.json)|
 |11232|[11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11232_Automatically_Discover_and_Extract_Reports_from_Websites_using_GPT_and_Google_Sheets.json)|
 |11368|[11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11368_Track_Expenses_Automatically_with_Telegram_Bot_using_GPT-4o__OCR_and_Voice_Recognition.json)|
+|11495|[11495_Automatically_Optimize_AI_Prompts_with_OpenAI_Using_OPRO___DSPy_Methodology.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11495_Automatically_Optimize_AI_Prompts_with_OpenAI_Using_OPRO___DSPy_Methodology.json)|
+|11728|[11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11728_Auto-resolve_Jira_Tickets_with_GitHub_Copilot_using_Port_Context.json)|
+|11736|[11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11736_Generate_Document_Summaries___Q_As_from_PDF_TXT_using_GPT-4o_with_Slack_Alerts.json)|

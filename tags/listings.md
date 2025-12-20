@@ -1,4 +1,4 @@
-# listings : 16
+# listings : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |10008|[10008_Generate_Shopify_Product_Listings_from_Images_with_Gemini_AI_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10008_Generate_Shopify_Product_Listings_from_Images_with_Gemini_AI_and_Airtable.json)|
 |10074|[10074_Extract_Business_Emails_from_Google_Maps_Listings_for_Lead_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10074_Extract_Business_Emails_from_Google_Maps_Listings_for_Lead_Generation.json)|
 |11130|[11130_Scrape_Property_Listings_from_Zillow_with_Olostep_API_and_Store_in_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11130_Scrape_Property_Listings_from_Zillow_with_Olostep_API_and_Store_in_Data_Tables.json)|
+|11672|[11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11672_Transform_Airbnb_Listings_into_Custom_Direct_Booking_Sites_with_Netlify.json)|

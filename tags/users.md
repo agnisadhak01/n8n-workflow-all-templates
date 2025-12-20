@@ -1,4 +1,4 @@
-# users : 15
+# users : 16
 
 |id|file|
 |----|----|
@@ -17,3 +17,4 @@
 |7241|[7241_Automate_AWS_IAM_User_Management_Through_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7241_Automate_AWS_IAM_User_Management_Through_Email.json)|
 |7500|[7500_Monitor___Alert_on_Inactive_AWS_IAM_Users_with_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7500_Monitor___Alert_on_Inactive_AWS_IAM_Users_with_Slack_Notifications.json)|
 |9032|[9032_Generate_Personalized_Promo_Cards_with_Email_Verification__Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9032_Generate_Personalized_Promo_Cards_with_Email_Verification__Gmail___Google_Sheets.json)|
+|11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|

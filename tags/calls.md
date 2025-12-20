@@ -1,4 +1,4 @@
-# calls : 29
+# calls : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |9803|[9803_Automate_Lead_Qualification_with_AI_Voice_Calls_using_GPT-3.5__Notion_and_Vapi.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9803_Automate_Lead_Qualification_with_AI_Voice_Calls_using_GPT-3.5__Notion_and_Vapi.json)|
 |9850|[9850_Automated_Property___Restaurant_Bookings_with_AI_Voice_Calls_via_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9850_Automated_Property___Restaurant_Bookings_with_AI_Voice_Calls_via_Telegram.json)|
 |11198|[11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11198_Analyze_Sales_Calls___Route_Leads_with_GPT-4o__Airtable_and_Trello.json)|
+|11477|[11477_Analyze_Sales_Calls_with_GPT-4_and_Deliver_Coaching_Feedback_via_Slack___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11477_Analyze_Sales_Calls_with_GPT-4_and_Deliver_Coaching_Feedback_via_Slack___Sheets.json)|

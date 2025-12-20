@@ -1,4 +1,4 @@
-# organize : 16
+# organize : 17
 
 |id|file|
 |----|----|
@@ -18,3 +18,4 @@
 |8377|[8377_Capture_and_Organize_Ideas_via_Telegram_with_GPT-4___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8377_Capture_and_Organize_Ideas_via_Telegram_with_GPT-4___Google_Sheets.json)|
 |8440|[8440_Extract_and_Organize_Contract_Details_from_PDFs_with_Slack__GPT-4o__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8440_Extract_and_Organize_Contract_Details_from_PDFs_with_Slack__GPT-4o__and_Google_Sheets.json)|
 |9282|[9282_Extracts_and_organizes_academic_publications_using_GPT-4_Mini__Google_Sheets__Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9282_Extracts_and_organizes_academic_publications_using_GPT-4_Mini__Google_Sheets__Gmail.json)|
+|11529|[11529_Organize_School_Emails_with_AI__Google_Calendar_and_Drive_Auto-Triage_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11529_Organize_School_Emails_with_AI__Google_Calendar_and_Drive_Auto-Triage_System.json)|

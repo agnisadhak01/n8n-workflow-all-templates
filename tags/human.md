@@ -1,4 +1,4 @@
-# human : 52
+# human : 53
 
 |id|file|
 |----|----|
@@ -54,3 +54,4 @@
 |11050|[11050_Automate_Calendly_User_Onboarding___Offboarding_with_Google_Sheets_and_Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11050_Automate_Calendly_User_Onboarding___Offboarding_with_Google_Sheets_and_Human_Approval.json)|
 |11059|[11059_Automate_Lead_Response_with_GPT_and_Human_Approval_to_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11059_Automate_Lead_Response_with_GPT_and_Human_Approval_to_Airtable_CRM.json)|
 |11285|[11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11285_SEO_Blog_Content_Automation_with_GPT-4o-mini_and_Human_Approval_in_Google_Docs.json)|
+|11648|[11648_AI_WhatsApp_Support_with_Human_Handoff_using_Gemini__Twilio__and_Supabase_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11648_AI_WhatsApp_Support_with_Human_Handoff_using_Gemini__Twilio__and_Supabase_RAG.json)|

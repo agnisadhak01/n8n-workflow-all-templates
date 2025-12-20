@@ -1,4 +1,4 @@
-# products : 29
+# products : 31
 
 |id|file|
 |----|----|
@@ -31,3 +31,5 @@
 |9895|[9895_Monitor_Shopify_Stores_for_New_Products_with_BrowserAct_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9895_Monitor_Shopify_Stores_for_New_Products_with_BrowserAct_and_Slack_Alerts.json)|
 |9946|[9946_Scrape___Import_Shoe_Products_to_Shopify_with_BrowserAct__with_Variants___Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9946_Scrape___Import_Shoe_Products_to_Shopify_with_BrowserAct__with_Variants___Images.json)|
 |10089|[10089_Synchronizing_WooCommerce_Inventory_and_Creating_Products_with_Google_Gemini_AI_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10089_Synchronizing_WooCommerce_Inventory_and_Creating_Products_with_Google_Gemini_AI_and_BrowserAct.json)|
+|11394|[11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11394_Transform_Shopify_Products_into_SEO_Blog_Content_with_DeepSeek_AI_and_Google_Sheets.json)|
+|11637|[11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json)|

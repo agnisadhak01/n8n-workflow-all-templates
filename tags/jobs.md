@@ -1,4 +1,4 @@
-# jobs : 20
+# jobs : 22
 
 |id|file|
 |----|----|
@@ -22,3 +22,5 @@
 |9941|[9941_Track_freelance_jobs_from_Apify_and_get_instant_WhatsApp_alerts_for_new_leads.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9941_Track_freelance_jobs_from_Apify_and_get_instant_WhatsApp_alerts_for_new_leads.json)|
 |9980|[9980_Match_Resumes_to_Jobs_Automatically_with_Gemini_AI_and_Decodo_Scraping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9980_Match_Resumes_to_Jobs_Automatically_with_Gemini_AI_and_Decodo_Scraping.json)|
 |10242|[10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10242_Personalize_Resumes___Cover_Letters_with_AI__GitHub_Pages_and_Google_Drive.json)|
+|11574|[11574_Extract_Sales_Leads_from_Google_Jobs__LinkedIn___Indeed_with_GPT-4o_and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11574_Extract_Sales_Leads_from_Google_Jobs__LinkedIn___Indeed_with_GPT-4o_and_Apify.json)|
+|11637|[11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11637_Automate_Data_Extraction_with_Zyte_AI__Products__Jobs__Articles___More.json)|

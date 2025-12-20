@@ -1,4 +1,4 @@
-# submissions : 26
+# submissions : 28
 
 |id|file|
 |----|----|
@@ -28,3 +28,5 @@
 |9406|[9406_Generate___Email_Custom_NDA_Documents_from_Web_Form_Submissions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9406_Generate___Email_Custom_NDA_Documents_from_Web_Form_Submissions.json)|
 |9506|[9506_Detect_Duplicate_Form_Submissions___Send_AI_Responses_with_Jotform_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9506_Detect_Duplicate_Form_Submissions___Send_AI_Responses_with_Jotform_and_Gemini.json)|
 |9922|[9922_Generate_UGC_Images_from_Form_Submissions_with_Google_Gemini_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9922_Generate_UGC_Images_from_Form_Submissions_with_Google_Gemini_and_Telegram.json)|
+|11590|[11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11590_Automate_Personalized_Lead_Responses_with_Website_Scraping__GPT-4o__and_Airtable_CRM.json)|
+|11643|[11643_Manage_Contact_Form_Submissions_with_Google_Sheets__Slack_Alerts___Gmail_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11643_Manage_Contact_Form_Submissions_with_Google_Sheets__Slack_Alerts___Gmail_Replies.json)|

@@ -1,4 +1,4 @@
-# ads : 59
+# ads : 61
 
 |id|file|
 |----|----|
@@ -61,3 +61,5 @@
 |10718|[10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10718_Automate_Google_Ads_Search_Term_Analysis_with_Gemini_AI_and_Send_to_Slack.json)|
 |11089|[11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11089_Send_Server-Side_Conversions_to_the_Meta_Ads_API__CAPI.json)|
 |11268|[11268_Generate_Hollywood-Style_Video_Ads_from_Images_with_GPT-5_Mini_and_Fal.ai_Sora-2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11268_Generate_Hollywood-Style_Video_Ads_from_Images_with_GPT-5_Mini_and_Fal.ai_Sora-2.json)|
+|11499|[11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11499_Meta_Ads_to_Google_Sheets__Daily___Historical_Campaign_Performance_Report.json)|
+|11615|[11615_Track_TikTok_Ads_Library_with_Apify__Google_Sheets___Slack_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11615_Track_TikTok_Ads_Library_with_Apify__Google_Sheets___Slack_Telegram_Notifications.json)|

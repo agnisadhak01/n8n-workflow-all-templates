@@ -1,4 +1,4 @@
-# zendesk : 37
+# zendesk : 38
 
 |id|file|
 |----|----|
@@ -39,3 +39,4 @@
 |9829|[9829_Proactive_SLA_Monitoring___Ticket_Escalation_with_Zendesk__Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9829_Proactive_SLA_Monitoring___Ticket_Escalation_with_Zendesk__Slack_and_Google_Sheets.json)|
 |10484|[10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10484_Zendesk_Ticket_Summarizer_with_Pinecone__OpenAI__and_Slack.json)|
 |11167|[11167_AI-Powered_Auto-Tagging_for_Zendesk_Tickets_using_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11167_AI-Powered_Auto-Tagging_for_Zendesk_Tickets_using_GPT-4.1-mini.json)|
+|11628|[11628_AI-Powered_Customer_Feedback_Routing_with_Gmail__Slack__Pipedrive__Zendesk___Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11628_AI-Powered_Customer_Feedback_Routing_with_Gmail__Slack__Pipedrive__Zendesk___Notion.json)|

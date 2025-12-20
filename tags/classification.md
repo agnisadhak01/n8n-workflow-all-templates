@@ -1,4 +1,4 @@
-# classification : 34
+# classification : 35
 
 |id|file|
 |----|----|
@@ -36,3 +36,4 @@
 |11071|[11071_Automate_Gmail_Organization_with_AI-Powered_Email_Classification_and_Smart_Labeling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11071_Automate_Gmail_Organization_with_AI-Powered_Email_Classification_and_Smart_Labeling.json)|
 |11114|[11114_Automatic_Email_Classification_with_Gmail_and_Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11114_Automatic_Email_Classification_with_Gmail_and_Claude_AI.json)|
 |11243|[11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11243_Automate_Email_Triage___Meeting_Scheduling_with_Gmail__GPT-4___Google_Calendar.json)|
+|11854|[11854_AI-Powered_Ticket_Triage_with_Multi-Model_Classification___Knowledge_Base.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11854_AI-Powered_Ticket_Triage_with_Multi-Model_Classification___Knowledge_Base.json)|

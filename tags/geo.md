@@ -1,4 +1,4 @@
-# geo : 6
+# geo : 7
 
 |id|file|
 |----|----|
@@ -8,3 +8,4 @@
 |8768|[8768_Google_Form__AI__SEO__GEO_Optimization__Human_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8768_Google_Form__AI__SEO__GEO_Optimization__Human_Approval.json)|
 |11077|[11077_Generate_GEO-optimized_support_replies_from_Gmail_to_Gmail_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11077_Generate_GEO-optimized_support_replies_from_Gmail_to_Gmail_and_Slack.json)|
 |11083|[11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11083_Transcribe_YouTube_Videos___Create_GEO_Summaries_with_Whisper_and_GPT-4o-mini_in_Notion.json)|
+|11748|[11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11748_Generate_AI_Search_Visibility_Datasets_with_Claude_and_GPT_for_Tracking_Platforms.json)|

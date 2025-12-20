@@ -1,4 +1,4 @@
-# newsapi : 9
+# newsapi : 10
 
 |id|file|
 |----|----|
@@ -11,3 +11,4 @@
 |8594|[8594_Smart_Stock_Trading_Recommendations_with_GPT-4__TwelveData___NewsAPI_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8594_Smart_Stock_Trading_Recommendations_with_GPT-4__TwelveData___NewsAPI_Analysis.json)|
 |10093|[10093_Daily_Gemini-Powered_Global_Trend_Analysis_with_GDELT__NewsAPI___Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10093_Daily_Gemini-Powered_Global_Trend_Analysis_with_GDELT__NewsAPI___Discord.json)|
 |11092|[11092_Create_AI-Curated_News_Digests_with_GPT-5.1__NewsAPI__Tavily___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11092_Create_AI-Curated_News_Digests_with_GPT-5.1__NewsAPI__Tavily___Telegram.json)|
+|11572|[11572_Aggregate_News_Articles_from_NewsAPI__Mediastack___CurrentsAPI_into_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11572_Aggregate_News_Articles_from_NewsAPI__Mediastack___CurrentsAPI_into_Database.json)|

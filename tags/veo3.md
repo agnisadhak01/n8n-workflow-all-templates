@@ -1,4 +1,4 @@
-# veo3 : 34
+# veo3 : 35
 
 |id|file|
 |----|----|
@@ -36,3 +36,4 @@
 |10860|[10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10860_Generate_Videos_Automatically_with_Veo3_Fast_API__Google_Drive___Email_Notifications.json)|
 |10876|[10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10876_text-to-video_generation_using_Google_Veo3_API_and_Google_Drive.json)|
 |11204|[11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11204_Create_AI_Viral_Videos_using_NanoBanana_2_PRO___VEO3.1_and_Publish_via_Blotato.json)|
+|11575|[11575_Create_AI_Dream_Videos_with_Analysis_using_Veo3_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11575_Create_AI_Dream_Videos_with_Analysis_using_Veo3_and_Telegram.json)|

@@ -1,4 +1,4 @@
-# detection : 43
+# detection : 47
 
 |id|file|
 |----|----|
@@ -45,3 +45,7 @@
 |11220|[11220_Automated_Failed_Login_Detection_with_Jira_Tasks__Slack_Alerts___Notion_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11220_Automated_Failed_Login_Detection_with_Jira_Tasks__Slack_Alerts___Notion_Logging.json)|
 |11246|[11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11246_Process_Images_with_VLM_Run__Auto_Segmentation___Detection_with_Drive-Telegram_Sharing.json)|
 |11337|[11337_Automated_Lead_Nurturing_with_Gemini_AI__Telegram__and_Gmail_Reply_Detection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11337_Automated_Lead_Nurturing_with_Gemini_AI__Telegram__and_Gmail_Reply_Detection.json)|
+|11517|[11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11517_Automate_Champion_Migration_Detection___Personalized_Outreach_with_Explorium___Claude.json)|
+|11681|[11681_LinkedIn_Email_Finder_with_AI_Domain_Detection_using_Google_Sheets___Hunter.io.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11681_LinkedIn_Email_Finder_with_AI_Domain_Detection_using_Google_Sheets___Hunter.io.json)|
+|11775|[11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json)|
+|11862|[11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11862_Intelligent_Real-Time_Financial_Fraud_Detection_and_Risk_Scoring_Engine.json)|

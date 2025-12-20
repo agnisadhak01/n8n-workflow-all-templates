@@ -1,4 +1,4 @@
-# supabase : 103
+# supabase : 106
 
 |id|file|
 |----|----|
@@ -105,3 +105,6 @@
 |10749|[10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10749_Automated_Document_Sync_Between_SharePoint_and_Google_Drive_with_Supabase.json)|
 |10901|[10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/09/10901_Automate_Travel_Expense_Extraction_with_OCR__Mistral_AI_and_Supabase.json)|
 |11219|[11219_Error_Monitor__AI-Powered_Resolution__Context7__Supabase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11219_Error_Monitor__AI-Powered_Resolution__Context7__Supabase.json)|
+|11462|[11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11462_Complete_Appointment_System_with_Supabase_and_AI_Assistants_for_Scheduling___Management.json)|
+|11463|[11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11463_Dental_Clinic_Appointment___Admin_System_with_Supabase__Phone_Integration___AI.json)|
+|11648|[11648_AI_WhatsApp_Support_with_Human_Handoff_using_Gemini__Twilio__and_Supabase_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11648_AI_WhatsApp_Support_with_Human_Handoff_using_Gemini__Twilio__and_Supabase_RAG.json)|

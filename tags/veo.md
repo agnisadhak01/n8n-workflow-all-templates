@@ -1,4 +1,4 @@
-# veo : 29
+# veo : 31
 
 |id|file|
 |----|----|
@@ -31,3 +31,5 @@
 |10358|[10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10358_Automate_AI_Video_Creation___Multi-Platform_Publishing_with_GPT-4__Veo_3.1___Blotato.json)|
 |11119|[11119_E-commerce_bestseller_video_generator__Algolia___Google_VEO_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11119_E-commerce_bestseller_video_generator__Algolia___Google_VEO_3.json)|
 |11276|[11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11276_Generate___Publish_AI_Videos_with_Sora_2__Veo_3.1__Gemini___Blotato.json)|
+|11367|[11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11367_Convert_Websites_to_Instagram_Reels_with_Gemini_Veo__OpenAI_TTS__and_JsonCut.json)|
+|11594|[11594_Creating_Consistent_Character_Videos_with_Veo_3.1__GPT-4o__and_Google_NanoBanana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11594_Creating_Consistent_Character_Videos_with_Veo_3.1__GPT-4o__and_Google_NanoBanana.json)|

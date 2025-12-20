@@ -1,4 +1,4 @@
-# scrapegraphai : 31
+# scrapegraphai : 40
 
 |id|file|
 |----|----|
@@ -33,3 +33,12 @@
 |8863|[8863_Create_Personalized_News_Digests_from_RSS_Feeds_with_GPT___Gemini_via_Email_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8863_Create_Personalized_News_Digests_from_RSS_Feeds_with_GPT___Gemini_via_Email_Telegram.json)|
 |10115|[10115_Track_Amazon_Product_Prices_with_ScrapeGraphAI__Google_Sheets___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10115_Track_Amazon_Product_Prices_with_ScrapeGraphAI__Google_Sheets___Telegram_Alerts.json)|
 |11227|[11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11227_Aggregate_Financial_Regulatory_News_with_ScrapeGraphAI__Slack_Alerts___Google_Sheets.json)|
+|11404|[11404_Track_Software_Vulnerability_Patents_with_ScrapeGraphAI__Matrix__and_Intercom.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11404_Track_Software_Vulnerability_Patents_with_ScrapeGraphAI__Matrix__and_Intercom.json)|
+|11585|[11585_E-commerce_Price_Tracker_with_ScrapeGraphAI__MongoDB__and_Mailgun_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11585_E-commerce_Price_Tracker_with_ScrapeGraphAI__MongoDB__and_Mailgun_Alerts.json)|
+|11608|[11608_Automated_Product_Price_Tracking_with_ScrapeGraphAI__Slack_Alerts_and_Jira_Tickets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11608_Automated_Product_Price_Tracking_with_ScrapeGraphAI__Slack_Alerts_and_Jira_Tickets.json)|
+|11609|[11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11609_E-commerce_Product_Price_Tracker_with_ScrapeGraphAI__Baserow_and_Slack_Alerts.json)|
+|11634|[11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11634_Real-time_Public_Transport_Delay_Tracking_with_ScrapeGraphAI__Teams___Dropbox.json)|
+|11635|[11635_Track_Software_Security_Patents_with_ScrapeGraphAI__Notion__and_Pushover_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11635_Track_Software_Security_Patents_with_ScrapeGraphAI__Notion__and_Pushover_Alerts.json)|
+|11722|[11722_Healthcare_Policy_Monitoring_with_ScrapeGraphAI__Pipedrive_and_Matrix_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11722_Healthcare_Policy_Monitoring_with_ScrapeGraphAI__Pipedrive_and_Matrix_Alerts.json)|
+|11803|[11803_Track_E-commerce_Price_Changes_with_ScrapeGraphAI__Baserow___Pushover_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11803_Track_E-commerce_Price_Changes_with_ScrapeGraphAI__Baserow___Pushover_Alerts.json)|
+|11835|[11835_Track_Certification_Requirement_Changes_with_ScrapeGraphAI__GitHub_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11835_Track_Certification_Requirement_Changes_with_ScrapeGraphAI__GitHub_and_Email.json)|

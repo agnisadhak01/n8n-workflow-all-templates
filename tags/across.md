@@ -1,4 +1,4 @@
-# across : 27
+# across : 30
 
 |id|file|
 |----|----|
@@ -29,3 +29,6 @@
 |9892|[9892_Automate_Job_Posting_Across_Multiple_Boards_with_Google_Sheets_and_BrowserAct.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9892_Automate_Job_Posting_Across_Multiple_Boards_with_Google_Sheets_and_BrowserAct.json)|
 |9938|[9938_AI_Industry_Trend_Monitor_24_7_Across_X__Gmail__and_Websites_Using_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9938_AI_Industry_Trend_Monitor_24_7_Across_X__Gmail__and_Websites_Using_GPT-5.json)|
 |10298|[10298_Publishing_Videos_Across_Multiple_Platforms_with_Blotato__Instagram__YouTube.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10298_Publishing_Videos_Across_Multiple_Platforms_with_Blotato__Instagram__YouTube.json)|
+|11429|[11429_Automate_client_onboarding_across_Google_Drive__Slack__Notion___Gmail_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11429_Automate_client_onboarding_across_Google_Drive__Slack__Notion___Gmail_with_GPT-4o-mini.json)|
+|11485|[11485_Track___Alert_Team_Holidays_Across_Countries_with_Nager.Date_API__Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11485_Track___Alert_Team_Holidays_Across_Countries_with_Nager.Date_API__Notion_and_Slack.json)|
+|11573|[11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json)|

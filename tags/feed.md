@@ -1,4 +1,4 @@
-# feed : 29
+# feed : 30
 
 |id|file|
 |----|----|
@@ -31,3 +31,4 @@
 |10060|[10060_Google_Shopping_Feed_Optimization_with_Channable__Relevance_AI___Merchant_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10060_Google_Shopping_Feed_Optimization_with_Channable__Relevance_AI___Merchant_API.json)|
 |10168|[10168_Automate_News_Intelligence_with_Gemini_AI_for_RSS_Feeds_to_Notion_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10168_Automate_News_Intelligence_with_Gemini_AI_for_RSS_Feeds_to_Notion_and_Slack.json)|
 |11103|[11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11103_Aggregate_Crypto_and_Stock_Market_News_Feed_from_Multiple_Sources.json)|
+|11813|[11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11813_Daily_RSS_Feed_Summarizer_with_Gemini_AI_to_Slack_with_X_Sharing_Option.json)|

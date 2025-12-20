@@ -1,4 +1,4 @@
-# visual : 17
+# visual : 19
 
 |id|file|
 |----|----|
@@ -19,3 +19,5 @@
 |9500|[9500_Standardized_Workflow_Design_Pattern_with_Color-Coding_System_for_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9500_Standardized_Workflow_Design_Pattern_with_Color-Coding_System_for_Teams.json)|
 |10161|[10161_Automated_Referral_Reward_System_with_Email_Verification_and_Visual_Coupons.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10161_Automated_Referral_Reward_System_with_Email_Verification_and_Visual_Coupons.json)|
 |10285|[10285_Send_Severe_Weather_Alerts_from_Visual_Crossing_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10285_Send_Severe_Weather_Alerts_from_Visual_Crossing_to_Telegram.json)|
+|11573|[11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11573_Analyze_competitor_visual_content_across_Instagram_and_TikTok_with_GPT-4o_Vision.json)|
+|11589|[11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11589_Automated_POV_Video_Creation_with_AI_Scripts__Visual_Generation___YouTube_Publishing.json)|

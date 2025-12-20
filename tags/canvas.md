@@ -1,4 +1,4 @@
-# canvas : 5
+# canvas : 6
 
 |id|file|
 |----|----|
@@ -7,3 +7,4 @@
 |2544|[2544_2-Way-Sync_Assignments_Completion_between_Canvas_LMS_and_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2544_2-Way-Sync_Assignments_Completion_between_Canvas_LMS_and_Notion.json)|
 |3627|[3627_Generate_Graphic_Wallpaper_with_Midjourney__GPT-4o-mini_and_Canvas_APIs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3627_Generate_Graphic_Wallpaper_with_Midjourney__GPT-4o-mini_and_Canvas_APIs.json)|
 |3663|[3663_Business_Model_Canvas_AI-Powered_Generator__LLM_Flexible.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3663_Business_Model_Canvas_AI-Powered_Generator__LLM_Flexible.json)|
+|11746|[11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11746_Automate_Personalized_Assignment_Reminders_for_Students_with_Canvas.json)|
