@@ -4,6 +4,22 @@ synchronized and updated every 2 months.
 ## sync site:
 - gitee :  [n8n-workflow-all-templates](https://gitee.com/zengfr/n8n-workflow-all-templates)
 - github : [n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates)
+
+## Template Explorer (single platform)
+One Next.js app with two ways to browse templates:
+
+- **Browse** (`/browse`): Static index (tags, service groups, sort). Download JSON or ZIP from the repo index. Run `npm run build:index` then `npm run copy:index` so `explorer/public/templates-index.json` exists.
+- **Templates** (`/templates`): Supabase-backed search by text and node type, workflow preview (React Flow), and one-click JSON copy.
+
+- **Dev:** `npm run dev` – Next.js app at http://localhost:3000 (from repo root).
+- **Data:** For Browse, run `npm run build:index` and `npm run copy:index`. For Templates, configure Supabase (see `explorer/.env.local.example`) and run `npm run scrape` or `npm run scrape:local`.
+- **Deploy:** Deploy the `explorer` folder to Vercel; set `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`. For Browse, include `templates-index.json` in `explorer/public` (e.g. run `copy:index` in CI).
+
+See [explorer/README.md](explorer/README.md) for details.
+
+## Legacy Vite webapp
+The previous Vite app lives in `webapp/`. Its behavior is merged into the Next.js app (Browse page). To run the old app standalone: `cd webapp && npm run dev`. Root `npm run build` still builds the index and the Vite webapp to `webapp/dist/`.
+
 ## n8n workflow templates all files list
 - [n8n_workflow_templates_files_1.md](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/index_files_1.md)
 - [n8n_workflow_templates_files_2.md](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/index_files_2.md)
