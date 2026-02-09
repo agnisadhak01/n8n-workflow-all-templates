@@ -1,0 +1,17 @@
+# yt : 13
+
+|id|file|
+|----|----|
+|2930|[2930_Generate_a_YouTube_Bedtime_Story_using_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2930_Generate_a_YouTube_Bedtime_Story_using_OpenAI.json)|
+|3077|[3077_Create_Daily_YouTube_Playlist__using_Google_Sheets__and_get_notified_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3077_Create_Daily_YouTube_Playlist__using_Google_Sheets__and_get_notified_in_Telegram.json)|
+|3184|[3184_Process_YouTube_Transcripts_with_Apify__OpenAI___Pinecone_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3184_Process_YouTube_Transcripts_with_Apify__OpenAI___Pinecone_Database.json)|
+|3886|[3886_Send_YouTube_Video_Summaries_to_Obsidian_via_Dropbox.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3886_Send_YouTube_Video_Summaries_to_Obsidian_via_Dropbox.json)|
+|3906|[3906_Automate_YouTube_Uploads_with_AI-Generated_Metadata_from_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3906_Automate_YouTube_Uploads_with_AI-Generated_Metadata_from_Google_Drive.json)|
+|4029|[4029_Create___Approve_POV_Videos_with_AI__ElevenLabs___Multi-Posting__TikTok_IG_YT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4029_Create___Approve_POV_Videos_with_AI__ElevenLabs___Multi-Posting__TikTok_IG_YT.json)|
+|4754|[4754_Post_AI_Videos_to_YouTube_with_Fal_AI_Veo3__Google_Sheets__and_YouTube_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4754_Post_AI_Videos_to_YouTube_with_Fal_AI_Veo3__Google_Sheets__and_YouTube_API.json)|
+|5468|[5468_Multi-User_Telegram_Bot_to_Summarize___Repurpose_YouTube_Videos_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5468_Multi-User_Telegram_Bot_to_Summarize___Repurpose_YouTube_Videos_with_GPT-4o.json)|
+|5668|[5668_Track_Top_YouTube_Videos_by_View_Count_with_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5668_Track_Top_YouTube_Videos_by_View_Count_with_Google_Sheets.json)|
+|5755|[5755_Transform_Old_Photos_into_Animated_Videos_with_FLUX___Kling_AI_for_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5755_Transform_Old_Photos_into_Animated_Videos_with_FLUX___Kling_AI_for_Social_Media.json)|
+|5805|[5805_Create_YouTube_Shorts_Scripts_from_Video_Links_with_Gemini_AI_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5805_Create_YouTube_Shorts_Scripts_from_Video_Links_with_Gemini_AI_and_Telegram.json)|
+|7036|[7036_Automated_YouTube_Shorts_Creator_with_yt-dlp___FFmpeg.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7036_Automated_YouTube_Shorts_Creator_with_yt-dlp___FFmpeg.json)|
+|8429|[8429_AI_Video_Automation_Engine_-_Generate___Publish_YT_Shorts_with_Veo-3_or_Sora_2.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8429_AI_Video_Automation_Engine_-_Generate___Publish_YT_Shorts_with_Veo-3_or_Sora_2.json)|

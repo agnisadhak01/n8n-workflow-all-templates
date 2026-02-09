@@ -1,0 +1,13 @@
+# labeling : 9
+
+|id|file|
+|----|----|
+|4557|[4557_Intelligent_Email_Organization_with_AI-Powered_Content_Classification_for_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4557_Intelligent_Email_Organization_with_AI-Powered_Content_Classification_for_Gmail.json)|
+|4647|[4647_Automate_Gmail_Labeling_with_Gemini_AI___Build_InfraNodus_Knowledge_Graph_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4647_Automate_Gmail_Labeling_with_Gemini_AI___Build_InfraNodus_Knowledge_Graph_with_Telegram_Alerts.json)|
+|4680|[4680_Automatic_Gmail_Message_Categorization_with_GPT-4_Content_Analysis___Labels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4680_Automatic_Gmail_Message_Categorization_with_GPT-4_Content_Analysis___Labels.json)|
+|5820|[5820_Automatic_Gmail_Categorization_and_Labeling_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5820_Automatic_Gmail_Categorization_and_Labeling_with_AI.json)|
+|7633|[7633_Smart_Gmail_Labeling_Automation_with_Text_Classifier_and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7633_Smart_Gmail_Labeling_Automation_with_Text_Classifier_and_GPT-5.json)|
+|7980|[7980_Automate_Gmail_Organization__Weekly_Newsletter_Archiving_and_Receipt_Labeling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7980_Automate_Gmail_Organization__Weekly_Newsletter_Archiving_and_Receipt_Labeling.json)|
+|8212|[8212_Automatic_Email_Categorization___Labeling_in_Zoho_Mail_with_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8212_Automatic_Email_Categorization___Labeling_in_Zoho_Mail_with_GPT-4o-mini.json)|
+|9679|[9679_Automated_Email_Management_with_Gemini_AI__Gmail_Summarizing__Labeling_and_Notion_Sheets_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9679_Automated_Email_Management_with_Gemini_AI__Gmail_Summarizing__Labeling_and_Notion_Sheets_Logging.json)|
+|11071|[11071_Automate_Gmail_Organization_with_AI-Powered_Email_Classification_and_Smart_Labeling.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11071_Automate_Gmail_Organization_with_AI-Powered_Email_Classification_and_Smart_Labeling.json)|

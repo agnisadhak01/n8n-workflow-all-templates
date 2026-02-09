@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "site": "https://github.com/zengfr/n8n-workflow-all-templates",
+    "name": "Generate Custom Branded PDF Invoices from QuickBooks & Email to Clients",
+    "wechat": "youandme10086",
+    "id": 10553,
+    "update_time": "2025-11-14"
+  },
+  "nodes": [
+    {
+      "id": "2cad3d04-ad08-4864-a075-e44cdc02b09e",
+      "name": "Listen for New QuickBooks Invoice",
+      "type": "n8n-nodes-base.webhook",
+      "position": [
+        1152,
+        736
+      ],
+      "webhookId": "f94d4908-7ef3-42b7-aa27-d6028475d32c",
+      "parameters": {
+        "path": "qbo-invoice-webhook",
+        "options": {},
+        "httpMethod": "POST"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "37d547c9-199e-4b06-837d-02f5701eab29",
+      "name": "Get Invoice Data from QuickBooks",
+      "type": "n8n-nodes-base.quickbooks",
+      "position": [
+        1888,
+        464
+      ],
+      "parameters": {
+        "resource": "invoice",
+        "invoiceId": "={{ $json.body.eventNotifications[0].dataChangeEvent.entities[0].id }}"
+      },
+      "credentials": {
+        "quickBooksOAuth2Api": {
+          "id": "9MTd6DvwkV92w9Y5",
+          "name": "QuickBooks Online account"
+        }
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "63323be0-c313-4a0b-8643-0deb3ffab064",
+      "name": "Fetch Company Logo Image",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        1520,
+        736
+      ],
+      "parameters": {
+        "url": "https://imgs.search.brave.com/Bgwsv_lVgOfg1epYNXssv-aV5AXGfZcDRaS8ack9-yQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jb250/ZW50LmpkbWFnaWNi/b3guY29tL2NvbXAv/YWhtZWRhYmFkL2o4/LzA3OXB4eDc5Lnh4/NzkuMTcwMjA4MDgy/MzI4Lm43ajgvY2F0/YWxvZ3VlL3NhdHZh/LXNvbHV0aW9ucy1z/Y2llbmNlLWNpdHkt/cm9hZC1vZ25hai1h/aG1lZGFiYWQtbG9n/by1kZXNpZ25lcnMt/ejZmcmhsbXE2My0y/NTAuanBn",
+        "options": {},
+        "responseFormat": "file",
+        "dataPropertyName": "logodata"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "9b1b4f77-7efa-4181-a619-31c93b2dccb0",
+      "name": "Fetch Company Signature Image",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        1520,
+        1088
+      ],
+      "parameters": {
+        "url": "https://imgs.search.brave.com/Bgwsv_lVgOfg1epYNXssv-aV5AXGfZcDRaS8ack9-yQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jb250/ZW50LmpkbWFnaWNi/b3guY29tL2NvbXAv/YWhtZWRhYmFkL2o4/LzA3OXB4eDc5Lnh4/NzkuMTcwMjA4MDgy/MzI4Lm43ajgvY2F0/YWxvZ3VlL3NhdHZh/LXNvbHV0aW9ucy1z/Y2llbmNlLWNpdHkt/cm9hZC1vZ25hai1h/aG1lZGFiYWQtbG9n/by1kZXNpZ25lcnMt/ejZmcmhsbXE2My0y/NTAuanBn",
+        "options": {},
+        "responseFormat": "file",
+        "dataPropertyName": "signaturedata"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "e1c91533-ab5e-4e26-92b7-f9339892c441",
+      "name": "Convert Logo to Base64",
+      "type": "n8n-nodes-base.extractFromFile",
+      "position": [
+        1888,
+        736
+      ],
+      "parameters": {
+        "options": {},
+        "operation": "binaryToPropery",
+        "destinationKey": "logodata",
+        "binaryPropertyName": "logodata"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "1c12aa7b-c51b-4d67-8dc4-f0b2754e00c9",
+      "name": "Convert Signature to Base64",
+      "type": "n8n-nodes-base.extractFromFile",
+      "position": [
+        1888,
+        912
+      ],
+      "parameters": {
+        "options": {},
+        "operation": "binaryToPropery",
+        "destinationKey": "signaturedata",
+        "binaryPropertyName": "signaturedata"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "b060576e-fdbc-4197-8d94-d8fe50278bdf",
+      "name": "Combine Invoice, Logo & Signature",
+      "type": "n8n-nodes-base.merge",
+      "position": [
+        2128,
+        720
+      ],
+      "parameters": {
+        "numberInputs": 3
+      },
+      "typeVersion": 3.2
+    },
+    {
+      "id": "361637d4-3d81-4b26-92f1-9548634492b9",
+      "name": "Prepare All Data for Template",
+      "type": "n8n-nodes-base.code",
+      "position": [
+        2336,
+        736
+      ],
+      "parameters": {
+        "jsCode": "// This is the final, production-ready code. It fixes the \"PAID\" stamp logic.\n\nconst items = $items(\"Combine Invoice, Logo & Signature\"); // Ensure this is the correct name of your Merge node\n\n// Step 1: Correctly access the data\nconst invoiceData = items[0].json;\nconst logoJson = items[1].json;\nconst signatureJson = items[2].json;\n\n// Step 2: Safety check\nif (!logoJson || !logoJson.logodata || !signatureJson || !signatureJson.signaturedata) {\n  throw new Error(\"Could not find 'logodata' or 'signaturedata' properties. Check the nodes providing the images.\");\n}\n\n// Step 3: Create the full, correct Data URI for the images\nconst logoSrc = `data:image/png;base64,${logoJson.logodata}`;\nconst signatureSrc = `data:image/png;base64,${signatureJson.signaturedata}`;\n\n// Step 4: Format dates professionally\nfunction formatDate(dateString) {\n  if (!dateString) return 'N/A';\n  const options = { year: 'numeric', month: 'long', day: 'numeric' };\n  return new Date(dateString + 'T00:00:00-00:00').toLocaleDateString('en-US', options);\n}\n\n// Step 5: Build the HTML for the line items\nlet lineItemsHtml = '';\nfor (const item of invoiceData.Line) {\n  if (item.DetailType === 'SalesItemLineDetail') {\n    // Added a subtle grey color for the description for a more refined look\n    const description = item.Description ? `<br><span style=\"color: #718096; font-size: 0.85rem;\">${item.Description}</span>` : '';\n    lineItemsHtml += `\n      <tr>\n        <td><strong>${item.SalesItemLineDetail.ItemRef.name || 'N/A'}</strong>${description}</td>\n        <td class=\"text-center\">${item.SalesItemLineDetail.Qty || 1}</td>\n        <td class=\"text-right\">$${(item.SalesItemLineDetail.UnitPrice || 0).toFixed(2)}</td>\n        <td class=\"text-right\">$${(item.Amount || 0).toFixed(2)}</td>\n      </tr>`;\n  }\n}\n\n// Step 0.5: Map QBO SalesTermRef values to display names\nconst paymentTermsMap = {\n  \"1\": \"Due on receipt\",\n  \"2\": \"Net 15\",\n  \"3\": \"Net 30\",\n  \"4\": \"Net 60\"\n};\n\n// Get the term name safely\nconst paymentTermsValue = invoiceData.SalesTermRef?.value;\nconst paymentTerms = paymentTermsMap[paymentTermsValue] || 'N/A';\n\n// Step 6: THE FIX - Conditionally create the PAID stamp HTML\nlet paidStampHtml = '';\n// Only if the balance is zero or less, create the entire div. Otherwise, it's an empty string.\nif (invoiceData.Balance <= 0) {\n  paidStampHtml = '<div class=\"paid-stamp\">PAID</div>';\n}\n\n// Step 7: Return the final JSON object\nreturn [{\n  json: {\n    customerName: invoiceData.CustomerRef.name,\n    customerEmail: invoiceData.BillEmail?.Address || 'N/A',\n    invoiceNumber: invoiceData.DocNumber,\n    invoiceDate: formatDate(invoiceData.TxnDate),\n    dueDate: formatDate(invoiceData.DueDate),\n    lineItems: lineItemsHtml,\n    subtotal: (invoiceData.TotalAmt - invoiceData.TxnTaxDetail.TotalTax).toFixed(2),\n    tax: (invoiceData.TxnTaxDetail.TotalTax).toFixed(2),\n    balanceDue: (invoiceData.Balance).toFixed(2),\n    notes: invoiceData.CustomerMemo.value,\n    paymentTerms: paymentTerms,\n    logoSrc: logoSrc,\n    signatureSrc: signatureSrc,\n    paidStampHtml: paidStampHtml // Pass the conditional HTML to the template\n  }\n}];"
+      },
+      "typeVersion": 2
+    },
+    {
+      "id": "b47b99e5-3dc2-4ccc-b6f6-fc2b2405f494",
+      "name": "Build HTML Invoice from Data",
+      "type": "n8n-nodes-base.html",
+      "position": [
+        2528,
+        736
+      ],
+      "parameters": {
+        "html": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Invoice #{{$json.invoiceNumber}}</title>\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n    <link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap\" rel=\"stylesheet\">\n    <style>\n        @page {\n            size: A4;\n            margin: 1.5cm;\n            @bottom-center {\n                content: \"Page \" counter(page) \" of \" counter(pages);\n                font-family: 'Inter', sans-serif;\n                font-size: 9pt;\n                color: #94a3b8;\n                padding-top: 10px;\n                border-top: 1px solid #e2e8f0;\n                width: 100%;\n            }\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: 'Inter', sans-serif;\n            color: #1e293b;\n            font-size: 9pt;\n            line-height: 1.6;\n            background: #ffffff;\n        }\n        .invoice-wrapper { \n            width: 100%; \n            max-width: 210mm;\n            margin: 0 auto;\n        }\n        thead { display: table-header-group; }\n        tbody { display: table-row-group; }\n        tr { page-break-inside: avoid; }\n        \n        /* Header Section with Modern Design */\n        .header {\n            display: flex;\n            justify-content: space-between;\n            align-items: flex-start;\n            padding-bottom: 25px;\n            margin-bottom: 35px;\n            position: relative;\n        }\n        .header::after {\n            content: '';\n            position: absolute;\n            bottom: 0;\n            left: 0;\n            right: 0;\n            height: 4px;\n            background: linear-gradient(90deg, #3b82f6 0%, #8b5cf6 100%);\n            border-radius: 2px;\n        }\n        .company-info {\n            flex: 1;\n        }\n        .company-logo { \n            max-width: 200px; \n            max-height: 80px;\n            margin-bottom: 12px;\n            display: block;\n        }\n        .company-details {\n            font-size: 8.5pt;\n            color: #64748b;\n            line-height: 1.7;\n        }\n        .company-details strong {\n            color: #1e293b;\n            font-weight: 600;\n            font-size: 11pt;\n            display: block;\n            margin-bottom: 6px;\n        }\n        .invoice-title { \n            text-align: right;\n            flex-shrink: 0;\n        }\n        .invoice-title h1 {\n            font-size: 32pt;\n            background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);\n            -webkit-background-clip: text;\n            -webkit-text-fill-color: transparent;\n            background-clip: text;\n            font-weight: 700;\n            letter-spacing: -1px;\n            margin-bottom: 4px;\n        }\n        .invoice-number {\n            color: #64748b;\n            font-size: 10pt;\n            font-weight: 500;\n        }\n        \n        /* Meta Section with Cards */\n        .meta-section {\n            display: grid;\n            grid-template-columns: repeat(3, 1fr);\n            gap: 20px;\n            margin-bottom: 35px;\n        }\n        .meta-card {\n            background: #f8fafc;\n            border: 1px solid #e2e8f0;\n            border-radius: 8px;\n            padding: 16px;\n            transition: all 0.2s ease;\n        }\n        .meta-card:hover {\n            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);\n            border-color: #cbd5e1;\n        }\n        .meta-card strong {\n            display: block;\n            margin-bottom: 10px;\n            color: #3b82f6;\n            font-weight: 600;\n            text-transform: uppercase;\n            letter-spacing: 0.8px;\n            font-size: 7.5pt;\n        }\n        .meta-card span {\n            color: #1e293b;\n            display: block;\n            line-height: 1.8;\n            font-size: 9pt;\n        }\n        \n        /* Enhanced Table Design */\n        .line-items-table {\n            width: 100%;\n            border-collapse: separate;\n            border-spacing: 0;\n            margin-bottom: 25px;\n            border-radius: 8px;\n            overflow: hidden;\n            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);\n        }\n        .line-items-table th {\n            padding: 12px 10px;\n            background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);\n            color: #ffffff;\n            font-size: 8pt;\n            text-transform: uppercase;\n            letter-spacing: 0.6px;\n            font-weight: 600;\n            border: none;\n        }\n        .line-items-table td {\n            padding: 12px 10px;\n            border-bottom: 1px solid #e2e8f0;\n            vertical-align: top;\n            background: #ffffff;\n        }\n        .line-items-table tbody tr:hover {\n            background: #f8fafc;\n        }\n        .line-items-table tbody tr:last-child td {\n            border-bottom: none;\n        }\n        .item-description { \n            font-size: 8pt; \n            color: #64748b;\n            margin-top: 3px;\n            line-height: 1.5;\n        }\n        .text-right { text-align: right; }\n        .text-left { text-align: left; }\n        .text-center { text-align: center; }\n        \n        /* Summary Section */\n        .summary-section {\n            page-break-inside: avoid !important;\n        }\n        .totals-section {\n            display: flex;\n            justify-content: flex-end;\n            margin-top: 25px;\n        }\n        .totals-table {\n            width: 100%;\n            max-width: 380px;\n            border-radius: 8px;\n            overflow: hidden;\n            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);\n        }\n        .totals-table tr {\n            background: #ffffff;\n        }\n        .totals-table td {\n            padding: 12px 16px;\n            border-bottom: 1px solid #e2e8f0;\n        }\n        .totals-table .label {\n            color: #64748b;\n            text-align: right;\n            font-weight: 500;\n            font-size: 9.5pt;\n        }\n        .totals-table .amount {\n            font-weight: 600;\n            text-align: right;\n            font-size: 10pt;\n            color: #1e293b;\n        }\n        .grand-total {\n            background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%) !important;\n        }\n        .grand-total .label, \n        .grand-total .amount {\n            color: #ffffff !important;\n            font-size: 13pt;\n            font-weight: 700;\n            border: none;\n        }\n        \n        /* Footer Section */\n        .footer {\n            margin-top: 40px;\n            padding: 25px;\n            background: #f8fafc;\n            border-radius: 8px;\n            border-left: 4px solid #3b82f6;\n            font-size: 9pt;\n            color: #64748b;\n        }\n        .footer strong { \n            color: #1e293b;\n            font-size: 10pt;\n            display: block;\n            margin-bottom: 8px;\n        }\n        .footer p {\n            margin: 8px 0;\n            line-height: 1.7;\n        }\n        .signature { \n            max-height: 50px;\n            margin: 15px 0 8px 0;\n            display: block;\n        }\n        .signature-name {\n            font-weight: 600;\n            color: #1e293b;\n            font-size: 9.5pt;\n        }\n        \n        /* Print Optimizations */\n        @media print {\n            body {\n                -webkit-print-color-adjust: exact;\n                print-color-adjust: exact;\n            }\n            .meta-card:hover {\n                box-shadow: none;\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"invoice-wrapper\">\n        <header class=\"header\">\n            <div class=\"company-info\">\n                <img src=\"{{$json.logoSrc}}\" alt=\"Satva Solutions Logo\" class=\"company-logo\">\n                <div class=\"company-details\">\n                    <strong>Satva Solutions</strong>\n                    Science City, Ahmedabad<br>\n                    Gujarat - 380060, India\n                </div>\n            </div>\n            <div class=\"invoice-title\">\n                <h1>INVOICE</h1>\n                <p class=\"invoice-number\">#{{$json.invoiceNumber}}</p>\n            </div>\n        </header>\n        \n        <section class=\"meta-section\">\n            <div class=\"meta-card\">\n                <strong>Bill To</strong>\n                <span>{{$json.customerName}}</span>\n                <span>{{$json.customerEmail}}</span>\n            </div>\n            <div class=\"meta-card\">\n                <strong>From</strong>\n                <span>Satva Solutions</span>\n                <span>Science City, Ahmedabad</span>\n                <span>Gujarat - 380060</span>\n            </div>\n            <div class=\"meta-card\">\n                <strong>Invoice Details</strong>\n                <span>Issue Date: {{$json.invoiceDate}}</span>\n                <span>Due Date: {{$json.dueDate}}</span>\n            </div>\n        </section>\n\n        <table class=\"line-items-table\">\n            <thead>\n                <tr>\n                    <th class=\"text-left\" style=\"width: 50%;\">Item & Description</th>\n                    <th class=\"text-center\" style=\"width: 15%;\">Quantity</th>\n                    <th class=\"text-right\" style=\"width: 15%;\">Rate</th>\n                    <th class=\"text-right\" style=\"width: 20%;\">Amount</th>\n                </tr>\n            </thead>\n            <tbody>\n                {{$json.lineItems}}\n            </tbody>\n        </table>\n        \n        <div class=\"summary-section\">\n            <section class=\"totals-section\">\n                <table class=\"totals-table\">\n                    <tr>\n                        <td class=\"label\">Subtotal</td>\n                        <td class=\"amount\">₹{{$json.subtotal}}</td>\n                    </tr>\n                    <tr>\n                        <td class=\"label\">Tax</td>\n                        <td class=\"amount\">₹{{$json.tax}}</td>\n                    </tr>\n                    <tr class=\"grand-total\">\n                        <td class=\"label\">Total Amount Due</td>\n                        <td class=\"amount\">₹{{$json.balanceDue}}</td>\n                    </tr>\n                </table>\n            </section>\n        \n            <footer class=\"footer\">\n                <strong>Payment Terms: {{$json.paymentTerms}}</strong>\n                <p>{{$json.notes}}</p>\n                <img src=\"{{$json.signatureSrc}}\" alt=\"Authorized Signature\" class=\"signature\">\n                <p class=\"signature-name\">Authorized Signatory<br>Satva Solutions</p>\n            </footer>\n        </div>\n    </div>\n</body>\n</html>"
+      },
+      "typeVersion": 1.2
+    },
+    {
+      "id": "6ae2ef17-ae23-42ae-a3d8-7d6ceefef0fe",
+      "name": "Convert HTML to Binary File",
+      "type": "n8n-nodes-base.convertToFile",
+      "position": [
+        2736,
+        736
+      ],
+      "parameters": {
+        "options": {
+          "encoding": "utf8",
+          "fileName": "index.html"
+        },
+        "operation": "toText",
+        "sourceProperty": "html"
+      },
+      "typeVersion": 1.1
+    },
+    {
+      "id": "bc2198cc-db3e-4e26-8c9d-8d0e21712bd3",
+      "name": "Generate PDF via Gotenberg",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        3008,
+        736
+      ],
+      "parameters": {
+        "url": "http://localhost:3000/forms/chromium/convert/html",
+        "method": "POST",
+        "options": {},
+        "sendBody": true,
+        "contentType": "multipart-form-data",
+        "sendHeaders": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "files",
+              "parameterType": "formBinaryData",
+              "inputDataFieldName": "=data"
+            },
+            {
+              "name": "scale",
+              "value": "1"
+            },
+            {
+              "name": "metadata",
+              "value": "={\"Author\":\"IA2S\",\"Copyright\":\"IA2S\",\"CreateDate\":\"{{ $now.format('yyyy-MM-dd') }}\",\"Creator\":\"IA2S\",\"Keywords\":[],\"ModDate\":\"{{ $now.format('yyyy-MM-dd') }}\",\"PDFVersion\":1.7,\"Producer\":\"IA2S\",\"Subject\":\"PDF\",\"Title\":\"IA2S PDF\"}"
+            }
+          ]
+        },
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Gotenberg-Output-Filename",
+              "value": "={{ $('Prepare All Data for Template').item.json.invoiceNumber }}"
+            }
+          ]
+        }
+      },
+      "typeVersion": 4.2
+    },
+    {
+      "id": "bd39e4c7-02cc-4f51-acbf-a0d38846401d",
+      "name": "Email PDF Invoice to Customer",
+      "type": "n8n-nodes-base.emailSend",
+      "position": [
+        3344,
+        736
+      ],
+      "webhookId": "c88f607c-5e1e-4f9e-aa2c-2f69df6e29cc",
+      "parameters": {
+        "html": "=<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: #f3f4f6;\n            -webkit-font-smoothing: antialiased;\n        }\n        .email-wrapper {\n            max-width: 600px;\n            margin: 30px auto;\n            background-color: #ffffff;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);\n        }\n        .header {\n            background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);\n            padding: 40px 40px 35px;\n            text-align: center;\n        }\n        .header img {\n            max-width: 180px;\n            height: auto;\n            margin-bottom: 20px;\n            display: block;\n            margin-left: auto;\n            margin-right: auto;\n        }\n        .header h1 {\n            color: #ffffff;\n            margin: 0;\n            font-size: 24px;\n            font-weight: 600;\n            letter-spacing: -0.5px;\n        }\n        .header p {\n            color: rgba(255, 255, 255, 0.9);\n            margin: 8px 0 0;\n            font-size: 14px;\n        }\n        .content {\n            padding: 40px;\n            color: #1f2937;\n            line-height: 1.7;\n        }\n        .content p {\n            font-size: 15px;\n            margin: 0 0 16px;\n        }\n        .greeting {\n            font-size: 16px;\n            font-weight: 500;\n            color: #111827;\n        }\n        .invoice-card {\n            background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);\n            border: 2px solid #e2e8f0;\n            border-radius: 10px;\n            padding: 28px;\n            margin: 30px 0;\n            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);\n        }\n        .invoice-card-header {\n            font-size: 13px;\n            font-weight: 600;\n            color: #3b82f6;\n            text-transform: uppercase;\n            letter-spacing: 0.8px;\n            margin-bottom: 16px;\n            padding-bottom: 12px;\n            border-bottom: 2px solid #cbd5e1;\n        }\n        .invoice-detail-row {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 10px 0;\n            border-bottom: 1px solid #e2e8f0;\n        }\n        .invoice-detail-row:last-child {\n            border-bottom: none;\n            padding-top: 16px;\n            margin-top: 8px;\n            border-top: 2px solid #cbd5e1;\n        }\n        .invoice-label {\n            font-size: 14px;\n            color: #64748b;\n            font-weight: 500;\n        }\n        .invoice-value {\n            font-size: 15px;\n            color: #1e293b;\n            font-weight: 600;\n        }\n        .invoice-detail-row:last-child .invoice-label,\n        .invoice-detail-row:last-child .invoice-value {\n            font-size: 16px;\n            color: #3b82f6;\n            font-weight: 700;\n        }\n        .cta-section {\n            text-align: center;\n            margin: 32px 0;\n        }\n        .cta-text {\n            font-size: 14px;\n            color: #64748b;\n            margin-bottom: 12px;\n        }\n        .attachment-notice {\n            background-color: #eff6ff;\n            border-left: 4px solid #3b82f6;\n            padding: 16px 20px;\n            border-radius: 6px;\n            margin: 24px 0;\n            font-size: 14px;\n            color: #1e40af;\n        }\n        .attachment-notice strong {\n            font-weight: 600;\n            display: block;\n            margin-bottom: 4px;\n        }\n        .signature {\n            margin-top: 32px;\n            padding-top: 24px;\n            border-top: 1px solid #e5e7eb;\n        }\n        .signature p {\n            margin: 4px 0;\n        }\n        .company-name {\n            font-weight: 600;\n            color: #111827;\n            font-size: 15px;\n        }\n        .footer {\n            background-color: #f9fafb;\n            padding: 30px 40px;\n            text-align: center;\n            border-top: 1px solid #e5e7eb;\n        }\n        .footer-content {\n            font-size: 13px;\n            color: #6b7280;\n            line-height: 1.6;\n        }\n        .footer-divider {\n            width: 60px;\n            height: 3px;\n            background: linear-gradient(90deg, #3b82f6, #8b5cf6);\n            margin: 20px auto;\n            border-radius: 2px;\n        }\n        .company-details {\n            margin-top: 12px;\n            font-size: 12px;\n            color: #9ca3af;\n        }\n        .company-details strong {\n            color: #6b7280;\n            font-weight: 600;\n        }\n        @media only screen and (max-width: 600px) {\n            .email-wrapper {\n                margin: 10px;\n                border-radius: 8px;\n            }\n            .header {\n                padding: 30px 20px 25px;\n            }\n            .header h1 {\n                font-size: 20px;\n            }\n            .content {\n                padding: 30px 20px;\n            }\n            .invoice-card {\n                padding: 20px;\n            }\n            .footer {\n                padding: 25px 20px;\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"email-wrapper\">\n        <div class=\"header\">\n            <!-- Uncomment and add your logo URL below -->\n            <!-- <img src=\"YOUR_LOGO_URL_HERE\" alt=\"Satva Solutions\"> -->\n            <h1>Invoice Generated</h1>\n            <p>Your invoice is ready for review</p>\n        </div>\n        \n        <div class=\"content\">\n            <p class=\"greeting\">Dear {{$node[\"Prepare All Data for Template\"].json.customerName}},</p>\n            \n            <p>Thank you for your continued partnership with Satva Solutions.</p>\n            \n            <p>We have generated a new invoice for the services rendered. Please find the detailed PDF invoice attached to this email for your records.</p>\n            \n            <div class=\"invoice-card\">\n                <div class=\"invoice-card-header\">Invoice Summary</div>\n                <div class=\"invoice-detail-row\">\n                    <span class=\"invoice-label\">Invoice Number</span>\n                    <span class=\"invoice-value\">#{{$node[\"Prepare All Data for Template\"].json.invoiceNumber}}</span>\n                </div>\n                <div class=\"invoice-detail-row\">\n                    <span class=\"invoice-label\">Issue Date</span>\n                    <span class=\"invoice-value\">{{$node[\"Prepare All Data for Template\"].json.invoiceDate}}</span>\n                </div>\n                <div class=\"invoice-detail-row\">\n                    <span class=\"invoice-label\">Due Date</span>\n                    <span class=\"invoice-value\">{{$node[\"Prepare All Data for Template\"].json.dueDate}}</span>\n                </div>\n                <div class=\"invoice-detail-row\">\n                    <span class=\"invoice-label\">Amount Due</span>\n                    <span class=\"invoice-value\">₹{{$node[\"Prepare All Data for Template\"].json.balanceDue}}</span>\n                </div>\n            </div>\n            \n            <div class=\"attachment-notice\">\n                <strong>📎 Attachment Included</strong>\n                A detailed PDF invoice is attached to this email. Please review it at your convenience.\n            </div>\n            \n            <p>Payment can be made as per the terms outlined in the invoice. If you have any questions regarding this invoice or require any clarification, please feel free to reach out to us.</p>\n            \n            <div class=\"signature\">\n                <p>We appreciate your business and look forward to serving you.</p>\n                <p style=\"margin-top: 20px;\">\n                    <strong>Best regards,</strong><br>\n                    <span class=\"company-name\">The Satva Solutions Team</span>\n                </p>\n            </div>\n        </div>\n        \n        <div class=\"footer\">\n            <div class=\"footer-divider\"></div>\n            <div class=\"footer-content\">\n                <strong>Satva Solutions</strong><br>\n                Science City, Ahmedabad, Gujarat - 380060, India\n            </div>\n            <div class=\"company-details\">\n                This is an automated invoice notification. Please do not reply to this email.<br>\n                For support inquiries, please contact us through our official channels.\n            </div>\n        </div>\n    </div>\n</body>\n</html>",
+        "options": {
+          "attachments": "=data"
+        },
+        "subject": "=Invoice {{$node[\"Prepare All Data for Template\"].json.invoiceNumber}} from Satva Solutions.",
+        "toEmail": "harshsingh@satvasolutions.com",
+        "fromEmail": "={{$node[\"Prepare All Data for Template\"].json.customerEmail}}"
+      },
+      "credentials": {
+        "smtp": {
+          "id": "nRvvBXQngtIn4tQr",
+          "name": "SMTP account"
+        }
+      },
+      "typeVersion": 2.1
+    },
+    {
+      "id": "429e995b-56e4-42cc-a067-23769c874859",
+      "name": "Sticky Note1",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1072,
+        576
+      ],
+      "parameters": {
+        "color": 5,
+        "width": 256,
+        "height": 336,
+        "content": "**1. Configure Webhook**\n\nCopy this node's Production URL and paste it into your QuickBooks Online app's webhook settings. Subscribe to the \"Invoice\" event."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "fc976289-6e1c-4c5d-a2f6-b67bc77e06be",
+      "name": "Sticky Note2",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1808,
+        336
+      ],
+      "parameters": {
+        "color": 5,
+        "width": 256,
+        "height": 320,
+        "content": "**2. Connect QuickBooks**\n\nSelect your QuickBooks Online account credentials from the dropdown list."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "58d9621f-9474-4eee-a0dd-2f3bfcf2bb21",
+      "name": "Sticky Note3",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1440,
+        576
+      ],
+      "parameters": {
+        "color": 5,
+        "width": 256,
+        "height": 336,
+        "content": "**3. Add Your Logo URL**\n\nReplace the placeholder URL below with a direct, public link to your company's logo file."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "177fe258-4a12-4227-a0e3-6d458ae959e6",
+      "name": "Sticky Note4",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1440,
+        960
+      ],
+      "parameters": {
+        "color": 5,
+        "width": 256,
+        "height": 320,
+        "content": "**4. Add Your Signature URL**\n\nReplace the placeholder URL below with a direct, public link to your signature image file."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "adb9647a-28a7-4d5c-b596-4f2b278efb04",
+      "name": "Sticky Note5",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        2928,
+        608
+      ],
+      "parameters": {
+        "color": 5,
+        "width": 256,
+        "height": 320,
+        "content": "**5. Set Your Gotenberg URL**\n\nReplace the placeholder URL below with the address of your running Gotenberg instance."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "9d011922-2cb6-4e45-afd5-19a1f10089a5",
+      "name": "Sticky Note6",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        3264,
+        560
+      ],
+      "parameters": {
+        "color": 5,
+        "width": 256,
+        "height": 368,
+        "content": "**6. Configure Your Email**\n\n- Select your email credentials.\n- Customize the 'From' and 'Subject' fields.\n- The PDF is automatically attached."
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "62f08730-d689-424a-9e69-388ea2503404",
+      "name": "Sticky Note",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        336,
+        336
+      ],
+      "parameters": {
+        "width": 640,
+        "height": 880,
+        "content": "## How it works \nThis workflow automates invoice generation and delivery from QuickBooks Online:\n\n1. Webhook trigger: Receives notifications when invoices are created/updated in QuickBooks\n2. Data retrieval: Fetches complete invoice details from QuickBooks API\n3. Branding: Downloads company logo and signature images, converts them to base64\n4. Data preparation: Merges invoice data with images, formats dates, calculates totals, and maps payment terms\n5. PDF generation: Creates professional HTML invoice template and converts it to PDF using Gotenberg\n6. Email delivery: Sends branded PDF invoice to customer with summary email\n\n\n\n## Setup steps\n### Prerequisites:\n\nQuickBooks Online account with API access\nRunning Gotenberg instance (Docker recommended)\nSMTP email credentials\nPublicly accessible logo and signature images\n\n### Configuration:\n\n1. Webhook node: Copy production URL and add to QuickBooks webhook settings (subscribe to Invoice events)\n\n2. QuickBooks node: Connect your QuickBooks Online credentials\n\n3. Logo/Signature nodes: Replace placeholder URLs with your company's image URLs\n\n4. Gotenberg node: Update URL to your Gotenberg instance (default: http://localhost:3000)\n\n5. Email node:\nAdd SMTP credentials\nCustomize sender email and subject line\nVerify customer email mapping"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Convert Logo to Base64": {
+      "main": [
+        [
+          {
+            "node": "Combine Invoice, Logo & Signature",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Fetch Company Logo Image": {
+      "main": [
+        [
+          {
+            "node": "Convert Logo to Base64",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generate PDF via Gotenberg": {
+      "main": [
+        [
+          {
+            "node": "Email PDF Invoice to Customer",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Convert HTML to Binary File": {
+      "main": [
+        [
+          {
+            "node": "Generate PDF via Gotenberg",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Convert Signature to Base64": {
+      "main": [
+        [
+          {
+            "node": "Combine Invoice, Logo & Signature",
+            "type": "main",
+            "index": 2
+          }
+        ]
+      ]
+    },
+    "Build HTML Invoice from Data": {
+      "main": [
+        [
+          {
+            "node": "Convert HTML to Binary File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch Company Signature Image": {
+      "main": [
+        [
+          {
+            "node": "Convert Signature to Base64",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare All Data for Template": {
+      "main": [
+        [
+          {
+            "node": "Build HTML Invoice from Data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Invoice Data from QuickBooks": {
+      "main": [
+        [
+          {
+            "node": "Combine Invoice, Logo & Signature",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Combine Invoice, Logo & Signature": {
+      "main": [
+        [
+          {
+            "node": "Prepare All Data for Template",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Listen for New QuickBooks Invoice": {
+      "main": [
+        [
+          {
+            "node": "Get Invoice Data from QuickBooks",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Fetch Company Logo Image",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Fetch Company Signature Image",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

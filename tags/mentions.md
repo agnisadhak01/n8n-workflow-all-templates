@@ -1,0 +1,18 @@
+# mentions : 14
+
+|id|file|
+|----|----|
+|617|[617_Post_latest_Twitter_mentions_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/617_Post_latest_Twitter_mentions_to_Slack.json)|
+|1464|[1464_Find_and_share_mentions_from_Twitter_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/14/1464_Find_and_share_mentions_from_Twitter_and_Slack.json)|
+|3244|[3244_Analyze_Brand_Mentions_on_Reddit_with_GPT-4o_Mini_and_Notion_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3244_Analyze_Brand_Mentions_on_Reddit_with_GPT-4o_Mini_and_Notion_Integration.json)|
+|3473|[3473_Scalable_Multi-Agent_Chat_Using__mentions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3473_Scalable_Multi-Agent_Chat_Using__mentions.json)|
+|3692|[3692_Discord_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3692_Discord_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json)|
+|4264|[4264_Discord_Message_Proxy__Bot_Mentions___AI_Actions.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4264_Discord_Message_Proxy__Bot_Mentions___AI_Actions.json)|
+|4443|[4443_Automated_Brand_Mentions_Tracker_With_GPT-4o__Google_Sheets__and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4443_Automated_Brand_Mentions_Tracker_With_GPT-4o__Google_Sheets__and_Email.json)|
+|5845|[5845_Slack_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5845_Slack_AI_ChatBot___Context-Aware__Replies_to_Mentions_AND_also_DMs.json)|
+|5951|[5951_Track_Brand_Mentions_with_Sentiment_Analysis_using_Bright_Data___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5951_Track_Brand_Mentions_with_Sentiment_Analysis_using_Bright_Data___OpenAI.json)|
+|6721|[6721_Monitor_Cybersecurity_Brand_Mentions_on_X_and_Send_Alerts_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6721_Monitor_Cybersecurity_Brand_Mentions_on_X_and_Send_Alerts_to_Slack.json)|
+|7217|[7217_Auto-Comment_on_Reddit_Posts_with_AI_Brand_Mentions___Baserow_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7217_Auto-Comment_on_Reddit_Posts_with_AI_Brand_Mentions___Baserow_Tracking.json)|
+|8355|[8355_Monitor_Brand_Mentions_on_X_with_Gemini_AI_Visual_Analysis___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8355_Monitor_Brand_Mentions_on_X_with_Gemini_AI_Visual_Analysis___Telegram_Alerts.json)|
+|11080|[11080_Track_Daily_Brand_Mentions_from_Hacker_News_to_Slack_with_GPT-4o-mini_Sentiment_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11080_Track_Daily_Brand_Mentions_from_Hacker_News_to_Slack_with_GPT-4o-mini_Sentiment_Analysis.json)|
+|11182|[11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11182_Reddit_Monitoring_with_AI_Sentiment_Analysis_and_Growth_Insights_Dashboard.json)|

@@ -1,0 +1,18 @@
+# templates : 14
+
+|id|file|
+|----|----|
+|2073|[2073_Monday.com_Useful_Utilities.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2073_Monday.com_Useful_Utilities.json)|
+|3081|[3081_Sync_Dartagnan_Email_Templates_to_Braze.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3081_Sync_Dartagnan_Email_Templates_to_Braze.json)|
+|3519|[3519_Generate_Dynamic_Images_with_Text___Templates_using_ImageKit..json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3519_Generate_Dynamic_Images_with_Text___Templates_using_ImageKit..json)|
+|3937|[3937_Send_Personalized_WhatsApp_Templates_Triggered_by_KlickTipp_with_Auto-Responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3937_Send_Personalized_WhatsApp_Templates_Triggered_by_KlickTipp_with_Auto-Responses.json)|
+|5602|[5602_Add_TypeScript_Intellisense_Support_to_Code_Nodes_with_JSDoc.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5602_Add_TypeScript_Intellisense_Support_to_Code_Nodes_with_JSDoc.json)|
+|5808|[5808_Create_Custom_PDF_Documents_from_Templates_with_Gemini___Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5808_Create_Custom_PDF_Documents_from_Templates_with_Gemini___Google_Drive.json)|
+|6008|[6008_Convert_JSON_Objects_to_Base64_Strings_with_File_Processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6008_Convert_JSON_Objects_to_Base64_Strings_with_File_Processing.json)|
+|9019|[9019_Job_Brief_Analysis_with_OpenAI_to_Find_Relevant_Templates_and_Log_in_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9019_Job_Brief_Analysis_with_OpenAI_to_Find_Relevant_Templates_and_Log_in_Google_Sheets.json)|
+|9455|[9455_Create_branded_LinkedIn_carousels_with_GPT-4o-mini__Figma_templates___Templated.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9455_Create_branded_LinkedIn_carousels_with_GPT-4o-mini__Figma_templates___Templated.json)|
+|9553|[9553_WhatsApp_Marketing_Dashboard_with_Dynamic_Broadcasts_from_Google_Sheets_to_Meta_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9553_WhatsApp_Marketing_Dashboard_with_Dynamic_Broadcasts_from_Google_Sheets_to_Meta_Templates.json)|
+|10278|[10278_Automated_Cold_Email_Campaigns_with_Random_Templates___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10278_Automated_Cold_Email_Campaigns_with_Random_Templates___Google_Sheets_Tracking.json)|
+|10450|[10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10450_Generate_LinkedIn_Posts_with_Mistral_AI_Using_7_Dynamic_Content_Templates.json)|
+|10800|[10800_AI_sticky_generator_for_n8n_templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10800_AI_sticky_generator_for_n8n_templates.json)|
+|11620|[11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11620_Design_and_Post_LinkedIn_Content_with_AI_Captions_and_Custom_Templates.json)|

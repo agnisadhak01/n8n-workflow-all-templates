@@ -1,0 +1,12 @@
+# rates : 8
+
+|id|file|
+|----|----|
+|2133|[2133_Provide_latest_euro_exchange_rates_from_European_Central_Bank_via_Webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2133_Provide_latest_euro_exchange_rates_from_European_Central_Bank_via_Webhook.json)|
+|3556|[3556_Automate_Currency_Rates_Update_in_Invoices_with_Google_Sheet__ExchangeRate_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3556_Automate_Currency_Rates_Update_in_Invoices_with_Google_Sheet__ExchangeRate_API.json)|
+|4906|[4906_Hourly_Monitoring_of_Crypto_Rates_with_Alpha_Vantage_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4906_Hourly_Monitoring_of_Crypto_Rates_with_Alpha_Vantage_API_and_Google_Sheets.json)|
+|6120|[6120_Deliver_Daily_Currency_Exchange_Rates_from_CurrencyFreaks_API_to_Email___WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6120_Deliver_Daily_Currency_Exchange_Rates_from_CurrencyFreaks_API_to_Email___WhatsApp.json)|
+|8380|[8380_Daily_Currency_Rates_Email_Report_with_USD_EUR_NGN___BTC_ETH_Price_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8380_Daily_Currency_Rates_Email_Report_with_USD_EUR_NGN___BTC_ETH_Price_Tracking.json)|
+|8387|[8387_Track_Crypto_Prices___FX_Rates_with_CoinGecko___ExchangeRate-API_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8387_Track_Crypto_Prices___FX_Rates_with_CoinGecko___ExchangeRate-API_to_Notion.json)|
+|9550|[9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9550_Analyze_USD_JPY_Rates_with_AI_and_Tavily_News_Search_for_Email_Reporting.json)|
+|11426|[11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json)|

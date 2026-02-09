@@ -1,0 +1,14 @@
+# action : 10
+
+|id|file|
+|----|----|
+|4053|[4053_Sort_Gmail_Emails_with_GPT-4o_into_Action_Required_and_No_Action_Labels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4053_Sort_Gmail_Emails_with_GPT-4o_into_Action_Required_and_No_Action_Labels.json)|
+|4077|[4077_Query-to-Action_Automation_with_Bright_Data_MCP___OpenAI_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4077_Query-to-Action_Automation_with_Bright_Data_MCP___OpenAI_GPT.json)|
+|5337|[5337_Action_Network_Tool_MCP_Server___all_23_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5337_Action_Network_Tool_MCP_Server___all_23_operations.json)|
+|5904|[5904_Transform_Meeting_Notes_into_Action_Items_with_Gemini___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5904_Transform_Meeting_Notes_into_Action_Items_with_Gemini___Google_Workspace.json)|
+|6472|[6472_Generate_Weekly_Animal_Rights_Action_Briefings_from_U.S._House_Bills_with_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6472_Generate_Weekly_Animal_Rights_Action_Briefings_from_U.S._House_Bills_with_Gemini_AI.json)|
+|9146|[9146_AI-Powered_Meeting_Minutes_with_GPT-4__Task_Assignment___Multichannel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9146_AI-Powered_Meeting_Minutes_with_GPT-4__Task_Assignment___Multichannel_Distribution.json)|
+|9284|[9284_Automate_Meeting_Summaries___Action_Items_with_Google_Meet__AssemblyAI___Claude_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9284_Automate_Meeting_Summaries___Action_Items_with_Google_Meet__AssemblyAI___Claude_AI.json)|
+|10286|[10286_AI_Meeting_Summary___Action_Item_Tracker_with_Notion__Slack__and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10286_AI_Meeting_Summary___Action_Item_Tracker_with_Notion__Slack__and_Gmail.json)|
+|11409|[11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11409_Convert_Meeting_Recordings_to_Notes___Action_Items_with_AssemblyAI__GPT-4___Sheets.json)|
+|11535|[11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11535_Extract_Meeting_Tasks_from_Google_Docs_to_GoHighLevel_CRM_with_GPT-4.json)|

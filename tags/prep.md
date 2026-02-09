@@ -1,0 +1,13 @@
+# prep : 9
+
+|id|file|
+|----|----|
+|2582|[2582_Automate_Sales_Meeting_Prep_with_AI____APIFY_Sent_To_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2582_Automate_Sales_Meeting_Prep_with_AI____APIFY_Sent_To_WhatsApp.json)|
+|3032|[3032_CallForge_-_02_-_Prep_Gong_Calls_with_Sheets___Notion_for_AI_Summarization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3032_CallForge_-_02_-_Prep_Gong_Calls_with_Sheets___Notion_for_AI_Summarization.json)|
+|3909|[3909_Automate_Agile_Refinement_Prep_with_Gmail__OpenAI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3909_Automate_Agile_Refinement_Prep_with_Gmail__OpenAI___Google_Sheets.json)|
+|4505|[4505_Automate_Meeting_Prep___Lead_Enrichment_with_Bright_Data__Cal.com___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4505_Automate_Meeting_Prep___Lead_Enrichment_with_Bright_Data__Cal.com___Airtable.json)|
+|6748|[6748_Generate_Tailored_Resumes__Cover_Letters___Interview_Prep_from_LinkedIn_Jobs_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6748_Generate_Tailored_Resumes__Cover_Letters___Interview_Prep_from_LinkedIn_Jobs_with_AI.json)|
+|8199|[8199_Automated_Meeting_Prep_with_GPT-5___Gemini_Research_from_Calendar_to_Slack_via_Attio_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8199_Automated_Meeting_Prep_with_GPT-5___Gemini_Research_from_Calendar_to_Slack_via_Attio_CRM.json)|
+|8935|[8935_Meeting_Prep_with_Google_Calendar__Tavily_AI_Research___Gmail_Briefings.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8935_Meeting_Prep_with_Google_Calendar__Tavily_AI_Research___Gmail_Briefings.json)|
+|10562|[10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10562_Automate_Sales_Meeting_Prep_with_Claude_AI___Explorium_Intelligence.json)|
+|11430|[11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11430_Personalize_Client_Meeting_Prep_with_GPT-4__Google_Calendar__Notion___Places_API_to_Slack.json)|

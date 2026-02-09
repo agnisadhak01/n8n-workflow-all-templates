@@ -1,0 +1,22 @@
+# first : 18
+
+|id|file|
+|----|----|
+|19|[19_n8n_Nodemation_basic_-_creating_your_first_simple_workflow__2_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/00/19_n8n_Nodemation_basic_-_creating_your_first_simple_workflow__2_3.json)|
+|409|[409_Get_daily_SMS_updates_about_weather.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/409_Get_daily_SMS_updates_about_weather.json)|
+|514|[514_Get_first_and_last_names_from_Facebook_Graph_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/05/514_Get_first_and_last_names_from_Facebook_Graph_API.json)|
+|2465|[2465_Building_Your_First_WhatsApp_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2465_Building_Your_First_WhatsApp_Chatbot.json)|
+|2981|[2981_Your_First_Wordpress___AI_Content_Creator_-_Quick_Start.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2981_Your_First_Wordpress___AI_Content_Creator_-_Quick_Start.json)|
+|3050|[3050_Build_Your_First_AI_Data_Analyst_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3050_Build_Your_First_AI_Data_Analyst_Chatbot.json)|
+|4941|[4941_Build_Your_First_AI_Agent___Powered_by_Google_Gemini_with_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4941_Build_Your_First_AI_Agent___Powered_by_Google_Gemini_with_Memory.json)|
+|5870|[5870_Build_a_Smart_Personal_Assistant_with_GROQ__LLaMA___Search_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5870_Build_a_Smart_Personal_Assistant_with_GROQ__LLaMA___Search_Tools.json)|
+|6035|[6035_Create_Your_First_AI_Agent_with_Weather___Web_Scraping__Starter_Kit.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6035_Create_Your_First_AI_Agent_with_Weather___Web_Scraping__Starter_Kit.json)|
+|6270|[6270_Build_Your_First_AI_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6270_Build_Your_First_AI_Agent.json)|
+|6287|[6287_Email_Support_Agent_w__Gemini___GPT_fallback_using_Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6287_Email_Support_Agent_w__Gemini___GPT_fallback_using_Gmail___Google_Sheets.json)|
+|7400|[7400_Automated_Order_Confirmations_with_Abacate_Pay__First-Buyer_Coupon_Rewards_via_Email___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7400_Automated_Order_Confirmations_with_Abacate_Pay__First-Buyer_Coupon_Rewards_via_Email___Slack.json)|
+|7452|[7452_Multi-tool_Personal_Assistant_with_Telegram__Grok-4__Gmail__Calendar___Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7452_Multi-tool_Personal_Assistant_with_Telegram__Grok-4__Gmail__Calendar___Memory.json)|
+|8597|[8597_Build_Your_First_AI_Agent_with_ChatGPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8597_Build_Your_First_AI_Agent_with_ChatGPT-5.json)|
+|9311|[9311_Create_Your_First_AI_Agent.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9311_Create_Your_First_AI_Agent.json)|
+|9407|[9407_Auto-Personalized_First_Touch_for_New_Leads_using_GPT-4o-mini___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9407_Auto-Personalized_First_Touch_for_New_Leads_using_GPT-4o-mini___Google_Sheets.json)|
+|9764|[9764_Fast-track_CV_screening_with_AI_analysis_from_Gmail_to_Slack_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9764_Fast-track_CV_screening_with_AI_analysis_from_Gmail_to_Slack_and_Google_Sheets.json)|
+|10045|[10045_AI_Candidate_Screening_Pipeline__LinkedIn_to_Telegram_with_Gemini___Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10045_AI_Candidate_Screening_Pipeline__LinkedIn_to_Telegram_with_Gemini___Apify.json)|

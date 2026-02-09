@@ -1,0 +1,18 @@
+# docker : 14
+
+|id|file|
+|----|----|
+|2835|[2835_Docker_Registry_Cleanup_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2835_Docker_Registry_Cleanup_Workflow.json)|
+|3197|[3197_Deploy_Docker_n8n__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3197_Deploy_Docker_n8n__API_Backend_for_WHMCS_WISECP.json)|
+|3198|[3198_Deploy_Docker_MinIO__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3198_Deploy_Docker_MinIO__API_Backend_for_WHMCS_WISECP.json)|
+|3212|[3212_Deploy_Docker_Immich__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3212_Deploy_Docker_Immich__API_Backend_for_WHMCS_WISECP.json)|
+|3386|[3386_Automate_Docker_Container_Updates_with_Telegram_Approval_System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3386_Automate_Docker_Container_Updates_with_Telegram_Approval_System.json)|
+|4011|[4011_Deploy_Docker_Grafana__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4011_Deploy_Docker_Grafana__API_Backend_for_WHMCS_WISECP.json)|
+|4014|[4014_Deploy_Docker_InfluxDB__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4014_Deploy_Docker_InfluxDB__API_Backend_for_WHMCS_WISECP.json)|
+|4015|[4015_Deploy_Docker_NextCloud__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4015_Deploy_Docker_NextCloud__API_Backend_for_WHMCS_WISECP.json)|
+|5198|[5198_Auto_n8n_Updater__Docker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5198_Auto_n8n_Updater__Docker.json)|
+|5406|[5406_Automated_Server_Log_Cleanup_via_Email_Alerts_with_SSH_-_Nginx__Docker__System.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5406_Automated_Server_Log_Cleanup_via_Email_Alerts_with_SSH_-_Nginx__Docker__System.json)|
+|6140|[6140_Set_DevOps_Infrastructure_with_Docker__K3s__Jenkins___Grafana_for_Linux_Servers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6140_Set_DevOps_Infrastructure_with_Docker__K3s__Jenkins___Grafana_for_Linux_Servers.json)|
+|10471|[10471_Self_Update_Docker-based_n8n_with_Email_Approval_and_SSH.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10471_Self_Update_Docker-based_n8n_with_Email_Approval_and_SSH.json)|
+|10476|[10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10476_Monitor___Manage_Docker_Containers_with_Telegram_Bot___AI_Log_Analysis.json)|
+|11842|[11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11842_Automated_Credentials_Backup_to_Google_Drive_via_SSH_and_Docker.json)|

@@ -1,0 +1,16 @@
+# deals : 12
+
+|id|file|
+|----|----|
+|1225|[1225_Export_new_deals_from_HubSpot_to_Slack_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/12/1225_Export_new_deals_from_HubSpot_to_Slack_and_Airtable.json)|
+|2117|[2117_Auto-assign_deals_in_Hubspot_to_fitting_sales_reps_based_on_geo_and_company_size.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2117_Auto-assign_deals_in_Hubspot_to_fitting_sales_reps_based_on_geo_and_company_size.json)|
+|3030|[3030_Real_Estate_Daily_Deals_Automation_with_Zillow_API__Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3030_Real_Estate_Daily_Deals_Automation_with_Zillow_API__Google_Sheets_and_Gmail.json)|
+|5212|[5212_Find_the_Best_Food_Deals_Automatically_with_Bright_Data___n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5212_Find_the_Best_Food_Deals_Automatically_with_Bright_Data___n8n.json)|
+|5224|[5224_Find_the_Best_Airbnb_Deals_Automatically_with_Bright_Data___n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5224_Find_the_Best_Airbnb_Deals_Automatically_with_Bright_Data___n8n.json)|
+|6666|[6666_Automated_Multi-Platform_Game_Deals_Tracker_with_Deku_Deals___Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6666_Automated_Multi-Platform_Game_Deals_Tracker_with_Deku_Deals___Gmail_Alerts.json)|
+|7525|[7525_Automate_Sponsored_Deal_Email_Responses_with_Gmail_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7525_Automate_Sponsored_Deal_Email_Responses_with_Gmail_and_GPT-4.json)|
+|7740|[7740_Track_Pipedrive_Deals_in_Google_Sheets_for_Sales_Pipeline_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7740_Track_Pipedrive_Deals_in_Google_Sheets_for_Sales_Pipeline_Reporting.json)|
+|8647|[8647_Process_Shopify_Lead_Emails_from_Gmail_to_HubSpot_Contacts_and_Deals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8647_Process_Shopify_Lead_Emails_from_Gmail_to_HubSpot_Contacts_and_Deals.json)|
+|9096|[9096_Automatically_Close_Cold_HubSpot_Deals_with_Gmail_Feedback___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9096_Automatically_Close_Cold_HubSpot_Deals_with_Gmail_Feedback___Slack_Notifications.json)|
+|9143|[9143_Analyze_Pipeline_Velocity___Alert_Stuck_Deals_with_GoHighLevel__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9143_Analyze_Pipeline_Velocity___Alert_Stuck_Deals_with_GoHighLevel__Gmail___Slack.json)|
+|9275|[9275_Stripe___Pipedrive__Auto_Create_Contacts_and_Deals_from_Payments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9275_Stripe___Pipedrive__Auto_Create_Contacts_and_Deals_from_Payments.json)|

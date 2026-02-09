@@ -1,0 +1,15 @@
+# bank : 11
+
+|id|file|
+|----|----|
+|2133|[2133_Provide_latest_euro_exchange_rates_from_European_Central_Bank_via_Webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2133_Provide_latest_euro_exchange_rates_from_European_Central_Bank_via_Webhook.json)|
+|2421|[2421_Transcribing_Bank_Statements_To_Markdown_Using_Gemini_Vision_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2421_Transcribing_Bank_Statements_To_Markdown_Using_Gemini_Vision_AI.json)|
+|3008|[3008_Extract_Thai_Bank_Slip_Data_from_LINE_using_SpaceOCR_and_Save_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3008_Extract_Thai_Bank_Slip_Data_from_LINE_using_SpaceOCR_and_Save_to_Google_Sheets.json)|
+|3704|[3704_Generate_PIX_Payment_QR_Codes_for_Any_Brazilian_Bank_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3704_Generate_PIX_Payment_QR_Codes_for_Any_Brazilian_Bank_Key.json)|
+|6284|[6284_Automate_Multi-Bank_Transaction_Sync___Reporting_with_GoCardless___Maybe_Finance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6284_Automate_Multi-Bank_Transaction_Sync___Reporting_with_GoCardless___Maybe_Finance.json)|
+|6629|[6629_AI-Powered_Bank_Statement_Analysis___Transaction_Categorization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6629_AI-Powered_Bank_Statement_Analysis___Transaction_Categorization.json)|
+|7253|[7253_Monitor_Blood_Bank_Stock___Send_Low_Level_Alerts_with_Google_Sheets_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7253_Monitor_Blood_Bank_Stock___Send_Low_Level_Alerts_with_Google_Sheets_and_WhatsApp.json)|
+|8936|[8936_Automate_Invoice-Bank_Statement_Reconciliation_with_Mistral_AI_and_OpenAI_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8936_Automate_Invoice-Bank_Statement_Reconciliation_with_Mistral_AI_and_OpenAI_GPT-4.json)|
+|9988|[9988_Sync_Multi-Bank_Balance_Data_to_BigQuery_using_Plaid.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9988_Sync_Multi-Bank_Balance_Data_to_BigQuery_using_Plaid.json)|
+|10110|[10110_Monitor_Bank_Transactions_with_Multi-Channel_Alerts_for_Accounting_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10110_Monitor_Bank_Transactions_with_Multi-Channel_Alerts_for_Accounting_Teams.json)|
+|10581|[10581_Automate_Bank_Statement_and_Invoice_Reconciliation_with_GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10581_Automate_Bank_Statement_and_Invoice_Reconciliation_with_GPT-4.1-mini_and_Google_Sheets.json)|

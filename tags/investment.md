@@ -1,0 +1,10 @@
+# investment : 6
+
+|id|file|
+|----|----|
+|3179|[3179_Generate_stock_market_investment_reports_from_FinancialDatasets.ai_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3179_Generate_stock_market_investment_reports_from_FinancialDatasets.ai_with_AI.json)|
+|4115|[4115_Analyze_Crypto_Market_with_CoinGecko__Volatility_Metrics___Investment_Signals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4115_Analyze_Crypto_Market_with_CoinGecko__Volatility_Metrics___Investment_Signals.json)|
+|5994|[5994_Personalized_Stock_Portfolio_Analysis_and_Recommendations_with_Grok-4_and_Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5994_Personalized_Stock_Portfolio_Analysis_and_Recommendations_with_Grok-4_and_Perplexity.json)|
+|6317|[6317_Track_Multi-Broker_Investment_Portfolio_with_Google_Sheets_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6317_Track_Multi-Broker_Investment_Portfolio_with_Google_Sheets_and_Telegram_Alerts.json)|
+|6571|[6571_Generate_Property_Investment_Reports_with_GPT-4__SerpAPI__Google_Docs___Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6571_Generate_Property_Investment_Reports_with_GPT-4__SerpAPI__Google_Docs___Airtable.json)|
+|9335|[9335_Analyze_Real_Estate_Investment_Potential__Zillow_Properties_to_Google_Sheets_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9335_Analyze_Real_Estate_Investment_Potential__Zillow_Properties_to_Google_Sheets_with_GPT-4o.json)|

@@ -1,0 +1,11 @@
+# maintenance : 7
+
+|id|file|
+|----|----|
+|6626|[6626_Analyze_Property_Maintenance_Costs_with_ScrapeGraphAI_and_Budget_Planning.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6626_Analyze_Property_Maintenance_Costs_with_ScrapeGraphAI_and_Budget_Planning.json)|
+|7249|[7249_Monitor_Medical_Equipment_with_Google_Sheets___Send_WhatsApp_and_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7249_Monitor_Medical_Equipment_with_Google_Sheets___Send_WhatsApp_and_Email_Alerts.json)|
+|7464|[7464_Intelligent_Workflow_Maintenance_System_with_Smart_AI_Filtering___Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7464_Intelligent_Workflow_Maintenance_System_with_Smart_AI_Filtering___Google_Workspace.json)|
+|7700|[7700_Send_Preventive_Maintenance_Schedules_with_Google_Sheets_and_Gmail_ICS_Invites.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7700_Send_Preventive_Maintenance_Schedules_with_Google_Sheets_and_Gmail_ICS_Invites.json)|
+|9649|[9649_Automate_Property_Maintenance_Requests_with_GPT-4o-mini__Jotform_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9649_Automate_Property_Maintenance_Requests_with_GPT-4o-mini__Jotform_and_Gmail.json)|
+|9659|[9659_Automate_Vehicle_Inspections___Maintenance_Workflows_with_OpenAI___Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9659_Automate_Vehicle_Inspections___Maintenance_Workflows_with_OpenAI___Jotform.json)|
+|10268|[10268_Magento_Maintenance_via_Natural_Language_with_GPT_and_Telegram_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10268_Magento_Maintenance_via_Natural_Language_with_GPT_and_Telegram_WhatsApp.json)|

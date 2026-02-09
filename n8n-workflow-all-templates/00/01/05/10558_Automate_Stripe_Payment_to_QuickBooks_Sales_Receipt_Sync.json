@@ -1,0 +1,604 @@
+{
+  "meta": {
+    "site": "https://github.com/zengfr/n8n-workflow-all-templates",
+    "name": "Automate Stripe Payment to QuickBooks Sales Receipt Sync",
+    "wechat": "youandme10086",
+    "id": 10558,
+    "update_time": "2025-11-14"
+  },
+  "nodes": [
+    {
+      "id": "232125bf-9461-4a58-85f8-179c9f27efda",
+      "name": "POST Sales Receipt",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        1584,
+        176
+      ],
+      "parameters": {
+        "url": "https://sandbox-quickbooks.api.intuit.com/v3/company/{realm_id}/salesreceipt?minorversion=73",
+        "method": "POST",
+        "options": {},
+        "jsonBody": "={\n  \"Line\": [\n    {\n      \"Description\": \"{{ $json['new payment'].data.object.description }}\",\n      \"DetailType\": \"SalesItemLineDetail\",\n      \"SalesItemLineDetail\": {\n        \"TaxCodeRef\": {\n          \"value\": \"3\"\n        },\n        \"Qty\": 1,\n        \"UnitPrice\": {{ $json['new payment'].data.object.amount_received/100 }},\n        \"ItemRef\": {\n          \"name\": \"Subscription\",\n          \"value\": \"10\"\n        }\n      },\n      \"Amount\": {{ $json['new payment'].data.object.amount/100 }},\n      \"LineNum\": 1\n    }\n  ],\n  \"CustomerRef\": {\n    \"value\": \"{{ $json['get qb customer'].QueryResponse.Customer[0].Id }}\"\n  },\n  \"CurrencyRef\": {\n    \"value\": \"{{ $json['new payment'].data.object.currency.toUpperCase() }}\"\n  },\n  \"PrivateNote\": \"Payment from Stripe Payment Intent ID: {{ $json['new payment'].data.object.id }}\"\n}",
+        "sendBody": true,
+        "specifyBody": "json",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "quickBooksOAuth2Api"
+      },
+      "credentials": {
+        "quickBooksOAuth2Api": {
+          "id": "vo7C8cvoCTRKNY5z",
+          "name": "QuickBooks Online account 2"
+        }
+      },
+      "executeOnce": true,
+      "typeVersion": 4.2
+    },
+    {
+      "id": "6b94264e-15d4-4f8b-888d-64504f28068f",
+      "name": "GET Quickbooks Customer",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        288,
+        400
+      ],
+      "parameters": {
+        "url": "=https://sandbox-quickbooks.api.intuit.com/v3/company/{realm_id}/query?query=select * from Customer Where PrimaryEmailAddr = '{{ $json.email }}'&minorversion=73",
+        "options": {},
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "quickBooksOAuth2Api"
+      },
+      "credentials": {
+        "quickBooksOAuth2Api": {
+          "id": "vo7C8cvoCTRKNY5z",
+          "name": "QuickBooks Online account 2"
+        }
+      },
+      "typeVersion": 4.2
+    },
+    {
+      "id": "951d7c63-a6ad-4118-847a-731ce808ecfb",
+      "name": "Get Stripe Customer",
+      "type": "n8n-nodes-base.stripe",
+      "position": [
+        -48,
+        400
+      ],
+      "parameters": {
+        "resource": "customer",
+        "customerId": "={{ $json.data.object.customer }}"
+      },
+      "credentials": {
+        "stripeApi": {
+          "id": "GyEqwy48UvbUonBh",
+          "name": "Stripe account"
+        }
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "0ee08d35-e9f7-4681-8ac8-c3735b14aceb",
+      "name": "New Payment",
+      "type": "n8n-nodes-base.stripeTrigger",
+      "position": [
+        -336,
+        400
+      ],
+      "webhookId": "5cc15770-f762-4389-8372-1b2926de4570",
+      "parameters": {
+        "events": [
+          "payment_intent.succeeded"
+        ]
+      },
+      "credentials": {
+        "stripeApi": {
+          "id": "GyEqwy48UvbUonBh",
+          "name": "Stripe account"
+        }
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "a1e51699-c887-4483-8069-7f75f93db33d",
+      "name": "If Customer Exists",
+      "type": "n8n-nodes-base.if",
+      "position": [
+        608,
+        400
+      ],
+      "parameters": {
+        "options": {},
+        "conditions": {
+          "options": {
+            "version": 2,
+            "leftValue": "",
+            "caseSensitive": true,
+            "typeValidation": "strict"
+          },
+          "combinator": "and",
+          "conditions": [
+            {
+              "id": "aef7393c-c4ff-4196-887d-6a9b057381f8",
+              "operator": {
+                "type": "string",
+                "operation": "exists",
+                "singleValue": true
+              },
+              "leftValue": "={{ $json.QueryResponse.Customer[0].PrimaryEmailAddr.Address }}",
+              "rightValue": ""
+            }
+          ]
+        }
+      },
+      "typeVersion": 2.2
+    },
+    {
+      "id": "ba21ed79-fb8a-4407-83d3-fcd71b605c49",
+      "name": "Create QuickBooks Customer",
+      "type": "n8n-nodes-base.quickbooks",
+      "position": [
+        1536,
+        576
+      ],
+      "parameters": {
+        "operation": "create",
+        "displayName": "={{ (( $input.all().find(i => i.json && i.json.name) || {} ).json || {} ).name || '' }}",
+        "additionalFields": {
+          "Balance": "={{ (( $input.all().find(i => i.json && i.json.balance !== undefined) || {} ).json || {} ).balance }}",
+          "PrimaryEmailAddr": "={{ (( $input.all().find(i => i.json && i.json.email) || {} ).json || {} ).email || '' }}"
+        }
+      },
+      "credentials": {
+        "quickBooksOAuth2Api": {
+          "id": "vo7C8cvoCTRKNY5z",
+          "name": "QuickBooks Online account 2"
+        }
+      },
+      "executeOnce": true,
+      "typeVersion": 1
+    },
+    {
+      "id": "3a8a1a85-5bf4-4538-b02f-f381e3d07d6e",
+      "name": "POST Sales Receipt To QuickBooks",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [
+        2448,
+        576
+      ],
+      "parameters": {
+        "url": "https://sandbox-quickbooks.api.intuit.com/v3/company/{realm_id}/salesreceipt?minorversion=73",
+        "method": "POST",
+        "options": {},
+        "jsonBody": "={\n  \"Line\": [\n    {\n      \"Description\": \"{{ $json['New Payment'].data.object.description }}\",\n      \"DetailType\": \"SalesItemLineDetail\",\n      \"SalesItemLineDetail\": {\n        \"TaxCodeRef\": {\n          \"value\": \"3\"\n        },\n        \"Qty\": 1,\n        \"UnitPrice\": {{ $json['New Payment'].data.object.amount_received /100 }},\n        \"ItemRef\": {\n          \"name\": \"Subscription\", \n          \"value\": \"10\"\n        }\n      },\n      \"Amount\": {{ $json['New Payment'].data.object.amount/100 }},\n      \"LineNum\": 1\n    }\n  ],\n  \"CustomerRef\": {\n    \"value\": {{ $json['Create Customer'].Id }},\n    \"name\": \"{{ $json['Create Customer'].DisplayName }}\"\n  },\n  \"CurrencyRef\": {\n    \"value\": \"{{ $json['New Payment'].data.object.currency.toUpperCase() }}\"\n  },\n  \"PrivateNote\": \"Payment from Stripe Payment Intent ID: {{ $json['New Payment'].data.object.id }}\"\n}",
+        "sendBody": true,
+        "specifyBody": "json",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "quickBooksOAuth2Api"
+      },
+      "credentials": {
+        "quickBooksOAuth2Api": {
+          "id": "vo7C8cvoCTRKNY5z",
+          "name": "QuickBooks Online account 2"
+        }
+      },
+      "executeOnce": true,
+      "typeVersion": 4.2
+    },
+    {
+      "id": "530cb260-ae13-4304-a8c4-a1a402d67a5a",
+      "name": "Payment and Customer Payload",
+      "type": "n8n-nodes-base.set",
+      "position": [
+        1072,
+        176
+      ],
+      "parameters": {
+        "options": {},
+        "assignments": {
+          "assignments": [
+            {
+              "id": "e04da3e8-95d5-41c1-83af-141af5d63e92",
+              "name": "new payment",
+              "type": "string",
+              "value": "={{ $('New Payment').item.json }}"
+            },
+            {
+              "id": "eb2e6d1c-13d1-4091-90e5-4406051e3457",
+              "name": "get qb customer",
+              "type": "string",
+              "value": "={{ $('GET Quickbooks Customer').item.json }}"
+            }
+          ]
+        }
+      },
+      "typeVersion": 3.4
+    },
+    {
+      "id": "36c67d8c-886f-4d64-8dec-a82a9671156c",
+      "name": "Stripe Customer Object",
+      "type": "n8n-nodes-base.set",
+      "position": [
+        1040,
+        576
+      ],
+      "parameters": {
+        "options": {},
+        "assignments": {
+          "assignments": [
+            {
+              "id": "e04da3e8-95d5-41c1-83af-141af5d63e92",
+              "name": "stripe customer",
+              "type": "string",
+              "value": "={{ $('Get Stripe Customer').item.json }}"
+            }
+          ]
+        }
+      },
+      "typeVersion": 3.4
+    },
+    {
+      "id": "850dd5d4-1701-4da3-af51-efc9cef50484",
+      "name": "Parse Customer",
+      "type": "n8n-nodes-base.code",
+      "position": [
+        1232,
+        576
+      ],
+      "parameters": {
+        "jsCode": "return items.map(item => {\n  // item.json is usually an object already\n  const outer = item.json;\n\n  // pull the nested value\n  const raw = outer[\"stripe customer\"];\n\n  // parse only if it's a string; otherwise use as-is\n  const customer = (typeof raw === 'string') ? JSON.parse(raw) : raw;\n\n  // optional: coerce Stripe's 'created' (seconds) to ISO\n  if (customer && typeof customer.created === 'number') {\n    customer.created_at = new Date(customer.created * 1000).toISOString();\n  }\n\n  return { json: customer };\n});\n"
+      },
+      "typeVersion": 2
+    },
+    {
+      "id": "5a82db11-c52f-40be-af95-81a8ae49275f",
+      "name": "Parse Json from QBO",
+      "type": "n8n-nodes-base.code",
+      "position": [
+        1264,
+        176
+      ],
+      "parameters": {
+        "jsCode": "// n8n Code node\nreturn items.map(item => {\n  const outer = item.json;\n  const result = {};\n\n  // 1) Parse any fields that are JSON strings (like \"New Payment\" and \"Create Customer\")\n  for (const [k, v] of Object.entries(outer)) {\n    if (typeof v === 'string') {\n      try {\n        result[k] = JSON.parse(v);\n      } catch {\n        // not valid JSON, keep as-is\n        result[k] = v;\n      }\n    } else {\n      result[k] = v;\n    }\n  }\n\n  // 2) Optional enrichments for Stripe event (\"New Payment\")\n  const evt = result[\"New Payment\"];\n  const pi = evt?.data?.object;\n  if (pi && typeof pi === 'object') {\n    result.payment_summary = {\n      event_id: evt.id ?? null,\n      event_type: evt.type ?? null,\n      intent_id: pi.id ?? null,\n      status: pi.status ?? null,\n      currency: pi.currency ?? null,\n      amount_minor: typeof pi.amount === 'number' ? pi.amount : null,                // e.g. cents\n      amount_major: typeof pi.amount === 'number' ? pi.amount / 100 : null,          // e.g. dollars\n      amount_received_minor: typeof pi.amount_received === 'number' ? pi.amount_received : null,\n      amount_received_major: typeof pi.amount_received === 'number' ? pi.amount_received / 100 : null,\n      created_at: typeof pi.created === 'number' ? new Date(pi.created * 1000).toISOString() : null,\n      customer_id: pi.customer ?? null,\n      invoice_id: pi.invoice ?? null,\n      latest_charge: pi.latest_charge ?? null,\n      payment_method: pi.payment_method ?? null,\n    };\n\n    // also useful: top-level ISO for the event itself\n    if (typeof evt.created === 'number') {\n      result.payment_event_created_at = new Date(evt.created * 1000).toISOString();\n    }\n  }\n\n  // 3) Optional enrichments for QBO (\"Create Customer\")\n  const qbo = result[\"Create Customer\"];\n  if (qbo && typeof qbo === 'object') {\n    result.customer_summary = {\n      id: qbo.Id ?? null,\n      display_name: qbo.DisplayName ?? null,\n      email: qbo.PrimaryEmailAddr?.Address ?? null,\n      currency: qbo.CurrencyRef?.value ?? null,\n      created_at: qbo.MetaData?.CreateTime ?? null,\n      updated_at: qbo.MetaData?.LastUpdatedTime ?? null,\n      active: typeof qbo.Active === 'boolean' ? qbo.Active : null,\n    };\n  }\n\n  return { json: result };\n});\n"
+      },
+      "typeVersion": 2
+    },
+    {
+      "id": "6f044439-cb30-47a9-82e4-fcf0cfb052e4",
+      "name": "Customer And Payment node",
+      "type": "n8n-nodes-base.set",
+      "position": [
+        1904,
+        576
+      ],
+      "parameters": {
+        "options": {},
+        "assignments": {
+          "assignments": [
+            {
+              "id": "a23bc559-0b94-4e35-ab60-78132837c029",
+              "name": "=New Payment",
+              "type": "string",
+              "value": "={{ $('New Payment').item.json }}"
+            },
+            {
+              "id": "3a0e0c79-d249-45e5-9f11-e496366eca82",
+              "name": "Create Customer",
+              "type": "string",
+              "value": "={{ $json }}"
+            }
+          ]
+        }
+      },
+      "typeVersion": 3.4
+    },
+    {
+      "id": "54f93d7b-1373-4c23-840e-d72c59da6835",
+      "name": "Final Payload Parse",
+      "type": "n8n-nodes-base.code",
+      "position": [
+        2096,
+        576
+      ],
+      "parameters": {
+        "jsCode": "// n8n Code node\nreturn items.map(item => {\n  const outer = item.json;\n  const result = {};\n\n  // 1) Parse any fields that are JSON strings (like \"New Payment\" and \"Create Customer\")\n  for (const [k, v] of Object.entries(outer)) {\n    if (typeof v === 'string') {\n      try {\n        result[k] = JSON.parse(v);\n      } catch {\n        // not valid JSON, keep as-is\n        result[k] = v;\n      }\n    } else {\n      result[k] = v;\n    }\n  }\n\n  // 2) Optional enrichments for Stripe event (\"New Payment\")\n  const evt = result[\"New Payment\"];\n  const pi = evt?.data?.object;\n  if (pi && typeof pi === 'object') {\n    result.payment_summary = {\n      event_id: evt.id ?? null,\n      event_type: evt.type ?? null,\n      intent_id: pi.id ?? null,\n      status: pi.status ?? null,\n      currency: pi.currency ?? null,\n      amount_minor: typeof pi.amount === 'number' ? pi.amount : null,                // e.g. cents\n      amount_major: typeof pi.amount === 'number' ? pi.amount / 100 : null,          // e.g. dollars\n      amount_received_minor: typeof pi.amount_received === 'number' ? pi.amount_received : null,\n      amount_received_major: typeof pi.amount_received === 'number' ? pi.amount_received / 100 : null,\n      created_at: typeof pi.created === 'number' ? new Date(pi.created * 1000).toISOString() : null,\n      customer_id: pi.customer ?? null,\n      invoice_id: pi.invoice ?? null,\n      latest_charge: pi.latest_charge ?? null,\n      payment_method: pi.payment_method ?? null,\n    };\n\n    // also useful: top-level ISO for the event itself\n    if (typeof evt.created === 'number') {\n      result.payment_event_created_at = new Date(evt.created * 1000).toISOString();\n    }\n  }\n\n  // 3) Optional enrichments for QBO (\"Create Customer\")\n  const qbo = result[\"Create Customer\"];\n  if (qbo && typeof qbo === 'object') {\n    result.customer_summary = {\n      id: qbo.Id ?? null,\n      display_name: qbo.DisplayName ?? null,\n      email: qbo.PrimaryEmailAddr?.Address ?? null,\n      currency: qbo.CurrencyRef?.value ?? null,\n      created_at: qbo.MetaData?.CreateTime ?? null,\n      updated_at: qbo.MetaData?.LastUpdatedTime ?? null,\n      active: typeof qbo.Active === 'boolean' ? qbo.Active : null,\n    };\n  }\n\n  return { json: result };\n});\n"
+      },
+      "typeVersion": 2
+    },
+    {
+      "id": "fd4bd9cb-481f-45c2-89a3-0a0ec09ea95b",
+      "name": "Sticky Note",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -400,
+        272
+      ],
+      "parameters": {
+        "height": 304,
+        "content": "## Stripe Trigger \nTriggers when a new Stripe payment intent is made"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "c2f9c8d6-11e4-4a87-a520-72633ada4496",
+      "name": "Sticky Note1",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -112,
+        352
+      ],
+      "parameters": {
+        "height": 208,
+        "content": "### Get Customer form Stripe \n"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "038a626b-ef7e-454e-9792-57df8f24dd3a",
+      "name": "Sticky Note2",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        224,
+        288
+      ],
+      "parameters": {
+        "height": 288,
+        "content": "### Get QuickBooks Customer   \nGet Customer from QuickBooks with the same display name from Stripe"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "34a4d846-f072-40d7-b9b6-21cfc93bf98b",
+      "name": "Sticky Note3",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        544,
+        288
+      ],
+      "parameters": {
+        "height": 272,
+        "content": "## Check \nCheck if customer exists in QuickBooks "
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "78014d7c-a438-4f15-a844-94edd1ddaf7c",
+      "name": "Sticky Note4",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        992,
+        32
+      ],
+      "parameters": {
+        "width": 448,
+        "height": 320,
+        "content": "### Create Payload for QuickBooks \nParse and Create Payload for QuickBooks Sales Receipt"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "c22dcfe7-1d2e-43da-9813-c30add353c40",
+      "name": "Sticky Note5",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1520,
+        48
+      ],
+      "parameters": {
+        "height": 304,
+        "content": "## Post \nPost the sales receipt to QuickBooks"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "8a23bf01-25a4-477c-a06a-a856225f0bb3",
+      "name": "Sticky Note6",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1456,
+        448
+      ],
+      "parameters": {
+        "width": 272,
+        "height": 336,
+        "content": "## Create Customer\nCreate a new Customer in QuickBooks using Stripe data"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "e313b557-daa5-41f7-863a-4a1a3473f809",
+      "name": "Sticky Note7",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        976,
+        512
+      ],
+      "parameters": {
+        "width": 400,
+        "height": 240,
+        "content": "### Create Payload for New Customer \n"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "dc651ff5-8ad6-4932-8374-ffa85a42f917",
+      "name": "Sticky Note8",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        2384,
+        480
+      ],
+      "parameters": {
+        "height": 304,
+        "content": "## Post \nPost the sales receipt to QuickBooks"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "688a3767-dea6-4737-9117-9d370bb69258",
+      "name": "Sticky Note9",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1840,
+        480
+      ],
+      "parameters": {
+        "width": 448,
+        "height": 320,
+        "content": "### Create Payload for QuickBooks \nParse and Create Payload for QuickBooks Sales Receipt"
+      },
+      "typeVersion": 1
+    },
+    {
+      "id": "37694cbf-d08d-47bb-9889-33427d997501",
+      "name": "Sticky Note10",
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -1024,
+        -64
+      ],
+      "parameters": {
+        "color": 3,
+        "width": 464,
+        "height": 992,
+        "content": "## How it works \nThis workflow automatically creates sales receipts in QuickBooks Online when Stripe payments succeed:\n\n1. Payment trigger: Listens for successful Stripe payment intents via webhook\n\n2. Customer lookup: Retrieves customer details from Stripe, then searches QuickBooks by email\n\n3. Conditional branching:\nIf customer exists: Proceeds directly to sales receipt creation\nIf customer doesn't exist: Creates new QuickBooks customer first\n\n4. Data transformation: Parses and formats payment data (converts cents to dollars, extracts metadata)\n\n5. Sales receipt creation: Posts formatted sales receipt to QuickBooks with line items, amounts, and payment reference\n\n\n## Setup steps\n### Prerequisites:\n\n1. Active Stripe account with webhook access\n2. QuickBooks Online sandbox/production account\n3. Configured product/service items in QuickBooks\n\n### Configuration:\n\n1. Stripe Trigger: Connect Stripe credentials and subscribe to payment_intent.succeeded events\n\n2. QuickBooks credentials: Add OAuth2 credentials to all QuickBooks nodes (GET Customer, Create Customer, POST Sales Receipt nodes)\n\n3. Update realm_id: Replace {realm_id} in HTTP request URLs with your QuickBooks company ID\n\n4. Configure line items: In POST Sales Receipt nodes, update:\n* ItemRef.value: Your QuickBooks item/service ID\n* ItemRef.name: Your item/service name\n* TaxCodeRef.value: Appropriate tax code"
+      },
+      "typeVersion": 1
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "New Payment": {
+      "main": [
+        [
+          {
+            "node": "Get Stripe Customer",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Customer": {
+      "main": [
+        [
+          {
+            "node": "Create QuickBooks Customer",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If Customer Exists": {
+      "main": [
+        [
+          {
+            "node": "Payment and Customer Payload",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Stripe Customer Object",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "POST Sales Receipt": {
+      "main": [
+        []
+      ]
+    },
+    "Final Payload Parse": {
+      "main": [
+        [
+          {
+            "node": "POST Sales Receipt To QuickBooks",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get Stripe Customer": {
+      "main": [
+        [
+          {
+            "node": "GET Quickbooks Customer",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Json from QBO": {
+      "main": [
+        [
+          {
+            "node": "POST Sales Receipt",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Stripe Customer Object": {
+      "main": [
+        [
+          {
+            "node": "Parse Customer",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "GET Quickbooks Customer": {
+      "main": [
+        [
+          {
+            "node": "If Customer Exists",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Customer And Payment node": {
+      "main": [
+        [
+          {
+            "node": "Final Payload Parse",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Create QuickBooks Customer": {
+      "main": [
+        [
+          {
+            "node": "Customer And Payment node",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Payment and Customer Payload": {
+      "main": [
+        [
+          {
+            "node": "Parse Json from QBO",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

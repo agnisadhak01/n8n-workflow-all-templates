@@ -1,0 +1,21 @@
+# transfer : 17
+
+|id|file|
+|----|----|
+|2|[2_Transfer_data_from_Postgres_to_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/00/2_Transfer_data_from_Postgres_to_Excel.json)|
+|156|[156_Get_execute_command_data_and_transfer_to_JSON.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/01/156_Get_execute_command_data_and_transfer_to_JSON.json)|
+|892|[892_Transfer_Google_Analytics_data_to_Airtable_database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/892_Transfer_Google_Analytics_data_to_Airtable_database.json)|
+|993|[993_Receive_transfer_updates_from_Wise_and_add_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/993_Receive_transfer_updates_from_Wise_and_add_to_Airtable.json)|
+|1076|[1076_Transfer_data_from_website_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1076_Transfer_data_from_website_to_Google_Sheets.json)|
+|1791|[1791_Transfer_JSON_data_to_CSV_file.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/17/1791_Transfer_JSON_data_to_CSV_file.json)|
+|2521|[2521_Transfer_credentials_to_other_n8n_instances_using_a_Multi-Form.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2521_Transfer_credentials_to_other_n8n_instances_using_a_Multi-Form.json)|
+|6244|[6244_Transfer_Files_from_FTP_Server_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6244_Transfer_Files_from_FTP_Server_to_Google_Drive.json)|
+|6494|[6494_Automatically_Transfer_Shopify_Order_Data_to_Structured_Airtable_Records.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6494_Automatically_Transfer_Shopify_Order_Data_to_Structured_Airtable_Records.json)|
+|7178|[7178_Template_for_Google_Drive_and_Google_Docs_with_clear_structure_and_purpose.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7178_Template_for_Google_Drive_and_Google_Docs_with_clear_structure_and_purpose.json)|
+|8072|[8072_Automated_Google_Drive_to_FTP_Transfer_with_JSON_Logging___Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8072_Automated_Google_Drive_to_FTP_Transfer_with_JSON_Logging___Reports.json)|
+|8620|[8620_Transfer_Workflows_with_Credentials___Sub-workflow_Management_Between_n8n_Instances.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8620_Transfer_Workflows_with_Credentials___Sub-workflow_Management_Between_n8n_Instances.json)|
+|8680|[8680_Automated_Call_Summary_Transfer_from_Chorus_AI_to_HubSpot_CRM.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8680_Automated_Call_Summary_Transfer_from_Chorus_AI_to_HubSpot_CRM.json)|
+|8703|[8703_Automatically_Transfer_FTP_Files_to_Google_Drive_with_Batch_Processing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8703_Automatically_Transfer_FTP_Files_to_Google_Drive_with_Batch_Processing.json)|
+|9368|[9368_Automate_Monthly_CrUX_Report_Transfer_from_BigQuery_to_NocoDB_with_Data_Cleanup.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9368_Automate_Monthly_CrUX_Report_Transfer_from_BigQuery_to_NocoDB_with_Data_Cleanup.json)|
+|9469|[9469_Sync_Adobe_Commerce_Customer_Data_to_KlickTipp_with_Value-Based_Tagging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9469_Sync_Adobe_Commerce_Customer_Data_to_KlickTipp_with_Value-Based_Tagging.json)|
+|9711|[9711_Automate_Stripe_Customer_Data_Transfer_to_KlickTipp_with_Dynamic_Tagging_Logic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9711_Automate_Stripe_Customer_Data_Transfer_to_KlickTipp_with_Dynamic_Tagging_Logic.json)|

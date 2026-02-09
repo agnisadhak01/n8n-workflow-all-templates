@@ -1,0 +1,20 @@
+# asana : 16
+
+|id|file|
+|----|----|
+|478|[478_Create_a_new_task_in_Asana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/478_Create_a_new_task_in_Asana.json)|
+|654|[654_Receive_updates_when_an_event_occurs_in_Asana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/654_Receive_updates_when_an_event_occurs_in_Asana.json)|
+|987|[987_Create_Asana_Ticket_from_Terminal_Bash-dash.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/987_Create_Asana_Ticket_from_Terminal_Bash-dash.json)|
+|1769|[1769_Sync_tasks_data_between_Notion_and_Asana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/17/1769_Sync_tasks_data_between_Notion_and_Asana.json)|
+|1821|[1821_Sync_Zendesk_tickets_with_subsequent_comments_to_Asana_tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/18/1821_Sync_Zendesk_tickets_with_subsequent_comments_to_Asana_tasks.json)|
+|2237|[2237_Automated_Customer_Service_Ticket_Creation___Notifications_with_Asana___WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2237_Automated_Customer_Service_Ticket_Creation___Notifications_with_Asana___WhatsApp.json)|
+|2701|[2701_Reschedule_overdue_Asana_tasks_and_clean_up_completed_tasks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2701_Reschedule_overdue_Asana_tasks_and_clean_up_completed_tasks.json)|
+|4578|[4578_AI-Powered_Asana_Task_Prioritization_with_GPT-4_and_Pinecone_Memory.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4578_AI-Powered_Asana_Task_Prioritization_with_GPT-4_and_Pinecone_Memory.json)|
+|5332|[5332_Asana_Tool_MCP_Server___all_22_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5332_Asana_Tool_MCP_Server___all_22_operations.json)|
+|5478|[5478_AI-Powered_Scrum_Master_Assistant_with_OpenAI__Slack_and_Asana_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5478_AI-Powered_Scrum_Master_Assistant_with_OpenAI__Slack_and_Asana_Integration.json)|
+|6386|[6386_Auto-Follow-Up_for_Canceled_Calendly_Meetings_with_GPT-4__Loom___Asana.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6386_Auto-Follow-Up_for_Canceled_Calendly_Meetings_with_GPT-4__Loom___Asana.json)|
+|7559|[7559_Manage_Asana_Projects_with_Natural_Language_AI_Assistant_via_Chat___Webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7559_Manage_Asana_Projects_with_Natural_Language_AI_Assistant_via_Chat___Webhook.json)|
+|7656|[7656_Automate_Client_Onboarding_with_GPT-4o-mini__Asana__Slack__Google_Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7656_Automate_Client_Onboarding_with_GPT-4o-mini__Asana__Slack__Google_Drive_and_Gmail.json)|
+|7845|[7845_Update_Grocery_Lists_in_Asana_via_Telegram_Voice___Text_using_GPT-4o_mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7845_Update_Grocery_Lists_in_Asana_via_Telegram_Voice___Text_using_GPT-4o_mini.json)|
+|9628|[9628_AI-powered_Client_Onboarding_with_Jotform__Asana__Slack__and_HubSpot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9628_AI-powered_Client_Onboarding_with_Jotform__Asana__Slack__and_HubSpot.json)|
+|9875|[9875_Transform_Meeting_Notes_into_Asana_Tasks___Slack_Summaries_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9875_Transform_Meeting_Notes_into_Asana_Tasks___Slack_Summaries_with_GPT-4o.json)|

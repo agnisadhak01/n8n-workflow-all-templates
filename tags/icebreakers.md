@@ -1,0 +1,14 @@
+# icebreakers : 10
+
+|id|file|
+|----|----|
+|6097|[6097_Generate_Personalized_Cold_Outreach_Icebreakers_with_GPT-4_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6097_Generate_Personalized_Cold_Outreach_Icebreakers_with_GPT-4_and_Google_Sheets.json)|
+|6113|[6113_Generate_Job_Application_Icebreakers_with_GPT-4_and_Indeed_Data_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6113_Generate_Job_Application_Icebreakers_with_GPT-4_and_Indeed_Data_from_Google_Sheets.json)|
+|6156|[6156_Cold_Email_Icebreakers_from_Local_Business_Search_with_GPT-4_and_Dumpling_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6156_Cold_Email_Icebreakers_from_Local_Business_Search_with_GPT-4_and_Dumpling_AI.json)|
+|6530|[6530_Generate_Personalized_Icebreakers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6530_Generate_Personalized_Icebreakers.json)|
+|6599|[6599_Generate_Personalized_Cold_Email_Icebreakers_with_GPT-4_Mini__Apify___LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6599_Generate_Personalized_Cold_Email_Icebreakers_with_GPT-4_Mini__Apify___LinkedIn.json)|
+|8070|[8070_Generate_Personalized_Cold_Email_Icebreakers_with_GPT-4O-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8070_Generate_Personalized_Cold_Email_Icebreakers_with_GPT-4O-mini_and_Google_Sheets.json)|
+|9629|[9629_Generate_Personalized_Cold_Email_Icebreakers_with_Perplexity_Research___Claude_Sonnet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9629_Generate_Personalized_Cold_Email_Icebreakers_with_Perplexity_Research___Claude_Sonnet.json)|
+|9737|[9737_Generate_Personalized_Email_Icebreakers_with_GPT-4.1_and_Instantly.ai_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9737_Generate_Personalized_Email_Icebreakers_with_GPT-4.1_and_Instantly.ai_Integration.json)|
+|9882|[9882_Generate_Personalized_Cold_Email_Icebreakers_from_sites_with_GPT-4___G-Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9882_Generate_Personalized_Cold_Email_Icebreakers_from_sites_with_GPT-4___G-Sheets.json)|
+|11280|[11280_Create_Daily_Trivia_Icebreakers_in_Slack_with_OpenTDB___Google_Sheets_Log.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11280_Create_Daily_Trivia_Icebreakers_in_Slack_with_OpenTDB___Google_Sheets_Log.json)|

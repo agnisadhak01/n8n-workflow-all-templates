@@ -1,0 +1,13 @@
+# ecommerce : 9
+
+|id|file|
+|----|----|
+|2851|[2851_Modular___Customizable_AI-Powered_Email_Routing__Text_Classifier_for_eCommerce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2851_Modular___Customizable_AI-Powered_Email_Routing__Text_Classifier_for_eCommerce.json)|
+|5136|[5136_Facebook_Meta_Conversion_API_for_eCommerce_Leads_Orders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5136_Facebook_Meta_Conversion_API_for_eCommerce_Leads_Orders.json)|
+|5200|[5200_AI-Powered_One-Click_Virtual_Fitting_Room_for_WooCommerce__Shopify__Prestashop.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5200_AI-Powered_One-Click_Virtual_Fitting_Room_for_WooCommerce__Shopify__Prestashop.json)|
+|6369|[6369_Send_Real-Time_Zoho_Ecommerce_Order_Notifications_via_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6369_Send_Real-Time_Zoho_Ecommerce_Order_Notifications_via_Email.json)|
+|7590|[7590_Automate_Customer_Support_with_Multilingual_Chatbot_using_GPT-5_Nano_for_eCommerce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7590_Automate_Customer_Support_with_Multilingual_Chatbot_using_GPT-5_Nano_for_eCommerce.json)|
+|9432|[9432_Generate_UGC_Marketing_Videos_for_eCommerce_with_Sora_2_and_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9432_Generate_UGC_Marketing_Videos_for_eCommerce_with_Sora_2_and_Gemini.json)|
+|10063|[10063_AI_Video_Generator_for_eCommerce_Product_Catalogs_with_Veo_3.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10063_AI_Video_Generator_for_eCommerce_Product_Catalogs_with_Veo_3.1.json)|
+|10514|[10514_Generate_UGC_Promo_Videos_with_OpenAI__Sora_2_and_Blotato_for_eCommerce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10514_Generate_UGC_Promo_Videos_with_OpenAI__Sora_2_and_Blotato_for_eCommerce.json)|
+|11082|[11082_Generate_eCommerce_Product_Descriptions_with_GPT-4o-mini_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11082_Generate_eCommerce_Product_Descriptions_with_GPT-4o-mini_and_Airtable.json)|

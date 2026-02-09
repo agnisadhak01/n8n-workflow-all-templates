@@ -1,0 +1,17 @@
+# classifier : 13
+
+|id|file|
+|----|----|
+|2468|[2468_Automate_Customer_Support_Issue_Resolution_using_AI_Text_Classifier.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2468_Automate_Customer_Support_Issue_Resolution_using_AI_Text_Classifier.json)|
+|2657|[2657_Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents__2_2_KNN.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2657_Vector_Database_as_a_Big_Data_Analysis_Tool_for_AI_Agents__2_2_KNN.json)|
+|2851|[2851_Modular___Customizable_AI-Powered_Email_Routing__Text_Classifier_for_eCommerce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2851_Modular___Customizable_AI-Powered_Email_Routing__Text_Classifier_for_eCommerce.json)|
+|3242|[3242_Smart_Email_Classifier___Auto-Responder_with_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3242_Smart_Email_Classifier___Auto-Responder_with_AI.json)|
+|4507|[4507_AI_Email_Classifier___Auto-Delete_for_Gmail__SPAM_OFFER_Cleaner.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4507_AI_Email_Classifier___Auto-Delete_for_Gmail__SPAM_OFFER_Cleaner.json)|
+|5789|[5789_Multi-Account_Email_Classifier_with_AI__Gmail__Discord___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5789_Multi-Account_Email_Classifier_with_AI__Gmail__Discord___Google_Sheets.json)|
+|5914|[5914_TechCrunch_AI_Article_Scraper___Classifier_with_GPT-4.1-nano_to_Sheets___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5914_TechCrunch_AI_Article_Scraper___Classifier_with_GPT-4.1-nano_to_Sheets___Telegram.json)|
+|6412|[6412_Auto-Classify_Security_Incidents_with_GPT-4_and_Google_Sheets_for_SOC_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6412_Auto-Classify_Security_Incidents_with_GPT-4_and_Google_Sheets_for_SOC_Teams.json)|
+|6682|[6682_Classify___Auto-Sort_Invoices_in_Google_Drive_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6682_Classify___Auto-Sort_Invoices_in_Google_Drive_with_GPT-4o.json)|
+|7477|[7477_Auto-Label_Gmail_Messages_with_Custom_Categories_using_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7477_Auto-Label_Gmail_Messages_with_Custom_Categories_using_GPT-4o-mini.json)|
+|7599|[7599_Automatically_Categorize_Gmail_Messages_with_GPT-4_Mini_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7599_Automatically_Categorize_Gmail_Messages_with_GPT-4_Mini_Classification.json)|
+|7633|[7633_Smart_Gmail_Labeling_Automation_with_Text_Classifier_and_GPT-5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7633_Smart_Gmail_Labeling_Automation_with_Text_Classifier_and_GPT-5.json)|
+|8426|[8426_Gmail_Email_Classifier_with_GPT-4_Auto-Generated_Draft_Replies.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8426_Gmail_Email_Classifier_with_GPT-4_Auto-Generated_Draft_Replies.json)|

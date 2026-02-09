@@ -1,0 +1,17 @@
+# digital : 13
+
+|id|file|
+|----|----|
+|2660|[2660_Upload_files_via_n8n_form_and_save_them_to_Digital_Ocean_Spaces.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2660_Upload_files_via_n8n_form_and_save_them_to_Digital_Ocean_Spaces.json)|
+|3119|[3119_Create_a_REST_API_for_PDF_Digital_Signatures_with_Webhooks.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3119_Create_a_REST_API_for_PDF_Digital_Signatures_with_Webhooks.json)|
+|3155|[3155_Automatic_Weekly_Digital_PR_Stories_Suggestions_with_Reddit_and_Anthropic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3155_Automatic_Weekly_Digital_PR_Stories_Suggestions_with_Reddit_and_Anthropic.json)|
+|3342|[3342_Automate_Sales_for_Digital_Products___SaaS_with_AI__GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3342_Automate_Sales_for_Digital_Products___SaaS_with_AI__GPT-4o.json)|
+|3697|[3697_Automate_Digital_Delivery_After_PayPal_Purchase_Using_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3697_Automate_Digital_Delivery_After_PayPal_Purchase_Using_n8n.json)|
+|4622|[4622_Generate_Custom_AI_Videos_with_Digital_Avatars_using_HeyGen_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4622_Generate_Custom_AI_Videos_with_Digital_Avatars_using_HeyGen_API.json)|
+|5918|[5918_Create_AI_Support_Assistant_for_Any_Device_with_GPT-4-mini___Pinecone.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5918_Create_AI_Support_Assistant_for_Any_Device_with_GPT-4-mini___Pinecone.json)|
+|8006|[8006_Create_Digital_Checks_with_OnlineCheckWriter_using_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8006_Create_Digital_Checks_with_OnlineCheckWriter_using_Forms.json)|
+|8588|[8588_Automate_Digital_Product_Delivery___Sales_Tracking_with_Stripe__Email__Notion___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8588_Automate_Digital_Product_Delivery___Sales_Tracking_with_Stripe__Email__Notion___Telegram.json)|
+|9063|[9063_Automate_Digital_Product_Sales___Delivery_with_Stripe_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9063_Automate_Digital_Product_Sales___Delivery_with_Stripe_and_Email.json)|
+|10606|[10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10606_Sign_PDF_Documents_with_X.509_Certificates_using_PAdES_Standards.json)|
+|11097|[11097_Automated_Digital_Certificate_Creator___Validator_with_PDF_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11097_Automated_Digital_Certificate_Creator___Validator_with_PDF_Generation.json)|
+|11886|[11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11886_Create___Validate_Digital_Certificates_with_PDF_Generator_API_and_Gmail.json)|

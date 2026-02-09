@@ -1,0 +1,16 @@
+# dev : 12
+
+|id|file|
+|----|----|
+|2644|[2644_Flux_Dev_Image_Generation__Fal.ai__to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2644_Flux_Dev_Image_Generation__Fal.ai__to_Google_Drive.json)|
+|3883|[3883_Auto-Post_Dev.to_Articles_to_LinkedIn_with_Airtable_Tracking___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3883_Auto-Post_Dev.to_Articles_to_LinkedIn_with_Airtable_Tracking___Telegram_Alerts.json)|
+|5259|[5259_Financial_AI_Agent_Telegram_and_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5259_Financial_AI_Agent_Telegram_and_WhatsApp.json)|
+|5494|[5494_PDF_Document_Filling_and_Generation_Server_for_AI_Agents_with_doqs.dev_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5494_PDF_Document_Filling_and_Generation_Server_for_AI_Agents_with_doqs.dev_API.json)|
+|7071|[7071_Extract_Business_Email_Addresses_Using_Serper.dev_and_ScrapingBee_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7071_Extract_Business_Email_Addresses_Using_Serper.dev_and_ScrapingBee_from_Google_Sheets.json)|
+|7543|[7543_Find_B2B_Decision_Maker_Emails___Build_Lead_Database_with_Serper.dev___AnyMailFinder.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7543_Find_B2B_Decision_Maker_Emails___Build_Lead_Database_with_Serper.dev___AnyMailFinder.json)|
+|7574|[7574_Create_Dev.to_Articles_with_OpenAI_Gemini_-_AI-Generated_Content_with_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7574_Create_Dev.to_Articles_with_OpenAI_Gemini_-_AI-Generated_Content_with_Images.json)|
+|7632|[7632_Automate_Morning_Brew_style_Reddit_Digests_and_Publish_to_DEV_using_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7632_Automate_Morning_Brew_style_Reddit_Digests_and_Publish_to_DEV_using_AI.json)|
+|7696|[7696_Generate_AI_System_Prompts_for_LLMs_with_Unli.dev.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7696_Generate_AI_System_Prompts_for_LLMs_with_Unli.dev.json)|
+|7704|[7704_Extract_Transactions_from_Images_using_unli.dev_Vision_API___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7704_Extract_Transactions_from_Images_using_unli.dev_Vision_API___Telegram.json)|
+|10331|[10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json)|
+|11706|[11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11706_Track_GitHub_Trending_Repositories_with_ScrapeOps___Google_Sheets.json)|

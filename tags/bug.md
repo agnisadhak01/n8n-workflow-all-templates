@@ -1,0 +1,17 @@
+# bug : 13
+
+|id|file|
+|----|----|
+|2153|[2153_Add_a_bug_to_Linear_via_Slack_command.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2153_Add_a_bug_to_Linear_via_Slack_command.json)|
+|2500|[2500_Create_an_automated_workitem_incident_bug_userstory__in_azure_devops.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2500_Create_an_automated_workitem_incident_bug_userstory__in_azure_devops.json)|
+|2938|[2938_Googleform_submission_to_create_a_Github_issue_bug_report.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2938_Googleform_submission_to_create_a_Github_issue_bug_report.json)|
+|6677|[6677_Error_Log_Monitor_with_SSH__Slack_Alerts___Jira_Ticket_Creation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6677_Error_Log_Monitor_with_SSH__Slack_Alerts___Jira_Ticket_Creation.json)|
+|6701|[6701_AI-Powered_Bug_Tracking_with_GitHub_Issues_and_Telegram_Alerts_using_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6701_AI-Powered_Bug_Tracking_with_GitHub_Issues_and_Telegram_Alerts_using_Gemini.json)|
+|8146|[8146_Automatically_Collect_Bug_Bounty_Tips_from_Twitter_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8146_Automatically_Collect_Bug_Bounty_Tips_from_Twitter_to_Google_Sheets.json)|
+|8283|[8283_Monitor_New_CVEs_for_Bug_Bounty_Hunting_with_Gemini_AI_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8283_Monitor_New_CVEs_for_Bug_Bounty_Hunting_with_Gemini_AI_and_Slack_Alerts.json)|
+|8815|[8815_Auto_Bug_Report_Aggregator__Sync_Zendesk_Bug_Tickets_into_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8815_Auto_Bug_Report_Aggregator__Sync_Zendesk_Bug_Tickets_into_Google_Sheets.json)|
+|8845|[8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json)|
+|9246|[9246_GitHub_to_Jira_Bug_Sync_with_GPT-4o_Analysis___Team_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9246_GitHub_to_Jira_Bug_Sync_with_GPT-4o_Analysis___Team_Alerts.json)|
+|9655|[9655_Automate_Bug_Reports_with_Gemini_AI__Jotform_to_GitHub_with_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9655_Automate_Bug_Reports_with_Gemini_AI__Jotform_to_GitHub_with_Telegram_Alerts.json)|
+|10054|[10054_Automated_CVE_Scanning_of_Bug_Bounty_Programs_with_Nuclei_and_Project_Discovery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10054_Automated_CVE_Scanning_of_Bug_Bounty_Programs_with_Nuclei_and_Project_Discovery.json)|
+|11697|[11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11697_AI-Powered_Bug_Triage_System_with_OpenAI__Jira_and_Slack_Alerts.json)|

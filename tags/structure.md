@@ -1,0 +1,15 @@
+# structure : 11
+
+|id|file|
+|----|----|
+|4208|[4208_Extract_and_Structure_X_Post_Comments_with_Airtop_Browser_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4208_Extract_and_Structure_X_Post_Comments_with_Airtop_Browser_Automation.json)|
+|4240|[4240_Copy_Folder_Structure_Without_Files_in_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4240_Copy_Folder_Structure_Without_Files_in_Google_Drive.json)|
+|4278|[4278_Extract_and_Structure_Hacker_News_Job_Posts_with_Gemini_AI_and_Save_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4278_Extract_and_Structure_Hacker_News_Job_Posts_with_Gemini_AI_and_Save_to_Airtable.json)|
+|4300|[4300_Extract_and_Structure_Thai_Documents_to_Google_Sheets_using_Typhoon_OCR_and_Llama_3.1.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4300_Extract_and_Structure_Thai_Documents_to_Google_Sheets_using_Typhoon_OCR_and_Llama_3.1.json)|
+|4349|[4349_Clone_Nested_Folder_Structures_in_Google_Drive_with_Custom_Naming.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4349_Clone_Nested_Folder_Structures_in_Google_Drive_with_Custom_Naming.json)|
+|5477|[5477_Capture_and_Structure_Web_Form_Leads_for_Odoo_CRM__v15-v18_Compatible.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5477_Capture_and_Structure_Web_Form_Leads_for_Odoo_CRM__v15-v18_Compatible.json)|
+|6195|[6195_Extract_and_Structure_Invoice_Data_with_DocSumo_and_Export_to_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6195_Extract_and_Structure_Invoice_Data_with_DocSumo_and_Export_to_Excel.json)|
+|7178|[7178_Template_for_Google_Drive_and_Google_Docs_with_clear_structure_and_purpose.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7178_Template_for_Google_Drive_and_Google_Docs_with_clear_structure_and_purpose.json)|
+|7302|[7302_Extract___Structure_Invoice_Data_with_Google_Vision_OCR__Gemini_LLM___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7302_Extract___Structure_Invoice_Data_with_Google_Vision_OCR__Gemini_LLM___Google_Sheets.json)|
+|7377|[7377_Scheduled_FTP_SFTP_to_MinIO_Backup_with_Preserved_Folder_Structure.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7377_Scheduled_FTP_SFTP_to_MinIO_Backup_with_Preserved_Folder_Structure.json)|
+|9965|[9965_Scrape__Structure__and_Store_News_Data_using_Decodo__Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9965_Scrape__Structure__and_Store_News_Data_using_Decodo__Gemini_AI_and_Google_Sheets.json)|

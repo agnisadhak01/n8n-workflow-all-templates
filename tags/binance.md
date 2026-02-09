@@ -1,0 +1,21 @@
+# binance : 17
+
+|id|file|
+|----|----|
+|2043|[2043_Crypto_Market_Alert_System_with_Binance_and_Telegram_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2043_Crypto_Market_Alert_System_with_Binance_and_Telegram_Integration.json)|
+|3621|[3621_Send_Hourly_Crypto_Market_Analysis_from_Binance_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3621_Send_Hourly_Crypto_Market_Analysis_from_Binance_to_Telegram.json)|
+|4225|[4225_Automate_Cryptocurrency_Funding_Fee_Tracking_with_Binance_API_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4225_Automate_Cryptocurrency_Funding_Fee_Tracking_with_Binance_API_and_Airtable.json)|
+|4244|[4244_Receive_Bitcoin__Etherium__Solana__Binance_Data_With_Gecko_Coin_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4244_Receive_Bitcoin__Etherium__Solana__Binance_Data_With_Gecko_Coin_and_Gmail.json)|
+|4739|[4739_Binance_Spot_Market_Quant_AI_Agent___GPT-4o___Telegram___Main_Interface.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4739_Binance_Spot_Market_Quant_AI_Agent___GPT-4o___Telegram___Main_Interface.json)|
+|4740|[4740_Analyze_Crypto_News_Sentiment_for_Any_Token_with_GPT-4o_and_Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4740_Analyze_Crypto_News_Sentiment_for_Any_Token_with_GPT-4o_and_Telegram_Alerts.json)|
+|4741|[4741_Get_Binance_Spot_Market_Financial_Analysis_via_Telegram_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4741_Get_Binance_Spot_Market_Financial_Analysis_via_Telegram_with_GPT-4o.json)|
+|4742|[4742_Binance_SM_Price-24hrStats-OrderBook-Kline_Tool.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4742_Binance_SM_Price-24hrStats-OrderBook-Kline_Tool.json)|
+|4743|[4743_Binance_SM_15min_Indicators_Tool.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4743_Binance_SM_15min_Indicators_Tool.json)|
+|4744|[4744_Binance_SM_1hour_Indicators_Tool.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4744_Binance_SM_1hour_Indicators_Tool.json)|
+|4745|[4745_Binance_SM_4hour_Indicators_Tool.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4745_Binance_SM_4hour_Indicators_Tool.json)|
+|4746|[4746_Binance_SM_1day_Indicators_Tool.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4746_Binance_SM_1day_Indicators_Tool.json)|
+|4747|[4747_Binance_SM_Indicators_Webhook_Tool.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4747_Binance_SM_Indicators_Webhook_Tool.json)|
+|5036|[5036_Binance_Spot_Trader_-_Limit___Market_Orders_via_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5036_Binance_Spot_Trader_-_Limit___Market_Orders_via_API.json)|
+|8614|[8614_Access_Real-time_Binance_Market_Data_with_GPT-4o_Formatting_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8614_Access_Real-time_Binance_Market_Data_with_GPT-4o_Formatting_in_Telegram.json)|
+|11396|[11396_Monitor_Bitcoin_Arbitrage_Between_Binance___Upbit_with_GPT_Analysis___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11396_Monitor_Bitcoin_Arbitrage_Between_Binance___Upbit_with_GPT_Analysis___Email.json)|
+|11426|[11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11426_Daily_Crypto_Yield_Monitor__Track_Top_Binance_Earn_APY_Rates_with_Earnings_Calculator.json)|

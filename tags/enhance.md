@@ -1,0 +1,17 @@
+# enhance : 13
+
+|id|file|
+|----|----|
+|1956|[1956_AI__Summarize_podcast_episode_and_enhance_using_Wikipedia.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/19/1956_AI__Summarize_podcast_episode_and_enhance_using_Wikipedia.json)|
+|2346|[2346_Enhance_Customer_Chat_by_Buffering_Messages_with_Twilio_and_Redis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2346_Enhance_Customer_Chat_by_Buffering_Messages_with_Twilio_and_Redis.json)|
+|2504|[2504_WordPress_-__AI_Chatbot_to_enhance_user_experience_-_with_Supabase_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2504_WordPress_-__AI_Chatbot_to_enhance_user_experience_-_with_Supabase_and_OpenAI.json)|
+|2510|[2510_Enhance_Security_Operations_with_the_Qualys_Slack_Shortcut_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2510_Enhance_Security_Operations_with_the_Qualys_Slack_Shortcut_Bot.json)|
+|3496|[3496_Enhance_AI_Prompts_with_GPT-4o-mini_and_Telegram_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3496_Enhance_AI_Prompts_with_GPT-4o-mini_and_Telegram_Delivery.json)|
+|3779|[3779_Enhance_Chat_Responses_with_Real-Time_Search_via_Bright_Data_MCP___Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3779_Enhance_Chat_Responses_with_Real-Time_Search_via_Bright_Data_MCP___Gemini_AI.json)|
+|6497|[6497_Enhance___Expand_Telegram_Images_to_3_2_with_CodeFormer___LightX_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6497_Enhance___Expand_Telegram_Images_to_3_2_with_CodeFormer___LightX_AI.json)|
+|6887|[6887_Enhance_AI_Chatbot_Responses_with_InfraNodus_Knowledge_Graph_Reasoning___GraphRAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6887_Enhance_AI_Chatbot_Responses_with_InfraNodus_Knowledge_Graph_Reasoning___GraphRAG.json)|
+|6943|[6943_Enhance_Your_Workflow_with_2Ndmoises_Generator_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6943_Enhance_Your_Workflow_with_2Ndmoises_Generator_AI.json)|
+|8726|[8726_Enhance_Real-Estate_Photos_with_Google_Nano_Banana_AI_via_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8726_Enhance_Real-Estate_Photos_with_Google_Nano_Banana_AI_via_Telegram_Bot.json)|
+|9390|[9390_Enhance_Product_Photos_with_Google_Gemini_AI_for_E-commerce_Catalog.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9390_Enhance_Product_Photos_with_Google_Gemini_AI_for_E-commerce_Catalog.json)|
+|9442|[9442_Enhance_Google_Drive_Images_with_Gemini_2.5_Flash_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9442_Enhance_Google_Drive_Images_with_Gemini_2.5_Flash_AI.json)|
+|11807|[11807_Enhance_Customer_Support_with_RAG-Powered_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11807_Enhance_Customer_Support_with_RAG-Powered_AI.json)|

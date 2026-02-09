@@ -1,0 +1,16 @@
+# pr : 12
+
+|id|file|
+|----|----|
+|1789|[1789_Add_a_note_to_Pipedrive_s_contact_once_PR_is_added_on_GitHub.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/17/1789_Add_a_note_to_Pipedrive_s_contact_once_PR_is_added_on_GitHub.json)|
+|3155|[3155_Automatic_Weekly_Digital_PR_Stories_Suggestions_with_Reddit_and_Anthropic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3155_Automatic_Weekly_Digital_PR_Stories_Suggestions_with_Reddit_and_Anthropic.json)|
+|3804|[3804_Automated_PR_Code_Reviews_with_GitHub__GPT-4__and_Google_Sheets_Best_Practices.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3804_Automated_PR_Code_Reviews_with_GitHub__GPT-4__and_Google_Sheets_Best_Practices.json)|
+|4073|[4073_Automate_GitHub_PR_Linting_with_Google_Gemini_AI_and_Auto-Fix_PRs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4073_Automate_GitHub_PR_Linting_with_Google_Gemini_AI_and_Auto-Fix_PRs.json)|
+|4463|[4463_Automated_Workflow_Backups_to_GitHub_with_PR_Creation___Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4463_Automated_Workflow_Backups_to_GitHub_with_PR_Creation___Slack_Notifications.json)|
+|4913|[4913_Auto-Publish_PR_News_Articles_with_Featured_Images_to_WordPress_from_RSS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4913_Auto-Publish_PR_News_Articles_with_Featured_Images_to_WordPress_from_RSS.json)|
+|7124|[7124_Validate_Mobile_App_Deep_Links_in_GitHub_PRs_with_Automated_Testing.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7124_Validate_Mobile_App_Deep_Links_in_GitHub_PRs_with_Automated_Testing.json)|
+|7473|[7473_Monitor_Brand_Reputation_for_Negative_PR_on_Reddit_with_Gemini___LangChain___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7473_Monitor_Brand_Reputation_for_Negative_PR_on_Reddit_with_Gemini___LangChain___Sheets.json)|
+|7577|[7577_Syncing_iOS_Localization_Gaps_with_Google_Sheets_and_GitHub_PR_Placeholders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7577_Syncing_iOS_Localization_Gaps_with_Google_Sheets_and_GitHub_PR_Placeholders.json)|
+|7985|[7985_Detect_Unused_Android_Feature_Flags_with_GitLab__LaunchDarkly__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7985_Detect_Unused_Android_Feature_Flags_with_GitLab__LaunchDarkly__Jira___Slack.json)|
+|8112|[8112_Sync_Android_drawable_assets_from_Figma_to_GitHub_via_PR__multi-density_PNG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8112_Sync_Android_drawable_assets_from_Figma_to_GitHub_via_PR__multi-density_PNG.json)|
+|10331|[10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10331_Auto-Answer_GitHub_PR_Questions_with_GPT-4o__Notion___Slack_for_Dev_Teams.json)|

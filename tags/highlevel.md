@@ -1,0 +1,15 @@
+# highlevel : 11
+
+|id|file|
+|----|----|
+|2171|[2171_Verify_mailing_address_deliverability_of_new_contacts_in_HighLevel_Using_Lob.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2171_Verify_mailing_address_deliverability_of_new_contacts_in_HighLevel_Using_Lob.json)|
+|5241|[5241_HighLevel_Tool_MCP_Server___all_17_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5241_HighLevel_Tool_MCP_Server___all_17_operations.json)|
+|7342|[7342_AI-Powered_HighLevel_CRM_Automation_with_GPT_and_MCP_for_Contact_and_Task_Management.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7342_AI-Powered_HighLevel_CRM_Automation_with_GPT_and_MCP_for_Contact_and_Task_Management.json)|
+|7345|[7345_Automate_HighLevel_CRM_with_GPT-5__Knowledge_Retrieval___Document_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7345_Automate_HighLevel_CRM_with_GPT-5__Knowledge_Retrieval___Document_Context.json)|
+|9239|[9239_Deal_Stage_Tracking_Automation_with_HighLevel_CRM__ClickUp__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9239_Deal_Stage_Tracking_Automation_with_HighLevel_CRM__ClickUp__and_Slack.json)|
+|10148|[10148_Automated_Sales_Leaderboard_with_HighLevel_CRM__GPT-4o__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10148_Automated_Sales_Leaderboard_with_HighLevel_CRM__GPT-4o__Notion___Slack.json)|
+|10149|[10149_Track_Marketing_Channel_Performance_with_HighLevel__Google_Sheets__and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10149_Track_Marketing_Channel_Performance_with_HighLevel__Google_Sheets__and_Slack.json)|
+|10150|[10150_AI-Driven_Lead_Classification___Routing_with_HighLevel_and_Azure_GPT-4o-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10150_AI-Driven_Lead_Classification___Routing_with_HighLevel_and_Azure_GPT-4o-mini.json)|
+|10152|[10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10152_Automated_Sales_Follow-Up_System_Using_HighLevel__Gmail__Slack___Google_Sheets.json)|
+|10327|[10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json)|
+|10838|[10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10838_Sync_HighLevel_CRM_to_Google_Sheets_with_GPT-4o_Daily_Reports_via_Gmail.json)|

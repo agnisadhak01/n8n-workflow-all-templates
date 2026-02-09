@@ -1,0 +1,18 @@
+# application : 14
+
+|id|file|
+|----|----|
+|879|[879_Access_data_from_bubble_application.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/879_Access_data_from_bubble_application.json)|
+|2579|[2579_Handling_Job_Application_Submissions_with_AI_and_n8n_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2579_Handling_Job_Application_Submissions_with_AI_and_n8n_Forms.json)|
+|2923|[2923_Bitrix24_Chatbot_Application_Workflow_example_with_Webhook_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2923_Bitrix24_Chatbot_Application_Workflow_example_with_Webhook_Integration.json)|
+|2974|[2974_Bitrix24_Task_Form_Widget_Application_Workflow_with_Webhook_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2974_Bitrix24_Task_Form_Widget_Application_Workflow_with_Webhook_Integration.json)|
+|3094|[3094_Bitrix24_AI-Powered_RAG_Chatbot_for_Open_Line_Channels.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3094_Bitrix24_AI-Powered_RAG_Chatbot_for_Open_Line_Channels.json)|
+|3457|[3457_Classify_Emails___Extract_Structured_Data_from_Job_Applications_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3457_Classify_Emails___Extract_Structured_Data_from_Job_Applications_with_GPT-4o.json)|
+|5498|[5498_Amazon_CloudWatch_Application_Insights_API_with_27_Operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5498_Amazon_CloudWatch_Application_Insights_API_with_27_Operations.json)|
+|5713|[5713_Automate_Job_Application_Processing_from_Forms_to_Telegram_for_HR_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5713_Automate_Job_Application_Processing_from_Forms_to_Telegram_for_HR_Teams.json)|
+|5906|[5906_Automated_Job_Applications___Status_Tracking_with_LinkedIn__Indeed___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5906_Automated_Job_Applications___Status_Tracking_with_LinkedIn__Indeed___Google_Sheets.json)|
+|6113|[6113_Generate_Job_Application_Icebreakers_with_GPT-4_and_Indeed_Data_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6113_Generate_Job_Application_Icebreakers_with_GPT-4_and_Indeed_Data_from_Google_Sheets.json)|
+|6391|[6391_AI-Powered_Automated_Job_Search___Application.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6391_AI-Powered_Automated_Job_Search___Application.json)|
+|7782|[7782_Automate_Job_Discovery___AI_Proposals_across_Upwork__Freelancer__Guru___PPH_with_OpenRouter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7782_Automate_Job_Discovery___AI_Proposals_across_Upwork__Freelancer__Guru___PPH_with_OpenRouter.json)|
+|8118|[8118_Automatic_Self-Hosted_Application_Updates_with_Coolify_Deployments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8118_Automatic_Self-Hosted_Application_Updates_with_Coolify_Deployments.json)|
+|9574|[9574_University_Application_Evaluation___Scholarship_Automation_with_GPT-4___Jotform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9574_University_Application_Evaluation___Scholarship_Automation_with_GPT-4___Jotform.json)|

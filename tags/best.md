@@ -1,0 +1,14 @@
+# best : 10
+
+|id|file|
+|----|----|
+|3185|[3185_Compare_Local_Ollama_Vision_Models_for_Image_Analysis_using_Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3185_Compare_Local_Ollama_Vision_Models_for_Image_Analysis_using_Google_Docs.json)|
+|3223|[3223_AI_Research_Agents_to_Automate_PDF_Analysis_with_Mistral_s_Best-in-Class_OCR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3223_AI_Research_Agents_to_Automate_PDF_Analysis_with_Mistral_s_Best-in-Class_OCR.json)|
+|3543|[3543_Automated_LinkedIn_Job_Hunter__Get_Your_Best_Daily_Job_Matches_by_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3543_Automated_LinkedIn_Job_Hunter__Get_Your_Best_Daily_Job_Matches_by_Email.json)|
+|3681|[3681_Extract_Amazon_Best_Seller_Electronic_Info_with_Bright_Data_and_Google_Gemini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3681_Extract_Amazon_Best_Seller_Electronic_Info_with_Bright_Data_and_Google_Gemini.json)|
+|3804|[3804_Automated_PR_Code_Reviews_with_GitHub__GPT-4__and_Google_Sheets_Best_Practices.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3804_Automated_PR_Code_Reviews_with_GitHub__GPT-4__and_Google_Sheets_Best_Practices.json)|
+|5212|[5212_Find_the_Best_Food_Deals_Automatically_with_Bright_Data___n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5212_Find_the_Best_Food_Deals_Automatically_with_Bright_Data___n8n.json)|
+|5224|[5224_Find_the_Best_Airbnb_Deals_Automatically_with_Bright_Data___n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5224_Find_the_Best_Airbnb_Deals_Automatically_with_Bright_Data___n8n.json)|
+|5599|[5599_Find_the_Best_Favicon_from_Multiple_Sources_with_GPT-4_Vision_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5599_Find_the_Best_Favicon_from_Multiple_Sources_with_GPT-4_Vision_Analysis.json)|
+|6107|[6107_Telegram_Bot_for_Finding_Top-Rated_Restaurants_with_Google_Maps_via_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6107_Telegram_Bot_for_Finding_Top-Rated_Restaurants_with_Google_Maps_via_SerpAPI.json)|
+|10352|[10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10352_AI-Optimized_Travel_Itinerary_Generator_with_Skyscanner__Booking.com_and_Gmail.json)|

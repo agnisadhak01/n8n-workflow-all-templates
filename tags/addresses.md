@@ -1,0 +1,16 @@
+# addresses : 12
+
+|id|file|
+|----|----|
+|2279|[2279_Forward_Netflix_emails_to_multiple_email_addresses_with_GMail_and_Mailjet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2279_Forward_Netflix_emails_to_multiple_email_addresses_with_GMail_and_Mailjet.json)|
+|2609|[2609_Automatically_Correct_Wrong_Shipping_Addresses_in_Billbee_Orders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2609_Automatically_Correct_Wrong_Shipping_Addresses_in_Billbee_Orders.json)|
+|2739|[2739_Convert_Addresses_to_LatLong_with_Google_Sheets_and_Google_Maps_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2739_Convert_Addresses_to_LatLong_with_Google_Sheets_and_Google_Maps_API.json)|
+|4750|[4750_fetch_the_public_IP_addresses_of_your_n8n_instance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4750_fetch_the_public_IP_addresses_of_your_n8n_instance.json)|
+|5786|[5786_Scrape_Public_Email_Addresses_From_Any_Website_Using_Firecrawl.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5786_Scrape_Public_Email_Addresses_From_Any_Website_Using_Firecrawl.json)|
+|6230|[6230_Validate_Email_Addresses_with_APILayer_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6230_Validate_Email_Addresses_with_APILayer_API.json)|
+|6992|[6992_Validate_Leads_Email_Addresses_with_Hunter.io_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6992_Validate_Leads_Email_Addresses_with_Hunter.io_and_Google_Sheets.json)|
+|7071|[7071_Extract_Business_Email_Addresses_Using_Serper.dev_and_ScrapingBee_from_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7071_Extract_Business_Email_Addresses_Using_Serper.dev_and_ScrapingBee_from_Google_Sheets.json)|
+|7906|[7906_Scrape_Google_Maps_Data___Discover_Email_Addresses_with_SerpAPI_and_EmailListVerify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7906_Scrape_Google_Maps_Data___Discover_Email_Addresses_with_SerpAPI_and_EmailListVerify.json)|
+|7948|[7948_Extract_Email_Addresses_from_Websites_with_EmailListVerify_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7948_Extract_Email_Addresses_from_Websites_with_EmailListVerify_API_and_Google_Sheets.json)|
+|10068|[10068_Find_Domain-Based_Gmail_Addresses_for_Outreach_with_EmailListVerify___Google_Sheet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10068_Find_Domain-Based_Gmail_Addresses_for_Outreach_with_EmailListVerify___Google_Sheet.json)|
+|11498|[11498_Validate_and_Score_Email_Addresses_with_ZeroBounce_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/14/11498_Validate_and_Score_Email_Addresses_with_ZeroBounce_AI.json)|

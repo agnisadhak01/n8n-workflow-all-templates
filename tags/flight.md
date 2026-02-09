@@ -1,0 +1,15 @@
+# flight : 11
+
+|id|file|
+|----|----|
+|5218|[5218_Find_the_Cheapest_Flights_Automatically_with_Bright_Data___n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5218_Find_the_Cheapest_Flights_Automatically_with_Bright_Data___n8n.json)|
+|6054|[6054_Compare_Flight_Fares_from_Skyscanner__Air_India___More_with_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6054_Compare_Flight_Fares_from_Skyscanner__Air_India___More_with_Email_Alerts.json)|
+|6227|[6227_Real-Time_Flight_Tracking_with_Aviation_API__Slack___SendGrid_Twilio_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6227_Real-Time_Flight_Tracking_with_Aviation_API__Slack___SendGrid_Twilio_Alerts.json)|
+|6233|[6233_Track_Flight_Fares_with_Amadeus___Skyscanner_-_Alerts__Refunds___Trends.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6233_Track_Flight_Fares_with_Amadeus___Skyscanner_-_Alerts__Refunds___Trends.json)|
+|6235|[6235_Live_Flight_Fare_Tracker_with_Aviation_Stack_API___Alerts_via_Gmail___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6235_Live_Flight_Fare_Tracker_with_Aviation_Stack_API___Alerts_via_Gmail___Telegram.json)|
+|6262|[6262_Conversational_Travel_Booker__Automate_Flight___Hotel_Reservations_with_GPT-3.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6262_Conversational_Travel_Booker__Automate_Flight___Hotel_Reservations_with_GPT-3.5.json)|
+|6503|[6503_Monitor_Flight_Price_Drops_and_Send_Email_Alerts_with_SerpAPI_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6503_Monitor_Flight_Price_Drops_and_Send_Email_Alerts_with_SerpAPI_and_Gmail.json)|
+|7238|[7238_Flight_Data_Visualization_with_Chart.js__QuickChart_API___Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7238_Flight_Data_Visualization_with_Chart.js__QuickChart_API___Telegram_Bot.json)|
+|9788|[9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9788_Compare_Flight_Prices_Across_Multiple_Booking_Platforms_with_Email_Reports.json)|
+|10621|[10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10621_Flight_Deal_Analyzer_with_Weather_Data_using_GPT__Google_Flights___WordPress.json)|
+|10886|[10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10886_Monitor_Japan_Flight_Prices___Generate_Booking_Alerts_with_GPT-4o___Multi-Source_Analysis.json)|

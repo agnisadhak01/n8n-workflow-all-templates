@@ -1,0 +1,14 @@
+# servicenow : 10
+
+|id|file|
+|----|----|
+|2704|[2704_ServiceNow_Incident_Notifications_to_Slack_Workflow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2704_ServiceNow_Incident_Notifications_to_Slack_Workflow.json)|
+|2727|[2727_Display_ServiceNow_Incident_Details_in_Slack_using_Slash_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2727_Display_ServiceNow_Incident_Details_in_Slack_using_Slash_Commands.json)|
+|2728|[2728_List_recent_ServiceNow_Incidents_in_Slack_Using_Pop_Up_Modal.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2728_List_recent_ServiceNow_Incidents_in_Slack_Using_Pop_Up_Modal.json)|
+|6206|[6206_Build_a_ServiceNow_Knowledge_Chatbot_with_OpenAI_and_Qdrant_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6206_Build_a_ServiceNow_Knowledge_Chatbot_with_OpenAI_and_Qdrant_RAG.json)|
+|7224|[7224_Automate_CVE_Monitoring_with_OpenAI_Processing_for_ServiceNow_Security_Incidents.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7224_Automate_CVE_Monitoring_with_OpenAI_Processing_for_ServiceNow_Security_Incidents.json)|
+|7225|[7225_Automate_AI_Vulnerability_Monitoring_with_GPT-4_and_ServiceNow_Incident_Creation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7225_Automate_AI_Vulnerability_Monitoring_with_GPT-4_and_ServiceNow_Incident_Creation.json)|
+|7515|[7515_AI-Powered_ServiceNow_Chat_Triage_with_GPT-4___Incident___Request_Router.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7515_AI-Powered_ServiceNow_Chat_Triage_with_GPT-4___Incident___Request_Router.json)|
+|8247|[8247_Automate_Marker.io_Issues_to_ServiceNow_Incidents_with_Full_Technical_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8247_Automate_Marker.io_Issues_to_ServiceNow_Incidents_with_Full_Technical_Context.json)|
+|8886|[8886_AI-Powered_ServiceNow_Chat_Triage_with_GPT-4___Incident___Request_Manager.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8886_AI-Powered_ServiceNow_Chat_Triage_with_GPT-4___Incident___Request_Manager.json)|
+|10241|[10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10241_Automate_ITSM_ticket_classification_and_resolution_using_Gemini__Qdrant_and_ServiceNow.json)|

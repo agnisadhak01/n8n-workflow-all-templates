@@ -1,0 +1,17 @@
+# magento : 13
+
+|id|file|
+|----|----|
+|5893|[5893_Automatic_Magento_2_Product___Coupon_Alerts_to_Telegram_with_Duplicate_Protection.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5893_Automatic_Magento_2_Product___Coupon_Alerts_to_Telegram_with_Duplicate_Protection.json)|
+|6471|[6471_Magento_2_Low_Stock_Alert_via_Slack___Gmail__MSI_Compatible.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6471_Magento_2_Low_Stock_Alert_via_Slack___Gmail__MSI_Compatible.json)|
+|6501|[6501_Automatically_Disable_Unsold_Magento_2_Products_After_1_Year_with_Gmail_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6501_Automatically_Disable_Unsold_Magento_2_Products_After_1_Year_with_Gmail_Approval.json)|
+|6654|[6654_Auto-Generate_SEO_Meta_Descriptions___Keywords_for_Magento_2_with_GPT-4.1___LangChain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6654_Auto-Generate_SEO_Meta_Descriptions___Keywords_for_Magento_2_with_GPT-4.1___LangChain.json)|
+|6707|[6707_Fix___Resend_Guest_Order_Emails_in_Magento_2_via_REST_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6707_Fix___Resend_Guest_Order_Emails_in_Magento_2_via_REST_API.json)|
+|6715|[6715_Magento_2__Auto-Fix_Missing_Image_Alt_Tags_with_Product_Name.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6715_Magento_2__Auto-Fix_Missing_Image_Alt_Tags_with_Product_Name.json)|
+|6783|[6783_Daily_Magento_2_Customer_Sync_to_Google_Contacts___Sheets_without_Duplicates.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6783_Daily_Magento_2_Customer_Sync_to_Google_Contacts___Sheets_without_Duplicates.json)|
+|6933|[6933_Automate_Bulk_Update_Magento_2_Product_Prices_via_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6933_Automate_Bulk_Update_Magento_2_Product_Prices_via_Google_Sheets.json)|
+|6953|[6953_Automate_Your_Magento_2_Weekly_Sales___Performance_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6953_Automate_Your_Magento_2_Weekly_Sales___Performance_Reports.json)|
+|6982|[6982_Send_Automated_Discount_Vouchers_to_High-Value_Magento_2_Customers_with_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6982_Send_Automated_Discount_Vouchers_to_High-Value_Magento_2_Customers_with_Gmail.json)|
+|6989|[6989_Weekly_Magento_2_Stuck_Order_Reporting_with_Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6989_Weekly_Magento_2_Stuck_Order_Reporting_with_Gmail___Google_Sheets.json)|
+|8475|[8475_Auto-Generate_Product_Descriptions_with_Azure_OpenAI_for_Adobe_Commerce_Magento.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8475_Auto-Generate_Product_Descriptions_with_Azure_OpenAI_for_Adobe_Commerce_Magento.json)|
+|10268|[10268_Magento_Maintenance_via_Natural_Language_with_GPT_and_Telegram_WhatsApp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10268_Magento_Maintenance_via_Natural_Language_with_GPT_and_Telegram_WhatsApp.json)|

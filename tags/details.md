@@ -1,0 +1,19 @@
+# details : 15
+
+|id|file|
+|----|----|
+|465|[465_Get_details_of_a_GitLab_repository.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/465_Get_details_of_a_GitLab_repository.json)|
+|493|[493_Get_details_of_a_forum_in_Disqus.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/493_Get_details_of_a_forum_in_Disqus.json)|
+|809|[809_Get_the_job_details_using_the_Cortex_node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/809_Get_the_job_details_using_the_Cortex_node.json)|
+|2108|[2108_Enrich_new_Intercom_users_with_contact_details_and_more_from_ExactBuyer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2108_Enrich_new_Intercom_users_with_contact_details_and_more_from_ExactBuyer.json)|
+|2414|[2414_Extract_spending_history_from_gmail_to_google_sheet.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2414_Extract_spending_history_from_gmail_to_google_sheet.json)|
+|2727|[2727_Display_ServiceNow_Incident_Details_in_Slack_using_Slash_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2727_Display_ServiceNow_Incident_Details_in_Slack_using_Slash_Commands.json)|
+|4361|[4361_Extract_Details_from_Receipts_via_Telegram_with_Tesseract_and_Llama.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4361_Extract_Details_from_Receipts_via_Telegram_with_Tesseract_and_Llama.json)|
+|4599|[4599_Lookup_IP_Geolocation_Details_with_IP-API.com_via_Webhook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4599_Lookup_IP_Geolocation_Details_with_IP-API.com_via_Webhook.json)|
+|4797|[4797_Track_CVE_Vulnerability_Details___History_with_NVD_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4797_Track_CVE_Vulnerability_Details___History_with_NVD_API_and_Google_Sheets.json)|
+|4829|[4829_Real-time_Extract_of_Job__Company__Salary_Details_via_Bright_Data_MCP___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4829_Real-time_Extract_of_Job__Company__Salary_Details_via_Bright_Data_MCP___OpenAI.json)|
+|5279|[5279_Expose_Get_tracking_details_to_AI_Agents_via____DHL_Tool_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5279_Expose_Get_tracking_details_to_AI_Agents_via____DHL_Tool_MCP_Server.json)|
+|5379|[5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json)|
+|6302|[6302_Store_Gmail_Email_Details_in_MySQL_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6302_Store_Gmail_Email_Details_in_MySQL_Database.json)|
+|6655|[6655_View_Fantasy_Football_Roster_Details_with_Sleeper_API_and_Telegram_Chatbot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6655_View_Fantasy_Football_Roster_Details_with_Sleeper_API_and_Telegram_Chatbot.json)|
+|8440|[8440_Extract_and_Organize_Contract_Details_from_PDFs_with_Slack__GPT-4o__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8440_Extract_and_Organize_Contract_Details_from_PDFs_with_Slack__GPT-4o__and_Google_Sheets.json)|

@@ -1,0 +1,12 @@
+# suggestions : 8
+
+|id|file|
+|----|----|
+|2865|[2865_Automate_Pinterest_Analysis___AI-Powered_Content_Suggestions_With_Pinterest_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2865_Automate_Pinterest_Analysis___AI-Powered_Content_Suggestions_With_Pinterest_API.json)|
+|3155|[3155_Automatic_Weekly_Digital_PR_Stories_Suggestions_with_Reddit_and_Anthropic.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3155_Automatic_Weekly_Digital_PR_Stories_Suggestions_with_Reddit_and_Anthropic.json)|
+|4851|[4851_Find_relevant_X_tweets_based_on_your_profile_and_suggest_responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4851_Find_relevant_X_tweets_based_on_your_profile_and_suggest_responses.json)|
+|5987|[5987_Ingredient_Price_Trend_Analysis___Buying_Recommendations_with_PostgreSQL__API___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5987_Ingredient_Price_Trend_Analysis___Buying_Recommendations_with_PostgreSQL__API___Slack.json)|
+|6438|[6438_Analyze_Browsing_History_and_Generate_Automation_Suggestions_with_OpenRouter_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6438_Analyze_Browsing_History_and_Generate_Automation_Suggestions_with_OpenRouter_AI_and_Google_Sheets.json)|
+|7919|[7919_WhatsApp_Recipe_Suggestions_from_Pantry_Items_with_Gemini_AI___FatSecret_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7919_WhatsApp_Recipe_Suggestions_from_Pantry_Items_with_Gemini_AI___FatSecret_API.json)|
+|9375|[9375_AI-Powered_Workflow_Error_Analysis___Fix_Suggestions_with_Gemini_2.5_Pro.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9375_AI-Powered_Workflow_Error_Analysis___Fix_Suggestions_with_Gemini_2.5_Pro.json)|
+|10270|[10270_Google_Calendar_Events_with_Gemini_AI_Follow-up_Suggestions_via_WhatsApp___Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10270_Google_Calendar_Events_with_Gemini_AI_Follow-up_Suggestions_via_WhatsApp___Email.json)|

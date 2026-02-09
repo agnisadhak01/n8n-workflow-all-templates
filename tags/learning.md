@@ -1,0 +1,15 @@
+# learning : 11
+
+|id|file|
+|----|----|
+|888|[888_Get_data_from_Hacker_News_and_send_to_Airtable_or_via_SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/888_Get_data_from_Hacker_News_and_send_to_Airtable_or_via_SMS.json)|
+|3183|[3183_Self-Learning_AI_Assistant_with_Permanent_Memory___GPT_Telegram___Pinecone_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3183_Self-Learning_AI_Assistant_with_Permanent_Memory___GPT_Telegram___Pinecone_RAG.json)|
+|3195|[3195_Generate_Anki_Flash_Cards_for_Language_Learning_with_Google_Translate_and_GPT.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3195_Generate_Anki_Flash_Cards_for_Language_Learning_with_Google_Translate_and_GPT.json)|
+|4689|[4689_Build_a_Chatbot_with_Reinforced_Learning_Human_Feedback__RLHF__and_RAG.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4689_Build_a_Chatbot_with_Reinforced_Learning_Human_Feedback__RLHF__and_RAG.json)|
+|5660|[5660_Generate_Personalized_Language_Learning_News_Digests_with_LLaMA-3.1___DeepSeek_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5660_Generate_Personalized_Language_Learning_News_Digests_with_LLaMA-3.1___DeepSeek_AI.json)|
+|6149|[6149_Learn_n8n_Interactively__Lesson_1__Data_Flow__Execution___Debugging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6149_Learn_n8n_Interactively__Lesson_1__Data_Flow__Execution___Debugging.json)|
+|7199|[7199_Generate_Language_Learning_Flashcards_with_GPT-4__Telegram_and_Google_Sheets_for_Anki.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7199_Generate_Language_Learning_Flashcards_with_GPT-4__Telegram_and_Google_Sheets_for_Anki.json)|
+|8265|[8265_Transform_Long_Content_into_Bite-sized_Learning_Modules_with_GPT-4___Google_Docs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8265_Transform_Long_Content_into_Bite-sized_Learning_Modules_with_GPT-4___Google_Docs.json)|
+|9595|[9595_Create_a_Factual_Learning_Assistant_with_RAG__Gemini__Telegram___MongoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9595_Create_a_Factual_Learning_Assistant_with_RAG__Gemini__Telegram___MongoDB.json)|
+|10007|[10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10007_Curate_Learning_Content_from_Reddit___RSS_with_GPT-4.1-mini_and_Google_Sheets.json)|
+|11864|[11864_GPT-4.1_mini-Powered_Learning_Management_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11864_GPT-4.1_mini-Powered_Learning_Management_Automation.json)|

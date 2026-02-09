@@ -1,0 +1,21 @@
+# commands : 17
+
+|id|file|
+|----|----|
+|1999|[1999_De_activate_n8n_workflows_using_Telegram_commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/19/1999_De_activate_n8n_workflows_using_Telegram_commands.json)|
+|2190|[2190_Create_new_Clickup_Tasks_from_Slack_commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2190_Create_new_Clickup_Tasks_from_Slack_commands.json)|
+|2727|[2727_Display_ServiceNow_Incident_Details_in_Slack_using_Slash_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2727_Display_ServiceNow_Incident_Details_in_Slack_using_Slash_Commands.json)|
+|2905|[2905_Slack_slash_commands_AI_Chat_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2905_Slack_slash_commands_AI_Chat_Bot.json)|
+|3055|[3055_Telegram_Bot_with_Menu-Driven_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/30/3055_Telegram_Bot_with_Menu-Driven_Commands.json)|
+|4714|[4714_Query_and_Monitor_Shopify_Orders_via_Telegram_Bot_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4714_Query_and_Monitor_Shopify_Orders_via_Telegram_Bot_Commands.json)|
+|4928|[4928_Control_Your_n8n_Instance_Remotely_with_Telegram_Bot_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4928_Control_Your_n8n_Instance_Remotely_with_Telegram_Bot_Commands.json)|
+|5004|[5004_Automate_GitHub_Issue_Assignments_via_Comment_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5004_Automate_GitHub_Issue_Assignments_via_Comment_Commands.json)|
+|5509|[5509_AI-Powered_Contact_Management_in_Airtable_with_Natural_Language_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5509_AI-Powered_Contact_Management_in_Airtable_with_Natural_Language_Commands.json)|
+|6010|[6010_Multi-Department_Support_Bot_with_Slash_Commands__Pinecone___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6010_Multi-Department_Support_Bot_with_Slash_Commands__Pinecone___Telegram.json)|
+|6325|[6325_Create_Marketing_Content_with_Voice_Commands_using_GPT-4___AI_Tools_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6325_Create_Marketing_Content_with_Voice_Commands_using_GPT-4___AI_Tools_in_Telegram.json)|
+|6773|[6773_Automate_GitHub_PRs___JIRA_Updates_from_Git_Commit_Commands-Single_Repo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6773_Automate_GitHub_PRs___JIRA_Updates_from_Git_Commit_Commands-Single_Repo.json)|
+|7048|[7048_Auto-Create_GitHub_PRs___JIRA_Updates_from_Git_Commit_Commands__Multi-Repo.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7048_Auto-Create_GitHub_PRs___JIRA_Updates_from_Git_Commit_Commands__Multi-Repo.json)|
+|7294|[7294_Create___Delete_AWS_RDS_Databases_via_Email_Commands_with_Terraform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7294_Create___Delete_AWS_RDS_Databases_via_Email_Commands_with_Terraform.json)|
+|7408|[7408_Update_Dialogflow_Intent_Responses_via_Telegram_Bot_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7408_Update_Dialogflow_Intent_Responses_via_Telegram_Bot_Commands.json)|
+|7409|[7409_Delete_Dialogflow_Intents_via_Telegram_Commands.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7409_Delete_Dialogflow_Intents_via_Telegram_Commands.json)|
+|11052|[11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11052_Generate_LinkedIn_Activity_Reports_via_Slack_Commands_with_GPT-4.1_and_Email.json)|

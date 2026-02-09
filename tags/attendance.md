@@ -1,0 +1,14 @@
+# attendance : 10
+
+|id|file|
+|----|----|
+|2530|[2530_Automated_Work_Attendance_with_Location_Triggers.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2530_Automated_Work_Attendance_with_Location_Triggers.json)|
+|6774|[6774_Automate_Construction_Site_Attendance_Tracking_with_Geofencing__Google_Sheets___Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6774_Automate_Construction_Site_Attendance_Tracking_with_Geofencing__Google_Sheets___Email_Alerts.json)|
+|7042|[7042_Student_Absence_Alerts_via_Email___WhatsApp_with_Attendance_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7042_Student_Absence_Alerts_via_Email___WhatsApp_with_Attendance_Tracking.json)|
+|7043|[7043_Track_Student_Attendance_with_Mobile_App__Google_Sheets__and_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7043_Track_Student_Attendance_with_Mobile_App__Google_Sheets__and_Email_Alerts.json)|
+|8335|[8335_Employee_Attendance_Tracker_with_Telegram_Bot_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8335_Employee_Attendance_Tracker_with_Telegram_Bot_and_Google_Sheets.json)|
+|8418|[8418_Automated_Attendance_Tagging_for_Zoom_Webinars_with_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8418_Automated_Attendance_Tagging_for_Zoom_Webinars_with_KlickTipp.json)|
+|9327|[9327_Extract_Attendance_from_Google_Drive_Images_to_Sheets_with_VLM_Run_AI___Gmail_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9327_Extract_Attendance_from_Google_Drive_Images_to_Sheets_with_VLM_Run_AI___Gmail_Alerts.json)|
+|10028|[10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10028_Automatic_Eventbrite_Attendance_Tagging_in_KlickTipp.json)|
+|10106|[10106_Track_Employee_Attendance_with_Analytics__Email_Reports___Slack_Alerts_Using_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10106_Track_Employee_Attendance_with_Analytics__Email_Reports___Slack_Alerts_Using_Google_Sheets.json)|
+|11625|[11625_Automated_Employee_Attendance___Salary_Deduction_with_Google_Sheets_and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/16/11625_Automated_Employee_Attendance___Salary_Deduction_with_Google_Sheets_and_GPT-4.json)|

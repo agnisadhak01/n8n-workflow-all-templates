@@ -1,0 +1,14 @@
+# abandoned : 10
+
+|id|file|
+|----|----|
+|3415|[3415_Abandoned_cart_recovery_for_Shopify_via_Gmail__Google_Sheets___Twilio__no-code.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3415_Abandoned_cart_recovery_for_Shopify_via_Gmail__Google_Sheets___Twilio__no-code.json)|
+|4396|[4396_Smart_Shopify_Agent__AI-Powered_Abandoned_Cart_Recovery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/43/4396_Smart_Shopify_Agent__AI-Powered_Abandoned_Cart_Recovery.json)|
+|6045|[6045_Abandoned_Cart_Recovery_Functionality_using_Gmail_and_Google_Sheets_for_Analytics.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/60/6045_Abandoned_Cart_Recovery_Functionality_using_Gmail_and_Google_Sheets_for_Analytics.json)|
+|6111|[6111_Automated_Abandoned_Cart_Recovery_Emails_for_Shopify_Stores.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6111_Automated_Abandoned_Cart_Recovery_Emails_for_Shopify_Stores.json)|
+|6322|[6322_Automated_WooCommerce_Abandoned_Cart_Recovery_with_Google_Sheets_Email_Reminders.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6322_Automated_WooCommerce_Abandoned_Cart_Recovery_with_Google_Sheets_Email_Reminders.json)|
+|8092|[8092_Automated_Shopify_Abandoned_Cart_Alerts_from_Razorpay_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8092_Automated_Shopify_Abandoned_Cart_Alerts_from_Razorpay_to_Telegram.json)|
+|9031|[9031_Automate_Shopify_Abandoned_Cart_WhatsApp_Reminders_with_Product_Links_via_Rapiwa.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9031_Automate_Shopify_Abandoned_Cart_WhatsApp_Reminders_with_Product_Links_via_Rapiwa.json)|
+|10818|[10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/08/10818_Recover_Abandoned_Shopify_Carts_with_Email_Follow-ups__HubSpot_CRM___Google_Sheets_Tracking.json)|
+|11129|[11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11129_Automated_Shopify_Abandoned_Cart_Recovery_with_WhatsApp_Messages___Google_Sheets.json)|
+|11805|[11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11805_Recover_Shopify_Abandoned_Carts_with_Email__SMS__WhatsApp___Facebook_Retargeting.json)|

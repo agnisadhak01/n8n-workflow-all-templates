@@ -1,0 +1,18 @@
+# archive : 14
+
+|id|file|
+|----|----|
+|697|[697_Archive_Spotify_s_discover_weekly_playlist.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/697_Archive_Spotify_s_discover_weekly_playlist.json)|
+|1478|[1478_Archive_empty_pages_in_Notion_database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/14/1478_Archive_empty_pages_in_Notion_database.json)|
+|2044|[2044_Spotify__Discover_Weekly_Archive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2044_Spotify__Discover_Weekly_Archive.json)|
+|2146|[2146_Automatically_archive_Gmail_emails_from_Inbox.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2146_Automatically_archive_Gmail_emails_from_Inbox.json)|
+|3825|[3825_Archive__delete__duplicate_items_from_a_Notion_database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3825_Archive__delete__duplicate_items_from_a_Notion_database.json)|
+|4503|[4503_Automate_RSS_Content_with_AI__Summarize__Notify___Archive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4503_Automate_RSS_Content_with_AI__Summarize__Notify___Archive.json)|
+|4679|[4679_Daily_Auto-Archive_for_Gmail_Messages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4679_Daily_Auto-Archive_for_Gmail_Messages.json)|
+|5535|[5535_Internet_Archive_Search_API_Integration_for_AI_Agents__3_Operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5535_Internet_Archive_Search_API_Integration_for_AI_Agents__3_Operations.json)|
+|5536|[5536_Internet_Archive_Wayback_Machine_API_for_AI_Assistants.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5536_Internet_Archive_Wayback_Machine_API_for_AI_Assistants.json)|
+|6536|[6536_Archive_trending_TikTok_hashtags_using_TikTok__Airtable__and_Apify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6536_Archive_trending_TikTok_hashtags_using_TikTok__Airtable__and_Apify.json)|
+|7418|[7418_Automatically_Archive_Old_WordPress_Posts_to_Draft_Status.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7418_Automatically_Archive_Old_WordPress_Posts_to_Draft_Status.json)|
+|7780|[7780_Declutter_Gmail__Archive_Inactive_Emails_with_GPT-4_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7780_Declutter_Gmail__Archive_Inactive_Emails_with_GPT-4_Classification.json)|
+|8955|[8955_Automate_Payment_Receipts__Email__Archive__and_Track_with_Stripe_and_Google_Workspace.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8955_Automate_Payment_Receipts__Email__Archive__and_Track_with_Stripe_and_Google_Workspace.json)|
+|10388|[10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10388_Create_a_Searchable_Document_Archive_with_Telegram__Drive__OCR_and_Airtable.json)|

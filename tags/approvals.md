@@ -1,0 +1,15 @@
+# approvals : 11
+
+|id|file|
+|----|----|
+|3979|[3979_Raw_Materials_Inventory_Management_with_Google_Sheets__Supabase_and_Approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3979_Raw_Materials_Inventory_Management_with_Google_Sheets__Supabase_and_Approvals.json)|
+|4581|[4581_YouTube_Video_Summaries_with_GPT-4o__Slack_Approvals___Reddit_Posting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4581_YouTube_Video_Summaries_with_GPT-4o__Slack_Approvals___Reddit_Posting.json)|
+|5074|[5074_AI_Sales_Agent_with_Telegram_Approvals___Google_Sheets_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/50/5074_AI_Sales_Agent_with_Telegram_Approvals___Google_Sheets_Sync.json)|
+|8124|[8124_Automate_Installation_Booking_Approvals_with_Slack___Gmail_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8124_Automate_Installation_Booking_Approvals_with_Slack___Gmail_Forms.json)|
+|8174|[8174_Automate_Document_Approvals_with_Multi-Level_Workflows_using_Supabase___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8174_Automate_Document_Approvals_with_Multi-Level_Workflows_using_Supabase___Gmail.json)|
+|9271|[9271_Extract_Tasks_from_Telegram_Messages_to_Notion_using_Gemini_AI_and_Approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9271_Extract_Tasks_from_Telegram_Messages_to_Notion_using_Gemini_AI_and_Approvals.json)|
+|9685|[9685_Automate_Change_Request_Approvals_with_Monday.com__Jira__Slack___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/96/9685_Automate_Change_Request_Approvals_with_Monday.com__Jira__Slack___Google_Sheets.json)|
+|9841|[9841_Automate_Loan_Pre-Approvals_with_Jotform__GPT-4_Analysis___Gmail_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9841_Automate_Loan_Pre-Approvals_with_Jotform__GPT-4_Analysis___Gmail_Notifications.json)|
+|9925|[9925_Automate_Full_Agreement_Lifecycle_with_JotForm__Approvals__Signwell_E-Signatures___Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9925_Automate_Full_Agreement_Lifecycle_with_JotForm__Approvals__Signwell_E-Signatures___Tracking.json)|
+|10072|[10072_Streamline_Content_Creation_with_GPT-4o_and_One-Click_Human_Review_Approvals.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10072_Streamline_Content_Creation_with_GPT-4o_and_One-Click_Human_Review_Approvals.json)|
+|10522|[10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10522_Automate_Conference_Travel_Approvals_with_Deepseek_AI__Gmail_and_Google_Sheets.json)|

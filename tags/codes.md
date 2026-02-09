@@ -1,0 +1,15 @@
+# codes : 11
+
+|id|file|
+|----|----|
+|2696|[2696_Complete_Guide_to_Setting_Up_and_Generating_TOTP_Codes_in_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2696_Complete_Guide_to_Setting_Up_and_Generating_TOTP_Codes_in_n8n.json)|
+|3704|[3704_Generate_PIX_Payment_QR_Codes_for_Any_Brazilian_Bank_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3704_Generate_PIX_Payment_QR_Codes_for_Any_Brazilian_Bank_Key.json)|
+|5124|[5124_Generate_QR_Codes_from_URLs_with_QR_Server_API_and_Downloadable_Images.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5124_Generate_QR_Codes_from_URLs_with_QR_Server_API_and_Downloadable_Images.json)|
+|7774|[7774_Automate_welcome_emails_with_discount_codes_via_Mailchimp_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7774_Automate_welcome_emails_with_discount_codes_via_Mailchimp_and_Gmail.json)|
+|7921|[7921_Create_Smart_Telegram_Reminders_with_GPT-4_Mini_and_Airtable_Cancel_Codes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7921_Create_Smart_Telegram_Reminders_with_GPT-4_Mini_and_Airtable_Cancel_Codes.json)|
+|8075|[8075_Find_Valid_Vouchers_and_Promo_Codes_with_SerpAPI__Decodo__and_GPT-5_Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8075_Find_Valid_Vouchers_and_Promo_Codes_with_SerpAPI__Decodo__and_GPT-5_Mini.json)|
+|8942|[8942_Automate_E-commerce_Return_Guides_with_Email_Verification___QR_Codes.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/89/8942_Automate_E-commerce_Return_Guides_with_Email_Verification___QR_Codes.json)|
+|9172|[9172_Promo_Seeker__Auto-find_Promo_Codes_with_SerpAPI__Gemini___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9172_Promo_Seeker__Auto-find_Promo_Codes_with_SerpAPI__Gemini___Telegram.json)|
+|9560|[9560_Automatically_Send_WhatsApp_Discount_Codes_to_Shopify_Customers_Using_Rapiwa.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/95/9560_Automatically_Send_WhatsApp_Discount_Codes_to_Shopify_Customers_Using_Rapiwa.json)|
+|10130|[10130_Generate_Event_Badges_with_QR_Codes__HTMLCSStoImage__Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10130_Generate_Event_Badges_with_QR_Codes__HTMLCSStoImage__Gmail___Google_Sheets.json)|
+|10793|[10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10793_Automated_Press_Pass_Verification___Badge_Creation_with_QR_Codes___Multi-Channel_Distribution.json)|

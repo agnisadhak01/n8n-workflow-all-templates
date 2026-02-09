@@ -1,0 +1,12 @@
+# promotion : 8
+
+|id|file|
+|----|----|
+|3500|[3500_AI_Agent_to_Create_Linkedin_Posts_for_Blog_Promotion_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3500_AI_Agent_to_Create_Linkedin_Posts_for_Blog_Promotion_with_GPT-4o.json)|
+|4082|[4082_Automate_SEO_Blog_Creation___Social_Media_with_GPT-4__Perplexity_and_WordPress.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4082_Automate_SEO_Blog_Creation___Social_Media_with_GPT-4__Perplexity_and_WordPress.json)|
+|7131|[7131_Automated_Twitter_Brand_Promotion_with_Anthropic_Claude_AI___Google_Sheets_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/71/7131_Automated_Twitter_Brand_Promotion_with_Anthropic_Claude_AI___Google_Sheets_Reporting.json)|
+|7788|[7788_AI-Powered_Workflow_Documentation___Promotion_with_Gemini__Notion___LinkedIn.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7788_AI-Powered_Workflow_Documentation___Promotion_with_Gemini__Notion___LinkedIn.json)|
+|8884|[8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json)|
+|10730|[10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10730_Automated_Weekly_Product_Promotion_Emails_for_E-commerce_with_Algolia_and_Gmail.json)|
+|11181|[11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/11/11181_Automate_Print-on-Demand__Design_to_Shopify_with_AI__Mockups___Social_Promotion.json)|
+|11797|[11797_YouTube_Video_Optimization___Cross-Platform_Distribution_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11797_YouTube_Video_Optimization___Cross-Platform_Distribution_with_GPT-4o.json)|

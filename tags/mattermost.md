@@ -1,0 +1,25 @@
+# mattermost : 21
+
+|id|file|
+|----|----|
+|351|[351_Webhooks_with_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/03/351_Webhooks_with_Mattermost.json)|
+|378|[378_Tiny_tiny_Rss__aka_tt-rss__Feed_to_Mastodon.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/03/378_Tiny_tiny_Rss__aka_tt-rss__Feed_to_Mastodon.json)|
+|613|[613_Start_a_Whereby_video_call_from_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/613_Start_a_Whereby_video_call_from_Mattermost.json)|
+|731|[731_Send_feedback_from_Google_Sheets_to_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/731_Send_feedback_from_Google_Sheets_to_Mattermost.json)|
+|785|[785_Receive_a_Mattermost_message_when_a_user_updates_their_profile_on_Facebook.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/785_Receive_a_Mattermost_message_when_a_user_updates_their_profile_on_Facebook.json)|
+|786|[786_Analyze_feedback_and_send_a_message_on_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/786_Analyze_feedback_and_send_a_message_on_Mattermost.json)|
+|798|[798_Send_financial_metrics_monthly_to_Mattermos.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/798_Send_financial_metrics_monthly_to_Mattermos.json)|
+|799|[799_Receive_a_Mattermost_message_when_new_data_gets_added_to_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/799_Receive_a_Mattermost_message_when_new_data_gets_added_to_Airtable.json)|
+|812|[812_Send_Instagram_statistics_to_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/812_Send_Instagram_statistics_to_Mattermost.json)|
+|832|[832_Create_a_channel__add_a_member__and_post_a_message_to_the_channel_on_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/832_Create_a_channel__add_a_member__and_post_a_message_to_the_channel_on_Mattermost.json)|
+|848|[848_Send_a_message_on_Mattermost_when_an_order_is_created_in_WooCommerce.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/848_Send_a_message_on_Mattermost_when_an_order_is_created_in_WooCommerce.json)|
+|853|[853_Weekly_Coffee_Chat__Mattermost_Version.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/853_Weekly_Coffee_Chat__Mattermost_Version.json)|
+|875|[875_Send_tweets_every_minute_to_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/875_Send_tweets_every_minute_to_Mattermost.json)|
+|965|[965_Analyze_feedback_using_AWS_Comprehend_and_send_it_to_a_Mattermost_channel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/965_Analyze_feedback_using_AWS_Comprehend_and_send_it_to_a_Mattermost_channel.json)|
+|982|[982_Gender_inclusive_language_bot_for_Mattermost.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/982_Gender_inclusive_language_bot_for_Mattermost.json)|
+|984|[984_Send_a_message_on_Mattermost_when_a_lead_replies_to_your_Lemlist_email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/984_Send_a_message_on_Mattermost_when_a_lead_replies_to_your_Lemlist_email.json)|
+|1039|[1039_Send_a_message_on_Mattermost_when_you_get_a_reply_in_Emelia.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1039_Send_a_message_on_Mattermost_when_you_get_a_reply_in_Emelia.json)|
+|1058|[1058_Send_message_on_Mattermost_when_your_n8n_instance_starts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1058_Send_message_on_Mattermost_when_your_n8n_instance_starts.json)|
+|1059|[1059_Send_a_message_on_Mattermost_when_a_workflow_is_updated.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1059_Send_a_message_on_Mattermost_when_a_workflow_is_updated.json)|
+|1089|[1089_Receive_a_Mattermost_message_when_new_record_gets_added_to_Notion.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1089_Receive_a_Mattermost_message_when_new_record_gets_added_to_Notion.json)|
+|5186|[5186_Mattermost_Tool_MCP_Server___all_19_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5186_Mattermost_Tool_MCP_Server___all_19_operations.json)|

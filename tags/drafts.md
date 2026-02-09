@@ -1,0 +1,15 @@
+# drafts : 11
+
+|id|file|
+|----|----|
+|5441|[5441_Generate_Document_Drafts_from_PDFs_using_Google_Drive__GPT-4___Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5441_Generate_Document_Drafts_from_PDFs_using_Google_Drive__GPT-4___Notifications.json)|
+|5475|[5475_Automate_Email_Management_with_OpenAI_Classification__Gmail_Drafts___Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5475_Automate_Email_Management_with_OpenAI_Classification__Gmail_Drafts___Slack_Alerts.json)|
+|5575|[5575_Create_eBay_Listing_Drafts_with_AI_Agents_via_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5575_Create_eBay_Listing_Drafts_with_AI_Agents_via_MCP_Server.json)|
+|5798|[5798_Turn_YouTube_Transcripts_into_Newsletter_Drafts_using_Dumpling_AI___GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5798_Turn_YouTube_Transcripts_into_Newsletter_Drafts_using_Dumpling_AI___GPT-4o.json)|
+|6442|[6442_Automated_Gmail_Reply_Drafts_with_OpenAI_Assistant_for_Labeled_Emails.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6442_Automated_Gmail_Reply_Drafts_with_OpenAI_Assistant_for_Labeled_Emails.json)|
+|7264|[7264_Generate_AI-Summarized_Newsletter_Drafts_from_RSS_Feeds_with_GPT-4_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7264_Generate_AI-Summarized_Newsletter_Drafts_from_RSS_Feeds_with_GPT-4_and_Gmail.json)|
+|7848|[7848_Generate_AI_Newsletter_Drafts_from_Google_Sheets_to_Notion_with_GPT-5-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7848_Generate_AI_Newsletter_Drafts_from_Google_Sheets_to_Notion_with_GPT-5-mini.json)|
+|8395|[8395_Create_Professional_Email_Drafts_with_GPT-4__Telegram___Contact_Database.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8395_Create_Professional_Email_Drafts_with_GPT-4__Telegram___Contact_Database.json)|
+|8480|[8480_Generate_Business_Proposals_with_Azure_GPT-4o___Save_as_Gmail_Drafts_from_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8480_Generate_Business_Proposals_with_Azure_GPT-4o___Save_as_Gmail_Drafts_from_Sheets.json)|
+|8553|[8553_Auto-Generate___Post_Social_Media_Content_with_GPT-4__Notion___Instagram_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8553_Auto-Generate___Post_Social_Media_Content_with_GPT-4__Notion___Instagram_API.json)|
+|11333|[11333_Generate_Cold_Outreach_Drafts_from_Google_Sheets_with_GPT-4o-mini___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11333_Generate_Cold_Outreach_Drafts_from_Google_Sheets_with_GPT-4o-mini___Gmail.json)|

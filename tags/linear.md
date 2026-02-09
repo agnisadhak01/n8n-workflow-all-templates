@@ -1,0 +1,19 @@
+# linear : 15
+
+|id|file|
+|----|----|
+|2138|[2138_Create_Linear_tickets_from_Notion_content.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2138_Create_Linear_tickets_from_Notion_content.json)|
+|2148|[2148_Write_all_Linear_tickets_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2148_Write_all_Linear_tickets_to_Google_Sheets.json)|
+|2153|[2153_Add_a_bug_to_Linear_via_Slack_command.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2153_Add_a_bug_to_Linear_via_Slack_command.json)|
+|2154|[2154_Classify_new_bugs_in_Linear_with_OpenAI_s_GPT-4_and_move_them_to_the_right_team.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2154_Classify_new_bugs_in_Linear_with_OpenAI_s_GPT-4_and_move_them_to_the_right_team.json)|
+|2323|[2323_Customer_Support_Channel_and_Ticketing_System_with_Slack_and_Linear.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2323_Customer_Support_Channel_and_Ticketing_System_with_Slack_and_Linear.json)|
+|2578|[2578_Linear_to_Productboard_feature_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2578_Linear_to_Productboard_feature_Sync.json)|
+|2647|[2647_Sentiment_Analysis_Tracking_on_Support_Issues_with_Linear_and_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/26/2647_Sentiment_Analysis_Tracking_on_Support_Issues_with_Linear_and_Slack.json)|
+|3899|[3899_Automatically_Create_Linear_Issues_from_Gmail_Support_Request_Messages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3899_Automatically_Create_Linear_Issues_from_Gmail_Support_Request_Messages.json)|
+|5227|[5227_Give_AI_Agents_Power_to_Get__Create__Update_Issues_with_Linear_Tool_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5227_Give_AI_Agents_Power_to_Get__Create__Update_Issues_with_Linear_Tool_MCP_Server.json)|
+|5648|[5648_Sync_Linear_Issues_to_Todoist_Tasks_Automatically__Create__Update__Close.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5648_Sync_Linear_Issues_to_Todoist_Tasks_Automatically__Create__Update__Close.json)|
+|6220|[6220_AI-Powered_Research_Assistant_with_Linear__Scrapeless__and_Claude.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/62/6220_AI-Powered_Research_Assistant_with_Linear__Scrapeless__and_Claude.json)|
+|8702|[8702_Bidirectional_Ticket_Sync_Between_Freshdesk_and_Linear_with_Error_Logging.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8702_Bidirectional_Ticket_Sync_Between_Freshdesk_and_Linear_with_Error_Logging.json)|
+|8845|[8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8845_Automatic_Issue_Routing_in_Linear_with_GPT-4-mini_Classification.json)|
+|8891|[8891_Sync_Productboard_Features_to_Linear_Issues_with_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8891_Sync_Productboard_Features_to_Linear_Issues_with_Telegram_Notifications.json)|
+|10065|[10065_Auto-Reply___Create_Linear_Tickets_from_Gmail_with_GPT-5__gotoHuman___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10065_Auto-Reply___Create_Linear_Tickets_from_Gmail_with_GPT-5__gotoHuman___Human_Review.json)|

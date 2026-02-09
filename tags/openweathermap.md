@@ -1,0 +1,14 @@
+# openweathermap : 10
+
+|id|file|
+|----|----|
+|966|[966_Send_weather_alerts_to_your_mobile_phone_with_OpenWeatherMap_and_SIGNL4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/966_Send_weather_alerts_to_your_mobile_phone_with_OpenWeatherMap_and_SIGNL4.json)|
+|4066|[4066_Track_Hourly_Weather_Conditions_with_OpenWeatherMap_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4066_Track_Hourly_Weather_Conditions_with_OpenWeatherMap_and_Google_Sheets.json)|
+|4608|[4608_Send_Daily_Weather_Forecasts_from_OpenWeatherMap_to_Telegram_with_Smart_Formatting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4608_Send_Daily_Weather_Forecasts_from_OpenWeatherMap_to_Telegram_with_Smart_Formatting.json)|
+|4862|[4862_Log_Daily_Mood___Weather_to_Notion_with_Telegram_and_OpenWeatherMap.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4862_Log_Daily_Mood___Weather_to_Notion_with_Telegram_and_OpenWeatherMap.json)|
+|5838|[5838_Daily___On-demand_Weather_Reports_with_OpenWeatherMap_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5838_Daily___On-demand_Weather_Reports_with_OpenWeatherMap_to_Telegram.json)|
+|6176|[6176_Automated_Weather_Reports_with_OpenWeatherMap_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6176_Automated_Weather_Reports_with_OpenWeatherMap_and_Telegram.json)|
+|6400|[6400_Generate_Personalized_Weather_Reports_with_OpenWeatherMap__Python_and_GPT-4.1-mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6400_Generate_Personalized_Weather_Reports_with_OpenWeatherMap__Python_and_GPT-4.1-mini.json)|
+|6465|[6465_Send_Daily_Weather_Reports_to_Email_with_OpenWeatherMap_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6465_Send_Daily_Weather_Reports_to_Email_with_OpenWeatherMap_and_Gmail.json)|
+|8162|[8162_Daily_Weather_Reports_with_OpenWeatherMap_and_Telegram_Bot.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8162_Daily_Weather_Reports_with_OpenWeatherMap_and_Telegram_Bot.json)|
+|9909|[9909_Send_Multi-City_Weather_Forecasts_with_AI-Enhanced_Formatting_from_OpenWeatherMap_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9909_Send_Multi-City_Weather_Forecasts_with_AI-Enhanced_Formatting_from_OpenWeatherMap_to_Gmail.json)|

@@ -1,0 +1,20 @@
+# deploy : 16
+
+|id|file|
+|----|----|
+|1254|[1254_Deploy_site_when_new_content_gets_added.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/12/1254_Deploy_site_when_new_content_gets_added.json)|
+|3197|[3197_Deploy_Docker_n8n__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3197_Deploy_Docker_n8n__API_Backend_for_WHMCS_WISECP.json)|
+|3198|[3198_Deploy_Docker_MinIO__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3198_Deploy_Docker_MinIO__API_Backend_for_WHMCS_WISECP.json)|
+|3212|[3212_Deploy_Docker_Immich__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/32/3212_Deploy_Docker_Immich__API_Backend_for_WHMCS_WISECP.json)|
+|3568|[3568_Deploy_Workflows_from_Google_Drive_to_n8n_Instance.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3568_Deploy_Workflows_from_Google_Drive_to_n8n_Instance.json)|
+|4011|[4011_Deploy_Docker_Grafana__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4011_Deploy_Docker_Grafana__API_Backend_for_WHMCS_WISECP.json)|
+|4014|[4014_Deploy_Docker_InfluxDB__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4014_Deploy_Docker_InfluxDB__API_Backend_for_WHMCS_WISECP.json)|
+|4015|[4015_Deploy_Docker_NextCloud__API_Backend_for_WHMCS_WISECP.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4015_Deploy_Docker_NextCloud__API_Backend_for_WHMCS_WISECP.json)|
+|5753|[5753_Deploy_Code_to_GitHub_with_Natural_Language_via_Slack___Claude_3.5.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/57/5753_Deploy_Code_to_GitHub_with_Natural_Language_via_Slack___Claude_3.5.json)|
+|6164|[6164_Build___Deploy_MVPs_from_Text_Prompts_with_AI__GitHub___Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6164_Build___Deploy_MVPs_from_Text_Prompts_with_AI__GitHub___Vercel.json)|
+|7028|[7028_INST_-_The_n8n_Installer__Deploy_Workflows_with_Automatic_Credential_Mapping.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7028_INST_-_The_n8n_Installer__Deploy_Workflows_with_Automatic_Credential_Mapping.json)|
+|7226|[7226_Automated_Wazuh_Rule_Deployment_Pipeline_with_GitHub__XML_Validation___Telegram_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7226_Automated_Wazuh_Rule_Deployment_Pipeline_with_GitHub__XML_Validation___Telegram_Alerts.json)|
+|7416|[7416_Deploy_AI-Powered_Website_Chatbot_with_DeepSeek_and_Custom_Branding.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7416_Deploy_AI-Powered_Website_Chatbot_with_DeepSeek_and_Custom_Branding.json)|
+|7807|[7807_Generate_and_Deploy_Websites_with_Gemini_AI_and_Netlify_Auto-Deployment.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7807_Generate_and_Deploy_Websites_with_Gemini_AI_and_Netlify_Auto-Deployment.json)|
+|8826|[8826_Deploy_a_Google_Gemini_AI_Assistant_on_WhatsApp_with_Email___Calendar_Tools.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8826_Deploy_a_Google_Gemini_AI_Assistant_on_WhatsApp_with_Email___Calendar_Tools.json)|
+|10447|[10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10447_Generate___Deploy_Landing_Pages_with_GPT__Gemini_and_Vercel.json)|

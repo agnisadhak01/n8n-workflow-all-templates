@@ -1,0 +1,20 @@
+# users : 16
+
+|id|file|
+|----|----|
+|596|[596_Sending_SMS_to_users.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/05/596_Sending_SMS_to_users.json)|
+|602|[602_Manage_users_automatically_in_reqres.in.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/602_Manage_users_automatically_in_reqres.in.json)|
+|655|[655_Merge_greetings_with_the_users_based_on_the_language.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/655_Merge_greetings_with_the_users_based_on_the_language.json)|
+|710|[710_Manage_users_using_the_G_Suite_Admin_node.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/710_Manage_users_using_the_G_Suite_Admin_node.json)|
+|811|[811_Manage_Slack_channel_and_users_automatically.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/08/811_Manage_Slack_channel_and_users_automatically.json)|
+|947|[947_Register_users_to_an_event_on_Demio_via_Typeform.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/09/947_Register_users_to_an_event_on_Demio_via_Typeform.json)|
+|2108|[2108_Enrich_new_Intercom_users_with_contact_details_and_more_from_ExactBuyer.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2108_Enrich_new_Intercom_users_with_contact_details_and_more_from_ExactBuyer.json)|
+|2491|[2491_Create_LinkedIn_Contributions_with_AI_and_Notify_Users_On_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/24/2491_Create_LinkedIn_Contributions_with_AI_and_Notify_Users_On_Slack.json)|
+|2588|[2588_Assign_Zammad_Users_to_Organizations_Based_on_Email_Domain.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2588_Assign_Zammad_Users_to_Organizations_Based_on_Email_Domain.json)|
+|2596|[2596_Export_Zammad_Objects__Users__Roles__Groups__Organizations__to_Excel.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2596_Export_Zammad_Objects__Users__Roles__Groups__Organizations__to_Excel.json)|
+|2917|[2917_Allow_Users_to_Send_a_Sequence_of_Messages_to_an_AI_Agent_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2917_Allow_Users_to_Send_a_Sequence_of_Messages_to_an_AI_Agent_in_Telegram.json)|
+|5897|[5897_Generate_Comprehensive_Research_Reports_with_Gemini_AI_and_Tavily_Search_for_Japanese_Users.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5897_Generate_Comprehensive_Research_Reports_with_Gemini_AI_and_Tavily_Search_for_Japanese_Users.json)|
+|7241|[7241_Automate_AWS_IAM_User_Management_Through_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7241_Automate_AWS_IAM_User_Management_Through_Email.json)|
+|7500|[7500_Monitor___Alert_on_Inactive_AWS_IAM_Users_with_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7500_Monitor___Alert_on_Inactive_AWS_IAM_Users_with_Slack_Notifications.json)|
+|9032|[9032_Generate_Personalized_Promo_Cards_with_Email_Verification__Gmail___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/90/9032_Generate_Personalized_Promo_Cards_with_Email_Verification__Gmail___Google_Sheets.json)|
+|11369|[11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/13/11369_Notify_Users_When_Features_Ship_with_Semantic_Search_from_Tally_to_Gmail.json)|

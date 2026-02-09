@@ -1,0 +1,14 @@
+# payments : 10
+
+|id|file|
+|----|----|
+|2192|[2192_Streamline_Your_Zoom_Meetings_with_Secure__Automated_Stripe_Payments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2192_Streamline_Your_Zoom_Meetings_with_Secure__Automated_Stripe_Payments.json)|
+|2338|[2338_Reconcile_Rent_Payments_with_Local_Excel_Spreadsheet_and_OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2338_Reconcile_Rent_Payments_with_Local_Excel_Spreadsheet_and_OpenAI.json)|
+|2807|[2807_Create_QuickBooks_Online_Customers_With_Sales_Receipts_For_New_Stripe_Payments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2807_Create_QuickBooks_Online_Customers_With_Sales_Receipts_For_New_Stripe_Payments.json)|
+|3704|[3704_Generate_PIX_Payment_QR_Codes_for_Any_Brazilian_Bank_Key.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/37/3704_Generate_PIX_Payment_QR_Codes_for_Any_Brazilian_Bank_Key.json)|
+|8403|[8403_Automate_QuickBooks_Sales_Receipts___Customer_Creation_from_Stripe_Payments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8403_Automate_QuickBooks_Sales_Receipts___Customer_Creation_from_Stripe_Payments.json)|
+|8794|[8794_Recover_failed_Stripe_payments_with_AI_emails__by_FlyCode.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8794_Recover_failed_Stripe_payments_with_AI_emails__by_FlyCode.json)|
+|8819|[8819_Automate_Client_Invoicing___Payments_with_Stripe__Google_Sheets__Drive_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8819_Automate_Client_Invoicing___Payments_with_Stripe__Google_Sheets__Drive_and_Gmail.json)|
+|9110|[9110_Automate_Paid_Zoom_Meetings_with_Stripe__Gmail___Google_Sheets_Tracking.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9110_Automate_Paid_Zoom_Meetings_with_Stripe__Gmail___Google_Sheets_Tracking.json)|
+|9275|[9275_Stripe___Pipedrive__Auto_Create_Contacts_and_Deals_from_Payments.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9275_Stripe___Pipedrive__Auto_Create_Contacts_and_Deals_from_Payments.json)|
+|10145|[10145_Automated_Template_Delivery_System_with_Stripe__GPT-4o___Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10145_Automated_Template_Delivery_System_with_Stripe__GPT-4o___Gmail.json)|

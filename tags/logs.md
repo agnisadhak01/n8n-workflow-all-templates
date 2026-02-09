@@ -1,0 +1,15 @@
+# logs : 11
+
+|id|file|
+|----|----|
+|2509|[2509_TwentyCRM_event_based_updates_on_selective_messaging_channels_with_logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2509_TwentyCRM_event_based_updates_on_selective_messaging_channels_with_logs.json)|
+|3400|[3400_Send_structured_logs_to_BetterStack_from_any_workflow_using_HTTP_Request.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/34/3400_Send_structured_logs_to_BetterStack_from_any_workflow_using_HTTP_Request.json)|
+|4464|[4464_Export_AI_Agent_Conversation_Logs_from_Postgres_to_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/44/4464_Export_AI_Agent_Conversation_Logs_from_Postgres_to_Google_Sheets.json)|
+|5490|[5490_Create_Debug_Breakpoints_and_Logs_with_Slack_Interactive_Messages.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5490_Create_Debug_Breakpoints_and_Logs_with_Slack_Interactive_Messages.json)|
+|5830|[5830_Qualify_Calendly_Demo_Requests_with_GPT-4___Route_to_Saleshandy_Sequences_with_Logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5830_Qualify_Calendly_Demo_Requests_with_GPT-4___Route_to_Saleshandy_Sequences_with_Logs.json)|
+|6922|[6922_Monitor_Security_Logs_for_Failed_Login_Attempts_with_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/69/6922_Monitor_Security_Logs_for_Failed_Login_Attempts_with_Slack_Alerts.json)|
+|7021|[7021_Send_deduplicated_Kubernetes_EKS_GKE_AKS__error_logs_from_Grafana_Loki_to_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7021_Send_deduplicated_Kubernetes_EKS_GKE_AKS__error_logs_from_Grafana_Loki_to_Slack.json)|
+|7239|[7239_Parse_Invoices___Documents_with_Gemini_AI__OCR__and_Google_Sheets_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7239_Parse_Invoices___Documents_with_Gemini_AI__OCR__and_Google_Sheets_Integration.json)|
+|7570|[7570_Automated_ClickUp_Time_Tracking_Reports___Task_Performance_Analytics_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/75/7570_Automated_ClickUp_Time_Tracking_Reports___Task_Performance_Analytics_via_Gmail.json)|
+|9173|[9173_Followup_Stripe_Checkouts_with_Gmail_Receipts__Internal_Slack__and_Sheets_Logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9173_Followup_Stripe_Checkouts_with_Gmail_Receipts__Internal_Slack__and_Sheets_Logs.json)|
+|11775|[11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11775_Monitor_Compliance_with_GPT-4_Analysis_of_System_Logs_and_Generate_Audit_Reports.json)|

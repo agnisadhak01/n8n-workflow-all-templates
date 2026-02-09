@@ -1,0 +1,14 @@
+{
+  "name": "n8n-workflow-all-templates",
+  "private": true,
+  "scripts": {
+    "build:index": "node scripts/build-index.js",
+    "build:webapp": "cd webapp && npm run build",
+    "build": "npm run build:index && npm run build:webapp",
+    "copy:index": "node scripts/copy-index.js",
+    "build:explorer": "cd explorer && npm run build",
+    "dev": "cd explorer && npm run dev",
+    "scrape": "cd scripts/scraper && python run.py",
+    "scrape:local": "cd scripts/scraper && python run_local.py"
+  }
+}

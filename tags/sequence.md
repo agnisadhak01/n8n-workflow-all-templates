@@ -1,0 +1,15 @@
+# sequence : 11
+
+|id|file|
+|----|----|
+|2833|[2833_Smart_Email_Outreach_Sequence___AI-Powered___Customizable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2833_Smart_Email_Outreach_Sequence___AI-Powered___Customizable.json)|
+|2917|[2917_Allow_Users_to_Send_a_Sequence_of_Messages_to_an_AI_Agent_in_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2917_Allow_Users_to_Send_a_Sequence_of_Messages_to_an_AI_Agent_in_Telegram.json)|
+|5422|[5422_PT_Clinic_AI_Cold_Email_Sequence_Generator_With_GPT4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/54/5422_PT_Clinic_AI_Cold_Email_Sequence_Generator_With_GPT4.json)|
+|5506|[5506_Auto-Stop_Email_Sequences_Based_on_Replies_with_IMAP_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5506_Auto-Stop_Email_Sequences_Based_on_Replies_with_IMAP_and_Google_Sheets.json)|
+|5830|[5830_Qualify_Calendly_Demo_Requests_with_GPT-4___Route_to_Saleshandy_Sequences_with_Logs.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5830_Qualify_Calendly_Demo_Requests_with_GPT-4___Route_to_Saleshandy_Sequences_with_Logs.json)|
+|7856|[7856_Cost-Free_Email_Follow-Up_Sequence_with_Google_Sheets_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/78/7856_Cost-Free_Email_Follow-Up_Sequence_with_Google_Sheets_and_Gmail.json)|
+|7929|[7929_B2B_Outreach_Automation__LinkedIn_to_Email_Sequence_with_GPT__AnyMailFinder___Perplexity.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7929_B2B_Outreach_Automation__LinkedIn_to_Email_Sequence_with_GPT__AnyMailFinder___Perplexity.json)|
+|8207|[8207_Automate_Product_Launch_Sequence_with_Notion__Mailchimp__Buffer__Google_Calendar___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8207_Automate_Product_Launch_Sequence_with_Notion__Mailchimp__Buffer__Google_Calendar___Telegram.json)|
+|8511|[8511_Automated_Lead_Follow-up_System_with_Gmail__Google_Calendar___Sheets_Sync.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8511_Automated_Lead_Follow-up_System_with_Gmail__Google_Calendar___Sheets_Sync.json)|
+|10598|[10598_Build_a_Telegram_Subscription_Gate_with_Lead_Magnet_and_Upsell_Sequence.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/05/10598_Build_a_Telegram_Subscription_Gate_with_Lead_Magnet_and_Upsell_Sequence.json)|
+|10795|[10795_Pre-Meeting_Email_Nurturing_Sequence_with_Cal.com_and_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/07/10795_Pre-Meeting_Email_Nurturing_Sequence_with_Cal.com_and_Gmail.json)|

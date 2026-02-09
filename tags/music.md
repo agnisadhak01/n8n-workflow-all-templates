@@ -1,0 +1,15 @@
+# music : 11
+
+|id|file|
+|----|----|
+|2050|[2050_Monthly_live_music_events_newsletter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/20/2050_Monthly_live_music_events_newsletter.json)|
+|2518|[2518_Sync_YouTube_and_Spotify_Music_Playlists.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2518_Sync_YouTube_and_Spotify_Music_Playlists.json)|
+|3814|[3814_Generate_AI_Songs___Music_Videos_Using_Suno_API__Flux__Runway_and_Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/38/3814_Generate_AI_Songs___Music_Videos_Using_Suno_API__Flux__Runway_and_Creatomate.json)|
+|4210|[4210_Personalized_Taiwan_Indie_Music_Recommendations_with_AI__Star_Sign___Weather_via_Spotify.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4210_Personalized_Taiwan_Indie_Music_Recommendations_with_AI__Star_Sign___Weather_via_Spotify.json)|
+|4848|[4848_Automated_Music_Video_Creation___YouTube_Publishing_with_AI-Generated_Metadata_from_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4848_Automated_Music_Video_Creation___YouTube_Publishing_with_AI-Generated_Metadata_from_Google_Drive.json)|
+|5379|[5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5379_Create_AI-Generated_Music_Playlists_for_YouTube_using_Suno__GPT-4__Runway___Creatomate.json)|
+|6684|[6684_Download_Spotify_Music_to_Google_Drive_with_Automatic_Logging_in_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/66/6684_Download_Spotify_Music_to_Google_Drive_with_Automatic_Logging_in_Sheets.json)|
+|7793|[7793_Generate_AI_Music_with_the_ElevenLabs_API_and_upload_to_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7793_Generate_AI_Music_with_the_ElevenLabs_API_and_upload_to_Google_Drive.json)|
+|8884|[8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8884_Generate_Personalized_Music_Promotion_Emails_with_GPT-5_and_Gmail_Context_Analysis.json)|
+|10005|[10005_Generate_Song_Lyrics_and_Music_from_Text_Prompts_using_OpenAI_and_Fal.ai_Minimax.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10005_Generate_Song_Lyrics_and_Music_from_Text_Prompts_using_OpenAI_and_Fal.ai_Minimax.json)|
+|11047|[11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11047_Automated_AI_Music_Generation_with_ElevenLabs__Google_Sheets___Drive.json)|

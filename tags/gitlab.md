@@ -1,0 +1,23 @@
+# gitlab : 19
+
+|id|file|
+|----|----|
+|465|[465_Get_details_of_a_GitLab_repository.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/465_Get_details_of_a_GitLab_repository.json)|
+|528|[528_Receive_updates_for_GitLab_events.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/05/528_Receive_updates_for_GitLab_events.json)|
+|1053|[1053_Git_backup_of_workflows_and_credentials.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/10/1053_Git_backup_of_workflows_and_credentials.json)|
+|1349|[1349_Create_an_issue_on_GitLab_on_every_GitHub_release.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1349_Create_an_issue_on_GitLab_on_every_GitHub_release.json)|
+|1375|[1375_Create_a_document_in_outline_for_each_new_GitLab_release.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1375_Create_a_document_in_outline_for_each_new_GitLab_release.json)|
+|2167|[2167_ChatGPT_Automatic_Code_Review_in_Gitlab_MR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2167_ChatGPT_Automatic_Code_Review_in_Gitlab_MR.json)|
+|2376|[2376_Backup_Tag-Selected_Workflows_to_Gitlab.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2376_Backup_Tag-Selected_Workflows_to_Gitlab.json)|
+|2385|[2385_Save_your_workflows_into_a_Gitlab_repository.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2385_Save_your_workflows_into_a_Gitlab_repository.json)|
+|2858|[2858_Automate_GitLab_Merge_Requests_Using_APIs_with_n8n.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/28/2858_Automate_GitLab_Merge_Requests_Using_APIs_with_n8n.json)|
+|3997|[3997_GitLab_Merge_Request_Review___Risk_Analysis_with_Claude_GPT_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3997_GitLab_Merge_Request_Review___Risk_Analysis_with_Claude_GPT_AI.json)|
+|4035|[4035_Automated_Daily_Backup_of_n8n_Workflows_to_GitLab_Repositories.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4035_Automated_Daily_Backup_of_n8n_Workflows_to_GitLab_Repositories.json)|
+|4947|[4947_Automated_Repository_Migration_from_GitLab_Groups_to_Gitea_Organizations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/49/4947_Automated_Repository_Migration_from_GitLab_Groups_to_Gitea_Organizations.json)|
+|5265|[5265_GitLab_Tool_MCP_Server___all_18_operations.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/52/5265_GitLab_Tool_MCP_Server___all_18_operations.json)|
+|5616|[5616_Automated_n8n_Workflows_Backup_on_GitLab_with_Username_Organization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5616_Automated_n8n_Workflows_Backup_on_GitLab_with_Username_Organization.json)|
+|6731|[6731_Automatic_Workflow_Backups_to_GitLab_with_GPT-4.1_Documentation_Generation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6731_Automatic_Workflow_Backups_to_GitLab_with_GPT-4.1_Documentation_Generation.json)|
+|7924|[7924_Automate_Code_Reviews_for_GitLab_MRs_with_Gemini_AI_and_JIRA_Context.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7924_Automate_Code_Reviews_for_GitLab_MRs_with_Gemini_AI_and_JIRA_Context.json)|
+|7985|[7985_Detect_Unused_Android_Feature_Flags_with_GitLab__LaunchDarkly__Jira___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7985_Detect_Unused_Android_Feature_Flags_with_GitLab__LaunchDarkly__Jira___Slack.json)|
+|8042|[8042_Version_Control_n8n_Workflows_in_GitLab_with_Customer_Tag_Organization.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/80/8042_Version_Control_n8n_Workflows_in_GitLab_with_Customer_Tag_Organization.json)|
+|9458|[9458_Daily_Workflow_Backup_to_GitLab_with_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9458_Daily_Workflow_Backup_to_GitLab_with_Slack_Notifications.json)|

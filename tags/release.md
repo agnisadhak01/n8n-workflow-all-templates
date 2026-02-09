@@ -1,0 +1,21 @@
+# release : 17
+
+|id|file|
+|----|----|
+|643|[643_Get_all_releases_in_Sentry.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/06/643_Get_all_releases_in_Sentry.json)|
+|768|[768_Get_all_the_stories_and_publish_them_in_Storyblok.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/768_Get_all_the_stories_and_publish_them_in_Storyblok.json)|
+|1134|[1134_Release_a_new_version_via_Telegram_bot_command.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/11/1134_Release_a_new_version_via_Telegram_bot_command.json)|
+|1349|[1349_Create_an_issue_on_GitLab_on_every_GitHub_release.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1349_Create_an_issue_on_GitLab_on_every_GitHub_release.json)|
+|1375|[1375_Create_a_document_in_outline_for_each_new_GitLab_release.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/13/1375_Create_a_document_in_outline_for_each_new_GitLab_release.json)|
+|2353|[2353_Send_Slack_notifications_when_a_new_release_is_published_for_public_Github_repos.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/23/2353_Send_Slack_notifications_when_a_new_release_is_published_for_public_Github_repos.json)|
+|2590|[2590_Daily_GitHub_Release_notification_by_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/25/2590_Daily_GitHub_Release_notification_by_Email.json)|
+|6129|[6129_Automate_GitHub__JIRA_Release_Notes_with_Google_Gemini___Notification_Over_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/61/6129_Automate_GitHub__JIRA_Release_Notes_with_Google_Gemini___Notification_Over_Email.json)|
+|6763|[6763_Auto-Generate_GitHub_Release_Notes_and_Notify_via_Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6763_Auto-Generate_GitHub_Release_Notes_and_Notify_via_Slack.json)|
+|7797|[7797_Compare_Your_n8n_Version_with_Latest_Release_using_n8n_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7797_Compare_Your_n8n_Version_with_Latest_Release_using_n8n_API.json)|
+|7928|[7928_Multi-timeframe_Trading_Analysis_for_WEEX_Spot_Market_with_GPT-4o___Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7928_Multi-timeframe_Trading_Analysis_for_WEEX_Spot_Market_with_GPT-4o___Telegram.json)|
+|8599|[8599_Automate_UniFi_Controller_Updates_via_SSH_with_Telegram_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8599_Automate_UniFi_Controller_Updates_via_SSH_with_Telegram_Notifications.json)|
+|9838|[9838_Enforce_Pre-Release_Compliance_with_Jira__Monday.com__and_Slack_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9838_Enforce_Pre-Release_Compliance_with_Jira__Monday.com__and_Slack_Alerts.json)|
+|10236|[10236_AI-Powered_n8n_Release_Notes_Summary_Notifications_via_Gmail_with_GPT-5-Mini.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/02/10236_AI-Powered_n8n_Release_Notes_Summary_Notifications_via_Gmail_with_GPT-5-Mini.json)|
+|10332|[10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10332_Automate_Release_Notes_from_ClickUp_to_Notion___Slack_with_GPT-4o.json)|
+|11569|[11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/15/11569_Generate_GitHub_Release_Notes_with_AI_Comparison.json)|
+|11743|[11743_Generate_Multi-Channel_Release_Notes_from_ClickUp_Tasks_with_GPT-4o__Notion___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/17/11743_Generate_Multi-Channel_Release_Notes_from_ClickUp_Tasks_with_GPT-4o__Notion___Slack.json)|

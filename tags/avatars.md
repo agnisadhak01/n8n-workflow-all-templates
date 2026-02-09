@@ -1,0 +1,13 @@
+# avatars : 9
+
+|id|file|
+|----|----|
+|3538|[3538_Create_AI_News_Videos_with_HeyGen_Avatars_and_Auto-Post_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/35/3538_Create_AI_News_Videos_with_HeyGen_Avatars_and_Auto-Post_to_Social_Media.json)|
+|4080|[4080_Automate_AI_News_Videos_with_GPT-4o__Heygen_Avatars__and_Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4080_Automate_AI_News_Videos_with_GPT-4o__Heygen_Avatars__and_Blotato.json)|
+|4107|[4107_Create_AI_Videos_with_OpenAI_Scripts__Leonardo_Images___HeyGen_Avatars.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4107_Create_AI_Videos_with_OpenAI_Scripts__Leonardo_Images___HeyGen_Avatars.json)|
+|4110|[4110_Clone_Viral_TikToks_with_AI_Avatars___Auto-Post_to_9_Platforms_using_Perplexity___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/41/4110_Clone_Viral_TikToks_with_AI_Avatars___Auto-Post_to_9_Platforms_using_Perplexity___Blotato.json)|
+|4569|[4569_Create_AI_Videos_with_Scripts__Images___HeyGen_Avatars____LIMITED-TIME_OFFER.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4569_Create_AI_Videos_with_Scripts__Images___HeyGen_Avatars____LIMITED-TIME_OFFER.json)|
+|4622|[4622_Generate_Custom_AI_Videos_with_Digital_Avatars_using_HeyGen_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4622_Generate_Custom_AI_Videos_with_Digital_Avatars_using_HeyGen_API.json)|
+|6789|[6789_Generate_Custom_AI_Avatars_with_Babysea_Babyavatar_via_Replicate_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/67/6789_Generate_Custom_AI_Avatars_with_Babysea_Babyavatar_via_Replicate_API.json)|
+|10000|[10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10000_Auto-Create_TikTok_Videos_with_VEED.io_AI_Avatars__ElevenLabs___GPT-4.json)|
+|10642|[10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/06/10642_Generate_AI_Video_Avatars_from_URLs_with_HeyGen__Gemini___Upload_to_Social_Media.json)|

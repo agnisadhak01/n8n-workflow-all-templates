@@ -1,0 +1,18 @@
+# tweet : 14
+
+|id|file|
+|----|----|
+|445|[445_Send_a_tweet_to_Twitter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/04/445_Send_a_tweet_to_Twitter.json)|
+|745|[745_Receive_updates_when_a_new_activity_gets_created_and_tweet_about_it.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/07/745_Receive_updates_when_a_new_activity_gets_created_and_tweet_about_it.json)|
+|1520|[1520_OpenAI-powered_tweet_generator.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/15/1520_OpenAI-powered_tweet_generator.json)|
+|2199|[2199_Auto_Tweet__spreadsheet-to-Tweet_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/21/2199_Auto_Tweet__spreadsheet-to-Tweet_Automation.json)|
+|2933|[2933_Convert_RSS_to_tweet_with_text_and_image_using_free_Twitter_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/29/2933_Convert_RSS_to_tweet_with_text_and_image_using_free_Twitter_API.json)|
+|3629|[3629_Ultimate_AI_Assistant__Automate_Email__Calendar__WebSearch__Notion___RAG___X.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/36/3629_Ultimate_AI_Assistant__Automate_Email__Calendar__WebSearch__Notion___RAG___X.json)|
+|3978|[3978_Auto-Generate_And_Post_Tweet_Threads_Based_On_Google_Trends_Using_Gemini_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3978_Auto-Generate_And_Post_Tweet_Threads_Based_On_Google_Trends_Using_Gemini_AI.json)|
+|4075|[4075_Automated_Tweet_Generator___Publisher_with_GPT-4__Discord__and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/40/4075_Automated_Tweet_Generator___Publisher_with_GPT-4__Discord__and_Google_Sheets.json)|
+|4851|[4851_Find_relevant_X_tweets_based_on_your_profile_and_suggest_responses.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/48/4851_Find_relevant_X_tweets_based_on_your_profile_and_suggest_responses.json)|
+|7027|[7027_Automate_Tweet_Filtering_and_Replies_on_X_with_GPT_and_Scheduled_Rotation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7027_Automate_Tweet_Filtering_and_Replies_on_X_with_GPT_and_Scheduled_Rotation.json)|
+|8184|[8184_Convert_Voice_Notes_to_X_Posts_with_Google_Drive_and_AssemblyAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/81/8184_Convert_Voice_Notes_to_X_Posts_with_Google_Drive_and_AssemblyAI.json)|
+|8223|[8223_Auto-Post_Platform-Optimized_Content_to_X_and_Threads_with_Late_API_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8223_Auto-Post_Platform-Optimized_Content_to_X_and_Threads_with_Late_API_and_Google_Sheets.json)|
+|8435|[8435_Automated_Content___Promo_Tweet_Scheduler_with_Gemini_AI_and_Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8435_Automated_Content___Promo_Tweet_Scheduler_with_Gemini_AI_and_Google_Sheets.json)|
+|9355|[9355_Daily_Competitor_Tweet_Summarizer_with_X_API__GPT-5-Nano__and_Gmail_Delivery.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/93/9355_Daily_Competitor_Tweet_Summarizer_with_X_API__GPT-5-Nano__and_Gmail_Delivery.json)|

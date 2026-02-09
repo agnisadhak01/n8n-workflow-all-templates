@@ -1,0 +1,14 @@
+# collector : 10
+
+|id|file|
+|----|----|
+|3910|[3910_Client_Feedback_Collector___Analyzer__Form___AI_Summary___Email___Social_Draft.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3910_Client_Feedback_Collector___Analyzer__Form___AI_Summary___Email___Social_Draft.json)|
+|3920|[3920_Collect_LinkedIn_Profiles_with_AI_Processing_using_SerpAPI__OpenAI__and_NocoDB.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/39/3920_Collect_LinkedIn_Profiles_with_AI_Processing_using_SerpAPI__OpenAI__and_NocoDB.json)|
+|4585|[4585_Collect_YouTube_Channel_Stats___Contact_Info_with_Google_Sheets_and_SerpAPI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/45/4585_Collect_YouTube_Channel_Stats___Contact_Info_with_Google_Sheets_and_SerpAPI.json)|
+|5848|[5848_Collect___Store_Restaurant_Customer_Feedback_with_Google_Sheets_and_Email_Forms.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/58/5848_Collect___Store_Restaurant_Customer_Feedback_with_Google_Sheets_and_Email_Forms.json)|
+|7765|[7765_Compliance_Report_Collector_With_Google_Form___Drive___MySQL.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7765_Compliance_Report_Collector_With_Google_Form___Drive___MySQL.json)|
+|7996|[7996_Collect___Summarize_Multilingual_News_with_NewsAPI__OpenAI___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/79/7996_Collect___Summarize_Multilingual_News_with_NewsAPI__OpenAI___Google_Sheets.json)|
+|8846|[8846_Capture_and_Process_Ideas_with_GPT-4o-mini__Notion_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/88/8846_Capture_and_Process_Ideas_with_GPT-4o-mini__Notion_and_Slack_Notifications.json)|
+|9787|[9787_Collect_Star_Rating_Feedback_with_Self-Contained_HTML_Forms_and_Data_Tables.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9787_Collect_Star_Rating_Feedback_with_Self-Contained_HTML_Forms_and_Data_Tables.json)|
+|10327|[10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/03/10327_Client_Review_Collection___Sentiment_Analysis_with_HighLevel__GPT-4o__Gmail___Slack.json)|
+|11228|[11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/12/11228_Automated_PDF_Report_Downloader___Organizer_with_Google_Drive___Sheets.json)|

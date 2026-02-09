@@ -1,0 +1,12 @@
+# asmr : 8
+
+|id|file|
+|----|----|
+|5110|[5110_Create___Upload_AI-Generated_ASMR_YouTube_Shorts_with_Seedance__Fal_AI__and_GPT-4.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/51/5110_Create___Upload_AI-Generated_ASMR_YouTube_Shorts_with_Seedance__Fal_AI__and_GPT-4.json)|
+|5324|[5324_Viral_ASMR_Video_Factory__Automatically_generate_viral_videos_on_autopilot..json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5324_Viral_ASMR_Video_Factory__Automatically_generate_viral_videos_on_autopilot..json)|
+|5383|[5383_Automate_Viral_Content_Creation_with_OpenAI__ElevenLabs__and_Fal.ai_for_Videos__Podcasts__and_ASMR.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/53/5383_Automate_Viral_Content_Creation_with_OpenAI__ElevenLabs__and_Fal.ai_for_Videos__Podcasts__and_ASMR.json)|
+|5553|[5553_Automate_ASMR_Video_Creation_and_Distribution_with_FalAI_and_Social_Media_Integration.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/55/5553_Automate_ASMR_Video_Creation_and_Distribution_with_FalAI_and_Social_Media_Integration.json)|
+|5916|[5916_Viral_Video_Creator__Fal.ai_AI_Videos___TikTok__YouTube___Instagram_Automation.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/59/5916_Viral_Video_Creator__Fal.ai_AI_Videos___TikTok__YouTube___Instagram_Automation.json)|
+|8439|[8439_Create_Custom_ASMR_Sound_Effects_with_ElevenLabs_API_and_Google_Drive.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8439_Create_Custom_ASMR_Sound_Effects_with_ElevenLabs_API_and_Google_Drive.json)|
+|10175|[10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/01/10175_Automate_ASMR_Glass_Fruit_Video_Creation___Publishing_with_Veo__Shotstack___Postiz.json)|
+|10433|[10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10433_Generate_ASMR_Rainforest_Videos_from_Text_with_Seedream___Seedance_on_fal.ai.json)|

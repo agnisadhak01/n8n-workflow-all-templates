@@ -1,0 +1,71 @@
+"use client";
+
+import { useQuery } from "@tanstack/react-query";
+import { supabase } from "@/lib/supabase";
+import type { Template } from "@/lib/supabase";
+
+const PAGE_SIZE = 24;
+
+export function useTemplates(
+  query: string,
+  nodeTypes: string[],
+  page: number
+): { data: Template[]; total: number; isLoading: boolean; error: Error | null } {
+  const { data, isLoading, error } = useQuery({
+    queryKey: ["templates", query, nodeTypes.join(","), page],
+    queryFn: async () => {
+      if (!supabase) return { rows: [], total: 0 };
+      let templateIds: string[] | null = null;
+      if (nodeTypes.length > 0) {
+        const { data: ntRows } = await supabase
+          .from("node_types")
+          .select("template_id")
+          .in("node_type", nodeTypes);
+        const ids = [...new Set((ntRows ?? []).map((r: { template_id: string }) => r.template_id))];
+        if (ids.length === 0) return { rows: [], total: 0 };
+        templateIds = ids;
+      }
+      let q = supabase
+        .from("templates")
+        .select("id,source_id,title,description,category,tags,nodes,source_url", { count: "exact" });
+      if (templateIds?.length) q = q.in("id", templateIds);
+      if (query.trim()) {
+        q = q.textSearch("search_vector", query.trim(), { type: "websearch", config: "english" });
+      }
+      const from = (page - 1) * PAGE_SIZE;
+      const { data: rows, count, error: e } = await q
+        .range(from, from + PAGE_SIZE - 1)
+        .order("updated_at", { ascending: false });
+      if (e) throw e;
+      return { rows: rows ?? [], total: count ?? 0 };
+    },
+    enabled: !!supabase,
+  });
+  return {
+    data: (data?.rows ?? []) as Template[],
+    total: data?.total ?? 0,
+    isLoading,
+    error: error as Error | null,
+  };
+}
+
+export function useNodeTypes(): { node_type: string; count: number }[] {
+  const { data } = useQuery({
+    queryKey: ["nodeTypes"],
+    queryFn: async () => {
+      if (!supabase) return [];
+      const { data: rows, error } = await supabase.from("node_types").select("template_id, node_type");
+      if (error || !rows) return [];
+      const byType: Record<string, Set<string>> = {};
+      for (const r of rows as { template_id: string; node_type: string }[]) {
+        if (!byType[r.node_type]) byType[r.node_type] = new Set();
+        byType[r.node_type].add(r.template_id);
+      }
+      return Object.entries(byType)
+        .map(([node_type, set]) => ({ node_type, count: set.size }))
+        .sort((a, b) => b.count - a.count);
+    },
+    enabled: !!supabase,
+  });
+  return data ?? [];
+}

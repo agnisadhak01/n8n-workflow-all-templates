@@ -1,0 +1,17 @@
+# converter : 13
+
+|id|file|
+|----|----|
+|2732|[2732_CSV_to_JSON_Converter_with_Error_Handling_and_Slack_Notifications.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2732_CSV_to_JSON_Converter_with_Error_Handling_and_Slack_Notifications.json)|
+|3302|[3302_Transform_Press_Releases__PDF___Word__into_Polished_Articles_with_Gmail___OpenAI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3302_Transform_Press_Releases__PDF___Word__into_Polished_Articles_with_Gmail___OpenAI.json)|
+|4602|[4602_Currency_Converter_via_Webhook_using_ExchangeRate.host.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4602_Currency_Converter_via_Webhook_using_ExchangeRate.host.json)|
+|4623|[4623_Unix_Timestamp_to_ISO_Date_Converter.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/46/4623_Unix_Timestamp_to_ISO_Date_Converter.json)|
+|5646|[5646_Swagger2OpenAPI_Converter_MCP_Server.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/56/5646_Swagger2OpenAPI_Converter_MCP_Server.json)|
+|6318|[6318_YouTube_to_MP3_Converter_with_RapidAPI_-_Upload_to_Drive___Email_Link.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/63/6318_YouTube_to_MP3_Converter_with_RapidAPI_-_Upload_to_Drive___Email_Link.json)|
+|6832|[6832_Convert_Natural_Language_to_Video_JSON_Prompts_with_GPT_and_Gemini_for_Veo_3.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6832_Convert_Natural_Language_to_Video_JSON_Prompts_with_GPT_and_Gemini_for_Veo_3.json)|
+|7275|[7275_Convert_Radiology_Images_to_Patient-Friendly_Reports_with_GPT-4_Vision___PDF_Email.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7275_Convert_Radiology_Images_to_Patient-Friendly_Reports_with_GPT-4_Vision___PDF_Email.json)|
+|7451|[7451_Natural_Language_to_SQL_Converter_for_Google_Sheets_with_GPT-4o.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/74/7451_Natural_Language_to_SQL_Converter_for_Google_Sheets_with_GPT-4o.json)|
+|7650|[7650_Batch_Convert_CAD_BIM_Files_to_XLSX_DAE_with_Validation_and_Reporting.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7650_Batch_Convert_CAD_BIM_Files_to_XLSX_DAE_with_Validation_and_Reporting.json)|
+|9245|[9245_Batch_ID_Photo_Converter___Enhancer_With_Google_Drive___Nano_Banana_API.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/92/9245_Batch_ID_Photo_Converter___Enhancer_With_Google_Drive___Nano_Banana_API.json)|
+|9944|[9944_Ebook_to_Audiobook_converter_using_MiniMax_and_FFmpeg.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/99/9944_Ebook_to_Audiobook_converter_using_MiniMax_and_FFmpeg.json)|
+|11811|[11811_PDF_to_Markdown_Converter_with_LlamaCloud_Parser.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/18/11811_PDF_to_Markdown_Converter_with_LlamaCloud_Parser.json)|

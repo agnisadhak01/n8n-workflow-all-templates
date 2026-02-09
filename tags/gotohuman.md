@@ -1,0 +1,12 @@
+# gotohuman : 8
+
+|id|file|
+|----|----|
+|6827|[6827_AI-Generated_LinkedIn_Posts_with_Human_Approval_using_GPT-4__GoToHuman___Blotato.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/68/6827_AI-Generated_LinkedIn_Posts_with_Human_Approval_using_GPT-4__GoToHuman___Blotato.json)|
+|7049|[7049_Automated_Email_Replies_with_GPT-4o__Outlook__and_GoToHuman_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/70/7049_Automated_Email_Replies_with_GPT-4o__Outlook__and_GoToHuman_Approval.json)|
+|7301|[7301_Classify_Emails_and_Send_Replies_with_GPT-4o_and_gotoHuman_for_Supervision.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/73/7301_Classify_Emails_and_Send_Replies_with_GPT-4o_and_gotoHuman_for_Supervision.json)|
+|7605|[7605_Resume_Reviewer_with_GPT-4o-mini_and_Human_Validation_via_gotoHuman.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/76/7605_Resume_Reviewer_with_GPT-4o-mini_and_Human_Validation_via_gotoHuman.json)|
+|8489|[8489_Save_AI-Generated_Markdown_to_Google_Docs_using_gotoHuman_for_Approval.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8489_Save_AI-Generated_Markdown_to_Google_Docs_using_gotoHuman_for_Approval.json)|
+|8520|[8520_Lead_Analysis___Personalized_Email_Generation_with_OpenAI__Firecrawl___gotoHuman.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/85/8520_Lead_Analysis___Personalized_Email_Generation_with_OpenAI__Firecrawl___gotoHuman.json)|
+|9402|[9402_Create_Multi-Platform_Social_Media_Content_with_Sonnet_4.5__GoToHuman_Approval___Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/94/9402_Create_Multi-Platform_Social_Media_Content_with_Sonnet_4.5__GoToHuman_Approval___Sheets.json)|
+|10065|[10065_Auto-Reply___Create_Linear_Tickets_from_Gmail_with_GPT-5__gotoHuman___Human_Review.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/00/10065_Auto-Reply___Create_Linear_Tickets_from_Gmail_with_GPT-5__gotoHuman___Human_Review.json)|

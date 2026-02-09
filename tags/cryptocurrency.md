@@ -1,0 +1,13 @@
+# cryptocurrency : 9
+
+|id|file|
+|----|----|
+|4225|[4225_Automate_Cryptocurrency_Funding_Fee_Tracking_with_Binance_API_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/42/4225_Automate_Cryptocurrency_Funding_Fee_Tracking_with_Binance_API_and_Airtable.json)|
+|4759|[4759_Send_Cryptocurrency_Price_Threshold_Alerts_from_CoinGecko_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/47/4759_Send_Cryptocurrency_Price_Threshold_Alerts_from_CoinGecko_to_Discord.json)|
+|6551|[6551_Automate_Cryptocurrency_Analysis___Reports_with_Google_Gemini_and_CoinGecko_Email_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6551_Automate_Cryptocurrency_Analysis___Reports_with_Google_Gemini_and_CoinGecko_Email_Alerts.json)|
+|7705|[7705_Real-Time_Cryptocurrency_Price_Monitor_with_CoinGecko___Multi-Channel_Alerts.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/77/7705_Real-Time_Cryptocurrency_Price_Monitor_with_CoinGecko___Multi-Channel_Alerts.json)|
+|8271|[8271_Automated_Trending_Cryptocurrency_Updates_from_CoinGecko_to_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/82/8271_Automated_Trending_Cryptocurrency_Updates_from_CoinGecko_to_Telegram.json)|
+|8386|[8386_Cryptocurrency_Dip_Alerts_for_Bitcoin___Ethereum_via_Telegram__Slack___SMS.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/83/8386_Cryptocurrency_Dip_Alerts_for_Bitcoin___Ethereum_via_Telegram__Slack___SMS.json)|
+|8453|[8453_Automated_Cryptocurrency_Trading_Bot_with_ICT_Methodology__GPT-4o___Coinbase.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/84/8453_Automated_Cryptocurrency_Trading_Bot_with_ICT_Methodology__GPT-4o___Coinbase.json)|
+|8604|[8604_Analyze_Cryptocurrency_Market_Data_with_HTX_API__GPT-4o_and_Telegram.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/86/8604_Analyze_Cryptocurrency_Market_Data_with_HTX_API__GPT-4o_and_Telegram.json)|
+|10400|[10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/04/10400_Monitor_Cryptocurrency_Trading_Activity_with_CoinGecko_and_Send_Alerts_to_Discord.json)|

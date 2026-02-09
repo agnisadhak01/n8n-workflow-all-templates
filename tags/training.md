@@ -1,0 +1,16 @@
+# training : 12
+
+|id|file|
+|----|----|
+|2277|[2277_Training_Feedback_Automation_with_Usertask_and_Airtable.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/22/2277_Training_Feedback_Automation_with_Usertask_and_Airtable.json)|
+|2790|[2790_AI_Fitness_Coach_Strava_Data_Analysis_and_Personalized_Training_Insights.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/27/2790_AI_Fitness_Coach_Strava_Data_Analysis_and_Personalized_Training_Insights.json)|
+|3114|[3114_Automatically_issue_training_certificates_and_send_via_Gmail.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/31/3114_Automatically_issue_training_certificates_and_send_via_Gmail.json)|
+|3379|[3379_Automate_Product_Training___Customer_Support_via_WhatsApp__GPT-4___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/33/3379_Automate_Product_Training___Customer_Support_via_WhatsApp__GPT-4___Google_Sheets.json)|
+|6452|[6452_WhatsApp_Support_Assistant_with_GPT-4_Mini___Google_Sheets_Data_Training.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/64/6452_WhatsApp_Support_Assistant_with_GPT-4_Mini___Google_Sheets_Data_Training.json)|
+|6506|[6506_CYBERPULSE_AI_RedOps__Internal_Phishing_Simulation_for_Security_Training.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/65/6506_CYBERPULSE_AI_RedOps__Internal_Phishing_Simulation_for_Security_Training.json)|
+|7260|[7260_Smart_Knowledge_Base_Builder___Auto-Convert_Websites_into_AI_Training_Data.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/72/7260_Smart_Knowledge_Base_Builder___Auto-Convert_Websites_into_AI_Training_Data.json)|
+|8723|[8723_Automate_30-Day_Coach_Training_with_SMS__Twilio___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/87/8723_Automate_30-Day_Coach_Training_with_SMS__Twilio___Google_Sheets.json)|
+|9140|[9140_Personalize_Candidate_Feedback_with_GPT-4o__Google_Sheets___Gmail_for_HR_Teams.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/91/9140_Personalize_Candidate_Feedback_with_GPT-4o__Google_Sheets___Gmail_for_HR_Teams.json)|
+|9731|[9731_Automated_Corporate_Training_Requests_with_GPT-4__Jotform___Google_Sheets.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/97/9731_Automated_Corporate_Training_Requests_with_GPT-4__Jotform___Google_Sheets.json)|
+|9822|[9822_Convert_Training_Prescriptions_to_Intervals.icu_Workouts_with_Claude_Opus_AI.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/00/98/9822_Convert_Training_Prescriptions_to_Intervals.icu_Workouts_with_Claude_Opus_AI.json)|
+|11012|[11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json](https://github.com/zengfr/n8n-workflow-all-templates/blob/main/n8n-workflow-all-templates/00/01/10/11012_Generate_Verifiable_CEU_Certificates_with_Google_Workspace___QR_Verification.json)|
