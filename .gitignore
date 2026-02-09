@@ -16,6 +16,16 @@ venv/
 ENV/
 *.dat
 .scraper_state.json
+
+# Node / npm / Next.js / Vite
 node_modules/
 .next/
-explorer/.next/
+out/
+.turbo/
+.vercel/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
