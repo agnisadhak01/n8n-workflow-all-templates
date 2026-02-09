@@ -16,3 +16,4 @@ venv/
 ENV/
 *.py
 *.dat
+.scraper_state.json
