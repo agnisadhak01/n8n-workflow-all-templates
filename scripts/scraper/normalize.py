@@ -70,6 +70,16 @@ def normalize_from_api_payload(api_response: dict, template_id: int) -> dict | N
     categories = outer.get("workflowInfo", {}).get("categories") or []
     category = categories[0].get("name") if categories else ""
     source_url = f"https://n8n.io/workflows/{template_id}"
+    # Official tags may live on the outer wrapper (e.g. workflowInfo.tags, tags)
+    # or on the inner workflow object. Collect from the common locations.
+    api_tags = []
+    outer_tags = outer.get("tags") or outer.get("workflowInfo", {}).get("tags") or []
+    inner_tags = inner.get("tags") or []
+    combined = []
+    if isinstance(outer_tags, list):
+        combined.extend(outer_tags)
+    if isinstance(inner_tags, list):
+        combined.extend(inner_tags)
     return normalize_workflow(
         inner,
         source_id=str(template_id),
@@ -77,6 +87,7 @@ def normalize_from_api_payload(api_response: dict, template_id: int) -> dict | N
         description=desc[:10000] if desc else "",
         category=category,
         source_url=source_url,
+        tags_override=combined or None,
     )
 
 
