@@ -305,7 +305,15 @@ def normalize_from_api_payload(api_response: dict, template_id: int) -> dict | N
     if isinstance(desc, bool):
         desc = ""
     categories = outer.get("workflowInfo", {}).get("categories") or []
-    category = categories[0].get("name") if categories else ""
+    category = ""
+    if isinstance(categories, list):
+        # Pick the first valid dict entry to avoid 'NoneType' errors when the
+        # API returns categories like [null] or other non-dict values.
+        first_valid = next((c for c in categories if isinstance(c, dict)), None)
+        if first_valid:
+            name_val = first_valid.get("name")
+            if isinstance(name_val, str):
+                category = name_val
     source_url = f"https://n8n.io/workflows/{template_id}"
     # Official tags may live on the outer wrapper (e.g. workflowInfo.tags, tags)
     # or on the inner workflow object. Collect from the common locations.

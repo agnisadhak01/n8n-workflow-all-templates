@@ -15,7 +15,7 @@ from __future__ import annotations
 import argparse
 import sys
 import time
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Set
 
 from fetch_listing import fetch_all_listings
 from fetch_detail import fetch_workflow
@@ -134,6 +134,25 @@ def main() -> None:
 
     client = None if args.dry_run else get_client()
 
+    # Preload existing source_ids so we can skip templates that are already in Supabase.
+    existing_source_ids: Set[str] = set()
+    if client is not None:
+        page_size = 1000
+        offset = 0
+        while True:
+            resp = client.table("templates").select("source_id").range(offset, offset + page_size - 1).execute()
+            rows = resp.data or []
+            if not rows:
+                break
+            for row in rows:
+                sid = row.get("source_id")
+                if sid:
+                    existing_source_ids.add(str(sid))
+            if len(rows) < page_size:
+                break
+            offset += page_size
+        print(f"Loaded {len(existing_source_ids)} existing templates from Supabase (by source_id) for skipping.")
+
     total_count = len(listings)
     print(f"Processing {total_count} templates in batches of {batch_size} (dry_run={args.dry_run})")
 
@@ -145,6 +164,9 @@ def main() -> None:
 
         for item in batch:
             tid = item["id"]
+            # If this template already exists in Supabase, skip it and move on.
+            if client is not None and str(tid) in existing_source_ids:
+                continue
             try:
                 raw = fetch_workflow(tid)
                 if not raw:
