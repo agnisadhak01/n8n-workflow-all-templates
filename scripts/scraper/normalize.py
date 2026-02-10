@@ -262,6 +262,11 @@ def normalize_workflow(raw: dict, source_id: str, title: str, description: str =
     Normalize to our template row shape.
     raw must have 'nodes' and 'connections' (or at least 'nodes').
     """
+    # Be defensive: raw should be a dict, but API responses sometimes contain
+    # unexpected shapes. Fall back to empty dict to avoid 'NoneType' errors.
+    if not isinstance(raw, dict):
+        raw = {}
+
     nodes = raw.get("nodes") or []
     connections = raw.get("connections") or {}
     raw_tags = list(tags_override) if tags_override is not None else (list(raw.get("tags") or []) if isinstance(raw.get("tags"), list) else [])
@@ -296,15 +301,39 @@ def normalize_from_api_payload(api_response: dict, template_id: int) -> dict | N
     api.n8n.io/templates/workflows/<id> returns { workflow: { workflow: { nodes, connections }, ... }, ... }.
     We need workflow name/description from the outer wrapper if available.
     """
-    outer = api_response.get("workflow") or {}
+    # Be defensive about the outer wrapper shape.
+    outer = api_response.get("workflow") if isinstance(api_response, dict) else {}
+    if not isinstance(outer, dict):
+        outer = {}
     inner = outer.get("workflow") or outer
+    if not isinstance(inner, dict):
+        inner = {}
     if not inner.get("nodes"):
         return None
-    name = (outer.get("name") or inner.get("name") or "Untitled").strip()
-    desc = outer.get("description") or inner.get("meta", {}).get("templateCredsSetupCompleted") or ""
+    name = (outer.get("name") or inner.get("name") or "Untitled")
+    if not isinstance(name, str):
+        name = "Untitled"
+    name = name.strip()
+
+    # Description can come from the outer wrapper or from inner.meta.
+    desc = outer.get("description")
+    if not isinstance(desc, str):
+        meta = inner.get("meta") if isinstance(inner, dict) else {}
+        if not isinstance(meta, dict):
+            meta = {}
+        desc = meta.get("templateCredsSetupCompleted") or ""
     if isinstance(desc, bool):
         desc = ""
-    categories = outer.get("workflowInfo", {}).get("categories") or []
+    if not isinstance(desc, str):
+        desc = ""
+
+    # Categories and workflowInfo can have odd shapes; normalize carefully.
+    workflow_info = outer.get("workflowInfo") if isinstance(outer, dict) else {}
+    if not isinstance(workflow_info, dict):
+        workflow_info = {}
+    categories = workflow_info.get("categories") or []
+    if not isinstance(categories, list):
+        categories = []
     category = ""
     if isinstance(categories, list):
         # Pick the first valid dict entry to avoid 'NoneType' errors when the
@@ -317,8 +346,12 @@ def normalize_from_api_payload(api_response: dict, template_id: int) -> dict | N
     source_url = f"https://n8n.io/workflows/{template_id}"
     # Official tags may live on the outer wrapper (e.g. workflowInfo.tags, tags)
     # or on the inner workflow object. Collect from the common locations.
-    outer_tags = outer.get("tags") or outer.get("workflowInfo", {}).get("tags") or []
-    inner_tags = inner.get("tags") or []
+    outer_tags = outer.get("tags") or workflow_info.get("tags") or []
+    if not isinstance(outer_tags, list):
+        outer_tags = []
+    inner_tags = inner.get("tags") if isinstance(inner, dict) else []
+    if not isinstance(inner_tags, list):
+        inner_tags = []
     combined = []
     if isinstance(outer_tags, list):
         combined.extend(outer_tags)

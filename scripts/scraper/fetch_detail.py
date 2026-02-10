@@ -22,7 +22,11 @@ def fetch_workflow(template_id: int) -> dict | None:
             )
             if resp.status_code != 200:
                 return None
-            data = resp.json()
+            try:
+                data = resp.json()
+            except ValueError:
+                # Non-JSON or empty response
+                return None
             break
         except (requests.exceptions.ChunkedEncodingError, requests.exceptions.ConnectionError, OSError) as e:
             last_err = e
@@ -30,9 +34,16 @@ def fetch_workflow(template_id: int) -> dict | None:
                 time.sleep(RETRY_DELAY)
             else:
                 return None
-    # API wraps in workflow.workflow
-    w = data.get("workflow", {})
-    inner = w.get("workflow", w)
+    # API wraps in workflow.workflow; be defensive about shapes.
+    if not isinstance(data, dict):
+        return None
+    w = data.get("workflow") or {}
+    if not isinstance(w, dict):
+        w = {}
+    inner = w.get("workflow") or w
+    if not isinstance(inner, dict):
+        inner = {}
+
     if "nodes" in inner and "connections" in inner:
         return inner
     if "nodes" in w:
