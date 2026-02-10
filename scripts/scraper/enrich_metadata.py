@@ -17,6 +17,7 @@ from typing import Any, Dict, List
 import requests
 
 from normalize import normalize_from_api_payload, derive_category_from_tags_and_text
+from ai_categorizer import categorize_batch
 from upload_to_supabase import get_client
 
 
@@ -113,6 +114,10 @@ def enrich() -> None:
         if not rows:
             break
 
+        # Collect per-row info and items that need AI categorization.
+        row_infos: List[Dict[str, Any]] = []
+        ai_items: List[Dict[str, Any]] = []
+
         for row in rows:
             source_id = row.get("source_id")
             if not source_id:
@@ -150,20 +155,65 @@ def enrich() -> None:
                     if fallback_category:
                         normalized_category = fallback_category
 
-                update_data: Dict[str, Any] = {}
-                if normalized_category and normalized_category != (row.get("category") or ""):
-                    update_data["category"] = normalized_category
-                if merged_tags:
-                    update_data["tags"] = merged_tags
+                row_info = {
+                    "id": row["id"],
+                    "source_id": source_id,
+                    "existing_category": row.get("category") or "",
+                    "final_category": normalized_category,
+                    "final_tags": merged_tags,
+                    "title": norm.get("title") or row.get("title") or "",
+                    "description": norm.get("description") or row.get("description") or "",
+                    # node_types could be passed in later if needed
+                    "node_types": [],
+                }
+                row_infos.append(row_info)
 
-                if not update_data:
-                    total_skipped += 1
-                    continue
-
-                client.table("templates").update(update_data).eq("id", row["id"]).execute()
-                total_updated += 1
+                # Decide if this row should be refined by AI.
+                if not normalized_category or normalized_category in {"Automation & Orchestration", "Other"}:
+                    ai_items.append(
+                        {
+                            "id": row_info["id"],
+                            "title": row_info["title"],
+                            "description": row_info["description"],
+                            "tags": row_info["final_tags"],
+                            "node_types": row_info["node_types"],
+                        }
+                    )
             except Exception as e:  # noqa: BLE001
                 logger.exception("Error enriching template %s: %s", source_id, e)
+                total_skipped += 1
+
+        # Call OpenAI in batches for rows that still need better categories.
+        ai_categories: Dict[str, str] = {}
+        if ai_items:
+            ai_categories = categorize_batch(ai_items)
+
+        # Apply updates back to Supabase.
+        for info in row_infos:
+            row_id = info["id"]
+            existing_category = info["existing_category"]
+            final_category = info["final_category"]
+
+            # If AI produced a category for this row, prefer it.
+            ai_cat = ai_categories.get(str(row_id))
+            if ai_cat:
+                final_category = ai_cat
+
+            update_data: Dict[str, Any] = {}
+            if final_category and final_category != existing_category:
+                update_data["category"] = final_category
+            if info["final_tags"]:
+                update_data["tags"] = info["final_tags"]
+
+            if not update_data:
+                total_skipped += 1
+                continue
+
+            try:
+                client.table("templates").update(update_data).eq("id", row_id).execute()
+                total_updated += 1
+            except Exception as e:  # noqa: BLE001
+                logger.exception("Error updating template %s in Supabase: %s", info["source_id"], e)
                 total_skipped += 1
 
         offset += len(rows)

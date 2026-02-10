@@ -223,7 +223,12 @@ def derive_category_from_tags_and_text(tags: list[str], title: str, description:
 
     # 1) Try tags (already normalized strings)
     for raw in tags or []:
-        token = _normalize_token(raw)
+        # Tags can be plain strings or dicts like {"id": "...", "name": "..."} from the API.
+        if isinstance(raw, dict):
+            raw_value = raw.get("name") or raw.get("label") or ""
+        else:
+            raw_value = raw
+        token = _normalize_token(raw_value)
         if not token:
             continue
         cat = CATEGORY_BY_TAG.get(token)
