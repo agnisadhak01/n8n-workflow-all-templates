@@ -37,9 +37,15 @@ export function useIndexTemplates() {
     }
 
     if (selectedTags.length > 0) {
-      list = list.filter((t) =>
-        selectedTags.every((tag) => t.tags.includes(tag))
-      );
+      const selectedSet = new Set(selectedTags);
+      list = list.filter((t) => {
+        const tagSet = new Set(t.tags);
+        if (tagSet.size !== selectedSet.size) return false;
+        for (const tag of selectedSet) {
+          if (!tagSet.has(tag)) return false;
+        }
+        return true;
+      });
     }
 
     if (selectedServiceGroups.length > 0) {

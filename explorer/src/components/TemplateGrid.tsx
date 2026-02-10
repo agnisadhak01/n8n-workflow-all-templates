@@ -9,7 +9,8 @@ export function TemplateGrid() {
   const q = searchParams.get("q") ?? "";
   const nodeTypes = (searchParams.get("nodeType") ?? "").split(",").filter(Boolean);
   const page = Math.max(1, parseInt(searchParams.get("page") ?? "1", 10));
-  const { data, total, isLoading, error } = useTemplates(q, nodeTypes, page);
+  const tags = (searchParams.get("tags") ?? "").split(",").filter(Boolean);
+  const { data, total, isLoading, error } = useTemplates(q, nodeTypes, tags, page);
   const totalPages = Math.ceil(total / 24) || 1;
 
   if (error) {

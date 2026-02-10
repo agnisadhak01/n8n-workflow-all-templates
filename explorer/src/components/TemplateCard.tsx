@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import type { Template } from "@/lib/supabase";
 
 function getNodeTypeLabels(nodes: unknown[]): string[] {
@@ -11,9 +12,18 @@ function getNodeTypeLabels(nodes: unknown[]): string[] {
 }
 
 export function TemplateCard({ template }: { template: Pick<Template, "id" | "title" | "description" | "tags" | "nodes"> }) {
+  const router = useRouter();
   const labels = getNodeTypeLabels(template.nodes ?? []);
   const tags = (template.tags ?? []).slice(0, 4);
   const desc = template.description?.replace(/\s+/g, " ").slice(0, 120);
+
+  const handleTagClick = (tag: string, e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    const params = new URLSearchParams();
+    params.set("tags", tag);
+    router.push(`/templates?${params.toString()}`);
+  };
+
   return (
     <Link
       href={`/templates/${template.id}`}
@@ -23,9 +33,14 @@ export function TemplateCard({ template }: { template: Pick<Template, "id" | "ti
       {desc && <p className="mt-1 text-sm text-zinc-400 line-clamp-2">{desc}</p>}
       <div className="mt-3 flex flex-wrap gap-1.5">
         {tags.map((tag) => (
-          <span key={tag} className="rounded bg-zinc-800 px-2 py-0.5 text-xs text-zinc-400">
+          <button
+            key={tag}
+            type="button"
+            onClick={(e) => handleTagClick(tag, e)}
+            className="rounded bg-zinc-800 px-2 py-0.5 text-xs text-zinc-400 hover:bg-zinc-700"
+          >
             {tag}
-          </span>
+          </button>
         ))}
         {labels.map((l) => (
           <span key={l} className="rounded bg-emerald-900/40 px-2 py-0.5 text-xs text-emerald-300">
