@@ -1,11 +1,28 @@
 ---
-description: 
-globs: 
+description: Deployment and delivery standards
 alwaysApply: true
+tags: [deployment, ci-cd, vercel]
 ---
 # Deployment and Delivery Standards
 
-## 🚀 Deployment & Delivery Requirements
+## n8n-workflow-all-templates: Vercel Deployment
+
+### Explorer Deploy (Vercel)
+
+1. **Root directory**: Set to `explorer` (or deploy the explorer folder only).
+2. **Environment variables**:
+   - `NEXT_PUBLIC_SUPABASE_URL`
+   - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
+3. **Build command**: `npm run build` (runs inside explorer).
+4. **Browse page requirement**: Run `npm run build:index` then `npm run copy:index` before deploy (or in CI) so `explorer/public/templates-index.json` exists. Otherwise the Browse page will fail to load the index.
+
+### CI Note for Deploys
+
+If using GitHub Actions or similar, include `build:index` and `copy:index` before the explorer build so the static index is included in the deployed output.
+
+---
+
+## General Deployment & Delivery Requirements
 
 ### 🔹 Build Pipeline
 

@@ -1,9 +1,4 @@
 ---
-description: 
-globs: 
-alwaysApply: true
----
----
 description: High-level project overview and rule index
 alwaysApply: true
 tags: [project, overview, index]
@@ -11,17 +6,19 @@ tags: [project, overview, index]
 - Provide a concise **project overview** that outlines objectives and scope.
 - Use clear, action-oriented language to guide both the AI and developers.
 - Link to other rule components for detailed guidance:
-  - [context.mdc](mdc:context.mdc) – project context and AI usage rules:contentReference[oaicite:0]{index=0}.
-  - [stakeholders.mdc](mdc:stakeholders.mdc) – stakeholders, value, goals, and use case rules:contentReference[oaicite:1]{index=1}.
-  - [architecture.mdc](mdc:architecture.mdc) – architecture, design and documentation standards:contentReference[oaicite:2]{index=2}.
-- Use internal markdown links (`[file.mdc](mdc:file.mdc)`) for navigation and referencing:contentReference[oaicite:3]{index=3}.
+  - [context.mdc](mdc:context.mdc) – project context and AI usage rules.
+  - [stakeholders.mdc](mdc:stakeholders.mdc) – stakeholders, value, goals, and use case rules.
+  - [architecture.mdc](mdc:architecture.mdc) – architecture, design and documentation standards.
+  - [n8n-project.mdc](mdc:n8n-project.mdc) – n8n-workflow-all-templates project specifics.
+- Use internal markdown links (`[file.mdc](mdc:file.mdc)`) for navigation and referencing.
 
 - Keep this entry concise: it should *always* apply (set `alwaysApply: true`) to introduce the project rules to the AI.
 
-# Project Initialization Rules
+# n8n-workflow-all-templates Project Rules
 
 ## Overview
-This document defines the standard procedures and requirements for initializing new projects and components within the framework.
+
+This project is a collection of 7400+ n8n workflow JSON templates with a Next.js explorer (Browse + Templates) and Python scraper. See [n8n-project.mdc](mdc:n8n-project.mdc) for full project details.
 
 ## Tags
 - setup
@@ -29,189 +26,73 @@ This document defines the standard procedures and requirements for initializing 
 - project-structure
 - bootstrap
 
-## Rule Type: Mandatory
-
 ## Project Setup
 
 ### 1. Repository Structure
 ```
-project/
-├── src/                    # Source code
-│   ├── components/         # React components
-│   ├── hooks/             # Custom React hooks
-│   ├── utils/             # Utility functions
-│   ├── services/          # API services
-│   ├── types/             # TypeScript types
-│   └── styles/            # Global styles
-├── tests/                 # Test files
-├── docs/                  # Documentation
-├── scripts/               # Build and utility scripts
-└── config/                # Configuration files
+n8n-workflow-all-templates/
+├── explorer/                    # Next.js app (Browse + Templates)
+│   ├── src/
+│   │   ├── app/                 # Browse, Templates routes
+│   │   ├── components/          # TemplateCard, WorkflowViewer, etc.
+│   │   ├── hooks/               # useIndexTemplates, useTemplateSearch
+│   │   ├── lib/                 # supabase, n8n-to-reactflow
+│   │   └── types/
+│   └── public/
+│       └── templates-index.json # Static index for Browse (generated)
+├── scripts/
+│   ├── scraper/                 # Python scraper
+│   │   ├── run.py               # Sync from api.n8n.io
+│   │   ├── run_local.py         # Load from local JSON
+│   │   └── upload_to_supabase.py
+│   ├── build-index.js
+│   └── copy-index.js
+├── n8n-workflow-all-templates/  # 7400+ workflow JSON files
+└── webapp/                      # Legacy Vite app
 ```
 
-### 2. Required Configuration Files
-- `package.json` - Project dependencies and scripts
-- `tsconfig.json` - TypeScript configuration
-- `.eslintrc.js` - ESLint rules
-- `.prettierrc` - Code formatting rules
-- `jest.config.js` - Testing configuration
-- `.env.example` - Environment variables template
-- `README.md` - Project documentation
+### 2. Key Configuration Files
+- Root `package.json` – scripts: build:index, copy:index, dev, scrape, scrape:local
+- `explorer/package.json` – Next.js app
+- `explorer/.env.local.example` – Supabase env vars for Templates
+- `scripts/scraper/.env.example` – Supabase env vars for scraper
+- `README.md` – project documentation
+- `explorer/README.md` – explorer setup and deploy
 
-### 3. Dependencies
-- Core dependencies must be pinned to specific versions
-- Development dependencies should use caret (^) for minor updates
-- Security-critical dependencies must be audited regularly
+### 3. References
+- [README.md](../../README.md) – project root
+- [explorer/README.md](../../explorer/README.md) – explorer setup
 
-## Component Initialization
+## Component Initialization (Explorer)
 
 ### 1. Component Structure
 ```typescript
-// Component template
+// Example: explorer component
 import React from 'react';
-import styles from './Component.module.css';
 
-interface IComponentProps {
-  // Props definition
+interface TemplateCardProps {
+  template: IndexTemplate;
+  onSelect?: () => void;
 }
 
-export const Component: React.FC<IComponentProps> = ({ prop1, prop2 }) => {
-  // Component logic
+export function TemplateCard({ template, onSelect }: TemplateCardProps) {
   return (
-    <div className={styles.container}>
+    <div className="template-card">
+      <h3>{template.name}</h3>
       {/* Component JSX */}
     </div>
   );
-};
-
-export default Component;
-```
-
-### 2. Required Files
-- Component file (`.tsx`)
-- Style module (`.module.css`)
-- Test file (`.spec.tsx`)
-- Index file (`.ts`)
-
-## Service Initialization
-
-### 1. API Service Structure
-```typescript
-// Service template
-import { AxiosInstance } from 'axios';
-
-export class Service {
-  private client: AxiosInstance;
-
-  constructor(client: AxiosInstance) {
-    this.client = client;
-  }
-
-  // Service methods
 }
 ```
 
-### 2. Required Files
-- Service class file (`.ts`)
-- Service interface file (`.ts`)
-- Test file (`.spec.ts`)
-
-## Testing Setup
-
-### 1. Test Structure
-```typescript
-// Test template
-import { render, screen } from '@testing-library/react';
-import { Component } from './Component';
-
-describe('Component', () => {
-  it('should render correctly', () => {
-    // Test implementation
-  });
-});
-```
-
-### 2. Required Test Files
-- Unit tests for utilities
-- Component tests for UI
-- Integration tests for services
-- E2E tests for critical flows
-
-## Documentation Requirements
-
-### 1. README Structure
-```markdown
-# Project Name
-
-## Overview
-Brief description of the project
-
-## Setup
-Installation and setup instructions
-
-## Usage
-How to use the project
-
-## Development
-Development guidelines
-
-## Testing
-Testing instructions
-
-## Contributing
-Contribution guidelines
-```
-
-### 2. Required Documentation
-- API documentation
-- Component documentation
-- Setup instructions
-- Development guidelines
-
-## Examples
-
-### ✅ Good Practice
-```typescript
-// Proper component initialization
-import React from 'react';
-import styles from './UserProfile.module.css';
-
-interface IUserProfileProps {
-  userId: string;
-  displayName: string;
-}
-
-export const UserProfile: React.FC<IUserProfileProps> = ({
-  userId,
-  displayName,
-}) => {
-  return (
-    <div className={styles.container}>
-      <h1>{displayName}</h1>
-    </div>
-  );
-};
-
-export default UserProfile;
-```
-
-### ❌ Bad Practice
-```typescript
-// Improper component initialization
-import React from 'react';
-
-const UserProfile = ({ id, name }) => {
-  return (
-    <div>
-      <h1>{name}</h1>
-    </div>
-  );
-};
-
-export default UserProfile;
-```
+### 2. Explorer Conventions
+- Components in `explorer/src/components/`
+- Hooks in `explorer/src/hooks/`
+- Types in `explorer/src/types/`
+- Use existing patterns from TemplateCard, WorkflowViewer, etc.
 
 ## Related Rules
+- [n8n-project.mdc](mdc:n8n-project.mdc)
 - [Code Conventions](dev/conventions.mdc)
 - [Testing Standards](dev/testing-standards.mdc)
 - [Architecture Standards](architecture.mdc)

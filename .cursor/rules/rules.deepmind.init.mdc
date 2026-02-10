@@ -116,11 +116,8 @@ required_files:
     purpose: "High-level project overview and setup"
     content: "Goals, tech stack, setup instructions, usage examples"
     format: "Markdown with detailed sections"
-    
-  instructions.md:
-    purpose: "Complete project requirements for Cursor"
-    content: "Setup instructions, API overview, development guidelines"
-    format: "Markdown with maximum detail for AI consumption"
+
+  # n8n-workflow-all-templates: also see explorer/README.md for explorer setup and deploy
 ```
 
 #### 2. Architecture Documentation
@@ -133,14 +130,8 @@ architecture_docs:
     - Data flow diagrams
     - Dependency mappings
     - Service boundaries
-    
-  example: |
-    ```mermaid
-    graph TD
-      A[AuthService] --> B[UserService]
-      B --> C[Database]
-      A --> D[TokenService]
-    ```
+
+  # n8n-workflow-all-templates: explorer → scraper → Supabase flow; see architecture.mdc
 ```
 
 ## 🏗️ Structured Metadata Standards

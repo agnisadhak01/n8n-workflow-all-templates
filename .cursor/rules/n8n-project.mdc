@@ -1,0 +1,69 @@
+---
+description: Project-specific rules for n8n-workflow-all-templates
+alwaysApply: true
+tags: [n8n, templates, explorer, scraper, supabase]
+---
+
+# n8n-workflow-all-templates Project
+
+## Overview
+
+Collection of 7400+ n8n workflow JSON templates with a Next.js explorer and Python scraper. Two ways to browse: **Browse** (static index, tags, download) and **Templates** (Supabase-backed search, node-type filters, React Flow preview).
+
+## Tech Stack
+
+- **Explorer**: Next.js (TypeScript), React Flow for workflow preview, Vercel deployment
+- **Scraper**: Python 3.x, Supabase client
+- **Database**: Supabase (`templates`, `node_types` tables)
+- **Legacy**: Vite webapp in `webapp/` (Browse behavior merged into Next.js)
+
+## Project Structure
+
+```
+n8n-workflow-all-templates/
+├── explorer/                    # Next.js app (Browse + Templates)
+│   ├── src/
+│   │   ├── app/                 # Browse, Templates routes
+│   │   ├── components/          # TemplateCard, WorkflowViewer, etc.
+│   │   ├── hooks/               # useIndexTemplates, useTemplateSearch
+│   │   ├── lib/                 # supabase, n8n-to-reactflow
+│   │   └── types/
+│   └── public/
+│       └── templates-index.json # Static index for Browse (generated)
+├── scripts/
+│   ├── scraper/                 # Python scraper
+│   │   ├── run.py               # Sync from api.n8n.io
+│   │   ├── run_local.py         # Load from local JSON
+│   │   └── upload_to_supabase.py
+│   ├── build-index.js           # Build templates-index.json
+│   └── copy-index.js            # Copy index to explorer/public
+├── n8n-workflow-all-templates/  # 7400+ workflow JSON files
+└── webapp/                      # Legacy Vite app
+```
+
+## Key Scripts (from repo root)
+
+| Script | Purpose |
+|--------|---------|
+| `npm run build:index` | Build templates-index.json from workflow files |
+| `npm run copy:index` | Copy index to explorer/public |
+| `npm run dev` | Run Next.js explorer (cd explorer && npm run dev) |
+| `npm run scrape` | Sync from api.n8n.io to Supabase |
+| `npm run scrape:local` | Load local JSON into Supabase |
+| `npm run enrich:metadata` | AI-assisted metadata enrichment |
+
+## Supabase Schema
+
+- **templates**: id, name, description, category, tags, workflow_json, source_url, etc.
+- **node_types**: node_type, template_id (join table)
+- RLS: public read on templates and node_types; writes via service role key (scraper only).
+
+## Environment Variables
+
+- **Explorer** (`explorer/.env.local`): `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`
+- **Scraper** (`scripts/scraper/.env`): `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` (optional: `OPENAI_API_KEY` for AI categorization)
+
+## References
+
+- [README.md](../../README.md) – project root
+- [explorer/README.md](../../explorer/README.md) – explorer setup and deploy

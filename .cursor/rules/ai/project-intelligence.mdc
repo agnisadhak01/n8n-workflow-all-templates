@@ -94,6 +94,21 @@ recommendation_engine:
         long_term: ["Gradual modernization", "Architecture evolution", "Technical debt reduction"]
 ```
 
+### n8n Template Project Archetype
+```yaml
+n8n_template_project:
+  indicators:
+    - explorer/ with Next.js (package.json, next.config)
+    - scripts/scraper/ with Python
+    - n8n-workflow-all-templates/ with JSON files
+    - Supabase references in env examples
+  stack: [Next.js, Python, Supabase]
+  recommendations:
+    - Run build:index + copy:index for Browse
+    - Configure Supabase env vars for Templates and scraper
+    - See n8n-project.mdc for project specifics
+```
+
 ## 🔍 Intelligent Analysis Patterns
 
 ### Technology Stack Intelligence

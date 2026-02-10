@@ -1,9 +1,15 @@
 ---
-description: 
-globs: 
+description: Testing stage checklists
 alwaysApply: true
+tags: [checklist, testing]
 ---
 # Testing Stage Checklists
+
+## n8n-workflow-all-templates Specific
+
+- **Explorer**: Jest or Vitest (see explorer/package.json)
+- **Scraper**: pytest
+- Validate: Browse loads templates-index.json; Templates search works with Supabase
 
 ## Unit Testing
 ```yaml

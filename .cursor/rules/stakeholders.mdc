@@ -1,20 +1,81 @@
 ---
-description: 
-globs: 
-alwaysApply: true
----
----
 description: Define stakeholders, project value, goals, use cases, and functional requirements
 alwaysApply: true
 tags: [stakeholders, requirements, use-cases, gherkin]
 ---
 - Identify key **stakeholders** and beneficiaries, describing each role and their needs.
-- Clarify the project’s core **value proposition** and high-level goals.
+- Clarify the project's core **value proposition** and high-level goals.
 - List major **use cases** or user stories (e.g., "As a [role], I want [capability] so that [benefit]").
-- Use **Gherkin syntax** (`Scenario:`, `Given/When/Then`) for functional requirements to ensure clarity and stakeholder understanding:contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}. For example:
-    Scenario: User logs in successfully  
-      Given a registered user is on the login page  
-      When they submit valid credentials  
-      Then they are redirected to their dashboard  
+- Use **Gherkin syntax** (`Scenario:`, `Given/When/Then`) for functional requirements to ensure clarity and stakeholder understanding.
+- Write Gherkin scenarios in plain language so both technical and non-technical stakeholders can follow the behavior specification.
 
-- Write Gherkin scenarios in plain language so both technical and non-technical stakeholders can follow the behavior specification:contentReference[oaicite:10]{index=10}.
+# n8n-workflow-all-templates Stakeholders
+
+## Value Proposition
+
+Provide the most comprehensive collection of n8n workflow templates (7400+), with two ways to discover and use them: static Browse (tags, download) and Supabase-backed Templates (search, node-type filters, workflow preview).
+
+## Stakeholders
+
+### 1. Template Consumers (n8n users)
+- **Need**: Find and reuse n8n workflow templates for automation
+- **Interest**: High – primary users
+- **Use**: Browse by tags, search by text/node type, preview workflow, download JSON
+
+### 2. Contributors
+- **Need**: Maintain and grow the template collection
+- **Interest**: Medium
+- **Use**: Run scraper, enrich metadata, add templates to repo
+
+### 3. Developers
+- **Need**: Work on explorer or scraper effectively
+- **Interest**: High
+- **Use**: Build index, run dev server, run scraper, deploy to Vercel
+
+## Use Cases
+
+- **As a** template consumer, **I want** to filter templates by tags **so that** I can find workflows for specific integrations.
+- **As a** template consumer, **I want** to search by text and node type **so that** I can find workflows using particular n8n nodes.
+- **As a** template consumer, **I want** to view a workflow preview **so that** I understand the structure before importing.
+- **As a** template consumer, **I want** to download JSON or ZIP **so that** I can import into n8n.
+- **As a** developer, **I want** to run the scraper **so that** Supabase stays in sync with the template source.
+
+## Gherkin Scenarios
+
+### Browse Page
+```
+Scenario: Filter templates by tag
+  Given I am on the Browse page
+  When I select a tag from the filter
+  Then I see only templates that have that tag
+  And I can download individual JSON or full ZIP
+
+Scenario: Sort templates
+  Given I am on the Browse page
+  When I choose a sort option (name, id, tags, popularity)
+  Then the template list is reordered accordingly
+```
+
+### Templates Page (Supabase)
+```
+Scenario: Search templates by text
+  Given I am on the Templates page
+  When I enter search text
+  Then I see templates matching the search
+  And I can filter by node type
+
+Scenario: View workflow preview
+  Given I am on a template detail page
+  When the page loads
+  Then I see a React Flow visualization of the workflow
+  And I can copy the JSON with one click
+```
+
+### Scraper
+```
+Scenario: Sync from n8n API
+  Given the scraper has valid Supabase credentials
+  When I run npm run scrape
+  Then templates are fetched from api.n8n.io
+  And uploaded to Supabase
+```

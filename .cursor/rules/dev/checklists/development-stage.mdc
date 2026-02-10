@@ -1,9 +1,15 @@
 ---
-description: 
-globs: 
+description: Development stage checklists
 alwaysApply: true
+tags: [checklist, development]
 ---
 # Development Stage Checklists
+
+## n8n-workflow-all-templates Specific
+
+- [ ] Index built: `npm run build:index && npm run copy:index` so Browse has templates-index.json
+- [ ] Explorer env: `explorer/.env.local` with Supabase vars for Templates page
+- [ ] Scraper env: `scripts/scraper/.env` with Supabase credentials for `npm run scrape`
 
 ## Requirements & Planning
 ```yaml

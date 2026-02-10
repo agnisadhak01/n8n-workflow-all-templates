@@ -7,6 +7,12 @@ alwaysApply: true
 
 This checklist provides a high-level overview of development requirements. For detailed checklists and tracking, refer to the [Checklist Management System](mdc:dev/checklist-management.mdc).
 
+## n8n-workflow-all-templates Specific
+
+- [ ] `templates-index.json` exists in `explorer/public/` for Browse (run `npm run build:index && npm run copy:index`)
+- [ ] Supabase env vars set for Templates page: `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`
+- [ ] Scraper `.env` configured with `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` (for `npm run scrape`)
+
 ## 🔧 Development Stage
 
 ### Requirements & Planning

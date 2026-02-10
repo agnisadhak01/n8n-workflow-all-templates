@@ -41,25 +41,31 @@ alwaysApply: true
 - **Constants**: UPPER_SNAKE_CASE (e.g., `MAX_RETRY_COUNT`)
 - **Variables**: camelCase (e.g., `userProfile`)
 
-### TypeScript Specific
+### TypeScript Specific (explorer)
 ```typescript
-// Interfaces
-interface UserProfile {
-  id: string;
-  name: string;
-  email: string;
+// Interfaces – use project entities
+interface TemplateCardProps {
+  template: IndexTemplate;
+  onSelect?: () => void;
 }
 
 // Type aliases
-type UserRole = 'admin' | 'user' | 'guest';
+type SortOption = 'name-asc' | 'name-desc' | 'tags-asc';
 
 // Enums
-enum Status {
-  Active = 'active',
-  Inactive = 'inactive',
-  Pending = 'pending'
+enum TemplateSource {
+  Browse = 'browse',
+  Supabase = 'supabase',
 }
 ```
+
+### Python Specific (scripts/scraper)
+- **Files**: snake_case.py (e.g., `ai_categorizer.py`, `upload_to_supabase.py`)
+- **Functions**: snake_case (e.g., `fetch_listing`, `normalize_tags`)
+- **Classes**: PascalCase
+- **Constants**: UPPER_SNAKE_CASE
+- Linting: Ruff
+- Formatting: Black
 
 ## 🔍 Linting and Formatting
 
@@ -97,17 +103,16 @@ enum Status {
 - Test edge cases and error scenarios
 
 ```typescript
-describe('UserService', () => {
-  it('should create a new user', async () => {
+describe('TemplateCard', () => {
+  it('should render template name', () => {
     // Arrange
-    const userData = { name: 'Test User', email: 'test@example.com' };
+    const template = { id: '1', name: 'Test Workflow', filename: 'test.json', rawUrl: '', tags: [] };
     
     // Act
-    const result = await userService.createUser(userData);
+    render(<TemplateCard template={template} />);
     
     // Assert
-    expect(result).toHaveProperty('id');
-    expect(result.name).toBe(userData.name);
+    expect(screen.getByText('Test Workflow')).toBeInTheDocument();
   });
 });
 ```

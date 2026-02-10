@@ -22,6 +22,7 @@ immediate_assessment:
   technology_identification:
     question: "What files do you see in the project root?"
     patterns:
+      - "explorer/ + scripts/scraper/ + n8n-workflow-all-templates/" → "n8n Template Project (see n8n-project.mdc)"
       - "package.json" → "JavaScript/Node.js project"
       - "requirements.txt, *.py" → "Python project"
       - "pom.xml, *.java" → "Java project"
@@ -124,6 +125,14 @@ new_project_short_term:
       - "Environment variable template"
     validation: "Development environment standardized"
 ```
+
+## n8n Template Project Quick Wins
+
+If this is n8n-workflow-all-templates (explorer + scraper + Supabase):
+- Run `npm run build:index && npm run copy:index` so Browse has templates-index.json
+- Run `npm run scrape` or `npm run scrape:local` to sync Supabase
+- Verify Supabase connection: check explorer/.env.local and scripts/scraper/.env
+- See [n8n-project.mdc](mdc:n8n-project.mdc) for full project details
 
 ## 🔧 Existing Project Enhancement
 

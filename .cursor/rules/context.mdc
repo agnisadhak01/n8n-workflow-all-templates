@@ -1,28 +1,23 @@
 ---
-description: 
-globs: 
-alwaysApply: true
----
----
 description: Emphasize project context and prevent AI hallucinations
 alwaysApply: true
 tags: [context, hallucination, mcp, symbols]
 ---
-- Emphasize that *context* (user intent + existing code state) is the foundation of effective AI coding:contentReference[oaicite:4]{index=4}.
-- Provide relevant project context explicitly to reduce hallucinations (lack of context leads to unpredictable results:contentReference[oaicite:5]{index=5}).
+- Emphasize that *context* (user intent + existing code state) is the foundation of effective AI coding.
+- Provide relevant project context explicitly to reduce hallucinations (lack of context leads to unpredictable results).
 - Use `@`-symbols to include code context precisely:
   - `@file <path>` to add a specific file into the context.
   - `@folder <path>/` to include all files in a folder.
   - `@code <symbol>` to include a specific function, class, or variable.
-  These surgical references ensure the agent focuses on the right code:contentReference[oaicite:6]{index=6}.
-- Integrate the Model Context Protocol (MCP) to pull in external resources (e.g., documentation, issue trackers) for rich text-based context:contentReference[oaicite:7]{index=7}.
+  These surgical references ensure the agent focuses on the right code.
+- Integrate the Model Context Protocol (MCP) to pull in external resources (e.g., documentation, issue trackers) for rich text-based context.
 
 - Keep key **textual documentation** (design docs, READMEs, API specs) in the repo so Cursor can ingest it as context when relevant.
 
 # Project Context Rules
 
 ## Overview
-This document defines the project's domain context, business rules, and architectural boundaries to ensure consistent understanding across the team.
+This document defines the project's domain context, business rules, and architectural boundaries for n8n-workflow-all-templates.
 
 ## Tags
 - domain
@@ -36,160 +31,90 @@ This document defines the project's domain context, business rules, and architec
 
 ### 1. Core Entities
 ```typescript
-// User Domain
-interface IUser {
-  id: string;
-  email: string;
-  role: UserRole;
-  preferences: UserPreferences;
-}
-
-// Product Domain
-interface IProduct {
+// Template Domain (from Supabase)
+interface ITemplate {
   id: string;
   name: string;
-  price: number;
-  category: ProductCategory;
+  description: string | null;
+  category: string | null;
+  tags: string[] | null;
+  workflow_json: object;  // n8n workflow JSON
+  node_types: string[];  // n8n node types used
+  source_url?: string | null;
 }
 
-// Order Domain
-interface IOrder {
+// Index Template (static Browse)
+interface IndexTemplate {
   id: string;
-  userId: string;
-  products: OrderItem[];
-  status: OrderStatus;
+  name: string;
+  filename: string;
+  rawUrl: string;
+  tags: string[];
+}
+
+// Node Type (n8n node, join table)
+interface INodeType {
+  node_type: string;
+  template_id: string;
 }
 ```
 
 ### 2. Domain Relationships
-- Users can have multiple Orders
-- Orders contain multiple Products
-- Products belong to Categories
-- Users have Preferences
+- Templates have many NodeTypes (many-to-many via node_types table)
+- IndexTemplate is a flattened view for static Browse
+- Templates come from api.n8n.io or local JSON; Supabase is the canonical store
 
 ## Business Rules
 
-### 1. User Management
-- Email addresses must be unique
-- Passwords must meet security requirements
-- User roles determine access levels
-- User preferences are optional
+### 1. Template Metadata
+- category, tags, node_types must be consistent with n8n schema
+- Empty category → NULL; tags normalized to plain names
+- node_type trimmed and deduplicated
 
-### 2. Product Management
-- Products must have unique names
-- Prices must be positive numbers
-- Products must belong to a category
-- Product inventory must be tracked
+### 2. Scraper
+- Sync from api.n8n.io (run.py) or local JSON (run_local.py)
+- Supabase is the canonical store
+- Use SUPABASE_SERVICE_ROLE_KEY for writes; never expose in client
 
-### 3. Order Processing
-- Orders must have at least one product
-- Orders must be associated with a user
-- Order status follows a defined workflow
-- Orders cannot be modified after completion
+### 3. Browse vs Templates
+- **Browse**: static `templates-index.json`; filter by tags, download ZIP/JSON
+- **Templates**: Supabase search by text and node type; workflow preview via React Flow; copy JSON
 
 ## Architectural Boundaries
 
 ### 1. Service Boundaries
 ```
-services/
-├── user-service/      # User management
-├── product-service/   # Product catalog
-├── order-service/     # Order processing
-└── auth-service/      # Authentication
+explorer/           # Next.js app – Browse (static) + Templates (Supabase)
+scripts/scraper/    # Python – fetch, normalize, upload to Supabase
+Supabase            # templates, node_types; RLS read-only for client
 ```
 
 ### 2. Data Access
-- Each service owns its data
-- Cross-service data access through APIs
-- No direct database access between services
-- Caching at service boundaries
+- Explorer reads from templates-index.json (Browse) or Supabase (Templates)
+- Scraper writes to Supabase via service role
+- No direct DB access from explorer; use Supabase client
 
 ### 3. Integration Points
-- REST APIs for service communication
-- Event-driven updates for real-time features
-- Message queues for async operations
-- WebSocket for live updates
+- n8n API: api.n8n.io for template listing and details
+- Supabase: REST/PostgREST for templates and node_types
 
 ## Implementation Guidelines
 
-### 1. Service Implementation
-```typescript
-// Service interface
-interface IUserService {
-  createUser(user: IUser): Promise<IUser>;
-  getUser(id: string): Promise<IUser>;
-  updateUser(id: string, user: Partial<IUser>): Promise<IUser>;
-  deleteUser(id: string): Promise<void>;
-}
+### 1. Explorer (TypeScript)
+- Use Supabase client from `explorer/src/lib/supabase.ts`
+- Use n8n-to-reactflow for workflow visualization
+- Types in `explorer/src/types/`
 
-// Service implementation
-class UserService implements IUserService {
-  // Implementation
-}
-```
+### 2. Scraper (Python)
+- Use Supabase Python client
+- State and config in `scripts/scraper/`
 
-### 2. API Implementation
-```typescript
-// API endpoint
-@Controller('users')
-class UserController {
-  @Post()
-  async createUser(@Body() user: IUser): Promise<IUser> {
-    // Implementation
-  }
-}
-```
-
-### 3. Event Handling
-```typescript
-// Event handler
-@EventHandler('user.created')
-async function handleUserCreated(event: UserCreatedEvent): Promise<void> {
-  // Implementation
-}
-```
-
-## Examples
-
-### ✅ Good Practice
-```typescript
-// Proper domain model usage
-class OrderService {
-  async createOrder(userId: string, products: OrderItem[]): Promise<IOrder> {
-    // Validate user exists
-    const user = await this.userService.getUser(userId);
-    
-    // Validate products
-    await this.validateProducts(products);
-    
-    // Create order
-    return this.orderRepository.create({
-      userId,
-      products,
-      status: OrderStatus.PENDING
-    });
-  }
-}
-```
-
-### ❌ Bad Practice
-```typescript
-// Improper domain model usage
-class OrderService {
-  async createOrder(userId: string, products: any[]): Promise<any> {
-    // Direct database access
-    const order = await db.orders.create({
-      userId,
-      products,
-      status: 'pending'
-    });
-    
-    return order;
-  }
-}
-```
+### 3. JSON Workflows
+- Stored in `n8n-workflow-all-templates/**/*.json`
+- Format follows n8n workflow JSON schema
 
 ## Related Rules
 - [Architecture Standards](architecture.mdc)
+- [n8n-project.mdc](mdc:n8n-project.mdc)
 - [Security Rules](compliance/security-rules.mdc)
 - [Code Conventions](dev/conventions.mdc)

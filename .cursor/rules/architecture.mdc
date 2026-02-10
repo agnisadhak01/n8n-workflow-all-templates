@@ -1,28 +1,68 @@
 ---
-description: 
-globs: 
-alwaysApply: true
----
----
 description: Define code architecture, AI rule types, documentation, and metadata standards
 alwaysApply: true
 tags: [architecture, design, standards, documentation, metadata]
 ---
 - **Rule File Structure:** Classify each rule by type via frontmatter:
-  - **Always:** `alwaysApply: true` – rule is always included in context:contentReference[oaicite:11]{index=11}.
-  - **Auto:** specify `globs` (file pattern) with `alwaysApply: false` – rule auto-attaches when relevant files are referenced:contentReference[oaicite:12]{index=12}.
-  - **Agent-requested:** provide a `description` (no globs) – Cursor decides if/when to include the rule:contentReference[oaicite:13]{index=13}.
-  - **Manual:** no triggers in frontmatter – rule is only used when explicitly referenced via `@rule-name.mdc`:contentReference[oaicite:14]{index=14}.
+  - **Always:** `alwaysApply: true` – rule is always included in context.
+  - **Auto:** specify `globs` (file pattern) with `alwaysApply: false` – rule auto-attaches when relevant files are referenced.
+  - **Agent-requested:** provide a `description` (no globs) – Cursor decides if/when to include the rule.
+  - **Manual:** no triggers in frontmatter – rule is only used when explicitly referenced via `@rule-name.mdc`.
 - **Code & Project Structure:** Maintain clear architecture and conventions:
   - Organize code into logical modules or layers with consistent naming.
   - Use semantic naming (classes, functions, directories) and comments to clarify intent for both developers and AI.
-  - Keep each rule file concise (under ~500 lines) and split large guidelines into multiple rules:contentReference[oaicite:15]{index=15}.
+  - Keep each rule file concise (under ~500 lines) and split large guidelines into multiple rules.
 - **Diagrams & Documentation:** Include architecture documentation as code:
-  - Use Mermaid or PlantUML (text-based formats) to describe system architecture, enabling version control:contentReference[oaicite:16]{index=16}.
-  - Automate documentation generation in CI/CD so docs stay synchronized with code changes:contentReference[oaicite:17]{index=17}.
-  - Follow semantic conventions in docs: expand acronyms on first use and include links to related standards or RFCs:contentReference[oaicite:18]{index=18}.
+  - Use Mermaid or PlantUML (text-based formats) to describe system architecture.
+  - Follow semantic conventions in docs: expand acronyms on first use.
 - **Metadata & Tags:** Embed metadata for machine-interpretability:
   - Add `tags: [...]` in rule frontmatter to categorize rules and improve AI retrieval.
-  - Use consistent YAML frontmatter and semantic headings in all Markdown documentation.
 
-  - Ensure all documentation and metadata are version-controlled and integrated into the CI/CD pipeline for continuous updates.
+## n8n-workflow-all-templates Architecture
+
+### Polyglot Structure
+
+- **explorer/** – Next.js (TypeScript), App Router, React Flow for workflow preview
+- **scripts/scraper/** – Python 3.x, Supabase client, n8n API client
+- **webapp/** – Legacy Vite app (Browse behavior merged into Next.js)
+
+### Architecture Diagram
+
+```mermaid
+flowchart TB
+    subgraph sources [Data Sources]
+        N8nAPI[api.n8n.io]
+        LocalJSON[n8n-workflow-all-templates JSON]
+    end
+
+    subgraph scraper [Python Scraper]
+        Run[run.py / run_local.py]
+        Normalize[normalize.py]
+        Upload[upload_to_supabase.py]
+    end
+
+    subgraph supabase [Supabase]
+        Templates[templates]
+        NodeTypes[node_types]
+    end
+
+    subgraph explorer [Next.js Explorer]
+        Browse[Browse - static index]
+        TemplatesPage[Templates - Supabase search]
+        BuildIndex[build-index.js]
+    end
+
+    N8nAPI --> Run
+    LocalJSON --> Run
+    Run --> Normalize --> Upload --> Templates
+    Upload --> NodeTypes
+    LocalJSON --> BuildIndex
+    BuildIndex --> Browse
+    Templates --> TemplatesPage
+    NodeTypes --> TemplatesPage
+```
+
+### Key Paths
+
+- [explorer/](../../explorer/) – Next.js app
+- [scripts/scraper/](../../scripts/scraper/) – Python scraper

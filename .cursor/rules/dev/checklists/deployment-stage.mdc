@@ -1,9 +1,15 @@
 ---
-description: 
-globs: 
+description: Deployment stage checklists
 alwaysApply: true
+tags: [checklist, deployment]
 ---
 # Deployment Stage Checklists
+
+## n8n-workflow-all-templates: Vercel Deploy
+
+- [ ] Run `npm run build:index && npm run copy:index` before deploy (or in CI) so Browse has templates-index.json
+- [ ] Set `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` in Vercel
+- [ ] Root directory: `explorer` (or deploy explorer folder only)
 
 ## Pre-Deployment
 ```yaml

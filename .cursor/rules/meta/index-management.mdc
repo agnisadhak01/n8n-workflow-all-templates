@@ -133,6 +133,7 @@ The index file (`index-rules.mdc`) must be updated in the following scenarios:
 | Category              | File                                     | Description                                                  | Always Active |
 |-----------------------|------------------------------------------|--------------------------------------------------------------|---------------|
 | 🔧 Project Setup       | `init.mdc`                               | Entry point for rule awareness and rule linking               | ✅            |
+| 📦 n8n Project         | `n8n-project.mdc`                        | n8n-workflow-all-templates specifics (explorer, scraper, Supabase) | ✅       |
 | 🧠 AI Behavior         | `ai/ai-behavior.mdc`                     | Rules for code autonomy, safety, and generation scopes        | ✅            |
 | 🧠 Prompting           | `ai/prompting-patterns.mdc`              | Context-first prompting and example templates                 | ✅            |
 | 🔁 AI Execution        | `ai/action-execution.mdc`                | Standardized implementation, validation, and monitoring       | ✅            |

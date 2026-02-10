@@ -32,6 +32,7 @@ Each rule file defines a unique layer of knowledge. All are modular, structured,
 | [`stakeholders.mdc`](mdc:stakeholders.mdc) | Defines personas, business needs, and use case logic        | `alwaysApply`   | `value`, `gherkin`, `personas`        |
 | [`architecture.mdc`](mdc:architecture.mdc) | Core architecture principles and patterns | `alwaysApply`   | `architecture`, `design`                |
 | [`rules.deepmind.init.mdc`](mdc:rules.deepmind.init.mdc) | DeepMind initialization rules | `alwaysApply`   | `init`, `deepmind`                |
+| [`n8n-project.mdc`](mdc:n8n-project.mdc) | n8n-workflow-all-templates project specifics (explorer, scraper, Supabase) | `alwaysApply`   | `n8n`, `templates`, `explorer`                |
 | [`adaptation-guide.mdc`](mdc:adaptation-guide.mdc) | Guide for adapting DeepMind rules to any project | `manual`   | `adaptation`, `implementation`                |
 | [`universal-bootstrap.mdc`](mdc:universal-bootstrap.mdc) | Instant project assessment and actionable steps for any project state | `alwaysApply`   | `bootstrap`, `quick-start`, `adaptive`                |
 | [`optimization-engine.mdc`](mdc:optimization-engine.mdc) | Unified optimization engine that consolidates and streamlines the universal ruleset | `alwaysApply`   | `optimization`, `consolidation`, `efficiency`                |

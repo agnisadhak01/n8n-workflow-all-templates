@@ -1,219 +1,119 @@
 ---
-description: 
-globs: 
+description: Guide for new team members and AI assistants
 alwaysApply: true
+tags: [onboarding, getting-started, development, guidelines]
 ---
+
 # Onboarding Guide
 
 ## Overview
-This document provides comprehensive guidance for new team members and AI assistants to understand and work with the project effectively.
-
-## Tags
-- onboarding
-- getting-started
-- development
-- guidelines
-
-## Rule Type: Mandatory
+Guidance for new team members and AI assistants to work with n8n-workflow-all-templates effectively.
 
 ## Project Setup
 
 ### 1. Prerequisites
 - Node.js (v16 or higher)
+- Python 3.x (for scraper)
 - Git
 - IDE (VS Code recommended)
-- Docker (for local development)
-- Required browser extensions
 
 ### 2. Initial Setup
 ```bash
 # Clone repository
 git clone [repository-url]
+cd n8n-workflow-all-templates
 
-# Install dependencies
-npm install
+# Install explorer dependencies
+cd explorer && npm install && cd ..
 
-# Set up environment
-cp .env.example .env
-
-# Start development server
-npm run dev
+# Build static index for Browse (required)
+npm run build:index
+npm run copy:index
 ```
 
-### 3. Development Tools
-- ESLint for code linting
-- Prettier for code formatting
-- Jest for testing
-- Cypress for E2E testing
-- Docker for containerization
+### 3. Environment Variables
+
+**Explorer** (for Templates page with Supabase):
+```bash
+cp explorer/.env.local.example explorer/.env.local
+# Set NEXT_PUBLIC_SUPABASE_URL and NEXT_PUBLIC_SUPABASE_ANON_KEY
+```
+
+**Scraper** (for syncing to Supabase):
+```bash
+cp scripts/scraper/.env.example scripts/scraper/.env
+# Set SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY
+```
+
+### 4. Run Development
+```bash
+npm run dev   # Runs Next.js explorer from root
+```
+
+### 5. Scraper (optional)
+```bash
+npm run scrape        # Sync from api.n8n.io
+npm run scrape:local  # Load from local n8n-workflow-all-templates/*.json
+```
 
 ## Project Structure
 
-### 1. Directory Layout
 ```
-project/
-├── src/                    # Source code
-│   ├── components/         # React components
-│   ├── hooks/             # Custom React hooks
-│   ├── utils/             # Utility functions
-│   ├── services/          # API services
-│   ├── types/             # TypeScript types
-│   └── styles/            # Global styles
-├── tests/                 # Test files
-├── docs/                  # Documentation
-├── scripts/               # Build and utility scripts
-└── config/                # Configuration files
+n8n-workflow-all-templates/
+├── explorer/                    # Next.js app
+│   ├── src/
+│   │   ├── app/                 # Browse, Templates routes
+│   │   ├── components/          # TemplateCard, WorkflowViewer, etc.
+│   │   ├── hooks/               # useIndexTemplates, useTemplateSearch
+│   │   ├── lib/                 # supabase, n8n-to-reactflow
+│   │   └── types/
+│   └── public/
+│       └── templates-index.json # Must exist for Browse
+├── scripts/scraper/             # Python scraper
+├── n8n-workflow-all-templates/  # 7400+ workflow JSON files
+└── webapp/                      # Legacy Vite app
 ```
 
-### 2. Key Files
-- `package.json` - Project dependencies
-- `tsconfig.json` - TypeScript configuration
-- `.eslintrc.js` - ESLint rules
-- `.prettierrc` - Code formatting rules
-- `jest.config.js` - Testing configuration
+## Key Files
+- `package.json` – root scripts (build:index, copy:index, dev, scrape)
+- `explorer/package.json` – Next.js app
+- `explorer/eslint.config.mjs` – ESLint
+- `scripts/scraper/requirements.txt` – Python dependencies
 
 ## Development Workflow
 
-### 1. Branch Strategy
-- `main` - Production code
-- `develop` - Development branch
-- `feature/*` - Feature branches
-- `bugfix/*` - Bug fix branches
-- `release/*` - Release branches
+### Branch Strategy
+- `main` – Production code
+- `feature/*` – Feature branches
+- `bugfix/*` – Bug fix branches
 
-### 2. Commit Guidelines
+### Commit Guidelines
 ```
 type(scope): description
-
-[optional body]
-
-[optional footer]
 ```
-
-Types:
-- feat: New feature
-- fix: Bug fix
-- docs: Documentation
-- style: Formatting
-- refactor: Code restructuring
-- test: Testing
-- chore: Maintenance
-
-### 3. Pull Request Process
-1. Create feature branch
-2. Implement changes
-3. Write tests
-4. Update documentation
-5. Create pull request
-6. Address review comments
-7. Merge to develop
+Types: feat, fix, docs, style, refactor, test, chore
 
 ## Testing
-
-### 1. Running Tests
-```bash
-# Unit tests
-npm test
-
-# E2E tests
-npm run test:e2e
-
-# Coverage report
-npm run test:coverage
-```
-
-### 2. Test Structure
-- Unit tests in `__tests__` directories
-- E2E tests in `cypress` directory
-- Integration tests in `tests/integration`
+- Explorer: Jest or Vitest (see explorer package.json)
+- Scraper: pytest
 
 ## Documentation
-
-### 1. Code Documentation
-- JSDoc for functions
-- README for components
-- API documentation
-- Architecture diagrams
-
-### 2. Project Documentation
-- Setup instructions
-- Development guidelines
-- Deployment process
-- Troubleshooting guide
+- [README.md](../../README.md) – project root
+- [explorer/README.md](../../explorer/README.md) – explorer setup and deploy
 
 ## Common Tasks
 
-### 1. Adding a New Component
-```typescript
-// 1. Create component file
-// src/components/NewComponent.tsx
-import React from 'react';
-import styles from './NewComponent.module.css';
+### Adding an Explorer Component
+- Create in `explorer/src/components/`
+- Follow patterns from TemplateCard, WorkflowViewer
+- Types in `explorer/src/types/`
 
-interface INewComponentProps {
-  // Props definition
-}
-
-export const NewComponent: React.FC<INewComponentProps> = (props) => {
-  // Implementation
-};
-
-// 2. Create style file
-// src/components/NewComponent.module.css
-.container {
-  // Styles
-}
-
-// 3. Create test file
-// src/components/__tests__/NewComponent.spec.tsx
-import { render, screen } from '@testing-library/react';
-import { NewComponent } from '../NewComponent';
-
-describe('NewComponent', () => {
-  it('should render correctly', () => {
-    // Test implementation
-  });
-});
-```
-
-### 2. Adding a New API Endpoint
-```typescript
-// 1. Create service
-// src/services/NewService.ts
-export class NewService {
-  // Implementation
-}
-
-// 2. Create controller
-// src/controllers/NewController.ts
-@Controller('new')
-export class NewController {
-  // Implementation
-}
-
-// 3. Add tests
-// src/services/__tests__/NewService.spec.ts
-describe('NewService', () => {
-  // Test implementation
-});
-```
-
-## Troubleshooting
-
-### 1. Common Issues
-- Build failures
-- Test failures
-- Environment setup
-- Dependency issues
-
-### 2. Debugging
-- Using browser dev tools
-- Using VS Code debugger
-- Reading logs
-- Using test debugger
+### Running the Scraper
+- Ensure `scripts/scraper/.env` has Supabase credentials
+- `npm run scrape` for API sync, `npm run scrape:local` for local JSON
 
 ## Related Rules
+- [n8n-project.mdc](../n8n-project.mdc)
 - [Code Conventions](conventions.mdc)
 - [Testing Standards](testing-standards.mdc)
-
 - [AI Behavior Guidelines](../ai/ai-behavior.mdc)
