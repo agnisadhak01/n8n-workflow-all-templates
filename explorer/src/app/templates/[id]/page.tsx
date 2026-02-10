@@ -24,7 +24,7 @@ export default async function TemplateDetailPage({ params }: { params: Promise<{
   }
   const { data: template, error } = await supabase
     .from("templates")
-    .select("*")
+    .select("*, template_stacks:template_stacks(stacks:stacks(slug,label))")
     .eq("id", id)
     .single();
   if (error || !template) notFound();
@@ -51,6 +51,25 @@ export default async function TemplateDetailPage({ params }: { params: Promise<{
                 </span>
               ))}
             </div>
+            {Array.isArray(template.template_stacks) && template.template_stacks.length > 0 && (
+              <div className="mt-2 flex flex-wrap gap-2">
+                {template.template_stacks.map((ts: any) => {
+                  const stack = ts.stacks as { slug: string; label: string } | null;
+                  if (!stack) return null;
+                  const params = new URLSearchParams();
+                  params.set("stacks", stack.slug);
+                  return (
+                    <a
+                      key={stack.slug}
+                      href={`/templates?${params.toString()}`}
+                      className="rounded-md bg-emerald-900/40 px-2 py-0.5 text-sm text-emerald-200 hover:bg-emerald-800/60"
+                    >
+                      {stack.label}
+                    </a>
+                  );
+                })}
+              </div>
+            )}
           </div>
           <JsonExportButton json={raw} />
         </div>

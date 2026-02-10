@@ -10,10 +10,11 @@ export function useTemplates(
   query: string,
   nodeTypes: string[],
   tags: string[],
+  stacks: string[],
   page: number
 ): { data: Template[]; total: number; isLoading: boolean; error: Error | null } {
   const { data, isLoading, error } = useQuery({
-    queryKey: ["templates", query, nodeTypes.join(","), tags.join(","), page],
+    queryKey: ["templates", query, nodeTypes.join(","), tags.join(","), stacks.join(","), page],
     queryFn: async () => {
       if (!supabase) return { rows: [], total: 0 };
       let templateIds: string[] | null = null;
@@ -26,9 +27,35 @@ export function useTemplates(
         if (ids.length === 0) return { rows: [], total: 0 };
         templateIds = ids;
       }
+      if (stacks.length > 0) {
+        const { data: stackRows } = await supabase
+          .from("stacks")
+          .select("id,slug")
+          .in("slug", stacks);
+        const stackIds = [...new Set((stackRows ?? []).map((r: { id: string }) => r.id))];
+        if (stackIds.length === 0) return { rows: [], total: 0 };
+        const { data: linkRows } = await supabase
+          .from("template_stacks")
+          .select("template_id, stack_id")
+          .in("stack_id", stackIds);
+        const requiredCount = stackIds.length;
+        const byTemplate: Record<string, Set<string>> = {};
+        for (const r of (linkRows ?? []) as { template_id: string; stack_id: string }[]) {
+          if (!byTemplate[r.template_id]) byTemplate[r.template_id] = new Set();
+          byTemplate[r.template_id].add(r.stack_id);
+        }
+        const matchingTemplateIds = Object.entries(byTemplate)
+          .filter(([, set]) => set.size === requiredCount)
+          .map(([template_id]) => template_id);
+        if (matchingTemplateIds.length === 0) return { rows: [], total: 0 };
+        templateIds = templateIds ? templateIds.filter((id) => matchingTemplateIds.includes(id)) : matchingTemplateIds;
+        if (templateIds.length === 0) return { rows: [], total: 0 };
+      }
       let q = supabase
         .from("templates")
-        .select("id,source_id,title,description,category,tags,nodes,source_url", { count: "exact" });
+        .select("id,source_id,title,description,category,tags,nodes,source_url,template_stacks:template_stacks(stacks:stacks(slug,label))", {
+          count: "exact",
+        });
       if (templateIds?.length) q = q.in("id", templateIds);
       if (tags.length > 0) {
         // exact tag-set matching: template.tags must contain and be contained by selected tags
@@ -42,7 +69,14 @@ export function useTemplates(
         .range(from, from + PAGE_SIZE - 1)
         .order("updated_at", { ascending: false });
       if (e) throw e;
-      return { rows: rows ?? [], total: count ?? 0 };
+      const mappedRows =
+        (rows ?? []).map((row: any) => ({
+          ...row,
+          stacks: (row.template_stacks ?? [])
+            .map((ts: any) => ts.stacks)
+            .filter(Boolean),
+        })) ?? [];
+      return { rows: mappedRows, total: count ?? 0 };
     },
     enabled: !!supabase,
   });
@@ -93,6 +127,40 @@ export function useTemplateTags(): { tag: string; count: number }[] {
         .sort((a, b) => {
           if (b.count !== a.count) return b.count - a.count;
           return a.tag.localeCompare(b.tag);
+        });
+    },
+    enabled: !!supabase,
+  });
+  return data ?? [];
+}
+
+export function useStacks(): { slug: string; label: string; count: number }[] {
+  const { data } = useQuery({
+    queryKey: ["stacks"],
+    queryFn: async () => {
+      if (!supabase) return [];
+      const { data: stacks, error: stacksError } = await supabase
+        .from("stacks")
+        .select("id, slug, label");
+      if (stacksError || !stacks) return [];
+      const { data: links, error: linksError } = await supabase
+        .from("template_stacks")
+        .select("template_id, stack_id");
+      if (linksError || !links) return [];
+      const counts = new Map<string, number>();
+      for (const link of links as { template_id: string; stack_id: string }[]) {
+        counts.set(link.stack_id, (counts.get(link.stack_id) ?? 0) + 1);
+      }
+      return (stacks as { id: string; slug: string; label: string }[])
+        .map((s) => ({
+          slug: s.slug,
+          label: s.label,
+          count: counts.get(s.id) ?? 0,
+        }))
+        .filter((s) => s.count > 0)
+        .sort((a, b) => {
+          if (b.count !== a.count) return b.count - a.count;
+          return a.label.localeCompare(b.label);
         });
     },
     enabled: !!supabase,

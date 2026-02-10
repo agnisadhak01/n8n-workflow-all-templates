@@ -11,16 +11,28 @@ function getNodeTypeLabels(nodes: unknown[]): string[] {
   return [...types].slice(0, 6);
 }
 
-export function TemplateCard({ template }: { template: Pick<Template, "id" | "title" | "description" | "tags" | "nodes"> }) {
+export function TemplateCard({
+  template,
+}: {
+  template: Pick<Template, "id" | "title" | "description" | "tags" | "nodes" | "stacks">;
+}) {
   const router = useRouter();
   const labels = getNodeTypeLabels(template.nodes ?? []);
   const tags = (template.tags ?? []).slice(0, 4);
+  const stacks = (template.stacks ?? []).slice(0, 3);
   const desc = template.description?.replace(/\s+/g, " ").slice(0, 120);
 
   const handleTagClick = (tag: string, e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
     const params = new URLSearchParams();
     params.set("tags", tag);
+    router.push(`/templates?${params.toString()}`);
+  };
+
+  const handleStackClick = (slug: string, e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    const params = new URLSearchParams();
+    params.set("stacks", slug);
     router.push(`/templates?${params.toString()}`);
   };
 
@@ -40,6 +52,16 @@ export function TemplateCard({ template }: { template: Pick<Template, "id" | "ti
             className="rounded bg-zinc-800 px-2 py-0.5 text-xs text-zinc-400 hover:bg-zinc-700"
           >
             {tag}
+          </button>
+        ))}
+        {stacks.map((stack) => (
+          <button
+            key={stack.slug}
+            type="button"
+            onClick={(e) => handleStackClick(stack.slug, e)}
+            className="rounded bg-emerald-900/40 px-2 py-0.5 text-xs text-emerald-200 hover:bg-emerald-800/60"
+          >
+            {stack.label}
           </button>
         ))}
         {labels.map((l) => (

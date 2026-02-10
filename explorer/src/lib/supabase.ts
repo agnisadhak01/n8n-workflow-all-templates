@@ -17,4 +17,5 @@ export type Template = {
   source_url: string | null;
   created_at: string;
   updated_at: string;
+  stacks?: { slug: string; label: string }[];
 };

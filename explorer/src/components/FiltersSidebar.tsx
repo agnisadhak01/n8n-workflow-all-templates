@@ -2,13 +2,14 @@
 
 import { useRouter, useSearchParams } from "next/navigation";
 import { useMemo, useState } from "react";
-import { useNodeTypes, useTemplateTags } from "@/hooks/useTemplateSearch";
+import { useNodeTypes, useTemplateTags, useStacks } from "@/hooks/useTemplateSearch";
 
 export function FiltersSidebar() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const nodeTypes = useNodeTypes();
   const templateTags = useTemplateTags();
+  const stacks = useStacks();
   const selectedNodeTypes = useMemo(
     () => new Set(searchParams.get("nodeType")?.split(",").filter(Boolean) ?? []),
     [searchParams]
@@ -17,7 +18,12 @@ export function FiltersSidebar() {
     () => new Set(searchParams.get("tags")?.split(",").filter(Boolean) ?? []),
     [searchParams]
   );
+  const selectedStacks = useMemo(
+    () => new Set(searchParams.get("stacks")?.split(",").filter(Boolean) ?? []),
+    [searchParams]
+  );
   const [tagSearch, setTagSearch] = useState("");
+  const [stackSearch, setStackSearch] = useState("");
 
   const toggleNodeType = (nodeType: string) => {
     const next = new Set(selectedNodeTypes);
@@ -43,12 +49,29 @@ export function FiltersSidebar() {
     router.push(`/templates?${nextParams.toString()}`, { scroll: false });
   };
 
+  const toggleStack = (slug: string) => {
+    const next = new Set(selectedStacks);
+    if (next.has(slug)) next.delete(slug);
+    else next.add(slug);
+    const nextParams = new URLSearchParams(searchParams.toString());
+    const val = [...next].join(",");
+    if (val) nextParams.set("stacks", val);
+    else nextParams.delete("stacks");
+    nextParams.delete("page");
+    router.push(`/templates?${nextParams.toString()}`, { scroll: false });
+  };
+
   const filteredTags = (tagSearch.trim()
     ? templateTags.filter((t) => t.tag.toLowerCase().includes(tagSearch.toLowerCase()))
     : templateTags
   ).slice(0, 100);
 
-  if (nodeTypes.length === 0 && templateTags.length === 0) {
+  const filteredStacks = (stackSearch.trim()
+    ? stacks.filter((s) => s.label.toLowerCase().includes(stackSearch.toLowerCase()))
+    : stacks
+  ).slice(0, 100);
+
+  if (nodeTypes.length === 0 && templateTags.length === 0 && stacks.length === 0) {
     return (
       <div className="rounded-lg border border-zinc-800 bg-zinc-900/50 p-4">
         <h3 className="text-sm font-medium text-zinc-400">Filters</h3>
@@ -106,6 +129,36 @@ export function FiltersSidebar() {
           ))}
         </div>
       </div>
+
+      {stacks.length > 0 && (
+        <div className="mt-6">
+          <h3 className="text-sm font-medium text-zinc-400">Stacks</h3>
+          <input
+            type="text"
+            value={stackSearch}
+            onChange={(e) => setStackSearch(e.target.value)}
+            placeholder="Filter stacks…"
+            className="mt-2 w-full rounded border border-zinc-700 bg-zinc-800 px-2 py-1 text-xs text-zinc-100 placeholder:text-zinc-500 focus:border-emerald-500 focus:outline-none"
+          />
+          <div className="mt-2 flex max-h-40 flex-wrap gap-1 overflow-y-auto">
+            {filteredStacks.map(({ slug, label, count }) => (
+              <button
+                key={slug}
+                type="button"
+                onClick={() => toggleStack(slug)}
+                className={`rounded px-2 py-0.5 text-xs ${
+                  selectedStacks.has(slug)
+                    ? "bg-emerald-900/60 font-medium text-emerald-300"
+                    : "bg-zinc-800 text-zinc-400 hover:bg-zinc-700"
+                }`}
+                title={`${count} templates`}
+              >
+                {label} ({count})
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
