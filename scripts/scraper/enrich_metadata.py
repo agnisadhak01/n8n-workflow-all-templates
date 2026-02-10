@@ -16,7 +16,7 @@ from typing import Any, Dict, List
 
 import requests
 
-from normalize import normalize_from_api_payload
+from normalize import normalize_from_api_payload, derive_category_from_tags_and_text
 from upload_to_supabase import get_client
 
 
@@ -140,6 +140,15 @@ def enrich() -> None:
 
                 derived_tags = _derive_keyword_tags(norm.get("title") or "", norm.get("description") or "")
                 merged_tags = _merge_tags(normalized_tags, derived_tags)
+
+                if not normalized_category:
+                    fallback_category = derive_category_from_tags_and_text(
+                        merged_tags,
+                        norm.get("title") or "",
+                        norm.get("description") or "",
+                    )
+                    if fallback_category:
+                        normalized_category = fallback_category
 
                 update_data: Dict[str, Any] = {}
                 if normalized_category and normalized_category != (row.get("category") or ""):
