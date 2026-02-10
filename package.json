@@ -9,6 +9,7 @@
     "build:explorer": "cd explorer && npm run build",
     "dev": "cd explorer && npm run dev",
     "scrape": "cd scripts/scraper && python run.py",
-    "scrape:local": "cd scripts/scraper && python run_local.py"
+    "scrape:local": "cd scripts/scraper && python run_local.py",
+    "enrich:metadata": "cd scripts/scraper && python enrich_metadata.py"
   }
 }
