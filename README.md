@@ -1,21 +1,62 @@
 # n8n-workflow-all-templates
-7439+ N8N Workflow Collection，n8n-workflow-all-templates，Most comprehensive.
-synchronized and updated every 2 months.
-## sync site:
+
+[![Templates](https://img.shields.io/badge/templates-7439%2B-blue)](.) [![n8n](https://img.shields.io/badge/n8n-workflow-green)](https://n8n.io) [![Documentation](https://img.shields.io/badge/docs-available-brightgreen)](docs/README.md)
+
+The most comprehensive collection of n8n workflow templates (7,439+), with a Next.js explorer and Python scraper. Synchronized and updated every 2 months.
+
+## Documentation
+
+Full documentation is available in the [`/docs`](docs/README.md) directory:
+
+| Document | Description |
+|----------|-------------|
+| [Getting Started](docs/getting-started.md) | Quick start for developers |
+| [Setup](docs/setup.md) | Configuration and environment |
+| [Architecture](docs/architecture.md) | System design and data flow |
+| [API Reference](docs/api-reference.md) | Components and hooks |
+| [Deployment](docs/deployment.md) | Vercel and CI/CD |
+| [Contributing](docs/contributing.md) | Contribution guidelines |
+| [Troubleshooting](docs/troubleshooting.md) | Common issues |
+
+## Sync Sites
 - gitee :  [n8n-workflow-all-templates](https://gitee.com/zengfr/n8n-workflow-all-templates)
 - github : [n8n-workflow-all-templates](https://github.com/zengfr/n8n-workflow-all-templates)
 
-## Template Explorer (single platform)
+## Template Explorer
+
 One Next.js app with two ways to browse templates:
 
-- **Browse** (`/browse`): Static index (tags, service groups, sort). Download JSON or ZIP from the repo index. Run `npm run build:index` then `npm run copy:index` so `explorer/public/templates-index.json` exists.
-- **Templates** (`/templates`): Supabase-backed search by text and node type, workflow preview (React Flow), and one-click JSON copy.
+| Mode | Route | Description |
+|------|-------|-------------|
+| **Browse** | `/browse` | Static index with tags, service groups, sort. Download JSON or ZIP. No Supabase required. |
+| **Templates** | `/templates` | Supabase-backed search, node-type filters, React Flow preview, one-click JSON copy. |
 
-- **Dev:** `npm run dev` – Next.js app at http://localhost:3000 (from repo root).
-- **Data:** For Browse, run `npm run build:index` and `npm run copy:index`. For Templates, configure Supabase (see `explorer/.env.local.example`) and run `npm run scrape` or `npm run scrape:local`.
-- **Deploy:** Deploy the `explorer` folder to Vercel; set `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`. For Browse, include `templates-index.json` in `explorer/public` (e.g. run `copy:index` in CI).
+### Quick Start
 
-See [explorer/README.md](explorer/README.md) for details.
+```bash
+npm install
+npm run build:index && npm run copy:index
+npm run dev
+```
+
+Open http://localhost:3000. Browse works immediately. For Templates, configure Supabase and run `npm run scrape` or `npm run scrape:local` (see [docs/setup.md](docs/setup.md)).
+
+### Commands
+
+| Command | Purpose |
+|---------|---------|
+| `npm run dev` | Start Next.js explorer at http://localhost:3000 |
+| `npm run build:index` | Build templates-index.json |
+| `npm run copy:index` | Copy index to explorer/public |
+| `npm run scrape` | Sync from api.n8n.io to Supabase |
+| `npm run scrape:local` | Load local JSON into Supabase |
+| `npm run enrich:metadata` | AI-assisted metadata enrichment |
+
+### Deploy
+
+Deploy the `explorer` folder to Vercel. Set `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`. For Browse, include `templates-index.json` (run `copy:index` in CI). See [docs/deployment.md](docs/deployment.md) for details.
+
+See [explorer/README.md](explorer/README.md) for explorer-specific setup.
 
 ### Supabase templates data quality (after large scrapes)
 After running the scraper, you can run these in the Supabase SQL editor to check data quality:

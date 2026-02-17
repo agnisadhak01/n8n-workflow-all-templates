@@ -2,6 +2,8 @@
 
 Single Next.js app: **Browse** (static index, tags/services, download ZIP) and **Templates** (Supabase search, node-type filters, React Flow preview, copy JSON).
 
+For full project documentation, see the [main docs](../docs/README.md).
+
 ## Setup
 
 1. **Browse page**
