@@ -1,8 +1,8 @@
 ---
-description: Define stakeholders, project value, goals, use cases, and functional requirements
-alwaysApply: true
-tags: [stakeholders, requirements, use-cases, gherkin]
+description: Stakeholders, value proposition, use cases, and Gherkin scenarios for n8n-workflow-all-templates
+alwaysApply: false
 ---
+
 - Identify key **stakeholders** and beneficiaries, describing each role and their needs.
 - Clarify the project's core **value proposition** and high-level goals.
 - List major **use cases** or user stories (e.g., "As a [role], I want [capability] so that [benefit]").

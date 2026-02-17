@@ -1,6 +1,6 @@
 ---
 description: High-level project overview and rule index
-alwaysApply: true
+alwaysApply: false
 tags: [project, overview, index]
 ---
 - Provide a concise **project overview** that outlines objectives and scope.

@@ -1,7 +1,7 @@
 ---
-description: 
+description: Patterns and best practices for AI prompting and context-first interaction
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # Prompting Patterns
 

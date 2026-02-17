@@ -1,7 +1,7 @@
 ---
-description: 
+description: Standards for AI behavior, autonomy boundaries, and interaction safety
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # AI Behavior Guidelines
 

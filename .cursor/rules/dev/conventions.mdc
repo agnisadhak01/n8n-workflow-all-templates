@@ -1,7 +1,7 @@
 ---
-description: 
+description: Code and naming conventions for TypeScript and Python
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # Coding Conventions and Standards
 

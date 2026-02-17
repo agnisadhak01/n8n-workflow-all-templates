@@ -1,7 +1,7 @@
 ---
-description: 
+description: Unified optimization engine for the universal ruleset
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # Universal Ruleset Optimization Engine
 

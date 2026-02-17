@@ -1,9 +1,13 @@
 ---
-description: 
+description: Guidelines for maintaining and updating the project rules index
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # Index Management and Update Rules
+
+## Attach Type Policy
+
+Only **index-rules.mdc** has `alwaysApply: true` (it is the single always-active rule). All other rules use `alwaysApply: false` and are **Agent-requested**: the agent decides when to load them based on context. When updating the index or adding rules, use Attach Type `Agent-requested` for every rule except the index itself.
 
 ## 🔄 When to Update the Index
 
@@ -36,7 +40,7 @@ The index file (`index-rules.mdc`) must be updated in the following scenarios:
 ### Category Name
 | Rule File                           | Purpose                                                            | Attach Type     | Tags                                 |
 |------------------------------------|--------------------------------------------------------------------|------------------|----------------------------------------|
-| [`path/to/rule.mdc`](mdc:path/to/rule.mdc) | Clear, concise description of rule's purpose | `alwaysApply`   | `tag1`, `tag2`, `tag3`                |
+| [`path/to/rule.mdc`](mdc:path/to/rule.mdc) | Clear, concise description of rule's purpose | Agent-requested   | `tag1`, `tag2`, `tag3`                |
 ```
 
 ### 2. Update Process
@@ -72,7 +76,7 @@ The index file (`index-rules.mdc`) must be updated in the following scenarios:
 
 ### Rule Entry Format
 ```markdown
-| [`path/to/rule.mdc`](mdc:path/to/rule.mdc) | Purpose description | `alwaysApply` | `tag1`, `tag2` |
+| [`path/to/rule.mdc`](mdc:path/to/rule.mdc) | Purpose description | Agent-requested | `tag1`, `tag2` |
 ```
 
 ### Purpose Description

@@ -1,11 +1,11 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+description: Comprehensive standards for AI-interpretable documentation and project initialization
+alwaysApply: false
 ---
+
 ---
 description: "Comprehensive standards for AI-interpretable documentation and project initialization within Cursor AI workflows"
-alwaysApply: true
+alwaysApply: false
 tags: ["initialization", "documentation", "ai-context", "cursor-rules", "project-setup"]
 author: "DeepMind Standards Team"
 version: "1.0.0"

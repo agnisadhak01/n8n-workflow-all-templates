@@ -1,7 +1,7 @@
 ---
-description: 
+description: Guide for adapting DeepMind rules to any project
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # DeepMind Rules Adaptation Guide
 

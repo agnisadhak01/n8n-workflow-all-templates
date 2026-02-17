@@ -11,10 +11,11 @@ export function useTemplates(
   nodeTypes: string[],
   tags: string[],
   stacks: string[],
+  categories: string[],
   page: number
 ): { data: Template[]; total: number; isLoading: boolean; error: Error | null } {
   const { data, isLoading, error } = useQuery({
-    queryKey: ["templates", query, nodeTypes.join(","), tags.join(","), stacks.join(","), page],
+    queryKey: ["templates", query, nodeTypes.join(","), tags.join(","), stacks.join(","), categories.join(","), page],
     queryFn: async () => {
       if (!supabase) return { rows: [], total: 0 };
       let templateIds: string[] | null = null;
@@ -60,6 +61,9 @@ export function useTemplates(
       if (tags.length > 0) {
         // exact tag-set matching: template.tags must contain and be contained by selected tags
         q = q.contains("tags", tags).containedBy("tags", tags);
+      }
+      if (categories.length > 0) {
+        q = q.in("category", categories);
       }
       if (query.trim()) {
         q = q.textSearch("search_vector", query.trim(), { type: "websearch", config: "english" });
@@ -161,6 +165,30 @@ export function useStacks(): { slug: string; label: string; count: number }[] {
         .sort((a, b) => {
           if (b.count !== a.count) return b.count - a.count;
           return a.label.localeCompare(b.label);
+        });
+    },
+    enabled: !!supabase,
+  });
+  return data ?? [];
+}
+
+export function useTemplateCategories(): { category: string; count: number }[] {
+  const { data } = useQuery({
+    queryKey: ["templateCategories"],
+    queryFn: async () => {
+      if (!supabase) return [];
+      const { data: rows, error } = await supabase.from("templates").select("category");
+      if (error || !rows) return [];
+      const counts = new Map<string, number>();
+      for (const row of rows as { category: string | null }[]) {
+        const cat = row.category?.trim();
+        if (cat) counts.set(cat, (counts.get(cat) ?? 0) + 1);
+      }
+      return Array.from(counts.entries())
+        .map(([category, count]) => ({ category, count }))
+        .sort((a, b) => {
+          if (b.count !== a.count) return b.count - a.count;
+          return a.category.localeCompare(b.category);
         });
     },
     enabled: !!supabase,

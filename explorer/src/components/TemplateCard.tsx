@@ -14,13 +14,21 @@ function getNodeTypeLabels(nodes: unknown[]): string[] {
 export function TemplateCard({
   template,
 }: {
-  template: Pick<Template, "id" | "title" | "description" | "tags" | "nodes" | "stacks">;
+  template: Pick<Template, "id" | "title" | "description" | "category" | "tags" | "nodes" | "stacks">;
 }) {
   const router = useRouter();
   const labels = getNodeTypeLabels(template.nodes ?? []);
   const tags = (template.tags ?? []).slice(0, 4);
   const stacks = (template.stacks ?? []).slice(0, 3);
+  const category = template.category?.trim();
   const desc = template.description?.replace(/\s+/g, " ").slice(0, 120);
+
+  const handleCategoryClick = (cat: string, e: React.MouseEvent<HTMLButtonElement>) => {
+    e.preventDefault();
+    const params = new URLSearchParams();
+    params.set("category", cat);
+    router.push(`/templates?${params.toString()}`);
+  };
 
   const handleTagClick = (tag: string, e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
@@ -44,6 +52,15 @@ export function TemplateCard({
       <h3 className="font-semibold text-zinc-100 line-clamp-1">{template.title}</h3>
       {desc && <p className="mt-1 text-sm text-zinc-400 line-clamp-2">{desc}</p>}
       <div className="mt-3 flex flex-wrap gap-1.5">
+        {category && (
+          <button
+            type="button"
+            onClick={(e) => handleCategoryClick(category, e)}
+            className="rounded bg-amber-900/40 px-2 py-0.5 text-xs text-amber-200 hover:bg-amber-800/60"
+          >
+            {category}
+          </button>
+        )}
         {tags.map((tag) => (
           <button
             key={tag}

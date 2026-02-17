@@ -1,6 +1,6 @@
 ---
 description: Testing stage checklists
-alwaysApply: true
+alwaysApply: false
 tags: [checklist, testing]
 ---
 # Testing Stage Checklists

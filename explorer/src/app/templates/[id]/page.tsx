@@ -41,6 +41,16 @@ export default async function TemplateDetailPage({ params }: { params: Promise<{
             {template.description && (
               <p className="mt-2 max-w-2xl text-zinc-400 line-clamp-2">{template.description}</p>
             )}
+            {template.category && (
+              <div className="mt-2">
+                <a
+                  href={`/templates?${new URLSearchParams({ category: String(template.category) }).toString()}`}
+                  className="rounded-md bg-amber-900/40 px-2 py-0.5 text-sm text-amber-200 hover:bg-amber-800/60"
+                >
+                  {template.category}
+                </a>
+              </div>
+            )}
             <div className="mt-2 flex flex-wrap gap-2">
               {(template.tags as string[] || []).slice(0, 8).map((tag) => (
                 <span

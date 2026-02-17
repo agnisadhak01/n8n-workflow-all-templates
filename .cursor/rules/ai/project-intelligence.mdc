@@ -1,7 +1,7 @@
 ---
-description: 
+description: AI-driven project assessment and adaptive guidance for any stage
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # Project Intelligence & Adaptive Guidance System
 

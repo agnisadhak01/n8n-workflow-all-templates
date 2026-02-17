@@ -1,7 +1,7 @@
 ---
-description: 
+description: Standards for executing implementations and quality assurance
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # Action Execution Rules
 

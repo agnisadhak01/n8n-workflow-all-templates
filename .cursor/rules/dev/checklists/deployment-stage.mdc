@@ -1,6 +1,6 @@
 ---
 description: Deployment stage checklists
-alwaysApply: true
+alwaysApply: false
 tags: [checklist, deployment]
 ---
 # Deployment Stage Checklists

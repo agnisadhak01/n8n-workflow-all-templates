@@ -1,7 +1,7 @@
 ---
-description: 
+description: Guidelines for maintaining the rule changelog
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # 📝 Rule Change Log
 

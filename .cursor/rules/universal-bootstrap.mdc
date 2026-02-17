@@ -1,7 +1,6 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+description: Instant project assessment and actionable steps for any project state
+alwaysApply: false
 ---
 # Universal Project Bootstrap
 

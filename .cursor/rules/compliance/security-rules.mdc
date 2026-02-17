@@ -1,7 +1,7 @@
 ---
-description: 
+description: Security requirements, data protection, and sensitive information handling
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # Security Rules
 

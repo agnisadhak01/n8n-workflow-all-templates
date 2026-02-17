@@ -1,6 +1,6 @@
 ---
 description: Development stage checklists
-alwaysApply: true
+alwaysApply: false
 tags: [checklist, development]
 ---
 # Development Stage Checklists

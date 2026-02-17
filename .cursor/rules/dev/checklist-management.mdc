@@ -1,7 +1,7 @@
 ---
-description: 
+description: Checklist structure and management for dev/test/deploy stages
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # Checklist Management System
 

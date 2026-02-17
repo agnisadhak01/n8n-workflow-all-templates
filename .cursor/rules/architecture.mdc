@@ -1,6 +1,6 @@
 ---
 description: Define code architecture, AI rule types, documentation, and metadata standards
-alwaysApply: true
+alwaysApply: false
 tags: [architecture, design, standards, documentation, metadata]
 ---
 - **Rule File Structure:** Classify each rule by type via frontmatter:

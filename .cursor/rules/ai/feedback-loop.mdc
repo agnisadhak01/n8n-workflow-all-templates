@@ -1,7 +1,7 @@
 ---
-description: 
+description: AI feedback loop for rule refinements and escalation
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # 🔁 AI Feedback Loop
 

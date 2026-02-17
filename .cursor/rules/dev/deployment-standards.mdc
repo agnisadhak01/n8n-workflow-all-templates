@@ -1,6 +1,6 @@
 ---
 description: Deployment and delivery standards
-alwaysApply: true
+alwaysApply: false
 tags: [deployment, ci-cd, vercel]
 ---
 # Deployment and Delivery Standards

@@ -1,7 +1,7 @@
 ---
-description: 
+description: Development process and requirements checklist
 globs: 
-alwaysApply: true
+alwaysApply: false
 ---
 # Development Checklist
 

@@ -1,6 +1,6 @@
 ---
 description: Project-specific rules for n8n-workflow-all-templates
-alwaysApply: true
+alwaysApply: false
 tags: [n8n, templates, explorer, scraper, supabase]
 ---
 
@@ -8,7 +8,7 @@ tags: [n8n, templates, explorer, scraper, supabase]
 
 ## Overview
 
-Collection of 7400+ n8n workflow JSON templates with a Next.js explorer and Python scraper. Two ways to browse: **Browse** (static index, tags, download) and **Templates** (Supabase-backed search, node-type filters, React Flow preview).
+Collection of 7400+ n8n workflow JSON templates with a Next.js explorer and Python scraper. Two ways to browse: **Browse** (static index, tags, download) and **Templates** (Supabase-backed search, node-type/tag/stack/category filters, React Flow preview).
 
 ## Tech Stack
 
@@ -54,9 +54,11 @@ n8n-workflow-all-templates/
 
 ## Supabase Schema
 
-- **templates**: id, name, description, category, tags, workflow_json, source_url, etc.
+- **templates**: id, source_id, title, description, category, tags, nodes, source_url, etc.
 - **node_types**: node_type, template_id (join table)
-- RLS: public read on templates and node_types; writes via service role key (scraper only).
+- **stacks**: id, slug, label (optional; for stack filtering)
+- **template_stacks**: template_id, stack_id (join table; link templates to stacks)
+- RLS: public read on templates, node_types, stacks, template_stacks; writes via service role key (scraper only).
 
 ## Environment Variables
 

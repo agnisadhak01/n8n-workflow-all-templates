@@ -2,7 +2,7 @@
 
 import { useRouter, useSearchParams } from "next/navigation";
 import { useMemo, useState } from "react";
-import { useNodeTypes, useTemplateTags, useStacks } from "@/hooks/useTemplateSearch";
+import { useNodeTypes, useTemplateTags, useStacks, useTemplateCategories } from "@/hooks/useTemplateSearch";
 
 export function FiltersSidebar() {
   const router = useRouter();
@@ -10,6 +10,7 @@ export function FiltersSidebar() {
   const nodeTypes = useNodeTypes();
   const templateTags = useTemplateTags();
   const stacks = useStacks();
+  const templateCategories = useTemplateCategories();
   const selectedNodeTypes = useMemo(
     () => new Set(searchParams.get("nodeType")?.split(",").filter(Boolean) ?? []),
     [searchParams]
@@ -22,8 +23,13 @@ export function FiltersSidebar() {
     () => new Set(searchParams.get("stacks")?.split(",").filter(Boolean) ?? []),
     [searchParams]
   );
+  const selectedCategories = useMemo(
+    () => new Set(searchParams.get("category")?.split(",").filter(Boolean) ?? []),
+    [searchParams]
+  );
   const [tagSearch, setTagSearch] = useState("");
   const [stackSearch, setStackSearch] = useState("");
+  const [categorySearch, setCategorySearch] = useState("");
 
   const toggleNodeType = (nodeType: string) => {
     const next = new Set(selectedNodeTypes);
@@ -61,6 +67,18 @@ export function FiltersSidebar() {
     router.push(`/templates?${nextParams.toString()}`, { scroll: false });
   };
 
+  const toggleCategory = (category: string) => {
+    const next = new Set(selectedCategories);
+    if (next.has(category)) next.delete(category);
+    else next.add(category);
+    const nextParams = new URLSearchParams(searchParams.toString());
+    const val = [...next].join(",");
+    if (val) nextParams.set("category", val);
+    else nextParams.delete("category");
+    nextParams.delete("page");
+    router.push(`/templates?${nextParams.toString()}`, { scroll: false });
+  };
+
   const filteredTags = (tagSearch.trim()
     ? templateTags.filter((t) => t.tag.toLowerCase().includes(tagSearch.toLowerCase()))
     : templateTags
@@ -71,7 +89,12 @@ export function FiltersSidebar() {
     : stacks
   ).slice(0, 100);
 
-  if (nodeTypes.length === 0 && templateTags.length === 0 && stacks.length === 0) {
+  const filteredCategories = (categorySearch.trim()
+    ? templateCategories.filter((c) => c.category.toLowerCase().includes(categorySearch.toLowerCase()))
+    : templateCategories
+  ).slice(0, 100);
+
+  if (nodeTypes.length === 0 && templateTags.length === 0 && stacks.length === 0 && templateCategories.length === 0) {
     return (
       <div className="rounded-lg border border-zinc-800 bg-zinc-900/50 p-4">
         <h3 className="text-sm font-medium text-zinc-400">Filters</h3>
@@ -154,6 +177,36 @@ export function FiltersSidebar() {
                 title={`${count} templates`}
               >
                 {label} ({count})
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {templateCategories.length > 0 && (
+        <div className="mt-6">
+          <h3 className="text-sm font-medium text-zinc-400">Category</h3>
+          <input
+            type="text"
+            value={categorySearch}
+            onChange={(e) => setCategorySearch(e.target.value)}
+            placeholder="Filter categories…"
+            className="mt-2 w-full rounded border border-zinc-700 bg-zinc-800 px-2 py-1 text-xs text-zinc-100 placeholder:text-zinc-500 focus:border-emerald-500 focus:outline-none"
+          />
+          <div className="mt-2 flex max-h-40 flex-wrap gap-1 overflow-y-auto">
+            {filteredCategories.map(({ category, count }) => (
+              <button
+                key={category}
+                type="button"
+                onClick={() => toggleCategory(category)}
+                className={`rounded px-2 py-0.5 text-xs ${
+                  selectedCategories.has(category)
+                    ? "bg-emerald-900/60 font-medium text-emerald-300"
+                    : "bg-zinc-800 text-zinc-400 hover:bg-zinc-700"
+                }`}
+                title={`${count} templates`}
+              >
+                {category} ({count})
               </button>
             ))}
           </div>

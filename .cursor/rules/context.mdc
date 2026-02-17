@@ -1,6 +1,6 @@
 ---
 description: Emphasize project context and prevent AI hallucinations
-alwaysApply: true
+alwaysApply: false
 tags: [context, hallucination, mcp, symbols]
 ---
 - Emphasize that *context* (user intent + existing code state) is the foundation of effective AI coding.

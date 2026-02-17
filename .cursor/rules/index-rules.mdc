@@ -1,9 +1,4 @@
 ---
-description: 
-globs: 
-alwaysApply: true
----
----
 title: Project Rule Index — Living Map & Instructor
 description: Central control panel for Cursor AI project rules. Guides AI and human collaborators across rule structure, usage, and evolution.
 tags: [index, map, instructor, cursor-rules, ai-governance]
@@ -27,51 +22,51 @@ Each rule file defines a unique layer of knowledge. All are modular, structured,
 ### Core Rules
 | Rule File                           | Purpose                                                            | Attach Type     | Tags                                 |
 |------------------------------------|--------------------------------------------------------------------|------------------|----------------------------------------|
-| [`init.mdc`](mdc:init.mdc)         | Entry point: overview + rule pointers                              | `alwaysApply`   | `routing`, `summary`, `project-start` |
-| [`context.mdc`](mdc:context.mdc)   | Guides AI on context framing, hallucination prevention, symbol use | `alwaysApply`   | `context`, `mcp`, `ai`                |
-| [`stakeholders.mdc`](mdc:stakeholders.mdc) | Defines personas, business needs, and use case logic        | `alwaysApply`   | `value`, `gherkin`, `personas`        |
-| [`architecture.mdc`](mdc:architecture.mdc) | Core architecture principles and patterns | `alwaysApply`   | `architecture`, `design`                |
-| [`rules.deepmind.init.mdc`](mdc:rules.deepmind.init.mdc) | DeepMind initialization rules | `alwaysApply`   | `init`, `deepmind`                |
-| [`n8n-project.mdc`](mdc:n8n-project.mdc) | n8n-workflow-all-templates project specifics (explorer, scraper, Supabase) | `alwaysApply`   | `n8n`, `templates`, `explorer`                |
-| [`adaptation-guide.mdc`](mdc:adaptation-guide.mdc) | Guide for adapting DeepMind rules to any project | `manual`   | `adaptation`, `implementation`                |
-| [`universal-bootstrap.mdc`](mdc:universal-bootstrap.mdc) | Instant project assessment and actionable steps for any project state | `alwaysApply`   | `bootstrap`, `quick-start`, `adaptive`                |
-| [`optimization-engine.mdc`](mdc:optimization-engine.mdc) | Unified optimization engine that consolidates and streamlines the universal ruleset | `alwaysApply`   | `optimization`, `consolidation`, `efficiency`                |
+| [`init.mdc`](mdc:init.mdc)         | Entry point: overview + rule pointers                              | Agent-requested   | `routing`, `summary`, `project-start` |
+| [`context.mdc`](mdc:context.mdc)   | Guides AI on context framing, hallucination prevention, symbol use | Agent-requested   | `context`, `mcp`, `ai`                |
+| [`stakeholders.mdc`](mdc:stakeholders.mdc) | Defines personas, business needs, and use case logic        | Agent-requested   | `value`, `gherkin`, `personas`        |
+| [`architecture.mdc`](mdc:architecture.mdc) | Core architecture principles and patterns | Agent-requested   | `architecture`, `design`                |
+| [`rules.deepmind.init.mdc`](mdc:rules.deepmind.init.mdc) | DeepMind initialization rules | Agent-requested   | `init`, `deepmind`                |
+| [`n8n-project.mdc`](mdc:n8n-project.mdc) | n8n-workflow-all-templates project specifics (explorer, scraper, Supabase) | Agent-requested   | `n8n`, `templates`, `explorer`                |
+| [`adaptation-guide.mdc`](mdc:adaptation-guide.mdc) | Guide for adapting DeepMind rules to any project | Agent-requested   | `adaptation`, `implementation`                |
+| [`universal-bootstrap.mdc`](mdc:universal-bootstrap.mdc) | Instant project assessment and actionable steps for any project state | Agent-requested   | `bootstrap`, `quick-start`, `adaptive`                |
+| [`optimization-engine.mdc`](mdc:optimization-engine.mdc) | Unified optimization engine that consolidates and streamlines the universal ruleset | Agent-requested   | `optimization`, `consolidation`, `efficiency`                |
 
 ### Development Standards
 | Rule File                           | Purpose                                                            | Attach Type     | Tags                                 |
 |------------------------------------|--------------------------------------------------------------------|------------------|----------------------------------------|
-| [`development-checklist.mdc`](mdc:dev/development-checklist.mdc) | Development process and requirements | `alwaysApply`   | `dev`, `process`                |
-| [`conventions.mdc`](mdc:dev/conventions.mdc) | Code and naming conventions | `alwaysApply`   | `conventions`, `standards`                |
-| [`testing-standards.mdc`](mdc:dev/testing-standards.mdc) | Comprehensive testing requirements including unit, integration, E2E, and analysis | `alwaysApply`   | `dev`, `testing`, `quality`, `automation`                |
-| [`deployment-standards.mdc`](mdc:dev/deployment-standards.mdc) | Standards for build pipeline, deployment, and delivery processes | `alwaysApply`   | `dev`, `deployment`, `ci-cd`, `infrastructure`                |
-| [`checklist-management.mdc`](mdc:dev/checklist-management.mdc) | Guidelines for managing and updating project checklists | `alwaysApply`   | `checklist`, `management`, `process`                |
-| [`onboarding-guide.mdc`](mdc:dev/onboarding-guide.mdc) | Guide for new team members | `alwaysApply`   | `onboarding`, `guide`                |
-| [`development-stage.mdc`](mdc:dev/checklists/development-stage.mdc) | Development stage specific checklists | `alwaysApply`   | `checklist`, `development`, `process`                |
-| [`testing-stage.mdc`](mdc:dev/checklists/testing-stage.mdc) | Testing stage specific checklists | `alwaysApply`   | `checklist`, `testing`, `quality`                |
-| [`deployment-stage.mdc`](mdc:dev/checklists/deployment-stage.mdc) | Deployment stage specific checklists | `alwaysApply`   | `checklist`, `deployment`, `ci-cd`                |
+| [`development-checklist.mdc`](mdc:dev/development-checklist.mdc) | Development process and requirements | Agent-requested   | `dev`, `process`                |
+| [`conventions.mdc`](mdc:dev/conventions.mdc) | Code and naming conventions | Agent-requested   | `conventions`, `standards`                |
+| [`testing-standards.mdc`](mdc:dev/testing-standards.mdc) | Comprehensive testing requirements including unit, integration, E2E, and analysis | Agent-requested   | `dev`, `testing`, `quality`, `automation`                |
+| [`deployment-standards.mdc`](mdc:dev/deployment-standards.mdc) | Standards for build pipeline, deployment, and delivery processes | Agent-requested   | `dev`, `deployment`, `ci-cd`, `infrastructure`                |
+| [`checklist-management.mdc`](mdc:dev/checklist-management.mdc) | Guidelines for managing and updating project checklists | Agent-requested   | `checklist`, `management`, `process`                |
+| [`onboarding-guide.mdc`](mdc:dev/onboarding-guide.mdc) | Guide for new team members | Agent-requested   | `onboarding`, `guide`                |
+| [`development-stage.mdc`](mdc:dev/checklists/development-stage.mdc) | Development stage specific checklists | Agent-requested   | `checklist`, `development`, `process`                |
+| [`testing-stage.mdc`](mdc:dev/checklists/testing-stage.mdc) | Testing stage specific checklists | Agent-requested   | `checklist`, `testing`, `quality`                |
+| [`deployment-stage.mdc`](mdc:dev/checklists/deployment-stage.mdc) | Deployment stage specific checklists | Agent-requested   | `checklist`, `deployment`, `ci-cd`                |
 
 ### AI-Specific Rules
 | Rule File                           | Purpose                                                            | Attach Type     | Tags                                 |
 |------------------------------------|--------------------------------------------------------------------|------------------|----------------------------------------|
-| [`ai-behavior.mdc`](mdc:ai/ai-behavior.mdc) | Standards for AI behavior and interaction | `alwaysApply`   | `ai`, `behavior`                |
-| [`prompting-patterns.mdc`](mdc:ai/prompting-patterns.mdc) | Patterns and best practices for AI prompting | `alwaysApply`   | `ai`, `prompting`                |
-| [`next-actions.mdc`](mdc:ai/next-actions.mdc) | Guidelines for determining next actions based on project state | `alwaysApply`   | `ai`, `process`, `automation`                |
-| [`action-execution.mdc`](mdc:ai/action-execution.mdc) | Standards for executing the best possible moves | `alwaysApply`   | `ai`, `process`, `automation`                |
-| [`project-intelligence.mdc`](mdc:ai/project-intelligence.mdc) | AI-driven project assessment and adaptive guidance for any stage | `alwaysApply`   | `intelligence`, `assessment`, `adaptive`                |
+| [`ai-behavior.mdc`](mdc:ai/ai-behavior.mdc) | Standards for AI behavior and interaction | Agent-requested   | `ai`, `behavior`                |
+| [`prompting-patterns.mdc`](mdc:ai/prompting-patterns.mdc) | Patterns and best practices for AI prompting | Agent-requested   | `ai`, `prompting`                |
+| [`next-actions.mdc`](mdc:ai/next-actions.mdc) | Guidelines for determining next actions based on project state | Agent-requested   | `ai`, `process`, `automation`                |
+| [`action-execution.mdc`](mdc:ai/action-execution.mdc) | Standards for executing the best possible moves | Agent-requested   | `ai`, `process`, `automation`                |
+| [`project-intelligence.mdc`](mdc:ai/project-intelligence.mdc) | AI-driven project assessment and adaptive guidance for any stage | Agent-requested   | `intelligence`, `assessment`, `adaptive`                |
 
 ### Compliance & Security
 | Rule File                           | Purpose                                                            | Attach Type     | Tags                                 |
 |------------------------------------|--------------------------------------------------------------------|------------------|----------------------------------------|
-| [`compliance/security-rules.mdc`](mdc:compliance/security-rules.mdc) | Security requirements and best practices | `alwaysApply`   | `security`, `compliance`                |
-| [`compliance/privacy.mdc`](mdc:compliance/privacy.mdc) | Privacy and data protection standards | `alwaysApply`   | `privacy`, `security`                |
+| [`compliance/security-rules.mdc`](mdc:compliance/security-rules.mdc) | Security requirements and best practices | Agent-requested   | `security`, `compliance`                |
+| [`compliance/privacy.mdc`](mdc:compliance/privacy.mdc) | Privacy and data protection standards | Agent-requested   | `privacy`, `security`                |
 
 ### Meta Information
 | Rule File                           | Purpose                                                            | Attach Type     | Tags                                 |
 |------------------------------------|--------------------------------------------------------------------|------------------|----------------------------------------|
-| [`changelog.mdc`](mdc:meta/changelog.mdc) | Guidelines for maintaining changelog | `alwaysApply`   | `meta`, `changelog`                |
-| [`index-management.mdc`](mdc:meta/index-management.mdc) | Guidelines for maintaining and updating the project rules index | `alwaysApply`   | `meta`, `index`, `management`                |
+| [`changelog.mdc`](mdc:meta/changelog.mdc) | Guidelines for maintaining changelog | Agent-requested   | `meta`, `changelog`                |
+| [`index-management.mdc`](mdc:meta/index-management.mdc) | Guidelines for maintaining and updating the project rules index | Agent-requested   | `meta`, `index`, `management`                |
 
-> 📌 These rules are "always-on." Additional domain-specific rules may be loaded dynamically or referenced manually.
+> 📌 Only this index rule is always active (`alwaysApply: true`). All other rules are Agent-requested: the agent decides when to load them based on context. Reference rules via the index or `@rule-name.mdc` when needed.
 
 ---
 
@@ -116,7 +111,7 @@ You can "search" or filter rules by utilizing the columns in the `Rule Directory
 ```yaml
 ---
 description: Clear summary of rule's purpose
-alwaysApply: true  # or false
+alwaysApply: false  # true only for this index rule
 tags: [semantic, categories]
 globs: ["src/**/*.ts"] # optional for file-matching
 ---
