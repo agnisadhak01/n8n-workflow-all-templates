@@ -51,6 +51,9 @@ Open http://localhost:3000. Browse works immediately. For Templates, configure S
 | `npm run scrape` | Sync from api.n8n.io to Supabase |
 | `npm run scrape:local` | Load local JSON into Supabase |
 | `npm run enrich:metadata` | AI-assisted metadata enrichment |
+| `npm run enrich:analytics` | Populate template_analytics (use case, industries, processes, node stats, pricing) |
+| `npm run enrich:pricing` | Recalculate pricing only for existing analytics rows (repetitive vs unique formula) |
+| `npm run enrich:top` | Update top_2_industries and top_2_processes from use_case_description |
 
 ### Deploy
 

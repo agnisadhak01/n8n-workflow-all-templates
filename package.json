@@ -10,6 +10,14 @@
     "dev": "cd explorer && npm run dev",
     "scrape": "cd scripts/scraper && python run.py",
     "scrape:local": "cd scripts/scraper && python run_local.py",
-    "enrich:metadata": "cd scripts/scraper && python enrich_metadata.py"
+    "enrich:metadata": "cd scripts/scraper && python enrich_metadata.py",
+    "enrich:analytics": "npx tsx scripts/enrich-analytics.ts",
+    "enrich:pricing": "npx tsx scripts/enrich-pricing.ts",
+    "enrich:top": "npx tsx scripts/enrich-top-classifier.ts"
+  },
+  "devDependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "dotenv": "^16.4.5",
+    "tsx": "^4.19.0"
   }
 }
