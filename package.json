@@ -5,6 +5,7 @@
     "build:index": "node scripts/build-index.js",
     "build:webapp": "cd webapp && npm ci && npm run build",
     "build": "npm run build:index && npm run build:webapp",
+    "start": "cd webapp && npx serve dist -s",
     "copy:index": "node scripts/copy-index.js",
     "build:explorer": "cd explorer && npm run build",
     "dev": "cd explorer && npm run dev",
@@ -16,6 +17,9 @@
     "enrich:validate": "npx tsx scripts/validate-enrichment.ts",
     "enrich:top": "npx tsx scripts/enrich-top-classifier.ts",
     "backfill:job-history": "npx tsx scripts/backfill-admin-job-runs-from-git.ts"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
   },
   "devDependencies": {
     "@supabase/supabase-js": "^2.45.0",
