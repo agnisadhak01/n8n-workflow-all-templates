@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "build:index": "node scripts/build-index.js",
-    "build:webapp": "cd webapp && npm run build",
+    "build:webapp": "cd webapp && npm ci && npm run build",
     "build": "npm run build:index && npm run build:webapp",
     "copy:index": "node scripts/copy-index.js",
     "build:explorer": "cd explorer && npm run build",
