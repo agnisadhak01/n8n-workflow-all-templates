@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Vercel (Recommended)](#vercel-recommended)
+- [Coolify](#coolify)
 - [Environment Variables](#environment-variables)
 - [CI/CD Pipeline](#cicd-pipeline)
 - [Database Migrations](#database-migrations)
@@ -79,6 +80,36 @@ Set Vercel root to repo root and build command to `npm run build`.
 
 Push to your main branch. Vercel deploys automatically.
 
+## Coolify
+
+Deploy from the **repository root** (not the `explorer` folder). The root `package.json` defines the build and start commands used by Coolify/Nixpacks.
+
+### Build and start
+
+| Setting | Value |
+|---------|-------|
+| Root | Repository root |
+| Build command | `npm run build` (runs `build:index` → `copy:index` → `build:explorer`) |
+| Start command | `npm run start` (runs `cd explorer && npm run start` — Next.js production server) |
+
+The build generates the static index, copies it to `explorer/public/`, installs explorer dependencies, and builds the Next.js app. No separate root directory configuration is needed.
+
+### Environment variables
+
+Set in Coolify for the service:
+
+| Variable | Required | Notes |
+|----------|----------|-------|
+| `NEXT_PUBLIC_SUPABASE_URL` | For Templates | Supabase project URL |
+| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | For Templates | Supabase anon key |
+| `ADMIN_BASIC_USER` | Optional | HTTP Basic Auth username for `/admin` and `/api/admin` (default: `superadmin`) |
+| `ADMIN_BASIC_PASSWORD` | Optional | HTTP Basic Auth password (default: `superpass`). **Set in production.** |
+| `ENRICHMENT_ADMIN_SECRET` | For admin API | Secret for programmatic API access (header `x-admin-secret` or query `?secret=`) |
+| `SUPABASE_URL` | For admin jobs | Same as above (for enrichment/scraper/top-2 runs) |
+| `SUPABASE_SERVICE_ROLE_KEY` | For admin jobs | Service role key (admin API and background scripts) |
+
+See [Enrichment Guide – Web app integration (Coolify)](enrichment-guide.md#web-app-integration-coolify) for using the admin page and run history.
+
 ## Environment Variables
 
 ### Production Checklist
@@ -87,8 +118,11 @@ Push to your main branch. Vercel deploys automatically.
 |----------|----------|-------|
 | `NEXT_PUBLIC_SUPABASE_URL` | For Templates | Supabase project URL |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | For Templates | Anon key; safe to expose |
+| `ADMIN_BASIC_USER` | For admin (Coolify) | Override default Basic Auth username |
+| `ADMIN_BASIC_PASSWORD` | For admin (Coolify) | Override default; set a strong password in production |
+| `ENRICHMENT_ADMIN_SECRET` | For admin API | Protect status/run APIs when using admin features |
 
-No server-side secrets for the frontend. RLS limits Supabase access to read-only template data.
+No other server-side secrets for the public frontend. RLS limits Supabase access to read-only template data. Admin routes (`/admin`, `/api/admin`) are protected by HTTP Basic Auth (see [Enrichment Guide](enrichment-guide.md)).
 
 ## CI/CD Pipeline
 

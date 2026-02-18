@@ -7,6 +7,7 @@
 - [Browse Page](#browse-page)
 - [Templates Page](#templates-page)
 - [Scraper](#scraper)
+- [Admin Page](#admin-page)
 - [Build & Deployment](#build--deployment)
 
 ## Browse Page
@@ -125,6 +126,23 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install requests supabase python-dotenv
 python run.py --limit 1
 ```
+
+## Admin Page
+
+### 401 Unauthorized or browser keeps asking for password
+
+**Cause:** `/admin` and `/api/admin` are protected by HTTP Basic Auth. Wrong or missing credentials.
+
+**Solution:**
+- Default credentials are username `superadmin`, password `superpass`. Use these when the browser prompts.
+- To override, set `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` in `explorer/.env.local` (or in Coolify env). Restart the dev server or redeploy after changing.
+- Ensure the middleware is not stripping the `Authorization` header (e.g. no reverse proxy removing it).
+
+### Admin page loads but run buttons fail
+
+**Cause:** API routes also require `ENRICHMENT_ADMIN_SECRET` for programmatic calls; or Supabase env vars missing for the scripts.
+
+**Solution:** Set `ENRICHMENT_ADMIN_SECRET` in env. For Coolify, set `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY` so the admin API and background scripts can access Supabase. See [Enrichment Guide](enrichment-guide.md#web-app-integration-coolify).
 
 ## Build & Deployment
 

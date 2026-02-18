@@ -35,8 +35,10 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
 |----------|----------|-------------|
 | `NEXT_PUBLIC_SUPABASE_URL` | For Templates | Supabase project URL |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | For Templates | Supabase anon (public) key |
+| `ADMIN_BASIC_USER` | No | HTTP Basic Auth username for `/admin` and `/api/admin` (default: `superadmin`) |
+| `ADMIN_BASIC_PASSWORD` | No | HTTP Basic Auth password (default: `superpass`). Set in production. |
 
-The anon key is safe to expose; RLS restricts access to read-only template data.
+The anon key is safe to expose; RLS restricts access to read-only template data. Admin routes are protected by middleware (Basic Auth); see [Enrichment Guide](enrichment-guide.md#web-app-integration-coolify).
 
 ### Scraper (`scripts/scraper/.env`)
 

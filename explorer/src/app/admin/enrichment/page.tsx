@@ -25,11 +25,21 @@ export default async function AdminEnrichmentPage() {
     <div className="min-h-screen bg-zinc-950 text-zinc-100">
       <Header />
       <main className="mx-auto max-w-6xl px-6 py-16">
-        <div className="mb-8">
-          <h1 className="text-2xl font-bold tracking-tight">Enrichment admin</h1>
-          <p className="mt-1 text-zinc-400">
-            Trigger template fetch (scraper) and analytics enrichment; monitor status.
-          </p>
+        <div className="mb-8 flex items-start justify-between gap-4">
+          <div>
+            <h1 className="text-2xl font-bold tracking-tight">Enrichment admin</h1>
+            <p className="mt-1 text-zinc-400">
+              Trigger template fetch (scraper) and analytics enrichment; monitor status.
+            </p>
+          </div>
+          <form action="/api/admin/auth/logout" method="POST">
+            <button
+              type="submit"
+              className="rounded-lg px-3 py-1.5 text-sm text-zinc-400 transition hover:bg-zinc-800 hover:text-zinc-200"
+            >
+              Sign out
+            </button>
+          </form>
         </div>
         <EnrichmentAdminClient initialStatus={statusResult} />
       </main>
