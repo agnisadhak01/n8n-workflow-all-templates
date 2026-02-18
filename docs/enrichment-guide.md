@@ -341,12 +341,10 @@ Response: `{ "totalTemplates", "enrichedCount", "pendingCount" }`.
 
 ### Run history
 
-Each run started from the admin UI (enrichment, template scraper, or top-2 classifier) is recorded in the `admin_job_runs` table. The admin page shows three run history tables in **chronological order (oldest first)** so you can read history from the first run to the latest:
+Each run started from the admin UI (enrichment, template scraper, or top-2 classifier) is recorded in the `admin_job_runs` table. The admin page shows run history in **chronological order (oldest first)** so you can read history from the first run to the latest:
 
-- **Insights (from run history)** — Summary cards: total enriched and total failed across all enrichment runs; total templates added and total errors across all scraper runs; run session counts; last run summary for each.
-- **Full Enrichment history** — Started at, Completed at, Duration, Result (e.g. "736 enriched, 0 failed"), Status (running / completed / failed). Runs that stay "running" for more than 2 hours show a "Stale" indicator.
-- **Full Data fetching history** — Same columns for scraper runs; Result shows "X ok, Y errors" (templates added vs errors).
-- **Full Top-2 classifier history** — Same columns for top-2 runs; Result shows "X processed, Y failed". Insights (from run history) include a third card for total processed/failed and last run summary for top-2.
+- **Insights (from run history)** — Summary cards: total enriched and total failed across all enrichment runs; total templates added and total errors across all scraper runs; total processed/failed for top-2 runs; run session counts; last run summary for each type.
+- **Job run history** — A single combined table for all job types. Columns: Started, Completed, Duration, **Type** (tag: Enrichment / Data fetching / Top-2 classifier), **Result** (e.g. "736 enriched, 0 failed", "X ok, Y errors", or "X processed, Y failed" depending on type), Status (running / completed / failed). Runs that stay "running" for more than 2 hours show a "Stale" indicator.
 
 History is stored in Supabase (`admin_job_runs`); see [Database Schema](database-schema.md#admin_job_runs). When you click **Run enrichment**, **Run scraper**, or **Run top-2 (AI)**, the app inserts a row with `status = 'running'` and passes `ADMIN_RUN_ID` in the environment to the script. The script updates that row on exit with `completed_at`, `status`, and result counts. Scripts triggered from the CLI (without the UI) do not receive `ADMIN_RUN_ID`, so they do not create or update run history.
 
@@ -377,7 +375,7 @@ npx tsx scripts/backfill-admin-job-runs-from-git.ts --insert
 | `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history; query `?type=enrichment`, `?type=scraper`, or `?type=top2`; protected by secret |
 | `explorer/src/app/api/admin/scrape/run/route.ts` | POST to start template scraper in background; protected by secret |
 | `explorer/src/lib/top2-run.ts` | Spawns top-2 classifier script with `--use-ai` (used by "Run top-2 (AI)" button) |
-| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status, parameter inputs per run type (batch size, limit, etc.) with defaults, Run scraper / Run enrichment / Run top-2 (AI), and run history tables; access via `?secret=...` |
+| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status, parameter inputs per run type (batch size, limit, etc.) with defaults, Run scraper / Run enrichment / Run top-2 (AI), and combined job run history table; access via `?secret=...` |
 | `scripts/enrich-analytics.ts` | Main entry: fetches templates, runs pipeline, upserts analytics |
 | `scripts/enrichment/types.ts` | Shared TypeScript types |
 | `scripts/enrichment/node-analyzer.ts` | Node statistics from `template.nodes` |

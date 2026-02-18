@@ -146,7 +146,7 @@ Enriched analytics per template. See [Enrichment Guide](enrichment-guide.md) for
 
 ## admin_job_runs
 
-Run history for admin-triggered jobs (enrichment and template scraper). Used by the explorer admin UI to show "Full Enrichment history" and "Full Data fetching history". Only the service role can read or write; the table is not exposed to anon.
+Run history for admin-triggered jobs (enrichment, template scraper, and top-2 classifier). The explorer admin UI shows a single combined job run history table with job type tags (Enrichment, Data fetching, Top-2 classifier). Only the service role can read or write; the table is not exposed to anon.
 
 | Column | Type | Description |
 |--------|------|-------------|

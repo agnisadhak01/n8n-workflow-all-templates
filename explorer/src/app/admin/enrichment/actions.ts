@@ -40,7 +40,7 @@ export async function runTop2Enrichment(options?: {
 }
 
 export async function getHistory(): Promise<
-  | { ok: true; data: { enrichment: JobRunRow[]; scraper: JobRunRow[]; top2: JobRunRow[] } }
+  | { ok: true; data: { runs: JobRunRow[] } }
   | { ok: false; error: string }
 > {
   const result = await getJobHistory();

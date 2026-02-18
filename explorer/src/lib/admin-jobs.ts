@@ -54,68 +54,35 @@ export type JobRunRow = {
 };
 
 /**
- * Fetch job run history in chronological order (oldest first), optionally filtered by type. Limit 50 per type.
+ * Fetch job run history in chronological order (oldest first), optionally filtered by type.
+ * Returns a single combined list; limit 100 when unfiltered.
  */
 export async function getJobHistory(options?: {
   type?: JobType;
-}): Promise<
-  { enrichment: JobRunRow[]; scraper: JobRunRow[]; top2: JobRunRow[] } | { error: string }
-> {
+}): Promise<{ runs: JobRunRow[] } | { error: string }> {
   try {
     const supabase = getSupabase();
-    const limit = 50;
+    const limit = 100;
     const orderAsc = true; // chronological: oldest first (backfill order)
+
+    let query = supabase
+      .from("admin_job_runs")
+      .select("id, job_type, started_at, completed_at, status, result")
+      .order("started_at", { ascending: orderAsc })
+      .limit(limit);
 
     if (
       options?.type === "enrichment" ||
       options?.type === "scraper" ||
       options?.type === "top2"
     ) {
-      const { data, error } = await supabase
-        .from("admin_job_runs")
-        .select("id, job_type, started_at, completed_at, status, result")
-        .eq("job_type", options.type)
-        .order("started_at", { ascending: orderAsc })
-        .limit(limit);
-      if (error) return { error: error.message };
-      const list = (data ?? []) as JobRunRow[];
-      return {
-        enrichment: options.type === "enrichment" ? list : [],
-        scraper: options.type === "scraper" ? list : [],
-        top2: options.type === "top2" ? list : [],
-      };
+      query = query.eq("job_type", options.type);
     }
 
-    const [enrichmentRes, scraperRes, top2Res] = await Promise.all([
-      supabase
-        .from("admin_job_runs")
-        .select("id, job_type, started_at, completed_at, status, result")
-        .eq("job_type", "enrichment")
-        .order("started_at", { ascending: orderAsc })
-        .limit(limit),
-      supabase
-        .from("admin_job_runs")
-        .select("id, job_type, started_at, completed_at, status, result")
-        .eq("job_type", "scraper")
-        .order("started_at", { ascending: orderAsc })
-        .limit(limit),
-      supabase
-        .from("admin_job_runs")
-        .select("id, job_type, started_at, completed_at, status, result")
-        .eq("job_type", "top2")
-        .order("started_at", { ascending: orderAsc })
-        .limit(limit),
-    ]);
-
-    if (enrichmentRes.error) return { error: enrichmentRes.error.message };
-    if (scraperRes.error) return { error: scraperRes.error.message };
-    if (top2Res.error) return { error: top2Res.error.message };
-
-    return {
-      enrichment: (enrichmentRes.data ?? []) as JobRunRow[],
-      scraper: (scraperRes.data ?? []) as JobRunRow[],
-      top2: (top2Res.data ?? []) as JobRunRow[],
-    };
+    const { data, error } = await query;
+    if (error) return { error: error.message };
+    const runs = (data ?? []) as JobRunRow[];
+    return { runs };
   } catch (err) {
     const message = err instanceof Error ? err.message : String(err);
     return { error: message };

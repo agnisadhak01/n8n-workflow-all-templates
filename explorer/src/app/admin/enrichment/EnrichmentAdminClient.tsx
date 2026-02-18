@@ -124,19 +124,29 @@ function top2Insights(rows: JobRunRow[]): Top2Insights {
   return { totalProcessed, totalFailed, runCount: rows.length, lastRunSummary };
 }
 
+function jobTypeTag(job_type: string): { label: string; className: string } {
+  switch (job_type) {
+    case "enrichment":
+      return { label: "Enrichment", className: "bg-emerald-500/20 text-emerald-400" };
+    case "scraper":
+      return { label: "Data fetching", className: "bg-sky-500/20 text-sky-400" };
+    case "top2":
+      return { label: "Top-2 classifier", className: "bg-violet-500/20 text-violet-400" };
+    default:
+      return { label: job_type, className: "bg-zinc-500/20 text-zinc-400" };
+  }
+}
+
 function HistoryTable({
   rows,
   emptyLabel,
-  variant,
 }: {
   rows: JobRunRow[];
   emptyLabel: string;
-  variant: "enrichment" | "scraper" | "top2";
 }) {
   if (rows.length === 0) {
     return <p className="text-sm text-zinc-500">{emptyLabel}</p>;
   }
-  const r = (row: JobRunRow) => (row.result || {}) as Record<string, number | undefined>;
   return (
     <div className="overflow-x-auto rounded-lg border border-zinc-700">
       <table className="w-full text-left text-sm">
@@ -145,101 +155,54 @@ function HistoryTable({
             <th className="p-3 font-medium text-zinc-300">Started</th>
             <th className="p-3 font-medium text-zinc-300">Completed</th>
             <th className="p-3 font-medium text-zinc-300">Duration</th>
-            {variant === "enrichment" && (
-              <>
-                <th className="p-3 font-medium text-zinc-300">Enriched</th>
-                <th className="p-3 font-medium text-zinc-300">Failed</th>
-              </>
-            )}
-            {variant === "scraper" && (
-              <>
-                <th className="p-3 font-medium text-zinc-300">Templates added</th>
-                <th className="p-3 font-medium text-zinc-300">Errors</th>
-              </>
-            )}
-            {variant === "top2" && (
-              <>
-                <th className="p-3 font-medium text-zinc-300">Processed</th>
-                <th className="p-3 font-medium text-zinc-300">Failed</th>
-              </>
-            )}
+            <th className="p-3 font-medium text-zinc-300">Type</th>
+            <th className="p-3 font-medium text-zinc-300">Result</th>
             <th className="p-3 font-medium text-zinc-300">Status</th>
           </tr>
         </thead>
         <tbody>
-          {rows.map((row) => (
-            <tr key={row.id} className="border-b border-zinc-700/50">
-              <td className="p-3 text-zinc-200">
-                {new Date(row.started_at).toLocaleString()}
-              </td>
-              <td className="p-3 text-zinc-400">
-                {row.completed_at
-                  ? new Date(row.completed_at).toLocaleString()
-                  : "—"}
-              </td>
-              <td className="p-3 text-zinc-400">
-                {formatDuration(row.started_at, row.completed_at)}
-              </td>
-              {variant === "enrichment" && (
-                <>
-                  <td className="p-3 text-emerald-400">
-                    {row.result != null && typeof r(row).enriched_count === "number"
-                      ? r(row).enriched_count!.toLocaleString()
-                      : "—"}
-                  </td>
-                  <td className="p-3 text-red-400">
-                    {row.result != null && typeof r(row).failed_count === "number"
-                      ? r(row).failed_count!.toLocaleString()
-                      : "—"}
-                  </td>
-                </>
-              )}
-              {variant === "scraper" && (
-                <>
-                  <td className="p-3 text-sky-400">
-                    {row.result != null && typeof r(row).templates_ok === "number"
-                      ? r(row).templates_ok!.toLocaleString()
-                      : "—"}
-                  </td>
-                  <td className="p-3 text-red-400">
-                    {row.result != null && typeof r(row).templates_error === "number"
-                      ? r(row).templates_error!.toLocaleString()
-                      : "—"}
-                  </td>
-                </>
-              )}
-              {variant === "top2" && (
-                <>
-                  <td className="p-3 text-violet-400">
-                    {row.result != null && typeof r(row).processed_count === "number"
-                      ? r(row).processed_count!.toLocaleString()
-                      : "—"}
-                  </td>
-                  <td className="p-3 text-red-400">
-                    {row.result != null && typeof r(row).failed_count === "number"
-                      ? r(row).failed_count!.toLocaleString()
-                      : "—"}
-                  </td>
-                </>
-              )}
-              <td className="p-3">
-                <span
-                  className={
-                    row.status === "completed"
-                      ? "text-emerald-400"
-                      : row.status === "failed"
-                        ? "text-red-400"
-                        : "text-amber-400"
-                  }
-                >
-                  {row.status === "running" ? "Running…" : row.status}
-                </span>
-                {isStale(row.started_at, row.status) && (
-                  <span className="ml-2 text-xs text-zinc-500">(Stale)</span>
-                )}
-              </td>
-            </tr>
-          ))}
+          {rows.map((row) => {
+            const tag = jobTypeTag(row.job_type);
+            return (
+              <tr key={row.id} className="border-b border-zinc-700/50">
+                <td className="p-3 text-zinc-200">
+                  {new Date(row.started_at).toLocaleString()}
+                </td>
+                <td className="p-3 text-zinc-400">
+                  {row.completed_at
+                    ? new Date(row.completed_at).toLocaleString()
+                    : "—"}
+                </td>
+                <td className="p-3 text-zinc-400">
+                  {formatDuration(row.started_at, row.completed_at)}
+                </td>
+                <td className="p-3">
+                  <span
+                    className={`inline-flex rounded-full px-2 py-0.5 text-xs font-medium ${tag.className}`}
+                  >
+                    {tag.label}
+                  </span>
+                </td>
+                <td className="p-3 text-zinc-300">{formatResult(row)}</td>
+                <td className="p-3">
+                  <span
+                    className={
+                      row.status === "completed"
+                        ? "text-emerald-400"
+                        : row.status === "failed"
+                          ? "text-red-400"
+                          : "text-amber-400"
+                    }
+                  >
+                    {row.status === "running" ? "Running…" : row.status}
+                  </span>
+                  {isStale(row.started_at, row.status) && (
+                    <span className="ml-2 text-xs text-zinc-500">(Stale)</span>
+                  )}
+                </td>
+              </tr>
+            );
+          })}
         </tbody>
       </table>
     </div>
@@ -252,11 +215,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
   const [runMessage, setRunMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [scraperMessage, setScraperMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [top2Message, setTop2Message] = useState<{ type: "ok" | "error"; text: string } | null>(null);
-  const [history, setHistory] = useState<{
-    enrichment: JobRunRow[];
-    scraper: JobRunRow[];
-    top2: JobRunRow[];
-  }>({ enrichment: [], scraper: [], top2: [] });
+  const [history, setHistory] = useState<{ runs: JobRunRow[] }>({ runs: [] });
 
   const [scraperParams, setScraperParams] = useState({
     batchSize: 50,
@@ -601,7 +560,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
           <div className="rounded-lg border border-zinc-700 bg-zinc-800/50 p-4">
             <h3 className="text-sm font-medium text-zinc-300">Enrichment (script run sessions)</h3>
             {(() => {
-              const ins = enrichmentInsights(history.enrichment);
+              const ins = enrichmentInsights(history.runs.filter((r) => r.job_type === "enrichment"));
               return (
                 <ul className="mt-2 space-y-1 text-sm text-zinc-200">
                   <li>Total enriched (all runs): <strong className="text-emerald-400">{ins.totalEnriched.toLocaleString()}</strong></li>
@@ -617,7 +576,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
           <div className="rounded-lg border border-zinc-700 bg-zinc-800/50 p-4">
             <h3 className="text-sm font-medium text-zinc-300">Template fetch (script run sessions)</h3>
             {(() => {
-              const ins = scraperInsights(history.scraper);
+              const ins = scraperInsights(history.runs.filter((r) => r.job_type === "scraper"));
               return (
                 <ul className="mt-2 space-y-1 text-sm text-zinc-200">
                   <li>Templates added (all runs): <strong className="text-sky-400">{ins.totalTemplatesAdded.toLocaleString()}</strong></li>
@@ -633,7 +592,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
           <div className="rounded-lg border border-zinc-700 bg-zinc-800/50 p-4">
             <h3 className="text-sm font-medium text-zinc-300">Top-2 classifier (script run sessions)</h3>
             {(() => {
-              const ins = top2Insights(history.top2);
+              const ins = top2Insights(history.runs.filter((r) => r.job_type === "top2"));
               return (
                 <ul className="mt-2 space-y-1 text-sm text-zinc-200">
                   <li>Total processed (all runs): <strong className="text-violet-400">{ins.totalProcessed.toLocaleString()}</strong></li>
@@ -650,21 +609,9 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
       </section>
 
       <section>
-        <h2 className="mb-3 text-lg font-semibold text-zinc-200">Full Enrichment history</h2>
-        <p className="mb-2 text-xs text-zinc-500">Chronological order (oldest first).</p>
-        <HistoryTable rows={history.enrichment} emptyLabel="No runs yet." variant="enrichment" />
-      </section>
-
-      <section>
-        <h2 className="mb-3 text-lg font-semibold text-zinc-200">Full Data fetching history</h2>
-        <p className="mb-2 text-xs text-zinc-500">Chronological order (oldest first).</p>
-        <HistoryTable rows={history.scraper} emptyLabel="No runs yet." variant="scraper" />
-      </section>
-
-      <section>
-        <h2 className="mb-3 text-lg font-semibold text-zinc-200">Full Top-2 classifier history</h2>
-        <p className="mb-2 text-xs text-zinc-500">Chronological order (oldest first).</p>
-        <HistoryTable rows={history.top2} emptyLabel="No runs yet." variant="top2" />
+        <h2 className="mb-3 text-lg font-semibold text-zinc-200">Job run history</h2>
+        <p className="mb-2 text-xs text-zinc-500">Chronological order (oldest first). All job types.</p>
+        <HistoryTable rows={history.runs} emptyLabel="No runs yet." />
       </section>
     </div>
   );
