@@ -22,14 +22,28 @@ export default async function TemplateDetailPage({ params }: { params: Promise<{
       </div>
     );
   }
-  const { data: template, error } = await supabase
-    .from("templates")
-    .select("*, template_stacks:template_stacks(stacks:stacks(slug,label))")
-    .eq("id", id)
-    .single();
+  const [{ data: template, error }, { data: analytics }] = await Promise.all([
+    supabase
+      .from("templates")
+      .select("*, template_stacks:template_stacks(stacks:stacks(slug,label))")
+      .eq("id", id)
+      .single(),
+    supabase
+      .from("template_analytics")
+      .select("use_case_name, use_case_description, top_2_industries, top_2_processes, final_price_inr")
+      .eq("template_id", id)
+      .maybeSingle(),
+  ]);
   if (error || !template) notFound();
 
   const raw = template.raw_workflow as Record<string, unknown>;
+  const analyticsRow = analytics as {
+    use_case_name?: string | null;
+    use_case_description?: string | null;
+    top_2_industries?: { name: string; confidence?: number }[] | null;
+    top_2_processes?: { name: string; confidence?: number }[] | null;
+    final_price_inr?: number | null;
+  } | null;
 
   return (
     <div className="min-h-screen bg-zinc-950 text-zinc-100">
@@ -78,6 +92,53 @@ export default async function TemplateDetailPage({ params }: { params: Promise<{
                     </a>
                   );
                 })}
+              </div>
+            )}
+            {analyticsRow && (
+              <div className="mt-4 space-y-2 border-t border-zinc-700/50 pt-4">
+                {analyticsRow.use_case_name && analyticsRow.use_case_name !== template.title && (
+                  <p className="text-sm text-zinc-300">
+                    <span className="text-zinc-500">Use case:</span> {analyticsRow.use_case_name}
+                  </p>
+                )}
+                {analyticsRow.use_case_description && (
+                  <p className="text-sm text-zinc-400 max-w-2xl">{analyticsRow.use_case_description}</p>
+                )}
+                {(analyticsRow.top_2_industries?.length ?? 0) > 0 && (
+                  <div>
+                    <span className="text-xs text-zinc-500">Top industries:</span>
+                    <div className="mt-1 flex flex-wrap gap-1.5">
+                      {analyticsRow.top_2_industries!.map((item) => (
+                        <span
+                          key={item.name}
+                          className="rounded-md bg-sky-900/40 px-2 py-0.5 text-xs text-sky-200"
+                        >
+                          {item.name}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {(analyticsRow.top_2_processes?.length ?? 0) > 0 && (
+                  <div>
+                    <span className="text-xs text-zinc-500">Top processes:</span>
+                    <div className="mt-1 flex flex-wrap gap-1.5">
+                      {analyticsRow.top_2_processes!.map((item) => (
+                        <span
+                          key={item.name}
+                          className="rounded-md bg-violet-900/40 px-2 py-0.5 text-xs text-violet-200"
+                        >
+                          {item.name}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {analyticsRow.final_price_inr != null && (
+                  <p className="text-sm text-zinc-400">
+                    <span className="text-zinc-500">Price:</span> ₹{Number(analyticsRow.final_price_inr).toLocaleString()} INR
+                  </p>
+                )}
               </div>
             )}
           </div>

@@ -19,3 +19,18 @@ export type Template = {
   updated_at: string;
   stacks?: { slug: string; label: string }[];
 };
+
+/** Industry or process item from template_analytics (top_2_industries, top_2_processes) */
+export type ClassifiedItem = {
+  name: string;
+  confidence?: number;
+};
+
+/** Analytics row for a template (from template_analytics) */
+export type TemplateAnalytics = {
+  use_case_name: string | null;
+  use_case_description: string | null;
+  top_2_industries: ClassifiedItem[] | null;
+  top_2_processes: ClassifiedItem[] | null;
+  final_price_inr: number | null;
+};

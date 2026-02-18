@@ -26,7 +26,9 @@ export async function GET(request: Request) {
   const url = new URL(request.url);
   const typeParam = url.searchParams.get("type");
   const type: JobType | undefined =
-    typeParam === "enrichment" || typeParam === "scraper" ? typeParam : undefined;
+    typeParam === "enrichment" || typeParam === "scraper" || typeParam === "top2"
+      ? typeParam
+      : undefined;
 
   const result = await getJobHistory({ type });
   if ("error" in result) {

@@ -15,7 +15,7 @@
 
 | View | Purpose |
 |------|---------|
-| `template_analytics_view` | Templates left-joined with template_analytics for querying enriched data |
+| `template_analytics_view` | Templates left-joined with template_analytics. The explorer template detail page (`/templates/[id]`) queries it to show use case, top_2_industries, top_2_processes, and final_price_inr. |
 
 ## Tables
 
@@ -151,7 +151,7 @@ Run history for admin-triggered jobs (enrichment and template scraper). Used by 
 | Column | Type | Description |
 |--------|------|-------------|
 | `id` | uuid (PK) | Auto-generated |
-| `job_type` | text | `enrichment` or `scraper` |
+| `job_type` | text | `enrichment`, `scraper`, or `top2` |
 | `started_at` | timestamptz | When the run was started |
 | `completed_at` | timestamptz (nullable) | When the script reported completion |
 | `status` | text | `running`, `completed`, or `failed` |
@@ -161,8 +161,9 @@ Run history for admin-triggered jobs (enrichment and template scraper). Used by 
 
 - **Enrichment:** `{ "enriched_count": number, "failed_count": number }`
 - **Scraper:** `{ "templates_ok": number, "templates_error": number }`
+- **Top-2 classifier:** `{ "processed_count": number, "failed_count": number }`
 
-When a run is started from the admin UI, a row is inserted with `status = 'running'`. The script receives `ADMIN_RUN_ID` in the environment and updates the row on exit with `completed_at`, `status`, and `result`.
+When a run is started from the admin UI, a row is inserted with `status = 'running'`. The script receives `ADMIN_RUN_ID` in the environment and updates the row on exit with `completed_at`, `status`, and `result`. The top-2 classifier script (`enrich-top-classifier.ts`) is triggered by the "Run top-2 (AI)" button and also reports completion to this table when `ADMIN_RUN_ID` is set.
 
 ## See Also
 

@@ -1,29 +1,34 @@
 import { spawn } from "child_process";
 import path from "path";
+import { loadScraperEnvIfNeeded } from "./load-scraper-env";
 import { createJobRun } from "./admin-jobs";
 
 /**
- * Start the enrichment script in the background (detached).
+ * Start the top-2 classifier script in the background with AI enabled.
+ * Populates top_2_industries and top_2_processes in template_analytics using OpenAI.
  * Records a run in admin_job_runs and passes ADMIN_RUN_ID so the script can report completion.
  */
-export async function startEnrichmentInBackground(options?: {
+export async function startTop2InBackground(options?: {
   batchSize?: number;
   limit?: number;
+  refresh?: boolean;
 }): Promise<{ ok: boolean; error?: string }> {
   try {
-    const run = await createJobRun("enrichment");
+    loadScraperEnvIfNeeded();
+    const run = await createJobRun("top2");
     if ("error" in run) return { ok: false, error: run.error };
 
     const repoRoot = path.join(process.cwd(), "..");
     const batchSize = String(
-      options?.batchSize ?? parseInt(process.env.ENRICHMENT_BATCH_SIZE ?? "100", 10)
+      options?.batchSize ?? parseInt(process.env.ENRICHMENT_BATCH_SIZE ?? "50", 10)
     );
-    const scriptPath = path.join(repoRoot, "scripts", "enrich-analytics.ts");
+    const scriptPath = path.join(repoRoot, "scripts", "enrich-top-classifier.ts");
     const tsxCli = path.join(repoRoot, "node_modules", "tsx", "dist", "cli.mjs");
 
-    const args: string[] = [tsxCli, scriptPath, "--no-ai", "--batch-size", batchSize];
+    const args: string[] = [tsxCli, scriptPath, "--use-ai", "--batch-size", batchSize];
     const limit = options?.limit ?? 0;
     if (limit > 0) args.push("--limit", String(limit));
+    if (options?.refresh) args.push("--refresh");
 
     const env = { ...process.env, ADMIN_RUN_ID: run.id };
 

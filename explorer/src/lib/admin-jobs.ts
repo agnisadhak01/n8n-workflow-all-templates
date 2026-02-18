@@ -1,7 +1,7 @@
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { loadScraperEnvIfNeeded } from "./load-scraper-env";
 
-export type JobType = "enrichment" | "scraper";
+export type JobType = "enrichment" | "scraper" | "top2";
 
 function getSupabase(): SupabaseClient {
   loadScraperEnvIfNeeded();
@@ -49,6 +49,7 @@ export type JobRunRow = {
     failed_count?: number;
     templates_ok?: number;
     templates_error?: number;
+    processed_count?: number;
   } | null;
 };
 
@@ -57,13 +58,19 @@ export type JobRunRow = {
  */
 export async function getJobHistory(options?: {
   type?: JobType;
-}): Promise<{ enrichment: JobRunRow[]; scraper: JobRunRow[] } | { error: string }> {
+}): Promise<
+  { enrichment: JobRunRow[]; scraper: JobRunRow[]; top2: JobRunRow[] } | { error: string }
+> {
   try {
     const supabase = getSupabase();
     const limit = 50;
     const orderAsc = true; // chronological: oldest first (backfill order)
 
-    if (options?.type === "enrichment" || options?.type === "scraper") {
+    if (
+      options?.type === "enrichment" ||
+      options?.type === "scraper" ||
+      options?.type === "top2"
+    ) {
       const { data, error } = await supabase
         .from("admin_job_runs")
         .select("id, job_type, started_at, completed_at, status, result")
@@ -75,10 +82,11 @@ export async function getJobHistory(options?: {
       return {
         enrichment: options.type === "enrichment" ? list : [],
         scraper: options.type === "scraper" ? list : [],
+        top2: options.type === "top2" ? list : [],
       };
     }
 
-    const [enrichmentRes, scraperRes] = await Promise.all([
+    const [enrichmentRes, scraperRes, top2Res] = await Promise.all([
       supabase
         .from("admin_job_runs")
         .select("id, job_type, started_at, completed_at, status, result")
@@ -91,14 +99,22 @@ export async function getJobHistory(options?: {
         .eq("job_type", "scraper")
         .order("started_at", { ascending: orderAsc })
         .limit(limit),
+      supabase
+        .from("admin_job_runs")
+        .select("id, job_type, started_at, completed_at, status, result")
+        .eq("job_type", "top2")
+        .order("started_at", { ascending: orderAsc })
+        .limit(limit),
     ]);
 
     if (enrichmentRes.error) return { error: enrichmentRes.error.message };
     if (scraperRes.error) return { error: scraperRes.error.message };
+    if (top2Res.error) return { error: top2Res.error.message };
 
     return {
       enrichment: (enrichmentRes.data ?? []) as JobRunRow[],
       scraper: (scraperRes.data ?? []) as JobRunRow[],
+      top2: (top2Res.data ?? []) as JobRunRow[],
     };
   } catch (err) {
     const message = err instanceof Error ? err.message : String(err);

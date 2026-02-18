@@ -176,6 +176,24 @@ async function updateTop2(
   return {};
 }
 
+async function updateAdminRun(
+  supabase: SupabaseClient,
+  runId: string,
+  status: "completed" | "failed",
+  processed: number,
+  failed: number
+): Promise<void> {
+  const { error } = await supabase
+    .from("admin_job_runs")
+    .update({
+      completed_at: new Date().toISOString(),
+      status,
+      result: { processed_count: processed, failed_count: failed },
+    })
+    .eq("id", runId);
+  if (error) console.error("Failed to update admin run:", error.message);
+}
+
 async function main(): Promise<void> {
   const args: EnrichTopArgs =
     isInteractive() && !hasCliArgs() ? await runInteractive() : parseArgs();
@@ -188,6 +206,7 @@ async function main(): Promise<void> {
     ...(args.useAI && { aiDelayMs: args.aiDelayMs }),
   });
 
+  const adminRunId = process.env.ADMIN_RUN_ID;
   const supabase = getSupabase();
   let waitForAIRateLimit: (() => Promise<void>) | undefined;
   if (args.useAI) {
@@ -213,60 +232,70 @@ async function main(): Promise<void> {
     if (!shuttingDown) shuttingDown = true;
   });
 
-  for (;;) {
-    if (shuttingDown) break;
-    const { data: rows } = await fetchAnalyticsBatch(supabase, {
-      batchSize: args.batchSize,
-      offset,
-      refresh: args.refresh,
-    });
-
-    if (rows.length === 0) {
-      console.log("No more rows to process.");
-      break;
-    }
-
-    console.log(`Processing batch count=${rows.length} (offset=${offset})`);
-
-    for (const row of rows) {
+  try {
+    for (;;) {
       if (shuttingDown) break;
-      if (args.limit !== null && processed + failed >= args.limit) break;
-
-      const description = (row.use_case_description ?? "").trim();
-      if (!description) continue;
-
-      if (args.useAI && waitForAIRateLimit) await waitForAIRateLimit();
-      const result = await classifyTop2(description, {
-        useAI: args.useAI,
-        openaiApiKey: args.openaiKey || undefined,
+      const { data: rows } = await fetchAnalyticsBatch(supabase, {
+        batchSize: args.batchSize,
+        offset,
+        refresh: args.refresh,
       });
 
-      const { error: updateError } = await updateTop2(
-        supabase,
-        row.template_id,
-        result.top_2_industries,
-        result.top_2_processes
-      );
-      if (updateError) {
-        console.error(`[FAIL] ${row.template_id}: ${updateError}`);
-        failed++;
-        continue;
+      if (rows.length === 0) {
+        console.log("No more rows to process.");
+        break;
       }
-      processed++;
-      if (processed % 10 === 0) {
-        console.log(`  Progress: ${processed} updated, ${failed} failed`);
+
+      console.log(`Processing batch count=${rows.length} (offset=${offset})`);
+
+      for (const row of rows) {
+        if (shuttingDown) break;
+        if (args.limit !== null && processed + failed >= args.limit) break;
+
+        const description = (row.use_case_description ?? "").trim();
+        if (!description) continue;
+
+        if (args.useAI && waitForAIRateLimit) await waitForAIRateLimit();
+        const result = await classifyTop2(description, {
+          useAI: args.useAI,
+          openaiApiKey: args.openaiKey || undefined,
+        });
+
+        const { error: updateError } = await updateTop2(
+          supabase,
+          row.template_id,
+          result.top_2_industries,
+          result.top_2_processes
+        );
+        if (updateError) {
+          console.error(`[FAIL] ${row.template_id}: ${updateError}`);
+          failed++;
+          continue;
+        }
+        processed++;
+        if (processed % 10 === 0) {
+          console.log(`  Progress: ${processed} updated, ${failed} failed`);
+        }
       }
+
+      if (shuttingDown) break;
+      if (args.limit !== null && processed + failed >= args.limit) break;
+      offset += FETCH_WINDOW;
     }
 
-    if (shuttingDown) break;
-    if (args.limit !== null && processed + failed >= args.limit) break;
-    offset += FETCH_WINDOW;
-  }
-
-  if (shuttingDown) {
-    console.log(`Paused. Updated: ${processed}, Failed: ${failed}. Run again to resume.`);
-  } else {
-    console.log(`Done. Updated: ${processed}, Failed: ${failed}`);
+    if (adminRunId) {
+      await updateAdminRun(supabase, adminRunId, "completed", processed, failed);
+    }
+    if (shuttingDown) {
+      console.log(`Paused. Updated: ${processed}, Failed: ${failed}. Run again to resume.`);
+    } else {
+      console.log(`Done. Updated: ${processed}, Failed: ${failed}`);
+    }
+  } catch (err) {
+    if (adminRunId) {
+      await updateAdminRun(supabase, adminRunId, "failed", processed, failed);
+    }
+    throw err;
   }
 }
 

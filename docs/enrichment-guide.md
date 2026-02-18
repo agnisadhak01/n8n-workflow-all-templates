@@ -30,6 +30,7 @@ Ensure the following migrations are applied to your Supabase project (via SQL Ed
 - `supabase/migrations/20250217000002_create_template_analytics_view.sql` — creates `template_analytics_view`
 - `supabase/migrations/20250217000003_create_templates_pending_analytics_view.sql` — creates `templates_pending_analytics` view (templates without analytics) for pause/resume
 - `supabase/migrations/20250218000001_create_admin_job_runs.sql` — creates `admin_job_runs` table for run history (admin UI)
+- `supabase/migrations/20250218000002_allow_top2_job_type.sql` — allows `job_type = 'top2'` for Top-2 classifier run history
 
 ### 2. Environment variables
 
@@ -155,6 +156,10 @@ The **top-2 classifier** runs independently and updates only `top_2_industries` 
 ```bash
 npm run enrich:top
 ```
+
+**To cover all rows:** Run with no `--limit` (and without `--refresh`) to fill only rows that still have empty `top_2_industries` / `top_2_processes`. Use `--refresh` to recompute existing values.
+
+**Explorer display:** The template detail page (`/templates/[id]`) fetches from `template_analytics_view` and shows use case name/description, **Top industries** and **Top processes** (from `top_2_industries` and `top_2_processes`), and price (final_price_inr) when analytics exist for that template.
 
 Interactive mode will prompt for options. Non-interactive examples:
 
@@ -297,10 +302,11 @@ In Coolify, set:
 | `SUPABASE_SERVICE_ROLE_KEY` | Yes | Service role key (admin API and enrichment script) |
 | `ENRICHMENT_ADMIN_SECRET` | Recommended | Secret for protecting status/run API and admin page; use a long random value |
 | `ENRICHMENT_BATCH_SIZE` | No | Batch size for enrichment run (default: 100) |
+| `OPENAI_API_KEY` | No | Required for **Run top-2 (AI)** button; server env only (not exposed to client) |
 
 ### Triggering a run
 
-**From the admin UI:** Open `/admin/enrichment?secret=YOUR_SECRET` in the browser. You will see total / enriched / pending counts, **Run scraper** and **Run enrichment** buttons, and **Full Enrichment history** and **Full Data fetching history** tables. Click a run button to start the script in the background; use **Refresh status** to update counts and history.
+**From the admin UI:** Open `/admin/enrichment?secret=YOUR_SECRET` in the browser. You will see total / enriched / pending counts, **Run scraper**, **Run enrichment**, and **Run top-2 (AI)** buttons, and three run history tables (Enrichment, Data fetching, Top-2 classifier). Each run section has parameter fields (batch size, limit, and for scraper delay; for top-2 a refresh option) with default values that you can change before clicking Run. Click a run button to start the script in the background; use **Refresh status** to update counts and history.
 
 **From the API:** Send a POST request with the secret in a header or query param:
 
@@ -310,6 +316,14 @@ curl -X POST "https://your-app.com/api/admin/enrich/run" \
 ```
 
 Response: 202 Accepted with a message that enrichment has started in the background.
+
+### Admin UI parameters
+
+Each run section on the admin page exposes parameters that are passed to the script. Defaults are shown below; you can change them in the UI before clicking Run.
+
+- **Template fetch (scraper):** Batch size (default 50), Delay in seconds (default 0.3), Limit (default 0 = all templates).
+- **Analytics enrichment:** Batch size (default 100), Limit (default 0 = no limit).
+- **Top-2 classifier (AI):** Batch size (default 50), Limit (default 0 = no limit), Refresh — when enabled, recomputes existing `top_2_industries` and `top_2_processes`; when off, only rows with empty top_2_* are filled.
 
 ### Checking status
 
@@ -327,13 +341,14 @@ Response: `{ "totalTemplates", "enrichedCount", "pendingCount" }`.
 
 ### Run history
 
-Each run started from the admin UI (enrichment or template scraper) is recorded in the `admin_job_runs` table. The admin page shows two tables in **chronological order (oldest first)** so you can read history from the first run to the latest:
+Each run started from the admin UI (enrichment, template scraper, or top-2 classifier) is recorded in the `admin_job_runs` table. The admin page shows three run history tables in **chronological order (oldest first)** so you can read history from the first run to the latest:
 
 - **Insights (from run history)** — Summary cards: total enriched and total failed across all enrichment runs; total templates added and total errors across all scraper runs; run session counts; last run summary for each.
 - **Full Enrichment history** — Started at, Completed at, Duration, Result (e.g. "736 enriched, 0 failed"), Status (running / completed / failed). Runs that stay "running" for more than 2 hours show a "Stale" indicator.
 - **Full Data fetching history** — Same columns for scraper runs; Result shows "X ok, Y errors" (templates added vs errors).
+- **Full Top-2 classifier history** — Same columns for top-2 runs; Result shows "X processed, Y failed". Insights (from run history) include a third card for total processed/failed and last run summary for top-2.
 
-History is stored in Supabase (`admin_job_runs`); see [Database Schema](database-schema.md#admin_job_runs). When you click **Run enrichment** or **Run scraper**, the app inserts a row with `status = 'running'` and passes `ADMIN_RUN_ID` in the environment to the script. The script updates that row on exit with `completed_at`, `status`, and result counts. Scripts triggered from the CLI (without the UI) do not receive `ADMIN_RUN_ID`, so they do not create or update run history.
+History is stored in Supabase (`admin_job_runs`); see [Database Schema](database-schema.md#admin_job_runs). When you click **Run enrichment**, **Run scraper**, or **Run top-2 (AI)**, the app inserts a row with `status = 'running'` and passes `ADMIN_RUN_ID` in the environment to the script. The script updates that row on exit with `completed_at`, `status`, and result counts. Scripts triggered from the CLI (without the UI) do not receive `ADMIN_RUN_ID`, so they do not create or update run history.
 
 **Manual backfill from git:** To backfill `admin_job_runs` with inferred runs from git history (commits that touched scraper or enrichment paths, one row per day per job type), run:
 
@@ -359,9 +374,10 @@ npx tsx scripts/backfill-admin-job-runs-from-git.ts --insert
 |------|---------|
 | `explorer/src/app/api/admin/enrich/status/route.ts` | GET enrichment counts (total, enriched, pending); protected by secret |
 | `explorer/src/app/api/admin/enrich/run/route.ts` | POST to start enrichment script in background; protected by secret |
-| `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history (enrichment and scraper); query `?type=enrichment` or `?type=scraper`; protected by secret |
+| `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history; query `?type=enrichment`, `?type=scraper`, or `?type=top2`; protected by secret |
 | `explorer/src/app/api/admin/scrape/run/route.ts` | POST to start template scraper in background; protected by secret |
-| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status, Run scraper / Run enrichment, and run history tables; access via `?secret=...` |
+| `explorer/src/lib/top2-run.ts` | Spawns top-2 classifier script with `--use-ai` (used by "Run top-2 (AI)" button) |
+| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status, parameter inputs per run type (batch size, limit, etc.) with defaults, Run scraper / Run enrichment / Run top-2 (AI), and run history tables; access via `?secret=...` |
 | `scripts/enrich-analytics.ts` | Main entry: fetches templates, runs pipeline, upserts analytics |
 | `scripts/enrichment/types.ts` | Shared TypeScript types |
 | `scripts/enrichment/node-analyzer.ts` | Node statistics from `template.nodes` |
@@ -374,6 +390,7 @@ npx tsx scripts/backfill-admin-job-runs-from-git.ts --insert
 | `scripts/enrichment/rate-limit.ts` | AI request rate limiter (delay and batch pause) |
 | `scripts/enrichment/prompts.ts` | Interactive prompts (readline) for TTY mode |
 | `scripts/enrichment/validation-queries.sql` | SQL for data quality checks |
+| `scripts/backfill-admin-job-runs-from-git.ts` | Infers enrichment/scraper runs from git history for manual backfill of `admin_job_runs` |
 
 ## See also
 
