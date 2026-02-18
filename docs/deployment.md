@@ -102,8 +102,9 @@ Set in Coolify for the service:
 |----------|----------|-------|
 | `NEXT_PUBLIC_SUPABASE_URL` | For Templates | Supabase project URL |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | For Templates | Supabase anon key |
-| `ADMIN_BASIC_USER` | Optional | HTTP Basic Auth username for `/admin` and `/api/admin` (default: `superadmin`) |
-| `ADMIN_BASIC_PASSWORD` | Optional | HTTP Basic Auth password (default: `superpass`). **Set in production.** |
+| `ADMIN_BASIC_USER` | Optional | Admin login username (env only). Default: `superadmin`. Set in production. |
+| `ADMIN_BASIC_PASSWORD` | Optional | Admin login password (env only). Default: `superpass`. Set in production. |
+| `ADMIN_SESSION_SECRET` | Optional | Secret for signing admin session cookies (defaults to `ENRICHMENT_ADMIN_SECRET`). Set in production. |
 | `ENRICHMENT_ADMIN_SECRET` | For admin API | Secret for programmatic API access (header `x-admin-secret` or query `?secret=`) |
 | `SUPABASE_URL` | For admin jobs | Same as above (for enrichment/scraper/top-2 runs) |
 | `SUPABASE_SERVICE_ROLE_KEY` | For admin jobs | Service role key (admin API and background scripts) |
@@ -118,11 +119,12 @@ See [Enrichment Guide – Web app integration (Coolify)](enrichment-guide.md#web
 |----------|----------|-------|
 | `NEXT_PUBLIC_SUPABASE_URL` | For Templates | Supabase project URL |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | For Templates | Anon key; safe to expose |
-| `ADMIN_BASIC_USER` | For admin (Coolify) | Override default Basic Auth username |
-| `ADMIN_BASIC_PASSWORD` | For admin (Coolify) | Override default; set a strong password in production |
-| `ENRICHMENT_ADMIN_SECRET` | For admin API | Protect status/run APIs when using admin features |
+| `ADMIN_BASIC_USER` | For admin | Admin login username (env only). Default: `superadmin`. Set in production. |
+| `ADMIN_BASIC_PASSWORD` | For admin | Admin login password (env only). Default: `superpass`. Set a strong value in production. |
+| `ADMIN_SESSION_SECRET` | For admin | Optional; used to sign session cookies (defaults to `ENRICHMENT_ADMIN_SECRET`). |
+| `ENRICHMENT_ADMIN_SECRET` | For admin API | Protect status/run APIs when using admin features. |
 
-No other server-side secrets for the public frontend. RLS limits Supabase access to read-only template data. Admin routes (`/admin`, `/api/admin`) are protected by HTTP Basic Auth (see [Enrichment Guide](enrichment-guide.md)).
+No other server-side secrets for the public frontend. RLS limits Supabase access to read-only template data. Admin routes (`/admin`, `/api/admin`) use sign-in at `/admin/login` or HTTP Basic Auth (see [Enrichment Guide](enrichment-guide.md)).
 
 ## CI/CD Pipeline
 

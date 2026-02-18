@@ -301,16 +301,17 @@ In Coolify, set:
 | `SUPABASE_URL` | Yes | Same as above (for admin API and script) |
 | `SUPABASE_SERVICE_ROLE_KEY` | Yes | Service role key (admin API and enrichment script) |
 | `ENRICHMENT_ADMIN_SECRET` | Recommended | Secret for API routes (header `x-admin-secret` or query `?secret=`); use a long random value |
-| `ADMIN_BASIC_USER` | Optional | HTTP Basic Auth username for `/admin` and `/api/admin` (default: `superadmin`) |
-| `ADMIN_BASIC_PASSWORD` | Optional | HTTP Basic Auth password (default: `superpass`). Set in production. |
+| `ADMIN_BASIC_USER` | Optional | Admin login username (env only; not shown in UI). Default: `superadmin`. Set in production. |
+| `ADMIN_BASIC_PASSWORD` | Optional | Admin login password (env only; not shown in UI). Default: `superpass`. Set in production. |
+| `ADMIN_SESSION_SECRET` | Optional | Secret for signing session cookies (defaults to `ENRICHMENT_ADMIN_SECRET`). Set in production. |
 | `ENRICHMENT_BATCH_SIZE` | No | Batch size for enrichment run (default: 100) |
 | `OPENAI_API_KEY` | No | Required for **Run top-2 (AI)** button; server env only (not exposed to client) |
 
 ### Triggering a run
 
-**From the admin UI:** Open `/admin/enrichment` in the browser. The app will prompt for **HTTP Basic Auth** (default username `superadmin`, password `superpass`; override with `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` in Coolify). After signing in you will see total / enriched / pending counts, **Run scraper**, **Run enrichment**, and **Run top-2 (AI)** buttons, and the combined job run history table. Each run section has parameter fields (batch size, limit, and for scraper delay; for top-2 a refresh option) with default values that you can change before clicking Run. Click a run button to start the script in the background; use **Refresh status** to update counts and history.
+**From the admin UI:** Open `/admin/enrichment` in the browser. You will be redirected to **Admin sign in** (`/admin/login`) if not authenticated. Sign in with the credentials configured via `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` (defaults: `superadmin` / `superpass`; set these in Coolify for production). After signing in you will see total / enriched / pending counts, **Run scraper**, **Run enrichment**, and **Run top-2 (AI)** buttons, and the combined job run history table. Each run section has parameter fields (batch size, limit, and for scraper delay; for top-2 a refresh option) with default values that you can change before clicking Run. Click a run button to start the script in the background; use **Refresh status** to update counts and history. Use **Sign out** to end the session.
 
-**From the API:** Requests to `/api/admin/*` require HTTP Basic Auth (same credentials as the admin UI). For programmatic access you must also send the secret in a header or query param:
+**From the API:** Requests to `/api/admin/*` require authentication (session cookie from the login page, or HTTP Basic Auth with the same credentials). For programmatic access you must also send the secret in a header or query param:
 
 ```bash
 curl -X POST "https://your-app.com/api/admin/enrich/run" \
@@ -365,20 +366,23 @@ npx tsx scripts/backfill-admin-job-runs-from-git.ts --insert
 ### Notes
 
 - The enrichment job runs in the same container as the web app. Long runs (e.g. ~7k templates) may be interrupted on deploy or restart; trigger again to resume (the script only processes pending templates).
-- **Admin access:** `/admin` and `/api/admin` are protected by HTTP Basic Auth (middleware). Default credentials are `superadmin` / `superpass`; set `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` in production. The API routes also require `ENRICHMENT_ADMIN_SECRET` (header or query) for programmatic calls; if unset, the API allows access only in development.
+- **Admin access:** `/admin` and `/api/admin` are protected by middleware. Users sign in at `/admin/login` (session cookie); API callers can use HTTP Basic Auth. Default credentials are `superadmin` / `superpass`; override with `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` (set in production). Session cookies are signed with `ADMIN_SESSION_SECRET` or `ENRICHMENT_ADMIN_SECRET`. The API routes also require `ENRICHMENT_ADMIN_SECRET` (header or query) for programmatic calls; if unset, the API allows access only in development.
 - **Local dev:** If `SUPABASE_SERVICE_ROLE_KEY` is not set in `explorer/.env.local`, the app loads `scripts/scraper/.env` when the Enrichment admin page or API is used, so you can reuse the scraper env. Otherwise set `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY` in `explorer/.env.local` (get the service role key from Supabase: Project Settings → API).
 
 ## File reference
 
 | Path | Purpose |
 |------|---------|
-| `explorer/src/middleware.ts` | Protects `/admin` and `/api/admin` with HTTP Basic Auth (default superadmin/superpass; override via `ADMIN_BASIC_USER`, `ADMIN_BASIC_PASSWORD`) |
-| `explorer/src/app/api/admin/enrich/status/route.ts` | GET enrichment counts (total, enriched, pending); requires Basic Auth + secret |
-| `explorer/src/app/api/admin/enrich/run/route.ts` | POST to start enrichment script in background; requires Basic Auth + secret |
-| `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history; query `?type=enrichment`, `?type=scraper`, or `?type=top2`; requires Basic Auth + secret |
-| `explorer/src/app/api/admin/scrape/run/route.ts` | POST to start template scraper in background; requires Basic Auth + secret |
+| `explorer/src/middleware.ts` | Protects `/admin` and `/api/admin`; allows session cookie (from login) or HTTP Basic Auth (default: superadmin/superpass); redirects unauthenticated users to `/admin/login` |
+| `explorer/src/app/admin/login/page.tsx` | Admin sign-in page (username/password); POST to `/api/admin/auth/login` |
+| `explorer/src/app/api/admin/auth/login/route.ts` | POST: validate credentials, set session cookie, redirect to admin |
+| `explorer/src/app/api/admin/auth/logout/route.ts` | POST/GET: clear session cookie, redirect to login |
+| `explorer/src/app/api/admin/enrich/status/route.ts` | GET enrichment counts (total, enriched, pending); requires auth + secret |
+| `explorer/src/app/api/admin/enrich/run/route.ts` | POST to start enrichment script in background; requires auth + secret |
+| `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history; query `?type=enrichment`, `?type=scraper`, or `?type=top2`; requires auth + secret |
+| `explorer/src/app/api/admin/scrape/run/route.ts` | POST to start template scraper in background; requires auth + secret |
 | `explorer/src/lib/top2-run.ts` | Spawns top-2 classifier script with `--use-ai` (used by "Run top-2 (AI)" button) |
-| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status, parameter inputs per run type (batch size, limit, etc.) with defaults, Run scraper / Run enrichment / Run top-2 (AI), and combined job run history table; access via Basic Auth |
+| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status, parameter inputs per run type, Run scraper / Run enrichment / Run top-2 (AI), combined job run history table, Sign out; access after sign-in at `/admin/login` |
 | `scripts/enrich-analytics.ts` | Main entry: fetches templates, runs pipeline, upserts analytics |
 | `scripts/enrichment/types.ts` | Shared TypeScript types |
 | `scripts/enrichment/node-analyzer.ts` | Node statistics from `template.nodes` |

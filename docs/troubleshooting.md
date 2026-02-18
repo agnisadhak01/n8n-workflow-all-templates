@@ -129,14 +129,13 @@ python run.py --limit 1
 
 ## Admin Page
 
-### 401 Unauthorized or browser keeps asking for password
+### 401 Unauthorized or redirected to login
 
-**Cause:** `/admin` and `/api/admin` are protected by HTTP Basic Auth. Wrong or missing credentials.
+**Cause:** `/admin` and `/api/admin` are protected. Missing or invalid session, or wrong credentials.
 
 **Solution:**
-- Default credentials are username `superadmin`, password `superpass`. Use these when the browser prompts.
-- To override, set `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` in `explorer/.env.local` (or in Coolify env). Restart the dev server or redeploy after changing.
-- Ensure the middleware is not stripping the `Authorization` header (e.g. no reverse proxy removing it).
+- Sign in at `/admin/login`. Default credentials are `superadmin` / `superpass`; override with `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` in `explorer/.env.local` or Coolify env. Restart the dev server or redeploy after changing env vars.
+- If using HTTP Basic Auth for API calls, send the same credentials in the `Authorization` header. Ensure no reverse proxy strips the `Authorization` header.
 
 ### Admin page loads but run buttons fail
 

@@ -35,10 +35,11 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
 |----------|----------|-------------|
 | `NEXT_PUBLIC_SUPABASE_URL` | For Templates | Supabase project URL |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | For Templates | Supabase anon (public) key |
-| `ADMIN_BASIC_USER` | No | HTTP Basic Auth username for `/admin` and `/api/admin` (default: `superadmin`) |
-| `ADMIN_BASIC_PASSWORD` | No | HTTP Basic Auth password (default: `superpass`). Set in production. |
+| `ADMIN_BASIC_USER` | No | Admin login username (env only). Default: `superadmin`. Set in production. |
+| `ADMIN_BASIC_PASSWORD` | No | Admin login password (env only). Default: `superpass`. Set in production. |
+| `ADMIN_SESSION_SECRET` | No | Secret for signing admin session cookies (defaults to `ENRICHMENT_ADMIN_SECRET`). Set in production. |
 
-The anon key is safe to expose; RLS restricts access to read-only template data. Admin routes are protected by middleware (Basic Auth); see [Enrichment Guide](enrichment-guide.md#web-app-integration-coolify).
+The anon key is safe to expose; RLS restricts access to read-only template data. Admin routes are protected by middleware (sign-in at `/admin/login` or HTTP Basic Auth); see [Enrichment Guide](enrichment-guide.md#web-app-integration-coolify).
 
 ### Scraper (`scripts/scraper/.env`)
 
