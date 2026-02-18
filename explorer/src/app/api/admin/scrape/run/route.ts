@@ -24,7 +24,7 @@ export async function POST(request: Request) {
   }
 
   loadScraperEnvIfNeeded();
-  const result = startScraperInBackground();
+  const result = await startScraperInBackground();
   if (!result.ok) {
     return NextResponse.json(
       { error: `Failed to start scraper: ${result.error}` },
