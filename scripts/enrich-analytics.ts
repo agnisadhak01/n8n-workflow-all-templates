@@ -263,7 +263,33 @@ async function upsertAnalytics(
   return {};
 }
 
+async function reportAdminRunComplete(
+  runId: string,
+  enrichedCount: number,
+  failedCount: number,
+  status: "completed" | "failed"
+): Promise<void> {
+  try {
+    const supabase = getSupabase();
+    await supabase
+      .from("admin_job_runs")
+      .update({
+        completed_at: new Date().toISOString(),
+        status,
+        result: { enriched_count: enrichedCount, failed_count: failedCount },
+      })
+      .eq("id", runId);
+  } catch {
+    // ignore
+  }
+}
+
 async function main(): Promise<void> {
+  const adminRunId = process.env.ADMIN_RUN_ID ?? undefined;
+  let processed = 0;
+  let failed = 0;
+  let exitStatus: "completed" | "failed" = "completed";
+
   const args: EnrichmentArgs =
     isInteractive() && !hasCliArgs()
       ? await runInteractive()
@@ -283,6 +309,7 @@ async function main(): Promise<void> {
 
   const supabase = getSupabase();
 
+  try {
   let waitForAIRateLimit: (() => Promise<void>) | undefined;
   if (args.useAI) {
     const { waitForAIRateLimit: wait } = createAIRateLimiter({
@@ -296,8 +323,6 @@ async function main(): Promise<void> {
   }
 
   let offset = 0;
-  let processed = 0;
-  let failed = 0;
   let shuttingDown = false;
 
   function requestShutdown(): void {
@@ -370,6 +395,14 @@ async function main(): Promise<void> {
     console.log(`Paused. Enriched: ${processed}, Failed: ${failed}. Run the same command to resume.`);
   } else {
     console.log(`Done. Enriched: ${processed}, Failed: ${failed}`);
+  }
+  } catch (err) {
+    exitStatus = "failed";
+    throw err;
+  } finally {
+    if (adminRunId) {
+      await reportAdminRunComplete(adminRunId, processed, failed, exitStatus);
+    }
   }
 }
 

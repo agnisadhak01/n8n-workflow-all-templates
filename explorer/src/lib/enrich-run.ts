@@ -1,16 +1,25 @@
 import { spawn } from "child_process";
 import path from "path";
+import { createJobRun } from "./admin-jobs";
 
 /**
  * Start the enrichment script in the background (detached).
- * Used by the API route and by the admin page server action.
+ * Records a run in admin_job_runs and passes ADMIN_RUN_ID so the script can report completion.
  */
-export function startEnrichmentInBackground(): { ok: boolean; error?: string } {
+export async function startEnrichmentInBackground(): Promise<{
+  ok: boolean;
+  error?: string;
+}> {
   try {
+    const run = await createJobRun("enrichment");
+    if ("error" in run) return { ok: false, error: run.error };
+
     const repoRoot = path.join(process.cwd(), "..");
     const batchSize = process.env.ENRICHMENT_BATCH_SIZE ?? "100";
     const scriptPath = path.join(repoRoot, "scripts", "enrich-analytics.ts");
     const tsxCli = path.join(repoRoot, "node_modules", "tsx", "dist", "cli.mjs");
+
+    const env = { ...process.env, ADMIN_RUN_ID: run.id };
 
     const child = spawn(
       process.execPath,
@@ -19,7 +28,7 @@ export function startEnrichmentInBackground(): { ok: boolean; error?: string } {
         cwd: repoRoot,
         detached: true,
         stdio: "ignore",
-        env: process.env,
+        env,
       }
     );
     child.unref();

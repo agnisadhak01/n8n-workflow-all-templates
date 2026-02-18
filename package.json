@@ -14,7 +14,8 @@
     "enrich:analytics": "npx tsx scripts/enrich-analytics.ts",
     "enrich:pricing": "npx tsx scripts/enrich-pricing.ts",
     "enrich:validate": "npx tsx scripts/validate-enrichment.ts",
-    "enrich:top": "npx tsx scripts/enrich-top-classifier.ts"
+    "enrich:top": "npx tsx scripts/enrich-top-classifier.ts",
+    "backfill:job-history": "npx tsx scripts/backfill-admin-job-runs-from-git.ts"
   },
   "devDependencies": {
     "@supabase/supabase-js": "^2.45.0",

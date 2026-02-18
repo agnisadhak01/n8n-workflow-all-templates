@@ -9,6 +9,7 @@
 | `templates` | Workflow metadata, nodes, raw JSON, full-text search |
 | `node_types` | Node type → template mapping for faceted search |
 | `template_analytics` | Enriched use case, industries, processes, node stats, pricing (one row per template) |
+| `admin_job_runs` | Run history for enrichment and scraper jobs (started_at, completed_at, status, result counts) |
 | `stacks` | Stack labels (e.g., "Google Sheets", "OpenAI") |
 | `template_stacks` | Many-to-many link between templates and stacks |
 
@@ -142,6 +143,26 @@ Enriched analytics per template. See [Enrichment Guide](enrichment-guide.md) for
 | `enrichment_status` | text | pending, enriched, failed |
 | `enrichment_method` | text (nullable) | ai, rule-based, hybrid |
 | `confidence_score` | numeric (nullable) | 0–1 |
+
+## admin_job_runs
+
+Run history for admin-triggered jobs (enrichment and template scraper). Used by the explorer admin UI to show "Full Enrichment history" and "Full Data fetching history". Only the service role can read or write; the table is not exposed to anon.
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `id` | uuid (PK) | Auto-generated |
+| `job_type` | text | `enrichment` or `scraper` |
+| `started_at` | timestamptz | When the run was started |
+| `completed_at` | timestamptz (nullable) | When the script reported completion |
+| `status` | text | `running`, `completed`, or `failed` |
+| `result` | jsonb (nullable) | Job-specific counts |
+
+**Result payloads:**
+
+- **Enrichment:** `{ "enriched_count": number, "failed_count": number }`
+- **Scraper:** `{ "templates_ok": number, "templates_error": number }`
+
+When a run is started from the admin UI, a row is inserted with `status = 'running'`. The script receives `ADMIN_RUN_ID` in the environment and updates the row on exit with `completed_at`, `status`, and `result`.
 
 ## See Also
 

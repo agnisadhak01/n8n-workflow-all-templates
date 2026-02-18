@@ -29,6 +29,7 @@ Ensure the following migrations are applied to your Supabase project (via SQL Ed
 - `supabase/migrations/20250217000001_create_template_analytics.sql` — creates `template_analytics` table, indexes, trigger, RLS
 - `supabase/migrations/20250217000002_create_template_analytics_view.sql` — creates `template_analytics_view`
 - `supabase/migrations/20250217000003_create_templates_pending_analytics_view.sql` — creates `templates_pending_analytics` view (templates without analytics) for pause/resume
+- `supabase/migrations/20250218000001_create_admin_job_runs.sql` — creates `admin_job_runs` table for run history (admin UI)
 
 ### 2. Environment variables
 
@@ -299,7 +300,7 @@ In Coolify, set:
 
 ### Triggering a run
 
-**From the admin UI:** Open `/admin/enrichment?secret=YOUR_SECRET` in the browser. You will see total / enriched / pending counts and a **Run enrichment** button. Click it to start the script in the background; use **Refresh status** to update counts.
+**From the admin UI:** Open `/admin/enrichment?secret=YOUR_SECRET` in the browser. You will see total / enriched / pending counts, **Run scraper** and **Run enrichment** buttons, and **Full Enrichment history** and **Full Data fetching history** tables. Click a run button to start the script in the background; use **Refresh status** to update counts and history.
 
 **From the API:** Send a POST request with the secret in a header or query param:
 
@@ -324,6 +325,28 @@ curl -H "x-admin-secret: YOUR_SECRET" "https://your-app.com/api/admin/enrich/sta
 
 Response: `{ "totalTemplates", "enrichedCount", "pendingCount" }`.
 
+### Run history
+
+Each run started from the admin UI (enrichment or template scraper) is recorded in the `admin_job_runs` table. The admin page shows two tables in **chronological order (oldest first)** so you can read history from the first run to the latest:
+
+- **Insights (from run history)** — Summary cards: total enriched and total failed across all enrichment runs; total templates added and total errors across all scraper runs; run session counts; last run summary for each.
+- **Full Enrichment history** — Started at, Completed at, Duration, Result (e.g. "736 enriched, 0 failed"), Status (running / completed / failed). Runs that stay "running" for more than 2 hours show a "Stale" indicator.
+- **Full Data fetching history** — Same columns for scraper runs; Result shows "X ok, Y errors" (templates added vs errors).
+
+History is stored in Supabase (`admin_job_runs`); see [Database Schema](database-schema.md#admin_job_runs). When you click **Run enrichment** or **Run scraper**, the app inserts a row with `status = 'running'` and passes `ADMIN_RUN_ID` in the environment to the script. The script updates that row on exit with `completed_at`, `status`, and result counts. Scripts triggered from the CLI (without the UI) do not receive `ADMIN_RUN_ID`, so they do not create or update run history.
+
+**Manual backfill from git:** To backfill `admin_job_runs` with inferred runs from git history (commits that touched scraper or enrichment paths, one row per day per job type), run:
+
+```bash
+npm run backfill:job-history
+```
+
+This prints SQL INSERTs (dry-run). To insert directly into Supabase, run with `--insert` (requires `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY`):
+
+```bash
+npx tsx scripts/backfill-admin-job-runs-from-git.ts --insert
+```
+
 ### Notes
 
 - The enrichment job runs in the same container as the web app. Long runs (e.g. ~7k templates) may be interrupted on deploy or restart; trigger again to resume (the script only processes pending templates).
@@ -336,7 +359,9 @@ Response: `{ "totalTemplates", "enrichedCount", "pendingCount" }`.
 |------|---------|
 | `explorer/src/app/api/admin/enrich/status/route.ts` | GET enrichment counts (total, enriched, pending); protected by secret |
 | `explorer/src/app/api/admin/enrich/run/route.ts` | POST to start enrichment script in background; protected by secret |
-| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status and Run button (Coolify); access via `?secret=...` |
+| `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history (enrichment and scraper); query `?type=enrichment` or `?type=scraper`; protected by secret |
+| `explorer/src/app/api/admin/scrape/run/route.ts` | POST to start template scraper in background; protected by secret |
+| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status, Run scraper / Run enrichment, and run history tables; access via `?secret=...` |
 | `scripts/enrich-analytics.ts` | Main entry: fetches templates, runs pipeline, upserts analytics |
 | `scripts/enrichment/types.ts` | Shared TypeScript types |
 | `scripts/enrichment/node-analyzer.ts` | Node statistics from `template.nodes` |

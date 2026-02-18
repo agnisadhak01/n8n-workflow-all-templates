@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
-import { loadScraperEnvIfNeeded } from "@/lib/load-scraper-env";
-import { startEnrichmentInBackground } from "@/lib/enrich-run";
+import { getJobHistory } from "@/lib/admin-jobs";
+import type { JobType } from "@/lib/admin-jobs";
 
 function getSecret(request: Request): string | null {
   const header = request.headers.get("x-admin-secret");
@@ -18,25 +18,23 @@ function isAuthorized(request: Request): boolean {
   return provided !== null && provided === secret;
 }
 
-export async function POST(request: Request) {
+export async function GET(request: Request) {
   if (!isAuthorized(request)) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
-  loadScraperEnvIfNeeded();
-  const result = await startEnrichmentInBackground();
-  if (!result.ok) {
+  const url = new URL(request.url);
+  const typeParam = url.searchParams.get("type");
+  const type: JobType | undefined =
+    typeParam === "enrichment" || typeParam === "scraper" ? typeParam : undefined;
+
+  const result = await getJobHistory({ type });
+  if ("error" in result) {
     return NextResponse.json(
-      { error: `Failed to start enrichment: ${result.error}` },
+      { error: result.error },
       { status: 500 }
     );
   }
 
-  return NextResponse.json(
-    {
-      message:
-        "Enrichment started in background. Use status endpoint to monitor.",
-    },
-    { status: 202 }
-  );
+  return NextResponse.json(result);
 }

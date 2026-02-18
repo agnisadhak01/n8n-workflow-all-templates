@@ -13,8 +13,10 @@ Default interactive mode (when stdin is a TTY) will prompt for:
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 import time
+from datetime import datetime, timezone
 from typing import Any, Dict, List, Set
 
 from fetch_listing import fetch_all_listings
@@ -68,7 +70,27 @@ def _prompt_yes_no(prompt: str, default_yes: bool = True) -> bool:
     return default_yes
 
 
+def _report_admin_run(
+    run_id: str,
+    templates_ok: int,
+    templates_error: int,
+    status: str,
+) -> None:
+    try:
+        client = get_client()
+        client.table("admin_job_runs").update(
+            {
+                "completed_at": datetime.now(timezone.utc).isoformat(),
+                "status": status,
+                "result": {"templates_ok": templates_ok, "templates_error": templates_error},
+            }
+        ).eq("id", run_id).execute()
+    except Exception:  # noqa: BLE001
+        pass
+
+
 def main() -> None:
+    admin_run_id = os.environ.get("ADMIN_RUN_ID") or None
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0, help="Max templates to sync (0 = all)")
     ap.add_argument("--skip", type=int, default=0, help="Skip first N in listing (applied after resume)")
@@ -130,6 +152,8 @@ def main() -> None:
 
     if not listings:
         print("Nothing to do (no templates after applying resume/skip/limit).")
+        if admin_run_id:
+            _report_admin_run(admin_run_id, 0, 0, "completed")
         return
 
     client = None if args.dry_run else get_client()
@@ -208,7 +232,29 @@ def main() -> None:
             save_state(last_success_id, total_ok, total_err)
 
     print(f"Done. ok={total_ok} err={total_err}")
+    if admin_run_id:
+        _report_admin_run(admin_run_id, total_ok, total_err, "completed")
 
 
 if __name__ == "__main__":
-    main()
+    _admin_run_id = os.environ.get("ADMIN_RUN_ID")
+    _total_ok = 0
+    _total_err = 0
+    _exit_status = "completed"
+    try:
+        main()
+    except Exception:
+        _exit_status = "failed"
+        if _admin_run_id:
+            try:
+                client = get_client()
+                client.table("admin_job_runs").update(
+                    {
+                        "completed_at": datetime.now(timezone.utc).isoformat(),
+                        "status": _exit_status,
+                        "result": {"templates_ok": _total_ok, "templates_error": _total_err},
+                    }
+                ).eq("id", _admin_run_id).execute()
+            except Exception:  # noqa: BLE001
+                pass
+        raise
