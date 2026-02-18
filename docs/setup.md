@@ -171,3 +171,4 @@ See [Troubleshooting](troubleshooting.md) for common setup issues.
 - [Getting Started](getting-started.md)
 - [Database Schema](database-schema.md)
 - [Scraper Guide](scraper-guide.md)
+- [Enrichment Guide](enrichment-guide.md) — template analytics and [Web app integration (Coolify)](enrichment-guide.md#web-app-integration-coolify)

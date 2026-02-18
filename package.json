@@ -13,6 +13,7 @@
     "enrich:metadata": "cd scripts/scraper && python enrich_metadata.py",
     "enrich:analytics": "npx tsx scripts/enrich-analytics.ts",
     "enrich:pricing": "npx tsx scripts/enrich-pricing.ts",
+    "enrich:validate": "npx tsx scripts/validate-enrichment.ts",
     "enrich:top": "npx tsx scripts/enrich-top-classifier.ts"
   },
   "devDependencies": {

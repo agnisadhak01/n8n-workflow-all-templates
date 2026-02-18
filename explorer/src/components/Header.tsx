@@ -26,6 +26,13 @@ export function Header() {
           >
             Templates
           </Link>
+          <Link
+            href="/admin/enrichment"
+            className="rounded-lg px-4 py-2 text-zinc-500 transition hover:bg-zinc-800 hover:text-zinc-300"
+            title="Enrichment admin (requires secret in URL)"
+          >
+            Enrichment
+          </Link>
         </nav>
       </div>
     </header>

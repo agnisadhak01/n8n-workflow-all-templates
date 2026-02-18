@@ -274,10 +274,69 @@ SET
 WHERE enrichment_status = 'enriched';
 ```
 
+## Web app integration (Coolify)
+
+When the explorer is deployed on [Coolify](https://coolify.io/), you can trigger and monitor enrichment from the web app.
+
+### Coolify app setup
+
+- **Base directory:** Repository root (not just `explorer/`), so the enrichment scripts and root `node_modules` are available.
+- **Build:** `npm install && npm run build:explorer`
+- **Start:** `cd explorer && npm start`
+
+### Environment variables
+
+In Coolify, set:
+
+| Variable | Required | Description |
+|----------|----------|-------------|
+| `NEXT_PUBLIC_SUPABASE_URL` | Yes | Supabase project URL (for the explorer) |
+| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Yes | Supabase anon key (for the explorer) |
+| `SUPABASE_URL` | Yes | Same as above (for admin API and script) |
+| `SUPABASE_SERVICE_ROLE_KEY` | Yes | Service role key (admin API and enrichment script) |
+| `ENRICHMENT_ADMIN_SECRET` | Recommended | Secret for protecting status/run API and admin page; use a long random value |
+| `ENRICHMENT_BATCH_SIZE` | No | Batch size for enrichment run (default: 100) |
+
+### Triggering a run
+
+**From the admin UI:** Open `/admin/enrichment?secret=YOUR_SECRET` in the browser. You will see total / enriched / pending counts and a **Run enrichment** button. Click it to start the script in the background; use **Refresh status** to update counts.
+
+**From the API:** Send a POST request with the secret in a header or query param:
+
+```bash
+curl -X POST "https://your-app.com/api/admin/enrich/run" \
+  -H "x-admin-secret: YOUR_SECRET"
+```
+
+Response: 202 Accepted with a message that enrichment has started in the background.
+
+### Checking status
+
+**From the admin UI:** The same page shows current counts.
+
+**From the API:**
+
+```bash
+curl "https://your-app.com/api/admin/enrich/status?secret=YOUR_SECRET"
+# or
+curl -H "x-admin-secret: YOUR_SECRET" "https://your-app.com/api/admin/enrich/status"
+```
+
+Response: `{ "totalTemplates", "enrichedCount", "pendingCount" }`.
+
+### Notes
+
+- The enrichment job runs in the same container as the web app. Long runs (e.g. ~7k templates) may be interrupted on deploy or restart; trigger again to resume (the script only processes pending templates).
+- If `ENRICHMENT_ADMIN_SECRET` is not set, the API and admin page are allowed only in development (`NODE_ENV === "development"`). In production, always set the secret.
+- **Local dev:** If `SUPABASE_SERVICE_ROLE_KEY` is not set in `explorer/.env.local`, the app loads `scripts/scraper/.env` when the Enrichment admin page or API is used, so you can reuse the scraper env. Otherwise set `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY` in `explorer/.env.local` (get the service role key from Supabase: Project Settings → API).
+
 ## File reference
 
 | Path | Purpose |
 |------|---------|
+| `explorer/src/app/api/admin/enrich/status/route.ts` | GET enrichment counts (total, enriched, pending); protected by secret |
+| `explorer/src/app/api/admin/enrich/run/route.ts` | POST to start enrichment script in background; protected by secret |
+| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status and Run button (Coolify); access via `?secret=...` |
 | `scripts/enrich-analytics.ts` | Main entry: fetches templates, runs pipeline, upserts analytics |
 | `scripts/enrichment/types.ts` | Shared TypeScript types |
 | `scripts/enrichment/node-analyzer.ts` | Node statistics from `template.nodes` |

@@ -59,6 +59,8 @@ Open http://localhost:3000. Browse works immediately. For Templates, configure S
 
 Deploy the `explorer` folder to Vercel. Set `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`. For Browse, include `templates-index.json` (run `copy:index` in CI). See [docs/deployment.md](docs/deployment.md) for details.
 
+To run enrichment from the web app on **Coolify**, see [Enrichment Guide – Web app integration (Coolify)](docs/enrichment-guide.md#web-app-integration-coolify).
+
 See [explorer/README.md](explorer/README.md) for explorer-specific setup.
 
 ### Supabase templates data quality (after large scrapes)
