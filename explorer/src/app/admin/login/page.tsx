@@ -32,7 +32,6 @@ export default async function AdminLoginPage({ searchParams }: Props) {
                 autoComplete="username"
                 required
                 className="w-full rounded-lg border border-zinc-600 bg-zinc-900 px-3 py-2 text-zinc-100 placeholder-zinc-500 focus:border-emerald-500 focus:outline-none focus:ring-1 focus:ring-emerald-500"
-                placeholder="superadmin"
               />
             </div>
             {error === "invalid" && (
@@ -61,9 +60,6 @@ export default async function AdminLoginPage({ searchParams }: Props) {
               Sign in
             </button>
           </form>
-          <p className="mt-4 text-center text-xs text-zinc-500">
-            Default: superadmin / superpass. Set ADMIN_BASIC_USER and ADMIN_BASIC_PASSWORD in production.
-          </p>
           <Link
             href="/"
             className="mt-4 block text-center text-sm text-emerald-400 hover:underline"
