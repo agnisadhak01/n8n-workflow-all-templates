@@ -4,10 +4,10 @@
   "scripts": {
     "build:index": "node scripts/build-index.js",
     "build:webapp": "cd webapp && npm ci && npm run build",
-    "build": "npm run build:index && npm run build:webapp",
-    "start": "cd webapp && npx serve dist -s",
+    "build": "npm run build:index && npm run copy:index && npm run build:explorer",
+    "start": "cd explorer && npm run start",
     "copy:index": "node scripts/copy-index.js",
-    "build:explorer": "cd explorer && npm run build",
+    "build:explorer": "cd explorer && npm ci && npm run build",
     "dev": "cd explorer && npm run dev",
     "scrape": "cd scripts/scraper && python run.py",
     "scrape:local": "cd scripts/scraper && python run_local.py",
