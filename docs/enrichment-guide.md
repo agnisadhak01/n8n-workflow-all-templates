@@ -31,6 +31,8 @@ Ensure the following migrations are applied to your Supabase project (via SQL Ed
 - `supabase/migrations/20250217000003_create_templates_pending_analytics_view.sql` — creates `templates_pending_analytics` view (templates without analytics) for pause/resume
 - `supabase/migrations/20250218000001_create_admin_job_runs.sql` — creates `admin_job_runs` table for run history (admin UI)
 - `supabase/migrations/20250218000002_allow_top2_job_type.sql` — allows `job_type = 'top2'` for Top-2 classifier run history
+- `supabase/migrations/20250219000001_add_get_admin_insights.sql` — adds `get_admin_insights()` RPC for detailed per-script stats
+- `supabase/migrations/20250219000002_add_stale_job_runs_cleanup.sql` — adds `admin_mark_stale_job_runs()` and pg_cron to auto-mark stale runs as failed
 
 ### 2. Environment variables
 
@@ -157,7 +159,7 @@ The **top-2 classifier** runs independently and updates only `top_2_industries` 
 npm run enrich:top
 ```
 
-**To cover all rows:** Run with no `--limit` (and without `--refresh`) to fill only rows that still have empty `top_2_industries` / `top_2_processes`. Use `--refresh` to recompute existing values.
+**To cover all rows:** Run with no `--limit` (and without `--refresh`) to fill only rows that still have empty `top_2_industries` / `top_2_processes`. Use `--refresh` to recompute existing values. The script skips past batches where all rows already have top2 filled, so it will process all pending rows even when they appear later in the sort order.
 
 **Explorer display:** The template detail page (`/templates/[id]`) fetches from `template_analytics_view` and shows use case name/description, **Top industries** and **Top processes** (from `top_2_industries` and `top_2_processes`), and price (final_price_inr) when analytics exist for that template.
 
@@ -309,7 +311,9 @@ In Coolify, set:
 
 ### Triggering a run
 
-**From the admin UI:** Open `/admin/enrichment` in the browser. You will be redirected to **Admin sign in** (`/admin/login`) if not authenticated. Sign in with the credentials configured via `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` (defaults: `superadmin` / `superpass`; set these in Coolify for production). After signing in you will see total / enriched / pending counts, **Run scraper**, **Run enrichment**, and **Run top-2 (AI)** buttons, and the combined job run history table. Each run section has parameter fields (batch size, limit, and for scraper delay; for top-2 a refresh option) with default values that you can change before clicking Run. Click a run button to start the script in the background; use **Refresh status** to update counts and history. Use **Sign out** to end the session.
+**From the admin UI:** Open `/admin/enrichment` in the browser. You will be redirected to **Admin sign in** (`/admin/login`) if not authenticated. Sign in with the credentials configured via `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` (defaults: `superadmin` / `superpass`; set these in Coolify for production). After signing in you will see total / enriched / pending counts, **Run scraper**, **Run enrichment**, and **Run top-2 (AI)** buttons, and the combined job run history table. Each run section has parameter fields (batch size, limit, and for scraper delay; for top-2 a refresh option) with default values that you can change before clicking Run. Click a run button to start the script in the background. Use **Refresh status** to update counts and history. Use **Cleanup stale runs** to mark runs stuck as "running" for 2+ hours as failed. Use **Sign out** to end the session.
+
+**Realtime monitoring:** When any script is running, an **Active runs** section appears with all running sessions, ordered by start time. Each shows a Run ID (UUID; click to copy), start time, and an animated progress bar with counts. The page polls every 2 seconds and refreshes summary counts when a run completes. If a run stops without updating the database (e.g. killed, crash), it shows "Possibly stopped — no update for 2+ hours"; use **Mark as stopped** on that run or **Cleanup stale runs** to correct it.
 
 **From the API:** Requests to `/api/admin/*` require authentication (session cookie from the login page, or HTTP Basic Auth with the same credentials). For programmatic access you must also send the secret in a header or query param:
 
@@ -344,16 +348,20 @@ Response: `{ "totalTemplates", "enrichedCount", "pendingCount" }`.
 
 ### Run history
 
-Each run started from the admin UI (enrichment, template scraper, or top-2 classifier) is recorded in the `admin_job_runs` table. The admin page shows run history in **chronological order (oldest first)** so you can read history from the first run to the latest:
+Each run started from the admin UI (enrichment, template scraper, or top-2 classifier) is recorded in the `admin_job_runs` table. Each run has a UUID (`id`) for management; click the Run ID in the UI to copy it to the clipboard.
 
-- **Insights (from run history)** — Summary cards: total enriched and total failed across all enrichment runs; total templates added and total errors across all scraper runs; total processed/failed for top-2 runs; run session counts; last run summary for each type.
-- **Job run history** — A single combined table for all job types. Columns: Started, Completed, Duration, **Type** (tag: Enrichment / Data fetching / Top-2 classifier), **Result** (e.g. "736 enriched, 0 failed", "X ok, Y errors", or "X processed, Y failed" depending on type), Status (running / completed / failed). Runs that stay "running" for more than 2 hours show a "Stale" indicator.
+- **Active runs** — When any script is running, this section lists all running sessions with Run ID, start time, and progress bar. Progress updates every 2 seconds. Runs older than 2 hours with no update show "Possibly stopped" and a **Mark as stopped** button.
+- **Insights (from run history)** — Summary cards: total enriched and total failed across all enrichment runs; total templates added and total errors across all scraper runs; total processed/failed for top-2 runs; run session counts; last run summary for each type. Data comes from `get_admin_insights()` RPC.
+- **Job run history** — A single combined table for all job types. Columns: **Run ID** (UUID, click to copy), Started, Completed, Duration, **Type** (tag: Enrichment / Data fetching / Top-2 classifier), **Result**, Status. Running runs show a **Mark as stopped** button.
+- **Cleanup stale runs** — Marks runs stuck as "running" for 2+ hours as failed. Also runs automatically via pg_cron every 15 minutes in Supabase.
 
 History is stored in Supabase (`admin_job_runs`); see [Database Schema](database-schema.md#admin_job_runs). When you click **Run enrichment**, **Run scraper**, or **Run top-2 (AI)**, the app inserts a row with `status = 'running'` and passes `ADMIN_RUN_ID` in the environment to the script. The script updates that row on exit with `completed_at`, `status`, and result counts. Scripts triggered from the CLI (without the UI) do not receive `ADMIN_RUN_ID`, so they do not create or update run history.
 
+**Resumable scripts:** All three scripts are resumable. The scraper skips existing templates and saves state. Enrichment and top-2 process only pending/empty rows and never overwrite existing data unless you enable **Refresh** (top-2 only).
+
 **Apply top2 migration:** If "Run top-2 (AI)" fails with `admin_job_runs_job_type_check`, apply migration `20250218000002`:
 
-- **Option A (MCP):** Use the Supabase MCP `apply_migration` tool with the SQL from `supabase/migrations/20250218000002_allow_top2_job_type.sql`.
+- **Option A (MCP):** Use the Supabase MCP `apply_migration` tool with the SQL from `supabase/migrations/20250218000002_allow_top2_job_type.sql`. Prefer MCP for all database operations; see [n8n-project rules](.cursor/rules/n8n-project.mdc).
 - **Option B (CLI):** `npm run db:migrate:top2` (requires `DATABASE_URL` in `.env` or `scripts/scraper/.env`; get from Supabase Dashboard → Database → Connection string URI).
 - **Option C (linked Supabase):** `npm run db:push`.
 - **Option D (SQL Editor):** Run the contents of `supabase/migrations/20250218000002_allow_top2_job_type.sql` in Supabase SQL Editor.
@@ -389,7 +397,7 @@ npx tsx scripts/backfill-admin-job-runs-from-git.ts --insert
 | `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history; query `?type=enrichment`, `?type=scraper`, or `?type=top2`; requires auth + secret |
 | `explorer/src/app/api/admin/scrape/run/route.ts` | POST to start template scraper in background; requires auth + secret |
 | `explorer/src/lib/top2-run.ts` | Spawns top-2 classifier script with `--use-ai` (used by "Run top-2 (AI)" button) |
-| `explorer/src/app/admin/enrichment/page.tsx` | Admin UI: status, parameter inputs per run type, Run scraper / Run enrichment / Run top-2 (AI), combined job run history table, Sign out; access after sign-in at `/admin/login` |
+| `explorer/src/app/admin/enrichment/EnrichmentAdminClient.tsx` | Admin UI: status cards, Active runs (with progress bars), parameter inputs, Run buttons, Mark as stopped, Cleanup stale runs, Job run history (Run ID, Status), Insights; access after sign-in at `/admin/login` |
 | `scripts/enrich-analytics.ts` | Main entry: fetches templates, runs pipeline, upserts analytics |
 | `scripts/enrichment/types.ts` | Shared TypeScript types |
 | `scripts/enrichment/node-analyzer.ts` | Node statistics from `template.nodes` |

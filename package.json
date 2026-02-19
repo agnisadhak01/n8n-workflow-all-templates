@@ -16,6 +16,7 @@
     "enrich:pricing": "npx tsx scripts/enrich-pricing.ts",
     "enrich:validate": "npx tsx scripts/validate-enrichment.ts",
     "enrich:top": "npx tsx scripts/enrich-top-classifier.ts",
+    "enrich:serviceable-name": "npx tsx scripts/enrich-serviceable-name.ts",
     "backfill:job-history": "npx tsx scripts/backfill-admin-job-runs-from-git.ts",
     "db:migrate:top2": "npx tsx scripts/apply-top2-migration.ts",
     "db:push": "supabase db push"

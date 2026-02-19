@@ -1,7 +1,7 @@
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { loadScraperEnvIfNeeded } from "./load-scraper-env";
 
-export type JobType = "enrichment" | "scraper" | "top2";
+export type JobType = "enrichment" | "scraper" | "top2" | "serviceable_name";
 
 function getSupabase(): SupabaseClient {
   loadScraperEnvIfNeeded();
@@ -75,7 +75,8 @@ export async function getJobHistory(options?: {
     if (
       options?.type === "enrichment" ||
       options?.type === "scraper" ||
-      options?.type === "top2"
+      options?.type === "top2" ||
+      options?.type === "serviceable_name"
     ) {
       query = query.eq("job_type", options.type);
     }

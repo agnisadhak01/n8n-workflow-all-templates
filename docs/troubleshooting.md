@@ -143,6 +143,21 @@ python run.py --limit 1
 
 **Solution:** Set `ENRICHMENT_ADMIN_SECRET` in env. For Coolify, set `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY` so the admin API and background scripts can access Supabase. See [Enrichment Guide](enrichment-guide.md#web-app-integration-coolify).
 
+### Runs stuck as "running"
+
+**Cause:** A script was killed, crashed, or lost connection without updating the database. The admin UI cannot detect this directly; runs older than 2 hours with no update show "Possibly stopped".
+
+**Solution:**
+- Use **Mark as stopped** on the specific run to mark it as `failed` manually.
+- Use **Cleanup stale runs** to mark all runs stuck as "running" for 2+ hours as failed.
+- In production, `admin_mark_stale_job_runs()` runs every 15 minutes via pg_cron (migration `20250219000002`).
+
+### Top-2 run ends quickly with 0 processed
+
+**Cause:** Older versions of the top-2 script exited when the first batch had all rows already filled, instead of advancing to the next batch. Fixed in recent updates: the script now skips past fully-filled batches and continues until all pending rows are processed or the batch returns empty and exhausted.
+
+**Solution:** Ensure you use the latest `scripts/enrich-top-classifier.ts`. Re-run top-2 to process remaining rows.
+
 ## Build & Deployment
 
 ### Next.js build fails

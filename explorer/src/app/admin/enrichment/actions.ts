@@ -5,6 +5,7 @@ import type { EnrichmentStatus } from "@/lib/enrich-status";
 import { startEnrichmentInBackground } from "@/lib/enrich-run";
 import { startScraperInBackground } from "@/lib/scraper-run";
 import { startTop2InBackground } from "@/lib/top2-run";
+import { startServiceableNameInBackground } from "@/lib/service-name-run";
 import { getJobHistory, markJobRunStopped, markStaleJobRuns } from "@/lib/admin-jobs";
 import type { JobRunRow } from "@/lib/admin-jobs";
 
@@ -37,6 +38,14 @@ export async function runTop2Enrichment(options?: {
   refresh?: boolean;
 }): Promise<{ ok: boolean; runId?: string; error?: string }> {
   return startTop2InBackground(options);
+}
+
+export async function runServiceableNameEnrichment(options?: {
+  batchSize?: number;
+  limit?: number;
+  refresh?: boolean;
+}): Promise<{ ok: boolean; runId?: string; error?: string }> {
+  return startServiceableNameInBackground(options);
 }
 
 export async function getHistory(): Promise<

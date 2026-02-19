@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { getStatus, getHistory, runEnrichment, runScraper, runTop2Enrichment, markRunStopped, cleanupStaleRuns } from "./actions";
+import { getStatus, getHistory, runEnrichment, runScraper, runTop2Enrichment, runServiceableNameEnrichment, markRunStopped, cleanupStaleRuns } from "./actions";
 import type { EnrichmentStatus } from "@/lib/enrich-status";
 import type { JobRunRow } from "@/lib/admin-jobs";
 
@@ -19,7 +19,7 @@ function formatResult(row: JobRunRow): string {
     const failed = r.failed_count ?? 0;
     return `${enriched.toLocaleString()} enriched, ${failed.toLocaleString()} failed`;
   }
-  if (row.job_type === "top2") {
+  if (row.job_type === "top2" || row.job_type === "serviceable_name") {
     const processed = r.processed_count ?? 0;
     const failed = r.failed_count ?? 0;
     return `${processed.toLocaleString()} processed, ${failed.toLocaleString()} failed`;
@@ -124,6 +124,31 @@ function top2Insights(rows: JobRunRow[]): Top2Insights {
   return { totalProcessed, totalFailed, runCount: rows.length, lastRunSummary };
 }
 
+type ServiceableNameInsights = {
+  totalProcessed: number;
+  totalFailed: number;
+  runCount: number;
+  lastRunSummary: string | null;
+};
+
+function serviceableNameInsights(rows: JobRunRow[]): ServiceableNameInsights {
+  let totalProcessed = 0;
+  let totalFailed = 0;
+  let lastRunSummary: string | null = null;
+  const completed = rows.filter((r) => r.status === "completed" && r.result);
+  for (const row of completed) {
+    const r = (row.result || {}) as Record<string, number | undefined>;
+    totalProcessed += r.processed_count ?? 0;
+    totalFailed += r.failed_count ?? 0;
+  }
+  const last = completed[completed.length - 1];
+  if (last?.result) {
+    const r = last.result as Record<string, number | undefined>;
+    lastRunSummary = `${(r.processed_count ?? 0).toLocaleString()} processed, ${(r.failed_count ?? 0).toLocaleString()} failed`;
+  }
+  return { totalProcessed, totalFailed, runCount: rows.length, lastRunSummary };
+}
+
 function InsightsCard({
   title,
   items,
@@ -148,7 +173,7 @@ function InsightsCard({
   );
 }
 
-function getProgressCounts(run: JobRunRow, jobType: "scraper" | "enrichment" | "top2") {
+function getProgressCounts(run: JobRunRow, jobType: "scraper" | "enrichment" | "top2" | "serviceable_name") {
   const r = run.result ?? {};
   if (jobType === "scraper") {
     const done = (r.templates_ok ?? 0) + (r.templates_error ?? 0);
@@ -172,7 +197,7 @@ function RunProgressBar({
   countLabel,
 }: {
   run: JobRunRow;
-  jobType: "scraper" | "enrichment" | "top2";
+  jobType: "scraper" | "enrichment" | "top2" | "serviceable_name";
   fillColor: string;
   countLabel: string;
 }) {
@@ -275,6 +300,8 @@ function jobTypeTag(job_type: string): { label: string; className: string } {
       return { label: "Data fetching", className: "bg-sky-500/20 text-sky-400" };
     case "top2":
       return { label: "Top-2 classifier", className: "bg-violet-500/20 text-violet-400" };
+    case "serviceable_name":
+      return { label: "Serviceable name", className: "bg-amber-500/20 text-amber-400" };
     default:
       return { label: job_type, className: "bg-zinc-500/20 text-zinc-400" };
   }
@@ -288,6 +315,8 @@ function getProgressBarStyle(jobType: string): { fillColor: string; countLabel: 
       return { fillColor: "bg-emerald-500", countLabel: "Enriched" };
     case "top2":
       return { fillColor: "bg-violet-500", countLabel: "Processed" };
+    case "serviceable_name":
+      return { fillColor: "bg-amber-500", countLabel: "Processed" };
     default:
       return { fillColor: "bg-zinc-500", countLabel: "Done" };
   }
@@ -382,6 +411,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
   const [runMessage, setRunMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [scraperMessage, setScraperMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [top2Message, setTop2Message] = useState<{ type: "ok" | "error"; text: string } | null>(null);
+  const [serviceableNameMessage, setServiceableNameMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [history, setHistory] = useState<{ runs: JobRunRow[] }>({ runs: [] });
   const [pollError, setPollError] = useState<string | null>(null);
   const [cleanupMessage, setCleanupMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
@@ -396,6 +426,11 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     limit: 0,
   });
   const [top2Params, setTop2Params] = useState({
+    batchSize: 50,
+    limit: 0,
+    refresh: false,
+  });
+  const [serviceableNameParams, setServiceableNameParams] = useState({
     batchSize: 50,
     limit: 0,
     refresh: false,
@@ -456,6 +491,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     setRunMessage(null);
     setScraperMessage(null);
     setTop2Message(null);
+    setServiceableNameMessage(null);
     setPollError(null);
     setCleanupMessage(null);
     const [statusResult, historyResult] = await Promise.all([
@@ -526,6 +562,26 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     }
   }
 
+  async function handleRunServiceableName() {
+    setLoading(true);
+    setServiceableNameMessage(null);
+    const result = await runServiceableNameEnrichment({
+      batchSize: serviceableNameParams.batchSize,
+      limit: serviceableNameParams.limit || undefined,
+      refresh: serviceableNameParams.refresh,
+    });
+    setLoading(false);
+    if (result.ok) {
+      setServiceableNameMessage({
+        type: "ok",
+        text: "Serviceable name enrichment started in background.",
+      });
+      loadHistory();
+    } else {
+      setServiceableNameMessage({ type: "error", text: result.error ?? "Failed to start" });
+    }
+  }
+
   return (
     <div className="space-y-8">
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-3">
@@ -588,7 +644,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
                   </div>
                   <RunProgressBar
                     run={run}
-                    jobType={run.job_type as "scraper" | "enrichment" | "top2"}
+                    jobType={run.job_type as "scraper" | "enrichment" | "top2" | "serviceable_name"}
                     fillColor={style.fillColor}
                     countLabel={style.countLabel}
                   />
@@ -847,6 +903,94 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
         </div>
       </section>
 
+      <section>
+        <h2 className="mb-3 text-lg font-semibold text-zinc-200">Serviceable name (AI)</h2>
+        <p className="mb-3 text-sm text-zinc-400">
+          Populate <code className="rounded bg-zinc-700 px-1">unique_common_serviceable_name</code> in template_analytics with a plain-English 3–7 word name that non-technical users can understand. Resumable: only fills empty rows; enable Refresh to recompute existing.
+        </p>
+        {status.insights && (
+          <div className="mb-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
+            <InsightsCard
+              title="unique_common_serviceable_name"
+              accentColor="text-amber-400"
+              items={[
+                { label: "Total analytics rows", value: status.insights.serviceable_name.totalAnalytics },
+                { label: "Filled", value: status.insights.serviceable_name.filled, highlight: true },
+                { label: "Pending", value: status.insights.serviceable_name.pending, highlight: true },
+              ]}
+            />
+          </div>
+        )}
+        {serviceableNameMessage && (
+          <div
+            className={`mb-3 rounded-lg border p-4 ${
+              serviceableNameMessage.type === "ok"
+                ? "border-emerald-700 bg-emerald-900/20 text-emerald-200"
+                : "border-red-800 bg-red-900/20 text-red-200"
+            }`}
+          >
+            {serviceableNameMessage.text}
+          </div>
+        )}
+        <div className="mb-3 flex flex-wrap items-end gap-4 rounded-lg border border-zinc-700 bg-zinc-800/30 p-3">
+          <label className="flex flex-col gap-1 text-sm">
+            <span className="text-zinc-400">Batch size</span>
+            <input
+              type="number"
+              min={1}
+              max={500}
+              value={serviceableNameParams.batchSize}
+              onChange={(e) =>
+                setServiceableNameParams((p) => ({
+                  ...p,
+                  batchSize: Math.max(1, parseInt(e.target.value, 10) || 50),
+                }))
+              }
+              className="w-24 rounded border border-zinc-600 bg-zinc-800 px-2 py-1.5 text-zinc-200"
+            />
+          </label>
+          <label className="flex flex-col gap-1 text-sm">
+            <span className="text-zinc-400">Limit (0 = no limit)</span>
+            <input
+              type="number"
+              min={0}
+              value={serviceableNameParams.limit}
+              onChange={(e) =>
+                setServiceableNameParams((p) => ({
+                  ...p,
+                  limit: Math.max(0, parseInt(e.target.value, 10) || 0),
+                }))
+              }
+              className="w-24 rounded border border-zinc-600 bg-zinc-800 px-2 py-1.5 text-zinc-200"
+            />
+          </label>
+          <label className="flex flex-col items-start gap-1.5 text-sm">
+            <span className="text-zinc-400">Options</span>
+            <label className="flex cursor-pointer items-center gap-2 text-zinc-300">
+              <input
+                type="checkbox"
+                checked={serviceableNameParams.refresh}
+                onChange={(e) =>
+                  setServiceableNameParams((p) => ({ ...p, refresh: e.target.checked }))
+                }
+                className="rounded border-zinc-600 bg-zinc-800"
+              />
+              <span>Refresh (recompute existing)</span>
+            </label>
+          </label>
+        </div>
+        <div className="flex flex-wrap gap-3">
+          <button
+            type="button"
+            onClick={handleRunServiceableName}
+            disabled={loading}
+            className="rounded-lg bg-amber-600 px-4 py-2 font-medium text-white transition hover:bg-amber-500 disabled:opacity-50"
+          >
+            {loading ? "Starting…" : "Run serviceable name (AI)"}
+          </button>
+        </div>
+      </section>
+
       <div className="flex flex-wrap items-center gap-3">
         <button
           type="button"
@@ -922,6 +1066,22 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
               return (
                 <ul className="mt-2 space-y-1 text-sm text-zinc-200">
                   <li>Total processed (all runs): <strong className="text-violet-400">{ins.totalProcessed.toLocaleString()}</strong></li>
+                  <li>Total failed (all runs): <strong className="text-red-400">{ins.totalFailed.toLocaleString()}</strong></li>
+                  <li>Run sessions: {ins.runCount.toLocaleString()}</li>
+                  {ins.lastRunSummary && (
+                    <li className="pt-1 text-zinc-400">Last run: {ins.lastRunSummary}</li>
+                  )}
+                </ul>
+              );
+            })()}
+          </div>
+          <div className="rounded-lg border border-zinc-700 bg-zinc-800/50 p-4">
+            <h3 className="text-sm font-medium text-zinc-300">Serviceable name (script run sessions)</h3>
+            {(() => {
+              const ins = serviceableNameInsights(history.runs.filter((r) => r.job_type === "serviceable_name"));
+              return (
+                <ul className="mt-2 space-y-1 text-sm text-zinc-200">
+                  <li>Total processed (all runs): <strong className="text-amber-400">{ins.totalProcessed.toLocaleString()}</strong></li>
                   <li>Total failed (all runs): <strong className="text-red-400">{ins.totalFailed.toLocaleString()}</strong></li>
                   <li>Run sessions: {ins.runCount.toLocaleString()}</li>
                   {ins.lastRunSummary && (

@@ -18,6 +18,11 @@ export type AdminInsights = {
     pendingTop2: number;
     hasUseCaseDescription: number;
   };
+  serviceable_name: {
+    totalAnalytics: number;
+    filled: number;
+    pending: number;
+  };
 };
 
 export type EnrichmentStatus = {
@@ -69,6 +74,7 @@ export async function getEnrichmentStatus(): Promise<
       scraper?: { total_templates?: number; templates_without_analytics?: number };
       enrichment?: { total_analytics?: number; enriched?: number; pending?: number; failed?: number };
       top2?: { total_analytics?: number; filled_top2?: number; pending_top2?: number; has_use_case_description?: number };
+      serviceable_name?: { total_analytics?: number; filled?: number; pending?: number };
     };
     insights = {
       scraper: {
@@ -86,6 +92,11 @@ export async function getEnrichmentStatus(): Promise<
         filledTop2: raw.top2?.filled_top2 ?? 0,
         pendingTop2: raw.top2?.pending_top2 ?? 0,
         hasUseCaseDescription: raw.top2?.has_use_case_description ?? 0,
+      },
+      serviceable_name: {
+        totalAnalytics: raw.serviceable_name?.total_analytics ?? 0,
+        filled: raw.serviceable_name?.filled ?? 0,
+        pending: raw.serviceable_name?.pending ?? 0,
       },
     };
   }

@@ -112,7 +112,19 @@ WHERE NOT EXISTS (SELECT 1 FROM public.templates t WHERE t.id = nt.template_id);
 
 ## Migrations
 
-Schema is applied via Supabase migrations (MCP `apply_migration` or SQL Editor). The scraper expects:
+Schema is applied via Supabase migrations (MCP `apply_migration` or SQL Editor). Prefer the Supabase MCP for migrations; see [n8n-project rules](.cursor/rules/n8n-project.mdc).
+
+| Migration | Purpose |
+|-----------|---------|
+| `20250127000001` | Create `admin_job_runs` table |
+| `20250218000002` | Allow `job_type = 'top2'` in `admin_job_runs` |
+| `20250219000001` | Add `get_admin_insights()` RPC |
+| `20250219000002` | Add `admin_mark_stale_job_runs()` and pg_cron (every 15 min) |
+| `20250219000003` | Add `unique_common_serviceable_name` to template_analytics |
+| `20250219000004` | Allow `job_type = 'serviceable_name'` in `admin_job_runs` |
+| `20250219000005` | Add serviceable_name stats to `get_admin_insights()` |
+
+The scraper expects:
 
 - `templates` with `source_id` unique
 - `node_types` with `template_id` FK
@@ -134,6 +146,7 @@ Enriched analytics per template. See [Enrichment Guide](enrichment-guide.md) for
 | `applicable_processes` | jsonb | Array of `{name, confidence, ...}` |
 | `top_2_industries` | jsonb | Top 2 industries extracted from use_case_description |
 | `top_2_processes` | jsonb | Top 2 processes extracted from use_case_description |
+| `unique_common_serviceable_name` | text (nullable) | Plain-English 3–7 word name for non-technical users; AI-generated |
 | `unique_node_types` | text[] | Distinct node types in workflow |
 | `total_unique_node_types` | integer | Count of distinct types |
 | `total_node_count` | integer | Total nodes in workflow |
@@ -151,7 +164,7 @@ Run history for admin-triggered jobs (enrichment, template scraper, and top-2 cl
 | Column | Type | Description |
 |--------|------|-------------|
 | `id` | uuid (PK) | Auto-generated |
-| `job_type` | text | `enrichment`, `scraper`, or `top2` |
+| `job_type` | text | `enrichment`, `scraper`, `top2`, or `serviceable_name` |
 | `started_at` | timestamptz | When the run was started |
 | `completed_at` | timestamptz (nullable) | When the script reported completion |
 | `status` | text | `running`, `completed`, or `failed` |
@@ -159,11 +172,17 @@ Run history for admin-triggered jobs (enrichment, template scraper, and top-2 cl
 
 **Result payloads:**
 
-- **Enrichment:** `{ "enriched_count": number, "failed_count": number }`
-- **Scraper:** `{ "templates_ok": number, "templates_error": number }`
-- **Top-2 classifier:** `{ "processed_count": number, "failed_count": number }`
+- **Enrichment:** `{ "enriched_count": number, "failed_count": number }`; during run may include `total_count`
+- **Scraper:** `{ "templates_ok": number, "templates_error": number }`; during run may include `total_count`
+- **Top-2 classifier:** `{ "processed_count": number, "failed_count": number }`; during run may include `total_count`
+- **Serviceable name:** `{ "processed_count": number, "failed_count": number }`; during run may include `total_count`
 
-When a run is started from the admin UI, a row is inserted with `status = 'running'`. The script receives `ADMIN_RUN_ID` in the environment and updates the row on exit with `completed_at`, `status`, and `result`. The top-2 classifier script (`enrich-top-classifier.ts`) is triggered by the "Run top-2 (AI)" button and also reports completion to this table when `ADMIN_RUN_ID` is set.
+When a run is started from the admin UI, a row is inserted with `status = 'running'`. The script receives `ADMIN_RUN_ID` in the environment and updates the row on exit with `completed_at`, `status`, and `result`. Scripts report progress during runs (e.g. `total_count`, processed/failed) for the admin UI progress bar.
+
+**Functions:**
+
+- `admin_mark_stale_job_runs()` — Marks runs as `failed` when `status = 'running'` and `started_at` is older than 2 hours. Returns count of rows updated. Called by pg_cron every 15 minutes and by the "Cleanup stale runs" button.
+- `get_admin_insights()` — Returns JSON with detailed counts for scraper, enrichment, top2, and serviceable_name (e.g. total templates, pending, filled) for the admin UI insights cards.
 
 ## See Also
 
