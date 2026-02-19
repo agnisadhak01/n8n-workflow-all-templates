@@ -101,9 +101,8 @@ export function logApiRequest(params: LogApiRequestParams): void {
 
   const ipAddress = getClientIp(request);
 
-  supabase
-    .from("api_request_logs")
-    .insert({
+  void Promise.resolve(
+    supabase.from("api_request_logs").insert({
       credential_id: credentialId,
       endpoint,
       method,
@@ -112,8 +111,7 @@ export function logApiRequest(params: LogApiRequestParams): void {
       response_summary: responseSummary ?? null,
       ip_address: ipAddress,
     })
-    .then(({ error }) => {
-      if (error) console.warn("[api-logs] Failed to insert log:", error.message);
-    })
-    .catch((err) => console.warn("[api-logs] Log error:", err));
+  ).then(({ error }) => {
+    if (error) console.warn("[api-logs] Failed to insert log:", error.message);
+  }).catch((err) => console.warn("[api-logs] Log error:", err));
 }

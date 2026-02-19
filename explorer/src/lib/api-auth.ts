@@ -138,12 +138,12 @@ export async function validateApiKey(
     };
 
     // Update last_used_at (fire-and-forget)
-    supabase
-      .from("api_credentials")
-      .update({ last_used_at: new Date().toISOString() })
-      .eq("id", row.id)
-      .then(() => {})
-      .catch((err) => console.warn("[api-auth] Failed to update last_used_at:", err));
+    void Promise.resolve(
+      supabase
+        .from("api_credentials")
+        .update({ last_used_at: new Date().toISOString() })
+        .eq("id", row.id)
+    ).catch((err) => console.warn("[api-auth] Failed to update last_used_at:", err));
 
     return { valid: true, credential };
   } catch (err) {
