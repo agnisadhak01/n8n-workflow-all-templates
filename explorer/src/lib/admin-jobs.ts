@@ -95,6 +95,23 @@ export async function getJobHistory(options?: {
  * Mark a job run as stopped (failed). Use when a script stopped without updating the DB
  * (e.g. killed, crashed, or ran outside the admin UI).
  */
+/**
+ * Mark stale running runs as failed (no update for 2+ hours).
+ * Calls the database function; also invoked by pg_cron every 15 min.
+ */
+export async function markStaleJobRuns(): Promise<{ ok: true; count: number } | { ok: false; error: string }> {
+  try {
+    const supabase = getSupabase();
+    const { data, error } = await supabase.rpc("admin_mark_stale_job_runs");
+    if (error) return { ok: false, error: error.message };
+    const count = typeof data === "number" ? data : 0;
+    return { ok: true, count };
+  } catch (err) {
+    const message = err instanceof Error ? err.message : String(err);
+    return { ok: false, error: message };
+  }
+}
+
 export async function markJobRunStopped(runId: string): Promise<{ ok: boolean; error?: string }> {
   try {
     const supabase = getSupabase();

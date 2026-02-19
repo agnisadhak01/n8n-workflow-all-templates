@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { getStatus, getHistory, runEnrichment, runScraper, runTop2Enrichment, markRunStopped } from "./actions";
+import { getStatus, getHistory, runEnrichment, runScraper, runTop2Enrichment, markRunStopped, cleanupStaleRuns } from "./actions";
 import type { EnrichmentStatus } from "@/lib/enrich-status";
 import type { JobRunRow } from "@/lib/admin-jobs";
 
@@ -384,6 +384,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
   const [top2Message, setTop2Message] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [history, setHistory] = useState<{ runs: JobRunRow[] }>({ runs: [] });
   const [pollError, setPollError] = useState<string | null>(null);
+  const [cleanupMessage, setCleanupMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
 
   const [scraperParams, setScraperParams] = useState({
     batchSize: 50,
@@ -436,12 +437,27 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     return () => clearInterval(interval);
   }, [activeRuns.length]);
 
+  async function handleCleanupStale() {
+    setCleanupMessage(null);
+    const result = await cleanupStaleRuns();
+    if (result.ok) {
+      setCleanupMessage({
+        type: "ok",
+        text: result.count > 0 ? `Marked ${result.count} stale run(s) as failed.` : "No stale runs found.",
+      });
+      loadHistory();
+    } else {
+      setCleanupMessage({ type: "error", text: result.error ?? "Cleanup failed" });
+    }
+  }
+
   async function handleRefresh() {
     setLoading(true);
     setRunMessage(null);
     setScraperMessage(null);
     setTop2Message(null);
     setPollError(null);
+    setCleanupMessage(null);
     const [statusResult, historyResult] = await Promise.all([
       getStatus(),
       getHistory(),
@@ -831,7 +847,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
         </div>
       </section>
 
-      <div className="flex flex-wrap gap-3">
+      <div className="flex flex-wrap items-center gap-3">
         <button
           type="button"
           onClick={handleRefresh}
@@ -840,6 +856,25 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
         >
           Refresh status
         </button>
+        <button
+          type="button"
+          onClick={handleCleanupStale}
+          disabled={loading}
+          className="rounded-lg border border-amber-600/50 bg-amber-900/20 px-4 py-2 font-medium text-amber-300 transition hover:bg-amber-900/40 disabled:opacity-50"
+        >
+          Cleanup stale runs
+        </button>
+        {cleanupMessage && (
+          <span
+            className={
+              cleanupMessage.type === "ok"
+                ? "text-sm text-emerald-400"
+                : "text-sm text-red-400"
+            }
+          >
+            {cleanupMessage.text}
+          </span>
+        )}
       </div>
 
       <section>
