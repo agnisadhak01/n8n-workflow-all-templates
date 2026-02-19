@@ -137,7 +137,7 @@ async function fetchAnalyticsBatch(
     offset: number;
     refresh: boolean;
   }
-): Promise<{ data: AnalyticsRow[] }> {
+): Promise<{ data: AnalyticsRow[]; exhausted: boolean }> {
   const { data, error } = await supabase
     .from("template_analytics")
     .select("template_id, use_case_description, top_2_industries, top_2_processes")
@@ -148,6 +148,7 @@ async function fetchAnalyticsBatch(
   if (error) throw new Error(`Fetch template_analytics: ${error.message}`);
 
   const rows = (data ?? []) as AnalyticsRow[];
+  const exhausted = rows.length < FETCH_WINDOW;
   const withDescription = rows.filter(
     (r) => r.use_case_description && String(r.use_case_description).trim().length > 0
   );
@@ -155,6 +156,7 @@ async function fetchAnalyticsBatch(
 
   return {
     data: needUpdate.slice(0, options.batchSize),
+    exhausted,
   };
 }
 
@@ -275,15 +277,19 @@ async function main(): Promise<void> {
     }
     for (;;) {
       if (shuttingDown) break;
-      const { data: rows } = await fetchAnalyticsBatch(supabase, {
+      const { data: rows, exhausted } = await fetchAnalyticsBatch(supabase, {
         batchSize: args.batchSize,
         offset,
         refresh: args.refresh,
       });
 
       if (rows.length === 0) {
-        console.log("No more rows to process.");
-        break;
+        if (exhausted) {
+          console.log("No more rows to process.");
+          break;
+        }
+        offset += FETCH_WINDOW;
+        continue;
       }
 
       console.log(`Processing batch count=${rows.length} (offset=${offset})`);
