@@ -90,3 +90,26 @@ export async function getJobHistory(options?: {
     return { error: message };
   }
 }
+
+/**
+ * Mark a job run as stopped (failed). Use when a script stopped without updating the DB
+ * (e.g. killed, crashed, or ran outside the admin UI).
+ */
+export async function markJobRunStopped(runId: string): Promise<{ ok: boolean; error?: string }> {
+  try {
+    const supabase = getSupabase();
+    const { error } = await supabase
+      .from("admin_job_runs")
+      .update({
+        status: "failed",
+        completed_at: new Date().toISOString(),
+      })
+      .eq("id", runId)
+      .eq("status", "running");
+    if (error) return { ok: false, error: error.message };
+    return { ok: true };
+  } catch (err) {
+    const message = err instanceof Error ? err.message : String(err);
+    return { ok: false, error: message };
+  }
+}

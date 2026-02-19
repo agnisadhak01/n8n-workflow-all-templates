@@ -5,7 +5,7 @@ import type { EnrichmentStatus } from "@/lib/enrich-status";
 import { startEnrichmentInBackground } from "@/lib/enrich-run";
 import { startScraperInBackground } from "@/lib/scraper-run";
 import { startTop2InBackground } from "@/lib/top2-run";
-import { getJobHistory } from "@/lib/admin-jobs";
+import { getJobHistory, markJobRunStopped } from "@/lib/admin-jobs";
 import type { JobRunRow } from "@/lib/admin-jobs";
 
 export async function getStatus(): Promise<
@@ -46,4 +46,8 @@ export async function getHistory(): Promise<
   const result = await getJobHistory();
   if ("error" in result) return { ok: false, error: result.error };
   return { ok: true, data: result };
+}
+
+export async function markRunStopped(runId: string): Promise<{ ok: boolean; error?: string }> {
+  return markJobRunStopped(runId);
 }

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { getStatus, getHistory, runEnrichment, runScraper, runTop2Enrichment } from "./actions";
+import { getStatus, getHistory, runEnrichment, runScraper, runTop2Enrichment, markRunStopped } from "./actions";
 import type { EnrichmentStatus } from "@/lib/enrich-status";
 import type { JobRunRow } from "@/lib/admin-jobs";
 
@@ -204,6 +204,69 @@ function RunProgressBar({
   );
 }
 
+function formatRunId(id: string): string {
+  if (!id) return "—";
+  return id.length >= 8 ? id.slice(0, 8) : id;
+}
+
+function MarkStoppedButton({ runId, onStopped }: { runId: string; onStopped: () => void }) {
+  const [loading, setLoading] = useState(false);
+  const handleClick = async () => {
+    setLoading(true);
+    const result = await markRunStopped(runId);
+    setLoading(false);
+    if (result.ok) onStopped();
+  };
+  return (
+    <button
+      type="button"
+      onClick={handleClick}
+      disabled={loading}
+      className="rounded border border-amber-600/50 bg-amber-900/30 px-2 py-0.5 text-xs text-amber-400 hover:bg-amber-900/50 disabled:opacity-50"
+    >
+      {loading ? "Marking…" : "Mark as stopped"}
+    </button>
+  );
+}
+
+function RunIdCell({ id }: { id: string }) {
+  const [copied, setCopied] = useState(false);
+  if (!id) return <span className="text-zinc-500">—</span>;
+  const short = formatRunId(id);
+  const copy = async () => {
+    try {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(id);
+      } else {
+        const textarea = document.createElement("textarea");
+        textarea.value = id;
+        textarea.style.position = "fixed";
+        textarea.style.opacity = "0";
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand("copy");
+        document.body.removeChild(textarea);
+      }
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1500);
+    } catch {
+      // ignore
+    }
+  };
+  return (
+    <span
+      title={`${id} — click to copy`}
+      className="cursor-pointer font-mono text-xs text-zinc-500 hover:text-zinc-400"
+      onClick={copy}
+      role="button"
+      tabIndex={0}
+      onKeyDown={(e) => e.key === "Enter" && void copy()}
+    >
+      {copied ? "Copied!" : short}
+    </span>
+  );
+}
+
 function jobTypeTag(job_type: string): { label: string; className: string } {
   switch (job_type) {
     case "enrichment":
@@ -233,9 +296,11 @@ function getProgressBarStyle(jobType: string): { fillColor: string; countLabel: 
 function HistoryTable({
   rows,
   emptyLabel,
+  onStopped,
 }: {
   rows: JobRunRow[];
   emptyLabel: string;
+  onStopped?: () => void;
 }) {
   if (rows.length === 0) {
     return <p className="text-sm text-zinc-500">{emptyLabel}</p>;
@@ -245,6 +310,7 @@ function HistoryTable({
       <table className="w-full text-left text-sm">
         <thead>
           <tr className="border-b border-zinc-700 bg-zinc-800/80">
+            <th className="p-3 font-medium text-zinc-300">Run ID</th>
             <th className="p-3 font-medium text-zinc-300">Started</th>
             <th className="p-3 font-medium text-zinc-300">Completed</th>
             <th className="p-3 font-medium text-zinc-300">Duration</th>
@@ -258,6 +324,9 @@ function HistoryTable({
             const tag = jobTypeTag(row.job_type);
             return (
               <tr key={row.id} className="border-b border-zinc-700/50">
+                <td className="p-3">
+                  <RunIdCell id={row.id} />
+                </td>
                 <td className="p-3 text-zinc-200">
                   {new Date(row.started_at).toLocaleString()}
                 </td>
@@ -292,6 +361,11 @@ function HistoryTable({
                   {isStale(row.started_at, row.status) && (
                     <span className="ml-2 text-xs text-zinc-500">(Stale)</span>
                   )}
+                  {row.status === "running" && onStopped && (
+                    <span className="ml-2">
+                      <MarkStoppedButton runId={row.id} onStopped={onStopped} />
+                    </span>
+                  )}
                 </td>
               </tr>
             );
@@ -309,6 +383,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
   const [scraperMessage, setScraperMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [top2Message, setTop2Message] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [history, setHistory] = useState<{ runs: JobRunRow[] }>({ runs: [] });
+  const [pollError, setPollError] = useState<string | null>(null);
 
   const [scraperParams, setScraperParams] = useState({
     batchSize: 50,
@@ -340,10 +415,15 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
 
   useEffect(() => {
     if (activeRuns.length === 0) return;
+    setPollError(null);
     const prevRunningCount = history.runs.filter((r) => r.status === "running").length;
     const poll = async () => {
       const result = await getHistory();
-      if (!result.ok) return;
+      if (!result.ok) {
+        setPollError(result.error ?? "Could not refresh run status");
+        return;
+      }
+      setPollError(null);
       const newRunningCount = result.data.runs.filter((r) => r.status === "running").length;
       if (newRunningCount < prevRunningCount) {
         const statusResult = await getStatus();
@@ -361,6 +441,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     setRunMessage(null);
     setScraperMessage(null);
     setTop2Message(null);
+    setPollError(null);
     const [statusResult, historyResult] = await Promise.all([
       getStatus(),
       getHistory(),
@@ -456,18 +537,38 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
           <p className="mb-3 text-sm text-zinc-400">
             Scripts currently running, ordered by start time (oldest first). Progress updates every 2 seconds.
           </p>
+          {pollError && (
+            <div className="mb-3 rounded-lg border border-red-700/50 bg-red-900/20 p-3 text-sm text-red-300">
+              {pollError} — Click Refresh to retry.
+            </div>
+          )}
           <ul className="space-y-4">
             {activeRuns.map((run) => {
               const style = getProgressBarStyle(run.job_type);
+              const stale = isStale(run.started_at, run.status);
               return (
-                <li key={run.id} className="rounded-lg border border-zinc-700 bg-zinc-800/50 p-3">
+                <li
+                  key={run.id}
+                  className={`rounded-lg border p-3 ${
+                    stale
+                      ? "border-amber-700/50 bg-amber-900/5"
+                      : "border-zinc-700 bg-zinc-800/50"
+                  }`}
+                >
                   <div className="mb-2 flex flex-wrap items-center gap-2">
                     <span className={`rounded px-2 py-0.5 text-xs font-medium ${jobTypeTag(run.job_type).className}`}>
                       {jobTypeTag(run.job_type).label}
                     </span>
+                    <RunIdCell id={run.id} />
                     <span className="text-sm text-zinc-400">
                       Started {new Date(run.started_at).toLocaleString()}
                     </span>
+                    {stale && (
+                      <span className="rounded px-2 py-0.5 text-xs font-medium bg-amber-500/20 text-amber-400">
+                        Possibly stopped — no update for 2+ hours
+                      </span>
+                    )}
+                    <MarkStoppedButton runId={run.id} onStopped={loadHistory} />
                   </div>
                   <RunProgressBar
                     run={run}
@@ -801,7 +902,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
       <section>
         <h2 className="mb-3 text-lg font-semibold text-zinc-200">Job run history</h2>
         <p className="mb-2 text-xs text-zinc-500">Chronological order (oldest first). All job types.</p>
-        <HistoryTable rows={history.runs} emptyLabel="No runs yet." />
+        <HistoryTable rows={history.runs} emptyLabel="No runs yet." onStopped={loadHistory} />
       </section>
     </div>
   );
