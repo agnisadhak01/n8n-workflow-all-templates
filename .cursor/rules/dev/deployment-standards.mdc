@@ -236,7 +236,7 @@ resource "aws_appconfig_application" "main" {
 #### Pre-Deployment Checklist
 - [ ] Infrastructure as Code reviewed (Terraform, Pulumi)
 - [ ] Feature flags configured for risky rollouts
-- [ ] Database migrations prepared and reversible
+- [ ] Database migrations prepared and reversible (apply via Supabase MCP `apply_migration` or equivalent)
 - [ ] Performance regression tests completed
 - [ ] Security scan results reviewed
 

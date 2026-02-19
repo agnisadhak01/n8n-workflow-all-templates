@@ -11,6 +11,7 @@ tags: [context, hallucination, mcp, symbols]
   - `@code <symbol>` to include a specific function, class, or variable.
   These surgical references ensure the agent focuses on the right code.
 - Integrate the Model Context Protocol (MCP) to pull in external resources (e.g., documentation, issue trackers) for rich text-based context.
+- Use the Supabase MCP (`user-supabase_N8n_template_library`) for database migrations and DDL; prefer `apply_migration` over CLI or manual SQL when available.
 
 - Keep key **textual documentation** (design docs, READMEs, API specs) in the repo so Cursor can ingest it as context when relevant.
 
@@ -93,6 +94,7 @@ Supabase            # templates, node_types; RLS read-only for client
 - Explorer reads from templates-index.json (Browse) or Supabase (Templates)
 - Scraper writes to Supabase via service role
 - No direct DB access from explorer; use Supabase client
+- **Schema changes (migrations, DDL)**: Use Supabase MCP `apply_migration` tool; do not rely on CLI scripts or manual SQL when MCP is available
 
 ### 3. Integration Points
 - n8n API: api.n8n.io for template listing and details

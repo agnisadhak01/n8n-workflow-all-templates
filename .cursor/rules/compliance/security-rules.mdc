@@ -49,8 +49,9 @@ This document defines security boundaries, data protection requirements, and sen
 - **Service role key**: Only in `scripts/scraper/.env` for scraper writes. Never commit; never expose in client.
 
 ### Code Security
-1. Use parameterized queries for database operations
-2. Implement proper CORS policies
+1. Use parameterized queries for database operations (application code)
+2. For schema changes (DDL, migrations): use Supabase MCP `apply_migration` tool; prefer MCP over CLI or ad-hoc SQL
+3. Implement proper CORS policies
 3. Use secure session management
 4. Implement rate limiting
 

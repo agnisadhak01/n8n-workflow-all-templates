@@ -351,6 +351,13 @@ Each run started from the admin UI (enrichment, template scraper, or top-2 class
 
 History is stored in Supabase (`admin_job_runs`); see [Database Schema](database-schema.md#admin_job_runs). When you click **Run enrichment**, **Run scraper**, or **Run top-2 (AI)**, the app inserts a row with `status = 'running'` and passes `ADMIN_RUN_ID` in the environment to the script. The script updates that row on exit with `completed_at`, `status`, and result counts. Scripts triggered from the CLI (without the UI) do not receive `ADMIN_RUN_ID`, so they do not create or update run history.
 
+**Apply top2 migration:** If "Run top-2 (AI)" fails with `admin_job_runs_job_type_check`, apply migration `20250218000002`:
+
+- **Option A (MCP):** Use the Supabase MCP `apply_migration` tool with the SQL from `supabase/migrations/20250218000002_allow_top2_job_type.sql`.
+- **Option B (CLI):** `npm run db:migrate:top2` (requires `DATABASE_URL` in `.env` or `scripts/scraper/.env`; get from Supabase Dashboard → Database → Connection string URI).
+- **Option C (linked Supabase):** `npm run db:push`.
+- **Option D (SQL Editor):** Run the contents of `supabase/migrations/20250218000002_allow_top2_job_type.sql` in Supabase SQL Editor.
+
 **Manual backfill from git:** To backfill `admin_job_runs` with inferred runs from git history (commits that touched scraper or enrichment paths, one row per day per job type), run:
 
 ```bash

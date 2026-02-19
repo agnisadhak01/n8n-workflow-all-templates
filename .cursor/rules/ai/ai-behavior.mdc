@@ -20,7 +20,7 @@ This document defines the boundaries, capabilities, and limitations of AI intera
 
 ### 1. Code Modification Boundaries
 - AI must never modify files in `core/` or `infra/` without explicit user approval
-- All database schema changes require manual review
+- All database schema changes require manual review; when applying migrations, use the Supabase MCP `apply_migration` tool
 - Security-related code changes must be flagged for review
 
 ### 2. Autonomy Levels

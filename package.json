@@ -16,7 +16,9 @@
     "enrich:pricing": "npx tsx scripts/enrich-pricing.ts",
     "enrich:validate": "npx tsx scripts/validate-enrichment.ts",
     "enrich:top": "npx tsx scripts/enrich-top-classifier.ts",
-    "backfill:job-history": "npx tsx scripts/backfill-admin-job-runs-from-git.ts"
+    "backfill:job-history": "npx tsx scripts/backfill-admin-job-runs-from-git.ts",
+    "db:migrate:top2": "npx tsx scripts/apply-top2-migration.ts",
+    "db:push": "supabase db push"
   },
   "dependencies": {
     "serve": "^14.2.4"
@@ -24,6 +26,7 @@
   "devDependencies": {
     "@supabase/supabase-js": "^2.45.0",
     "dotenv": "^16.4.5",
+    "pg": "^8.13.0",
     "tsx": "^4.19.0"
   }
 }

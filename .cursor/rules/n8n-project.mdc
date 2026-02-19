@@ -1,7 +1,7 @@
 ---
 description: Project-specific rules for n8n-workflow-all-templates
 alwaysApply: false
-tags: [n8n, templates, explorer, scraper, supabase]
+tags: [n8n, templates, explorer, scraper, supabase, mcp, database]
 ---
 
 # n8n-workflow-all-templates Project
@@ -64,6 +64,24 @@ n8n-workflow-all-templates/
 
 - **Explorer** (`explorer/.env.local`): `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`
 - **Scraper** (`scripts/scraper/.env`): `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` (optional: `OPENAI_API_KEY` for AI categorization)
+
+## Database Operations (MCP)
+
+Use the **Supabase MCP** (`user-supabase_N8n_template_library`) as the primary tool for database operations:
+
+| Operation | MCP Tool | When to Use |
+|-----------|----------|-------------|
+| DDL (migrations, schema changes) | `apply_migration` | Creating/altering tables, constraints, indexes, triggers |
+| Raw SQL (queries, DML) | `execute_sql` | SELECT, INSERT, UPDATE, DELETE; ad-hoc queries |
+
+- **Apply migrations**: Use `apply_migration` with `name` (snake_case) and `query` (SQL). Migration files live in `supabase/migrations/`.
+- **Prefer MCP** over CLI scripts (`db:migrate:top2`, `db:push`) or manual SQL Editor when the MCP is available.
+- Application code continues to use the Supabase client for CRUD; MCP is for schema management and administrative operations.
+
+## Related Rules
+
+- [context.mdc](mdc:context.mdc) — Data access and MCP usage for schema changes
+- [compliance/security-rules.mdc](mdc:compliance/security-rules.mdc) — Supabase credentials and query safety
 
 ## References
 
