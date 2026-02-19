@@ -50,6 +50,7 @@ export type JobRunRow = {
     templates_ok?: number;
     templates_error?: number;
     processed_count?: number;
+    total_count?: number;
   } | null;
 };
 

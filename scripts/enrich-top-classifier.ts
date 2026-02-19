@@ -176,6 +176,26 @@ async function updateTop2(
   return {};
 }
 
+async function reportAdminRunProgress(
+  supabase: SupabaseClient,
+  runId: string,
+  processed: number,
+  failed: number,
+  totalCount: number
+): Promise<void> {
+  const { error } = await supabase
+    .from("admin_job_runs")
+    .update({
+      result: {
+        processed_count: processed,
+        failed_count: failed,
+        total_count: totalCount,
+      },
+    })
+    .eq("id", runId);
+  if (error) console.error("Failed to report progress:", error.message);
+}
+
 async function updateAdminRun(
   supabase: SupabaseClient,
   runId: string,
@@ -194,6 +214,19 @@ async function updateAdminRun(
   if (error) console.error("Failed to update admin run:", error.message);
 }
 
+async function countRowsToProcess(
+  supabase: SupabaseClient,
+  _refresh: boolean
+): Promise<number> {
+  const { count, error } = await supabase
+    .from("template_analytics")
+    .select("template_id", { count: "exact", head: true })
+    .not("use_case_description", "is", null)
+    .neq("use_case_description", "");
+  if (error) return 0;
+  return count ?? 0;
+}
+
 async function main(): Promise<void> {
   const args: EnrichTopArgs =
     isInteractive() && !hasCliArgs() ? await runInteractive() : parseArgs();
@@ -208,6 +241,10 @@ async function main(): Promise<void> {
 
   const adminRunId = process.env.ADMIN_RUN_ID;
   const supabase = getSupabase();
+  const totalToProcess = await countRowsToProcess(supabase, args.refresh);
+  const effectiveTotal =
+    args.limit !== null ? Math.min(totalToProcess, args.limit) : totalToProcess;
+
   let waitForAIRateLimit: (() => Promise<void>) | undefined;
   if (args.useAI) {
     const { waitForAIRateLimit: wait } = createAIRateLimiter({
@@ -233,6 +270,9 @@ async function main(): Promise<void> {
   });
 
   try {
+    if (adminRunId && effectiveTotal > 0) {
+      await reportAdminRunProgress(supabase, adminRunId, 0, 0, effectiveTotal);
+    }
     for (;;) {
       if (shuttingDown) break;
       const { data: rows } = await fetchAnalyticsBatch(supabase, {
@@ -276,6 +316,16 @@ async function main(): Promise<void> {
         if (processed % 10 === 0) {
           console.log(`  Progress: ${processed} updated, ${failed} failed`);
         }
+      }
+
+      if (adminRunId) {
+        await reportAdminRunProgress(
+          supabase,
+          adminRunId,
+          processed,
+          failed,
+          effectiveTotal
+        );
       }
 
       if (shuttingDown) break;

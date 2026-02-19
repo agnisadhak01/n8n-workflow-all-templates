@@ -89,6 +89,27 @@ def _report_admin_run(
         pass
 
 
+def _report_admin_progress(
+    run_id: str,
+    templates_ok: int,
+    templates_error: int,
+    total_count: int,
+) -> None:
+    try:
+        client = get_client()
+        client.table("admin_job_runs").update(
+            {
+                "result": {
+                    "templates_ok": templates_ok,
+                    "templates_error": templates_error,
+                    "total_count": total_count,
+                },
+            }
+        ).eq("id", run_id).execute()
+    except Exception:  # noqa: BLE001
+        pass
+
+
 def main() -> None:
     admin_run_id = os.environ.get("ADMIN_RUN_ID") or None
     ap = argparse.ArgumentParser()
@@ -180,6 +201,9 @@ def main() -> None:
     total_count = len(listings)
     print(f"Processing {total_count} templates in batches of {batch_size} (dry_run={args.dry_run})")
 
+    if admin_run_id:
+        _report_admin_progress(admin_run_id, 0, 0, total_count)
+
     for batch_start in range(0, total_count, batch_size):
         batch = listings[batch_start : batch_start + batch_size]
         batch_ok = 0
@@ -226,6 +250,10 @@ def main() -> None:
         print(
             f"Batch {batch_start + 1}-{batch_end_index}/{total_count} done: ok={batch_ok} err={batch_err} (total ok={total_ok} err={total_err})"
         )
+
+        # Report progress for admin UI
+        if admin_run_id:
+            _report_admin_progress(admin_run_id, total_ok, total_err, total_count)
 
         # Persist state after each batch so we can resume if interrupted
         if last_success_id is not None:

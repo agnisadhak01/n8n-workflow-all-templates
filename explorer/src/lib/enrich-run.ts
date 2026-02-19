@@ -9,7 +9,7 @@ import { createJobRun } from "./admin-jobs";
 export async function startEnrichmentInBackground(options?: {
   batchSize?: number;
   limit?: number;
-}): Promise<{ ok: boolean; error?: string }> {
+}): Promise<{ ok: boolean; runId?: string; error?: string }> {
   try {
     const run = await createJobRun("enrichment");
     if ("error" in run) return { ok: false, error: run.error };
@@ -34,7 +34,7 @@ export async function startEnrichmentInBackground(options?: {
       env,
     });
     child.unref();
-    return { ok: true };
+    return { ok: true, runId: run.id };
   } catch (err) {
     const message = err instanceof Error ? err.message : String(err);
     return { ok: false, error: message };

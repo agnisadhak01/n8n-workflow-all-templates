@@ -12,7 +12,7 @@ export async function startTop2InBackground(options?: {
   batchSize?: number;
   limit?: number;
   refresh?: boolean;
-}): Promise<{ ok: boolean; error?: string }> {
+}): Promise<{ ok: boolean; runId?: string; error?: string }> {
   try {
     loadScraperEnvIfNeeded();
     const run = await createJobRun("top2");
@@ -39,7 +39,7 @@ export async function startTop2InBackground(options?: {
       env,
     });
     child.unref();
-    return { ok: true };
+    return { ok: true, runId: run.id };
   } catch (err) {
     const message = err instanceof Error ? err.message : String(err);
     return { ok: false, error: message };

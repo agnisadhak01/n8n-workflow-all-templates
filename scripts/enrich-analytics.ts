@@ -263,6 +263,29 @@ async function upsertAnalytics(
   return {};
 }
 
+async function reportAdminRunProgress(
+  runId: string,
+  enrichedCount: number,
+  failedCount: number,
+  totalCount: number
+): Promise<void> {
+  try {
+    const supabase = getSupabase();
+    await supabase
+      .from("admin_job_runs")
+      .update({
+        result: {
+          enriched_count: enrichedCount,
+          failed_count: failedCount,
+          total_count: totalCount,
+        },
+      })
+      .eq("id", runId);
+  } catch {
+    // ignore
+  }
+}
+
 async function reportAdminRunComplete(
   runId: string,
   enrichedCount: number,
@@ -323,6 +346,7 @@ async function main(): Promise<void> {
   }
 
   let offset = 0;
+  let totalToProcess: number | null = null;
   let shuttingDown = false;
 
   function requestShutdown(): void {
@@ -348,6 +372,13 @@ async function main(): Promise<void> {
     if (templates.length === 0) {
       console.log("No more templates to process.");
       break;
+    }
+
+    if (totalToProcess === null) {
+      totalToProcess = args.limit !== null ? Math.min(total, args.limit) : total;
+      if (adminRunId && totalToProcess > 0) {
+        await reportAdminRunProgress(adminRunId, 0, 0, totalToProcess);
+      }
     }
 
     console.log(
@@ -387,6 +418,10 @@ async function main(): Promise<void> {
 
     if (shuttingDown) break;
     if (args.limit !== null && processed + failed >= args.limit) break;
+
+    if (adminRunId && totalToProcess !== null) {
+      await reportAdminRunProgress(adminRunId, processed, failed, totalToProcess);
+    }
 
     offset += args.skipExisting ? 0 : args.batchSize;
   }

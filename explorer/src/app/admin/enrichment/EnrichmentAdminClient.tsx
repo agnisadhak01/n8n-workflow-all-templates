@@ -124,6 +124,86 @@ function top2Insights(rows: JobRunRow[]): Top2Insights {
   return { totalProcessed, totalFailed, runCount: rows.length, lastRunSummary };
 }
 
+function InsightsCard({
+  title,
+  items,
+  accentColor = "text-zinc-300",
+}: {
+  title: string;
+  items: { label: string; value: number; highlight?: boolean }[];
+  accentColor?: string;
+}) {
+  return (
+    <div className="rounded-lg border border-zinc-700 bg-zinc-800/50 p-3">
+      <p className="mb-2 text-xs font-medium text-zinc-500 uppercase tracking-wide">{title}</p>
+      <ul className="space-y-1 text-sm">
+        {items.map(({ label, value, highlight }) => (
+          <li key={label} className="flex justify-between gap-4">
+            <span className="text-zinc-400">{label}</span>
+            <span className={highlight ? accentColor : "text-zinc-200"}>{value.toLocaleString()}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+function getProgressCounts(run: JobRunRow, jobType: "scraper" | "enrichment" | "top2") {
+  const r = run.result ?? {};
+  if (jobType === "scraper") {
+    const done = (r.templates_ok ?? 0) + (r.templates_error ?? 0);
+    const total = r.total_count ?? 0;
+    return { done, total, ok: r.templates_ok ?? 0, failed: r.templates_error ?? 0 };
+  }
+  if (jobType === "enrichment") {
+    const done = (r.enriched_count ?? 0) + (r.failed_count ?? 0);
+    const total = r.total_count ?? 0;
+    return { done, total, ok: r.enriched_count ?? 0, failed: r.failed_count ?? 0 };
+  }
+  const done = (r.processed_count ?? 0) + (r.failed_count ?? 0);
+  const total = r.total_count ?? 0;
+  return { done, total, ok: r.processed_count ?? 0, failed: r.failed_count ?? 0 };
+}
+
+function RunProgressBar({
+  run,
+  jobType,
+  fillColor,
+  countLabel,
+}: {
+  run: JobRunRow;
+  jobType: "scraper" | "enrichment" | "top2";
+  fillColor: string;
+  countLabel: string;
+}) {
+  const { done, total, ok, failed } = getProgressCounts(run, jobType);
+  const pct = total > 0 ? Math.min(100, (done / total) * 100) : 0;
+  const hasTotal = total > 0;
+
+  return (
+    <div className="mb-3">
+      <div className="h-2 w-full overflow-hidden rounded-full bg-zinc-700">
+        {hasTotal ? (
+          <div
+            className={`h-full rounded-full transition-all duration-500 ${fillColor}`}
+            style={{ width: `${pct}%` }}
+          />
+        ) : (
+          <div
+            className={`h-full animate-pulse rounded-full ${fillColor}`}
+            style={{ width: "40%" }}
+          />
+        )}
+      </div>
+      <p className="mt-1 text-sm text-zinc-400">
+        {countLabel}: {ok.toLocaleString()}
+        {failed > 0 && ` · ${failed.toLocaleString()} failed`}
+        {hasTotal && ` · ${done.toLocaleString()} / ${total.toLocaleString()}`}
+      </p>
+    </div>
+  );
+}
+
 function jobTypeTag(job_type: string): { label: string; className: string } {
   switch (job_type) {
     case "enrichment":
@@ -216,6 +296,9 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
   const [scraperMessage, setScraperMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [top2Message, setTop2Message] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [history, setHistory] = useState<{ runs: JobRunRow[] }>({ runs: [] });
+  const [scraperRunId, setScraperRunId] = useState<string | null>(null);
+  const [enrichmentRunId, setEnrichmentRunId] = useState<string | null>(null);
+  const [top2RunId, setTop2RunId] = useState<string | null>(null);
 
   const [scraperParams, setScraperParams] = useState({
     batchSize: 50,
@@ -241,6 +324,29 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     loadHistory();
   }, []);
 
+  useEffect(() => {
+    if (!scraperRunId && !enrichmentRunId && !top2RunId) return;
+    const interval = setInterval(async () => {
+      const result = await getHistory();
+      if (!result.ok) return;
+      setHistory(result.data);
+      const runs = result.data.runs;
+      if (scraperRunId) {
+        const r = runs.find((x) => x.id === scraperRunId);
+        if (r && r.status !== "running") setScraperRunId(null);
+      }
+      if (enrichmentRunId) {
+        const r = runs.find((x) => x.id === enrichmentRunId);
+        if (r && r.status !== "running") setEnrichmentRunId(null);
+      }
+      if (top2RunId) {
+        const r = runs.find((x) => x.id === top2RunId);
+        if (r && r.status !== "running") setTop2RunId(null);
+      }
+    }, 2000);
+    return () => clearInterval(interval);
+  }, [scraperRunId, enrichmentRunId, top2RunId]);
+
   async function handleRefresh() {
     setLoading(true);
     setRunMessage(null);
@@ -264,9 +370,10 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     });
     setLoading(false);
     if (result.ok) {
+      if (result.runId) setEnrichmentRunId(result.runId);
       setRunMessage({
         type: "ok",
-        text: "Enrichment started in background. Use Refresh to monitor progress.",
+        text: "Enrichment started in background.",
       });
       loadHistory();
     } else {
@@ -284,9 +391,10 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     });
     setLoading(false);
     if (result.ok) {
+      if (result.runId) setScraperRunId(result.runId);
       setScraperMessage({
         type: "ok",
-        text: "Template fetch started in background. Use Refresh to see updated template count.",
+        text: "Template fetch started in background.",
       });
       loadHistory();
     } else {
@@ -304,9 +412,10 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     });
     setLoading(false);
     if (result.ok) {
+      if (result.runId) setTop2RunId(result.runId);
       setTop2Message({
         type: "ok",
-        text: "Top-2 classifier started in background. Use Refresh to see updated template detail.",
+        text: "Top-2 classifier started in background.",
       });
       loadHistory();
     } else {
@@ -340,6 +449,18 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
         <p className="mb-3 text-sm text-zinc-400">
           Fetch templates from api.n8n.io and upsert into the <code className="rounded bg-zinc-700 px-1">templates</code> table.
         </p>
+        {status.insights && (
+          <div className="mb-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
+            <InsightsCard
+              title="Database stats"
+              accentColor="text-sky-400"
+              items={[
+                { label: "Total templates", value: status.insights.scraper.totalTemplates, highlight: true },
+                { label: "Without analytics", value: status.insights.scraper.templatesWithoutAnalytics },
+              ]}
+            />
+          </div>
+        )}
         {scraperMessage && (
           <div
             className={`mb-3 rounded-lg border p-4 ${
@@ -401,6 +522,18 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
             {loading ? "Starting…" : "Run scraper"}
           </button>
         </div>
+        {scraperRunId && (() => {
+          const run = history.runs.find((r) => r.id === scraperRunId && r.status === "running");
+          if (!run) return null;
+          return (
+            <RunProgressBar
+              run={run}
+              jobType="scraper"
+              fillColor="bg-sky-500"
+              countLabel="Templates"
+            />
+          );
+        })()}
       </section>
 
       <section>
@@ -408,6 +541,20 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
         <p className="mb-3 text-sm text-zinc-400">
           Enrich <code className="rounded bg-zinc-700 px-1">template_analytics</code> (use case, pricing, industries, etc.).
         </p>
+        {status.insights && (
+          <div className="mb-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
+            <InsightsCard
+              title="template_analytics"
+              accentColor="text-emerald-400"
+              items={[
+                { label: "Total rows", value: status.insights.enrichment.totalAnalytics, highlight: true },
+                { label: "Enriched", value: status.insights.enrichment.enriched, highlight: true },
+                { label: "Pending", value: status.insights.enrichment.pending },
+                { label: "Failed", value: status.insights.enrichment.failed },
+              ]}
+            />
+          </div>
+        )}
         {runMessage && (
           <div
             className={`mb-3 rounded-lg border p-4 ${
@@ -462,6 +609,18 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
             {loading ? "Starting…" : "Run enrichment"}
           </button>
         </div>
+        {enrichmentRunId && (() => {
+          const run = history.runs.find((r) => r.id === enrichmentRunId && r.status === "running");
+          if (!run) return null;
+          return (
+            <RunProgressBar
+              run={run}
+              jobType="enrichment"
+              fillColor="bg-emerald-500"
+              countLabel="Enriched"
+            />
+          );
+        })()}
       </section>
 
       <section>
@@ -470,6 +629,20 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
           Populate <code className="rounded bg-zinc-700 px-1">top_2_industries</code> and{" "}
           <code className="rounded bg-zinc-700 px-1">top_2_processes</code> in template_analytics from use_case_description using OpenAI.
         </p>
+        {status.insights && (
+          <div className="mb-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
+            <InsightsCard
+              title="top_2 columns"
+              accentColor="text-violet-400"
+              items={[
+                { label: "Total analytics rows", value: status.insights.top2.totalAnalytics },
+                { label: "Filled (top_2_*)", value: status.insights.top2.filledTop2, highlight: true },
+                { label: "Pending", value: status.insights.top2.pendingTop2, highlight: true },
+                { label: "Eligible (has use_case)", value: status.insights.top2.hasUseCaseDescription },
+              ]}
+            />
+          </div>
+        )}
         {top2Message && (
           <div
             className={`mb-3 rounded-lg border p-4 ${
@@ -538,6 +711,18 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
             {loading ? "Starting…" : "Run top-2 (AI)"}
           </button>
         </div>
+        {top2RunId && (() => {
+          const run = history.runs.find((r) => r.id === top2RunId && r.status === "running");
+          if (!run) return null;
+          return (
+            <RunProgressBar
+              run={run}
+              jobType="top2"
+              fillColor="bg-violet-500"
+              countLabel="Processed"
+            />
+          );
+        })()}
       </section>
 
       <div className="flex flex-wrap gap-3">

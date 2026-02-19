@@ -19,7 +19,7 @@ export async function getStatus(): Promise<
 export async function runEnrichment(options?: {
   batchSize?: number;
   limit?: number;
-}): Promise<{ ok: boolean; error?: string }> {
+}): Promise<{ ok: boolean; runId?: string; error?: string }> {
   return startEnrichmentInBackground(options);
 }
 
@@ -27,7 +27,7 @@ export async function runScraper(options?: {
   batchSize?: number;
   delay?: number;
   limit?: number;
-}): Promise<{ ok: boolean; error?: string }> {
+}): Promise<{ ok: boolean; runId?: string; error?: string }> {
   return startScraperInBackground(options);
 }
 
@@ -35,7 +35,7 @@ export async function runTop2Enrichment(options?: {
   batchSize?: number;
   limit?: number;
   refresh?: boolean;
-}): Promise<{ ok: boolean; error?: string }> {
+}): Promise<{ ok: boolean; runId?: string; error?: string }> {
   return startTop2InBackground(options);
 }
 
