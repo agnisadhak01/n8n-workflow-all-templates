@@ -15,7 +15,7 @@
 
 | View | Purpose |
 |------|---------|
-| `template_analytics_view` | Templates left-joined with template_analytics. The explorer template detail page (`/templates/[id]`) queries it to show use case, top_2_industries, top_2_processes, and final_price_inr. |
+| `template_analytics_view` | Templates left-joined with template_analytics. Exposes `source_url`, `unique_common_serviceable_name`, use case, top_2_industries, top_2_processes, and final_price_inr. Used for AnalyzAX API and explorer template detail page. |
 
 ## Tables
 
@@ -124,6 +124,9 @@ Schema is applied via Supabase migrations (MCP `apply_migration` or SQL Editor).
 | `20250219000004` | Allow `job_type = 'serviceable_name'` in `admin_job_runs` |
 | `20250219000005` | Add serviceable_name stats to `get_admin_insights()` |
 | `20250219000006` | Allow `status = 'stopped'` for user-initiated cancellation |
+| `20250219000007` | Add `unique_common_serviceable_name` and `source_url` to `template_analytics_view` for AnalyzAX integration |
+| `20250220000001` | Create `api_credentials` table for API key auth (data APIs) |
+| `20250220000002` | Create `api_request_logs` table for API request auditing |
 
 The scraper expects:
 
@@ -157,6 +160,43 @@ Enriched analytics per template. See [Enrichment Guide](enrichment-guide.md) for
 | `enrichment_status` | text | pending, enriched, failed |
 | `enrichment_method` | text (nullable) | ai, rule-based, hybrid |
 | `confidence_score` | numeric (nullable) | 0–1 |
+
+## api_credentials
+
+API keys for data APIs (e.g. `/api/analyzax/templates`, `/api/analyzax/services`). Keys are hashed with SHA-256; full key shown only once on create. Managed via `/admin/api-credentials` dashboard.
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `id` | uuid (PK) | Auto-generated |
+| `name` | text | Human-readable label |
+| `key_prefix` | text | First 8 chars for display (e.g. `n8n_abc1`) |
+| `key_hash` | text | SHA-256 hash of full key |
+| `scopes` | text[] | Allowed scopes (e.g. `analyzax:templates`, `analyzax:services`) |
+| `last_used_at` | timestamptz | Last successful request |
+| `expires_at` | timestamptz | Optional expiry |
+| `is_active` | boolean | Revocable without delete |
+| `created_at` | timestamptz | Creation time |
+| `created_by` | text | Admin identifier (optional) |
+
+**RLS:** Service role only. Dashboard uses service role via server-side API routes.
+
+## api_request_logs
+
+Audit log of API requests to data endpoints (e.g. `/api/analyzax/templates`, `/api/analyzax/services`). Populated on each request; viewable in the API credentials dashboard.
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `id` | uuid (PK) | Auto-generated |
+| `credential_id` | uuid (FK, nullable) | API key used (null if auth failed) |
+| `endpoint` | text | Request path |
+| `method` | text | HTTP method |
+| `request_params` | jsonb | Query params or body summary |
+| `status_code` | integer | HTTP status |
+| `response_summary` | jsonb | Optional response metadata |
+| `ip_address` | text | Client IP (from x-forwarded-for) |
+| `created_at` | timestamptz | Request time |
+
+**RLS:** Service role only.
 
 ## admin_job_runs
 

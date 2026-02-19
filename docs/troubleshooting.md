@@ -158,6 +158,12 @@ python run.py --limit 1
 
 **Solution:** Ensure you use the latest `scripts/enrich-top-classifier.ts`. Re-run top-2 to process remaining rows.
 
+### Serviceable name run stops with pending rows left
+
+**Cause:** Older versions used offset-based pagination over the full table; after updates, rows moved in the sort order and the script could exit before processing all pending rows.
+
+**Solution:** This was fixed: the script now filters the query to pending rows only (`unique_common_serviceable_name` null or empty) when not using `--refresh`. Update to the latest `scripts/enrich-serviceable-name.ts` and re-run to process remaining rows.
+
 ### Serviceable name or "Mark as stopped" fails with constraint error
 
 **Cause:** Migrations for `unique_common_serviceable_name`, `serviceable_name` job type, or `stopped` status not applied.

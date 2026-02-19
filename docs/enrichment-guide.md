@@ -236,6 +236,8 @@ npm run enrich:serviceable-name -- --refresh
 | `--no-ai` | Disable AI; use rule-based fallback only |
 | `--ai-delay-ms N` | Delay between AI requests in ms |
 
+**Pagination:** The script fetches only rows where `unique_common_serviceable_name` is null or empty (when not using `--refresh`), so it processes all pending rows without early exit. Run again to resume after interruption.
+
 Env: `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`; `OPENAI_API_KEY` required for AI.
 
 ## Validation
@@ -361,14 +363,38 @@ In Coolify, set:
 
 **Realtime monitoring:** When any script is running, an **Active runs** section appears with all running sessions, ordered by start time. Each shows a Run ID (UUID; click to copy), start time, and an animated progress bar with counts. The page polls every 2 seconds and refreshes summary counts when a run completes. If a run stops without updating the database (e.g. killed, crash), it shows "Possibly stopped — no update for 2+ hours"; use **Mark as stopped** to set status to `stopped` or **Cleanup stale runs** to mark stale runs as `failed`.
 
-**From the API:** Requests to `/api/admin/*` require authentication (session cookie from the login page, or HTTP Basic Auth with the same credentials). For programmatic access you must also send the secret in a header or query param:
+**From the API:** Requests to `/api/admin/*` require authentication (session cookie from the login page, or HTTP Basic Auth with the same credentials). For programmatic access you must also send the secret in a header or query param. All run endpoints accept an optional JSON body; omit or send empty body to use defaults.
+
+| Endpoint | Optional body |
+|----------|---------------|
+| `POST /api/admin/enrich/run` | `{ "batchSize"?: number, "limit"?: number }` |
+| `POST /api/admin/scrape/run` | `{ "batchSize"?: number, "delay"?: number, "limit"?: number }` |
+| `POST /api/admin/top2/run` | `{ "batchSize"?: number, "limit"?: number, "refresh"?: boolean }` |
+| `POST /api/admin/serviceable-name/run` | `{ "batchSize"?: number, "limit"?: number, "refresh"?: boolean }` |
 
 ```bash
+# Enrichment with params
 curl -X POST "https://your-app.com/api/admin/enrich/run" \
+  -H "x-admin-secret: YOUR_SECRET" \
+  -H "Content-Type: application/json" \
+  -d '{"batchSize": 50, "limit": 100}'
+
+# Top-2 classifier
+curl -X POST "https://your-app.com/api/admin/top2/run" \
+  -H "x-admin-secret: YOUR_SECRET" \
+  -H "Content-Type: application/json" \
+  -d '{"batchSize": 30, "refresh": true}'
+
+# Serviceable name (body optional)
+curl -X POST "https://your-app.com/api/admin/serviceable-name/run" \
+  -H "x-admin-secret: YOUR_SECRET"
+
+# Filter job history by type
+curl "https://your-app.com/api/admin/jobs/history?type=serviceable_name" \
   -H "x-admin-secret: YOUR_SECRET"
 ```
 
-Response: 202 Accepted with a message that enrichment has started in the background.
+Response: 202 Accepted with a message that the script has started in the background.
 
 ### Admin UI parameters
 
@@ -440,9 +466,11 @@ npx tsx scripts/backfill-admin-job-runs-from-git.ts --insert
 | `explorer/src/app/api/admin/auth/login/route.ts` | POST: validate credentials, set session cookie, redirect to admin |
 | `explorer/src/app/api/admin/auth/logout/route.ts` | POST/GET: clear session cookie, redirect to login |
 | `explorer/src/app/api/admin/enrich/status/route.ts` | GET enrichment counts (total, enriched, pending); requires auth + secret |
-| `explorer/src/app/api/admin/enrich/run/route.ts` | POST to start enrichment script in background; requires auth + secret |
+| `explorer/src/app/api/admin/enrich/run/route.ts` | POST to start enrichment script in background; accepts optional JSON body (batchSize, limit); requires auth + secret |
 | `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history; query `?type=enrichment`, `?type=scraper`, `?type=top2`, or `?type=serviceable_name`; requires auth + secret |
-| `explorer/src/app/api/admin/scrape/run/route.ts` | POST to start template scraper in background; requires auth + secret |
+| `explorer/src/app/api/admin/scrape/run/route.ts` | POST to start template scraper in background; accepts optional JSON body (batchSize, delay, limit); requires auth + secret |
+| `explorer/src/app/api/admin/top2/run/route.ts` | POST to start top-2 classifier in background; accepts optional JSON body (batchSize, limit, refresh); requires auth + secret |
+| `explorer/src/app/api/admin/serviceable-name/run/route.ts` | POST to start serviceable name enrichment in background; accepts optional JSON body (batchSize, limit, refresh); requires auth + secret |
 | `explorer/src/lib/top2-run.ts` | Spawns top-2 classifier script with `--use-ai` (used by "Run top-2 (AI)" button) |
 | `explorer/src/lib/service-name-run.ts` | Spawns serviceable name script with `--use-ai` (used by "Run serviceable name (AI)" button) |
 | `explorer/src/app/admin/enrichment/EnrichmentAdminClient.tsx` | Admin UI: status cards, Active runs (with progress bars), parameter inputs, Run buttons (scraper, enrichment, top-2, serviceable name), Mark as stopped, Cleanup stale runs, Job run history (Run ID, Status), Insights; access after sign-in at `/admin/login` |

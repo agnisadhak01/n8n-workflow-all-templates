@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [AnalyzAX API](#analyzax-api)
 - [Supabase Client](#supabase-client)
 - [TypeScript Types](#typescript-types)
 - [React Hooks (Templates)](#react-hooks-templates)
@@ -25,6 +26,81 @@ export const supabase = url && anonKey ? createClient(url, anonKey) : null;
 ```
 
 Returns `null` if env vars are missing (Browse-only mode).
+
+## AnalyzAX API
+
+Endpoints for AnalyzAX integration: expose enriched template analytics as industry/process-mapped services.
+
+### Authentication
+
+All AnalyzAX data endpoints require a valid API key. Create keys in the admin dashboard at `/admin/api-credentials`.
+
+**Header options (use one):**
+- `x-api-key: <your_api_key>`
+- `Authorization: Bearer <your_api_key>`
+
+**Scopes:**
+| Scope | Endpoints |
+|-------|-----------|
+| `analyzax:templates` | `GET /api/analyzax/templates` |
+| `analyzax:services` | `GET /api/analyzax/services` |
+
+Without a valid key, requests return `401` with `{ "error": "API key required" }`.
+
+**Request logging:** Each API request is logged to `api_request_logs` (credential, endpoint, params, status, IP). View history in the admin dashboard at `/admin/api-credentials`.
+
+### GET /api/analyzax/services
+
+Returns available services metadata from `template_analytics`. Requires scope `analyzax:services`.
+
+**Response headers:** `Content-Type: application/json`, `Cache-Control: public, max-age=3600`, `Access-Control-Allow-Origin: *`
+
+**Response body:**
+```json
+{
+  "supported_analyzax_services": ["Customer Management", "Lead Generation", ...],
+  "sample_industries": ["Healthcare", "E-commerce", ...],
+  "sample_processes": ["Lead Generation", "Customer Support", ...]
+}
+```
+
+### GET /api/analyzax/templates
+
+Returns enriched n8n templates filtered by industry and AnalyzAX service names. Requires scope `analyzax:templates`.
+
+**Query params:**
+
+| Param | Type | Required | Description |
+|-------|------|----------|-------------|
+| `industry` | string | No | User's industry (e.g. Healthcare, Retail) |
+| `services` | string | Yes | Comma-separated AnalyzAX service names |
+| `limit` | number | No | Max templates (default 15, max 50) |
+
+**Response headers:** `Content-Type: application/json`, `Cache-Control: public, max-age=300`, `X-Total-Returned`, `Access-Control-Allow-Origin: *`
+
+**Example:**
+```bash
+curl -H "x-api-key: n8n_your_key_here" \
+  "https://your-explorer.com/api/analyzax/templates?industry=Healthcare&services=Lead%20Generation,Customer%20Management&limit=10"
+```
+
+**Response body:**
+```json
+{
+  "templates": [
+    {
+      "template_id": "uuid",
+      "source_id": "123",
+      "source_url": "https://n8n.io/workflows/123",
+      "use_case_name": "Lead Scoring with GPT",
+      "unique_common_serviceable_name": "AI Lead Scoring",
+      "use_case_description": "...",
+      "final_price_inr": 25000,
+      "matched_service": "Lead Generation"
+    }
+  ]
+}
+```
 
 ### Template Type
 

@@ -33,6 +33,13 @@ export function Header() {
           >
             Enrichment
           </Link>
+          <Link
+            href="/admin/api-credentials"
+            className="rounded-lg px-4 py-2 text-zinc-500 transition hover:bg-zinc-800 hover:text-zinc-300"
+            title="API credentials (sign in required)"
+          >
+            API keys
+          </Link>
         </nav>
       </div>
     </header>
