@@ -217,6 +217,19 @@ function jobTypeTag(job_type: string): { label: string; className: string } {
   }
 }
 
+function getProgressBarStyle(jobType: string): { fillColor: string; countLabel: string } {
+  switch (jobType) {
+    case "scraper":
+      return { fillColor: "bg-sky-500", countLabel: "Templates" };
+    case "enrichment":
+      return { fillColor: "bg-emerald-500", countLabel: "Enriched" };
+    case "top2":
+      return { fillColor: "bg-violet-500", countLabel: "Processed" };
+    default:
+      return { fillColor: "bg-zinc-500", countLabel: "Done" };
+  }
+}
+
 function HistoryTable({
   rows,
   emptyLabel,
@@ -296,9 +309,6 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
   const [scraperMessage, setScraperMessage] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [top2Message, setTop2Message] = useState<{ type: "ok" | "error"; text: string } | null>(null);
   const [history, setHistory] = useState<{ runs: JobRunRow[] }>({ runs: [] });
-  const [scraperRunId, setScraperRunId] = useState<string | null>(null);
-  const [enrichmentRunId, setEnrichmentRunId] = useState<string | null>(null);
-  const [top2RunId, setTop2RunId] = useState<string | null>(null);
 
   const [scraperParams, setScraperParams] = useState({
     batchSize: 50,
@@ -324,28 +334,18 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     loadHistory();
   }, []);
 
+  const activeRuns = history.runs
+    .filter((r) => r.status === "running")
+    .sort((a, b) => new Date(a.started_at).getTime() - new Date(b.started_at).getTime());
+
   useEffect(() => {
-    if (!scraperRunId && !enrichmentRunId && !top2RunId) return;
+    if (activeRuns.length === 0) return;
     const interval = setInterval(async () => {
       const result = await getHistory();
-      if (!result.ok) return;
-      setHistory(result.data);
-      const runs = result.data.runs;
-      if (scraperRunId) {
-        const r = runs.find((x) => x.id === scraperRunId);
-        if (r && r.status !== "running") setScraperRunId(null);
-      }
-      if (enrichmentRunId) {
-        const r = runs.find((x) => x.id === enrichmentRunId);
-        if (r && r.status !== "running") setEnrichmentRunId(null);
-      }
-      if (top2RunId) {
-        const r = runs.find((x) => x.id === top2RunId);
-        if (r && r.status !== "running") setTop2RunId(null);
-      }
+      if (result.ok) setHistory(result.data);
     }, 2000);
     return () => clearInterval(interval);
-  }, [scraperRunId, enrichmentRunId, top2RunId]);
+  }, [activeRuns.length]);
 
   async function handleRefresh() {
     setLoading(true);
@@ -370,7 +370,6 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     });
     setLoading(false);
     if (result.ok) {
-      if (result.runId) setEnrichmentRunId(result.runId);
       setRunMessage({
         type: "ok",
         text: "Enrichment started in background.",
@@ -391,7 +390,6 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     });
     setLoading(false);
     if (result.ok) {
-      if (result.runId) setScraperRunId(result.runId);
       setScraperMessage({
         type: "ok",
         text: "Template fetch started in background.",
@@ -412,7 +410,6 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
     });
     setLoading(false);
     if (result.ok) {
-      if (result.runId) setTop2RunId(result.runId);
       setTop2Message({
         type: "ok",
         text: "Top-2 classifier started in background.",
@@ -443,6 +440,38 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
           </p>
         </div>
       </div>
+
+      {activeRuns.length > 0 && (
+        <section className="rounded-lg border border-amber-700/50 bg-amber-900/10 p-4">
+          <h2 className="mb-3 text-lg font-semibold text-amber-200">Active runs</h2>
+          <p className="mb-3 text-sm text-zinc-400">
+            Scripts currently running, ordered by start time (oldest first). Progress updates every 2 seconds.
+          </p>
+          <ul className="space-y-4">
+            {activeRuns.map((run) => {
+              const style = getProgressBarStyle(run.job_type);
+              return (
+                <li key={run.id} className="rounded-lg border border-zinc-700 bg-zinc-800/50 p-3">
+                  <div className="mb-2 flex flex-wrap items-center gap-2">
+                    <span className={`rounded px-2 py-0.5 text-xs font-medium ${jobTypeTag(run.job_type).className}`}>
+                      {jobTypeTag(run.job_type).label}
+                    </span>
+                    <span className="text-sm text-zinc-400">
+                      Started {new Date(run.started_at).toLocaleString()}
+                    </span>
+                  </div>
+                  <RunProgressBar
+                    run={run}
+                    jobType={run.job_type}
+                    fillColor={style.fillColor}
+                    countLabel={style.countLabel}
+                  />
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )}
 
       <section>
         <h2 className="mb-3 text-lg font-semibold text-zinc-200">Template fetch (scraper)</h2>
@@ -523,18 +552,6 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
             {loading ? "Starting…" : "Run scraper"}
           </button>
         </div>
-        {scraperRunId && (() => {
-          const run = history.runs.find((r) => r.id === scraperRunId && r.status === "running");
-          if (!run) return null;
-          return (
-            <RunProgressBar
-              run={run}
-              jobType="scraper"
-              fillColor="bg-sky-500"
-              countLabel="Templates"
-            />
-          );
-        })()}
       </section>
 
       <section>
@@ -611,18 +628,6 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
             {loading ? "Starting…" : "Run enrichment"}
           </button>
         </div>
-        {enrichmentRunId && (() => {
-          const run = history.runs.find((r) => r.id === enrichmentRunId && r.status === "running");
-          if (!run) return null;
-          return (
-            <RunProgressBar
-              run={run}
-              jobType="enrichment"
-              fillColor="bg-emerald-500"
-              countLabel="Enriched"
-            />
-          );
-        })()}
       </section>
 
       <section>
@@ -714,18 +719,6 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
             {loading ? "Starting…" : "Run top-2 (AI)"}
           </button>
         </div>
-        {top2RunId && (() => {
-          const run = history.runs.find((r) => r.id === top2RunId && r.status === "running");
-          if (!run) return null;
-          return (
-            <RunProgressBar
-              run={run}
-              jobType="top2"
-              fillColor="bg-violet-500"
-              countLabel="Processed"
-            />
-          );
-        })()}
       </section>
 
       <div className="flex flex-wrap gap-3">
