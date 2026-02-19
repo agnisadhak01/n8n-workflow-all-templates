@@ -448,6 +448,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
         <h2 className="mb-3 text-lg font-semibold text-zinc-200">Template fetch (scraper)</h2>
         <p className="mb-3 text-sm text-zinc-400">
           Fetch templates from api.n8n.io and upsert into the <code className="rounded bg-zinc-700 px-1">templates</code> table.
+          Resumable: skips existing templates, saves state between runs.
         </p>
         {status.insights && (
           <div className="mb-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
@@ -540,6 +541,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
         <h2 className="mb-3 text-lg font-semibold text-zinc-200">Analytics enrichment</h2>
         <p className="mb-3 text-sm text-zinc-400">
           Enrich <code className="rounded bg-zinc-700 px-1">template_analytics</code> (use case, pricing, industries, etc.).
+          Resumable: only processes pending templates, never overwrites existing rows.
         </p>
         {status.insights && (
           <div className="mb-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
@@ -628,6 +630,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
         <p className="mb-3 text-sm text-zinc-400">
           Populate <code className="rounded bg-zinc-700 px-1">top_2_industries</code> and{" "}
           <code className="rounded bg-zinc-700 px-1">top_2_processes</code> in template_analytics from use_case_description using OpenAI.
+          Resumable: only fills empty top_2_* rows; enable Refresh to recompute existing.
         </p>
         {status.insights && (
           <div className="mb-4 grid grid-cols-2 gap-3 sm:grid-cols-4">

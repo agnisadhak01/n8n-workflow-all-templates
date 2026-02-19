@@ -5,6 +5,7 @@ import { createJobRun } from "./admin-jobs";
 /**
  * Start the template scraper (fetch from api.n8n.io and upsert to templates table) in the background.
  * Records a run in admin_job_runs and passes ADMIN_RUN_ID so the script can report completion.
+ * Resumable: uses saved state, skips templates already in DB; never passes --no-resume.
  */
 export async function startScraperInBackground(options?: {
   batchSize?: number;

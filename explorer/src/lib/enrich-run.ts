@@ -5,6 +5,7 @@ import { createJobRun } from "./admin-jobs";
 /**
  * Start the enrichment script in the background (detached).
  * Records a run in admin_job_runs and passes ADMIN_RUN_ID so the script can report completion.
+ * Always uses --skip-existing (resumable: only processes pending templates, never overwrites).
  */
 export async function startEnrichmentInBackground(options?: {
   batchSize?: number;
@@ -21,7 +22,7 @@ export async function startEnrichmentInBackground(options?: {
     const scriptPath = path.join(repoRoot, "scripts", "enrich-analytics.ts");
     const tsxCli = path.join(repoRoot, "node_modules", "tsx", "dist", "cli.mjs");
 
-    const args: string[] = [tsxCli, scriptPath, "--no-ai", "--batch-size", batchSize];
+    const args: string[] = [tsxCli, scriptPath, "--no-ai", "--skip-existing", "--batch-size", batchSize];
     const limit = options?.limit ?? 0;
     if (limit > 0) args.push("--limit", String(limit));
 

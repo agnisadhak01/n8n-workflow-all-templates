@@ -7,6 +7,7 @@ import { createJobRun } from "./admin-jobs";
  * Start the top-2 classifier script in the background with AI enabled.
  * Populates top_2_industries and top_2_processes in template_analytics using OpenAI.
  * Records a run in admin_job_runs and passes ADMIN_RUN_ID so the script can report completion.
+ * Resumable by default: only fills empty top_2_*; use refresh: true to recompute existing.
  */
 export async function startTop2InBackground(options?: {
   batchSize?: number;
