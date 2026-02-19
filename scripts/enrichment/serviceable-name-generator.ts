@@ -1,5 +1,5 @@
 /**
- * Serviceable name generator: creates a plain-English 3-7 word name
+ * Serviceable name generator: creates a plain-English name (~15–25 chars)
  * that a non-technical person can understand (rule-based + optional AI).
  */
 
@@ -10,9 +10,22 @@ export interface ServiceableNameInput {
   nodeTypes: string[];
 }
 
+const MAX_CHARS = 25;
+
+/** Never truncate mid-word. Returns a complete name within maxChars, or fallback if impossible. */
+function truncateAtWordBoundary(s: string, maxChars: number, fallback: string): string {
+  const t = s.trim();
+  if (t.length <= maxChars) return t;
+  const idx = t.lastIndexOf(" ", maxChars);
+  if (idx <= 0) return fallback;
+  const trimmed = t.slice(0, idx).trim();
+  if (trimmed.length < 2) return fallback;
+  return trimmed;
+}
+
 /**
- * Rule-based fallback: derive a short name from use_case_name or title.
- * Aim for 3-7 words; truncate if needed.
+ * Rule-based fallback: derive a short name from use_case_name or use_case_description (primary inputs), then title.
+ * Only includes complete words; never truncates mid-word.
  */
 export function generateServiceableNameRuleBased(input: ServiceableNameInput): string {
   const text =
@@ -21,43 +34,50 @@ export function generateServiceableNameRuleBased(input: ServiceableNameInput): s
     input.title ||
     "Workflow automation";
   const words = text.split(/\s+/).filter(Boolean);
-  const take = Math.min(7, words.length);
-  return words.slice(0, take).join(" ").slice(0, 80).trim() || "Workflow automation";
+  if (words.length === 0) return "Workflow";
+  if (words[0].length > MAX_CHARS) return "Workflow";
+  let result = words[0];
+  for (let i = 1; i < words.length && result.length + 1 + words[i].length <= MAX_CHARS; i++) {
+    result += " " + words[i];
+  }
+  return truncateAtWordBoundary(result, MAX_CHARS, "Workflow");
 }
 
 /**
- * Call OpenAI to generate a 3-7 word plain-English name a non-technical person would understand.
+ * Call OpenAI to generate a plain-English name (~15–25 chars) a non-technical person would understand.
  * Returns null if no key or request fails.
  */
 export async function generateServiceableNameWithAI(
   input: ServiceableNameInput,
   apiKey: string
 ): Promise<string | null> {
+  const useCaseName = (input.useCaseName || "").trim();
+  const useCaseDesc = (input.useCaseDescription || "").trim().slice(0, 600);
   const nodeSummary =
     input.nodeTypes.length > 0
       ? input.nodeTypes.slice(0, 10).join(", ")
       : "general automation";
-  const desc = (input.useCaseDescription || "").slice(0, 500);
+
+  const parts: string[] = [];
+  if (useCaseName) parts.push(`Use case: ${useCaseName}`);
+  if (useCaseDesc) parts.push(`Description: ${useCaseDesc}`);
+  const primary = parts.join("\n") || "No use case data.";
+  const context = `Title: ${input.title || "—"}\nNodes: ${nodeSummary}`;
+
   const payload = {
     model: "gpt-4o-mini",
     messages: [
       {
         role: "system",
         content:
-          "You create short, plain-English names (3-7 words) for n8n workflow templates. Each name should describe what the workflow does in a way a non-technical person instantly understands. No jargon, no technical terms. Output only the name, nothing else.",
+          "Output a short plain-English name for an n8n workflow (~15–25 chars). If the use case name is already clear and non-technical, use it as-is. Otherwise base it on use case and description. No jargon. Always output a complete name—never truncate or cut words mid-way. Output only the name, e.g. 'Stripe Payment Sync' or 'Sync Stripe to Sheets'.",
       },
       {
         role: "user",
-        content: `Create a short human-friendly name for this workflow.
-
-Title: ${input.title}
-Use case: ${desc || "(none)"}
-Key integrations/nodes: ${nodeSummary}
-
-Output a 3-7 word name that captures what this workflow does. Example: "Auto-Send Invoices After Stripe Payment" or "Sync New Leads to CRM and Notify Sales". Only output the name, no quotes or punctuation.`,
+        content: `${primary}\n\n${context}`,
       },
     ],
-    max_tokens: 80,
+    max_tokens: 40,
   };
 
   try {
@@ -75,8 +95,10 @@ Output a 3-7 word name that captures what this workflow does. Example: "Auto-Sen
     };
     const content = data.choices?.[0]?.message?.content?.trim();
     if (!content) return null;
-    const cleaned = content.replace(/^["']|["']$/g, "").trim().slice(0, 100);
-    return cleaned || null;
+    const cleaned = content.replace(/^["']|["']$/g, "").trim();
+    if (cleaned.length <= MAX_CHARS) return cleaned;
+    const complete = truncateAtWordBoundary(cleaned, MAX_CHARS, "");
+    return complete || null;
   } catch {
     return null;
   }

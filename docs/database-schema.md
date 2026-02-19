@@ -146,7 +146,7 @@ Enriched analytics per template. See [Enrichment Guide](enrichment-guide.md) for
 | `applicable_processes` | jsonb | Array of `{name, confidence, ...}` |
 | `top_2_industries` | jsonb | Top 2 industries extracted from use_case_description |
 | `top_2_processes` | jsonb | Top 2 processes extracted from use_case_description |
-| `unique_common_serviceable_name` | text (nullable) | Plain-English 3–7 word name for non-technical users; AI-generated |
+| `unique_common_serviceable_name` | text (nullable) | Plain-English name (~15–25 chars) for non-technical users; AI-generated, or use case name if already clear |
 | `unique_node_types` | text[] | Distinct node types in workflow |
 | `total_unique_node_types` | integer | Count of distinct types |
 | `total_node_count` | integer | Total nodes in workflow |

@@ -1,6 +1,6 @@
 /**
  * Standalone serviceable name enrichment: updates unique_common_serviceable_name
- * in template_analytics with a plain-English 3-7 word name (AI or rule-based).
+ * in template_analytics with a plain-English name (~15–25 chars); uses use case name as-is when clear, else AI or rule-based.
  *
  * Run: npm run enrich:serviceable-name
  * Env: SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY

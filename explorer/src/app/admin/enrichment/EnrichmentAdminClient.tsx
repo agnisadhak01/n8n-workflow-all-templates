@@ -906,7 +906,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
       <section>
         <h2 className="mb-3 text-lg font-semibold text-zinc-200">Serviceable name (AI)</h2>
         <p className="mb-3 text-sm text-zinc-400">
-          Populate <code className="rounded bg-zinc-700 px-1">unique_common_serviceable_name</code> in template_analytics with a plain-English 3–7 word name that non-technical users can understand. Resumable: only fills empty rows; enable Refresh to recompute existing.
+          Populate <code className="rounded bg-zinc-700 px-1">unique_common_serviceable_name</code> in template_analytics with a plain-English name (~15–25 chars) that non-technical users can understand. Uses use case name as-is when clear; otherwise AI-generated. Resumable: only fills empty rows; enable Refresh to recompute existing.
         </p>
         {status.insights && (
           <div className="mb-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
