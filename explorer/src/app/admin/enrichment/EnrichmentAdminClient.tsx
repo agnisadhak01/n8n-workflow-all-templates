@@ -340,10 +340,19 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
 
   useEffect(() => {
     if (activeRuns.length === 0) return;
-    const interval = setInterval(async () => {
+    const prevRunningCount = history.runs.filter((r) => r.status === "running").length;
+    const poll = async () => {
       const result = await getHistory();
-      if (result.ok) setHistory(result.data);
-    }, 2000);
+      if (!result.ok) return;
+      const newRunningCount = result.data.runs.filter((r) => r.status === "running").length;
+      if (newRunningCount < prevRunningCount) {
+        const statusResult = await getStatus();
+        if (statusResult.ok) setStatus(statusResult.data);
+      }
+      setHistory(result.data);
+    };
+    poll(); // immediate first poll
+    const interval = setInterval(poll, 2000);
     return () => clearInterval(interval);
   }, [activeRuns.length]);
 
@@ -462,7 +471,7 @@ export function EnrichmentAdminClient({ initialStatus }: Props) {
                   </div>
                   <RunProgressBar
                     run={run}
-                    jobType={run.job_type}
+                    jobType={run.job_type as "scraper" | "enrichment" | "top2"}
                     fillColor={style.fillColor}
                     countLabel={style.countLabel}
                   />

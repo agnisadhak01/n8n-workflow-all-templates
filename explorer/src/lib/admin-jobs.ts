@@ -56,7 +56,8 @@ export type JobRunRow = {
 
 /**
  * Fetch job run history in chronological order (oldest first), optionally filtered by type.
- * Returns a single combined list; limit 100 when unfiltered.
+ * Returns the 100 most recent runs (newest first from DB, then reversed for display).
+ * This ensures running and just-finished runs are always included.
  */
 export async function getJobHistory(options?: {
   type?: JobType;
@@ -64,12 +65,11 @@ export async function getJobHistory(options?: {
   try {
     const supabase = getSupabase();
     const limit = 100;
-    const orderAsc = true; // chronological: oldest first (backfill order)
 
     let query = supabase
       .from("admin_job_runs")
       .select("id, job_type, started_at, completed_at, status, result")
-      .order("started_at", { ascending: orderAsc })
+      .order("started_at", { ascending: false })
       .limit(limit);
 
     if (
@@ -83,6 +83,7 @@ export async function getJobHistory(options?: {
     const { data, error } = await query;
     if (error) return { error: error.message };
     const runs = (data ?? []) as JobRunRow[];
+    runs.reverse(); // chronological oldest-first for display
     return { runs };
   } catch (err) {
     const message = err instanceof Error ? err.message : String(err);
