@@ -14,6 +14,7 @@ The enrichment system:
 6. **Pricing (INR)** — Repetitive nodes = `total_node_count - total_unique_node_types` (common/similar node instances); base = `(repetitive × 700) + (total_unique_node_types × 2700)`, then multiplied by a complexity factor (0.8–1.2). See [Recalculating pricing](#recalculating-pricing) to refresh prices after formula changes.
 7. **Top 2 industries** — Populated by the **standalone** `enrich:top` script (see below), which analyzes existing `use_case_description` and updates only these two columns.
 8. **Top 2 processes** — Same as above; no other fields are modified.
+9. **Unique common serviceable name** — Populated by the **standalone** `enrich:serviceable-name` script (see below). A plain-English name (~15–25 chars) for non-technical users; uses `use_case_name` and `use_case_description` as primary inputs. AI-generated, or rule-based fallback.
 
 ## Prerequisites
 
@@ -33,6 +34,10 @@ Ensure the following migrations are applied to your Supabase project (via SQL Ed
 - `supabase/migrations/20250218000002_allow_top2_job_type.sql` — allows `job_type = 'top2'` for Top-2 classifier run history
 - `supabase/migrations/20250219000001_add_get_admin_insights.sql` — adds `get_admin_insights()` RPC for detailed per-script stats
 - `supabase/migrations/20250219000002_add_stale_job_runs_cleanup.sql` — adds `admin_mark_stale_job_runs()` and pg_cron to auto-mark stale runs as failed
+- `supabase/migrations/20250219000003_add_unique_common_serviceable_name.sql` — adds `unique_common_serviceable_name` column
+- `supabase/migrations/20250219000004_allow_serviceable_name_job_type.sql` — allows `job_type = 'serviceable_name'`
+- `supabase/migrations/20250219000005_update_admin_insights_serviceable_name.sql` — adds serviceable_name stats to `get_admin_insights()`
+- `supabase/migrations/20250219000006_allow_stopped_status.sql` — allows `status = 'stopped'` for user-initiated cancellation
 
 ### 2. Environment variables
 
@@ -192,6 +197,47 @@ npm run enrich:top -- --no-ai
 
 Env: `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`; `OPENAI_API_KEY` required for AI (default behavior).
 
+## Serviceable name (standalone)
+
+The **serviceable name** script populates `unique_common_serviceable_name` in `template_analytics` with a short plain-English name (~15–25 characters) that non-technical users can understand.
+
+**Primary inputs:** `use_case_name` and `use_case_description`. If the use case name is already clear, it may be used as-is. Otherwise the name is generated from these fields plus title and node types.
+
+**When to run:** After `enrich:analytics` has populated rows (so that `use_case_name` and `use_case_description` exist). Run:
+
+```bash
+npm run enrich:serviceable-name
+```
+
+Interactive mode will prompt for options. Non-interactive examples:
+
+```bash
+# Rule-based only (no AI)
+npm run enrich:serviceable-name -- --no-ai
+
+# With AI (default when OPENAI_API_KEY is set)
+npm run enrich:serviceable-name -- --use-ai
+
+# With a limit (e.g. 20 rows)
+npm run enrich:serviceable-name -- --limit 20
+
+# Recompute existing names (overwrite)
+npm run enrich:serviceable-name -- --refresh
+```
+
+**Name generation rules:** Names are never truncated mid-word. Output is always a complete phrase. Target length is ~15–25 characters.
+
+| Option | Description |
+|--------|-------------|
+| `--batch-size N` | Rows to process per batch (default: 50) |
+| `--limit N` | Max rows to process this run (0 = no limit) |
+| `--refresh` | Recompute even when `unique_common_serviceable_name` is already set |
+| `--use-ai` | Use OpenAI (default when OPENAI_API_KEY is set) |
+| `--no-ai` | Disable AI; use rule-based fallback only |
+| `--ai-delay-ms N` | Delay between AI requests in ms |
+
+Env: `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`; `OPENAI_API_KEY` required for AI.
+
 ## Validation
 
 After running enrichment, you can validate data with the queries in `scripts/enrichment/validation-queries.sql`. Run them in the Supabase SQL Editor or via MCP `execute_sql`.
@@ -307,13 +353,13 @@ In Coolify, set:
 | `ADMIN_BASIC_PASSWORD` | Optional | Admin login password (env only; not shown in UI). Default: `superpass`. Set in production. |
 | `ADMIN_SESSION_SECRET` | Optional | Secret for signing session cookies (defaults to `ENRICHMENT_ADMIN_SECRET`). Set in production. |
 | `ENRICHMENT_BATCH_SIZE` | No | Batch size for enrichment run (default: 100) |
-| `OPENAI_API_KEY` | No | Required for **Run top-2 (AI)** button; server env only (not exposed to client) |
+| `OPENAI_API_KEY` | No | Required for **Run top-2 (AI)** and **Run serviceable name (AI)**; server env only (not exposed to client) |
 
 ### Triggering a run
 
-**From the admin UI:** Open `/admin/enrichment` in the browser. You will be redirected to **Admin sign in** (`/admin/login`) if not authenticated. Sign in with the credentials configured via `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` (defaults: `superadmin` / `superpass`; set these in Coolify for production). After signing in you will see total / enriched / pending counts, **Run scraper**, **Run enrichment**, and **Run top-2 (AI)** buttons, and the combined job run history table. Each run section has parameter fields (batch size, limit, and for scraper delay; for top-2 a refresh option) with default values that you can change before clicking Run. Click a run button to start the script in the background. Use **Refresh status** to update counts and history. Use **Cleanup stale runs** to mark runs stuck as "running" for 2+ hours as failed. Use **Sign out** to end the session.
+**From the admin UI:** Open `/admin/enrichment` in the browser. You will be redirected to **Admin sign in** (`/admin/login`) if not authenticated. Sign in with the credentials configured via `ADMIN_BASIC_USER` and `ADMIN_BASIC_PASSWORD` (defaults: `superadmin` / `superpass`; set these in Coolify for production). After signing in you will see total / enriched / pending counts, **Run scraper**, **Run enrichment**, **Run top-2 (AI)**, and **Run serviceable name (AI)** buttons, and the combined job run history table. Each run section has parameter fields (batch size, limit, and for scraper delay; for top-2 and serviceable name a refresh option) with default values that you can change before clicking Run. Click a run button to start the script in the background. Use **Refresh status** to update counts and history. Use **Cleanup stale runs** to mark runs stuck as "running" for 2+ hours as failed. Use **Mark as stopped** to mark a running run as stopped (user-initiated). Use **Sign out** to end the session.
 
-**Realtime monitoring:** When any script is running, an **Active runs** section appears with all running sessions, ordered by start time. Each shows a Run ID (UUID; click to copy), start time, and an animated progress bar with counts. The page polls every 2 seconds and refreshes summary counts when a run completes. If a run stops without updating the database (e.g. killed, crash), it shows "Possibly stopped — no update for 2+ hours"; use **Mark as stopped** on that run or **Cleanup stale runs** to correct it.
+**Realtime monitoring:** When any script is running, an **Active runs** section appears with all running sessions, ordered by start time. Each shows a Run ID (UUID; click to copy), start time, and an animated progress bar with counts. The page polls every 2 seconds and refreshes summary counts when a run completes. If a run stops without updating the database (e.g. killed, crash), it shows "Possibly stopped — no update for 2+ hours"; use **Mark as stopped** to set status to `stopped` or **Cleanup stale runs** to mark stale runs as `failed`.
 
 **From the API:** Requests to `/api/admin/*` require authentication (session cookie from the login page, or HTTP Basic Auth with the same credentials). For programmatic access you must also send the secret in a header or query param:
 
@@ -331,6 +377,7 @@ Each run section on the admin page exposes parameters that are passed to the scr
 - **Template fetch (scraper):** Batch size (default 50), Delay in seconds (default 0.3), Limit (default 0 = all templates).
 - **Analytics enrichment:** Batch size (default 100), Limit (default 0 = no limit).
 - **Top-2 classifier (AI):** Batch size (default 50), Limit (default 0 = no limit), Refresh — when enabled, recomputes existing `top_2_industries` and `top_2_processes`; when off, only rows with empty top_2_* are filled.
+- **Serviceable name (AI):** Batch size (default 50), Limit (default 0 = no limit), Refresh — when enabled, recomputes existing `unique_common_serviceable_name`; when off, only rows with empty names are filled.
 
 ### Checking status
 
@@ -351,13 +398,13 @@ Response: `{ "totalTemplates", "enrichedCount", "pendingCount" }`.
 Each run started from the admin UI (enrichment, template scraper, or top-2 classifier) is recorded in the `admin_job_runs` table. Each run has a UUID (`id`) for management; click the Run ID in the UI to copy it to the clipboard.
 
 - **Active runs** — When any script is running, this section lists all running sessions with Run ID, start time, and progress bar. Progress updates every 2 seconds. Runs older than 2 hours with no update show "Possibly stopped" and a **Mark as stopped** button.
-- **Insights (from run history)** — Summary cards: total enriched and total failed across all enrichment runs; total templates added and total errors across all scraper runs; total processed/failed for top-2 runs; run session counts; last run summary for each type. Data comes from `get_admin_insights()` RPC.
-- **Job run history** — A single combined table for all job types. Columns: **Run ID** (UUID, click to copy), Started, Completed, Duration, **Type** (tag: Enrichment / Data fetching / Top-2 classifier), **Result**, Status. Running runs show a **Mark as stopped** button.
-- **Cleanup stale runs** — Marks runs stuck as "running" for 2+ hours as failed. Also runs automatically via pg_cron every 15 minutes in Supabase.
+- **Insights (from run history)** — Summary cards: total enriched and total failed across enrichment runs; total templates added and errors across scraper runs; total processed/failed for top-2 and serviceable name runs; run session counts; last run summary for each type. Data comes from `get_admin_insights()` RPC.
+- **Job run history** — A single combined table for all job types. Columns: **Run ID** (UUID, click to copy), Started, Completed, Duration, **Type** (Enrichment / Data fetching / Top-2 classifier / Serviceable name), **Result**, **Status** (running, completed, failed, or stopped). Running runs show a **Mark as stopped** button; clicking it sets status to `stopped` (user-initiated cancellation).
+- **Cleanup stale runs** — Marks runs stuck as "running" for 2+ hours as `failed`. Also runs automatically via pg_cron every 15 minutes in Supabase.
 
-History is stored in Supabase (`admin_job_runs`); see [Database Schema](database-schema.md#admin_job_runs). When you click **Run enrichment**, **Run scraper**, or **Run top-2 (AI)**, the app inserts a row with `status = 'running'` and passes `ADMIN_RUN_ID` in the environment to the script. The script updates that row on exit with `completed_at`, `status`, and result counts. Scripts triggered from the CLI (without the UI) do not receive `ADMIN_RUN_ID`, so they do not create or update run history.
+History is stored in Supabase (`admin_job_runs`); see [Database Schema](database-schema.md#admin_job_runs). When you click **Run enrichment**, **Run scraper**, **Run top-2 (AI)**, or **Run serviceable name (AI)**, the app inserts a row with `status = 'running'` and passes `ADMIN_RUN_ID` in the environment to the script. The script updates that row on exit with `completed_at`, `status`, and result counts. Scripts triggered from the CLI (without the UI) do not receive `ADMIN_RUN_ID`, so they do not create or update run history.
 
-**Resumable scripts:** All three scripts are resumable. The scraper skips existing templates and saves state. Enrichment and top-2 process only pending/empty rows and never overwrite existing data unless you enable **Refresh** (top-2 only).
+**Resumable scripts:** All four scripts are resumable. The scraper skips existing templates and saves state. Enrichment, top-2, and serviceable name process only pending/empty rows and never overwrite existing data unless you enable **Refresh** (top-2 and serviceable name).
 
 **Apply top2 migration:** If "Run top-2 (AI)" fails with `admin_job_runs_job_type_check`, apply migration `20250218000002`:
 
@@ -394,10 +441,11 @@ npx tsx scripts/backfill-admin-job-runs-from-git.ts --insert
 | `explorer/src/app/api/admin/auth/logout/route.ts` | POST/GET: clear session cookie, redirect to login |
 | `explorer/src/app/api/admin/enrich/status/route.ts` | GET enrichment counts (total, enriched, pending); requires auth + secret |
 | `explorer/src/app/api/admin/enrich/run/route.ts` | POST to start enrichment script in background; requires auth + secret |
-| `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history; query `?type=enrichment`, `?type=scraper`, or `?type=top2`; requires auth + secret |
+| `explorer/src/app/api/admin/jobs/history/route.ts` | GET run history; query `?type=enrichment`, `?type=scraper`, `?type=top2`, or `?type=serviceable_name`; requires auth + secret |
 | `explorer/src/app/api/admin/scrape/run/route.ts` | POST to start template scraper in background; requires auth + secret |
 | `explorer/src/lib/top2-run.ts` | Spawns top-2 classifier script with `--use-ai` (used by "Run top-2 (AI)" button) |
-| `explorer/src/app/admin/enrichment/EnrichmentAdminClient.tsx` | Admin UI: status cards, Active runs (with progress bars), parameter inputs, Run buttons, Mark as stopped, Cleanup stale runs, Job run history (Run ID, Status), Insights; access after sign-in at `/admin/login` |
+| `explorer/src/lib/service-name-run.ts` | Spawns serviceable name script with `--use-ai` (used by "Run serviceable name (AI)" button) |
+| `explorer/src/app/admin/enrichment/EnrichmentAdminClient.tsx` | Admin UI: status cards, Active runs (with progress bars), parameter inputs, Run buttons (scraper, enrichment, top-2, serviceable name), Mark as stopped, Cleanup stale runs, Job run history (Run ID, Status), Insights; access after sign-in at `/admin/login` |
 | `scripts/enrich-analytics.ts` | Main entry: fetches templates, runs pipeline, upserts analytics |
 | `scripts/enrichment/types.ts` | Shared TypeScript types |
 | `scripts/enrichment/node-analyzer.ts` | Node statistics from `template.nodes` |
@@ -405,6 +453,8 @@ npx tsx scripts/backfill-admin-job-runs-from-git.ts --insert
 | `scripts/enrichment/top-classifier.ts` | Top-2 classification logic (used by standalone script) |
 | `scripts/enrich-pricing.ts` | Standalone script: recalculates pricing only (base, multiplier, final INR) |
 | `scripts/enrich-top-classifier.ts` | Standalone script: updates only top_2_industries, top_2_processes |
+| `scripts/enrich-serviceable-name.ts` | Standalone script: updates only unique_common_serviceable_name |
+| `scripts/enrichment/serviceable-name-generator.ts` | Serviceable name generation (rules + optional OpenAI); primary inputs: use_case_name, use_case_description; ~15–25 chars, never truncated mid-word |
 | `scripts/enrichment/description-generator.ts` | Use case description (rules + optional OpenAI) |
 | `scripts/enrichment/pricing-calculator.ts` | INR pricing formula (repetitive × 700 + unique × 2700; complexity 0.8–1.2) |
 | `scripts/enrichment/rate-limit.ts` | AI request rate limiter (delay and batch pause) |

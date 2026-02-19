@@ -123,6 +123,7 @@ Schema is applied via Supabase migrations (MCP `apply_migration` or SQL Editor).
 | `20250219000003` | Add `unique_common_serviceable_name` to template_analytics |
 | `20250219000004` | Allow `job_type = 'serviceable_name'` in `admin_job_runs` |
 | `20250219000005` | Add serviceable_name stats to `get_admin_insights()` |
+| `20250219000006` | Allow `status = 'stopped'` for user-initiated cancellation |
 
 The scraper expects:
 
@@ -159,7 +160,7 @@ Enriched analytics per template. See [Enrichment Guide](enrichment-guide.md) for
 
 ## admin_job_runs
 
-Run history for admin-triggered jobs (enrichment, template scraper, and top-2 classifier). The explorer admin UI shows a single combined job run history table with job type tags (Enrichment, Data fetching, Top-2 classifier). Only the service role can read or write; the table is not exposed to anon.
+Run history for admin-triggered jobs (enrichment, template scraper, top-2 classifier, and serviceable name). The explorer admin UI shows a single combined job run history table with job type tags (Enrichment, Data fetching, Top-2 classifier, Serviceable name). Only the service role can read or write; the table is not exposed to anon.
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -167,7 +168,7 @@ Run history for admin-triggered jobs (enrichment, template scraper, and top-2 cl
 | `job_type` | text | `enrichment`, `scraper`, `top2`, or `serviceable_name` |
 | `started_at` | timestamptz | When the run was started |
 | `completed_at` | timestamptz (nullable) | When the script reported completion |
-| `status` | text | `running`, `completed`, or `failed` |
+| `status` | text | `running`, `completed`, `failed`, or `stopped` |
 | `result` | jsonb (nullable) | Job-specific counts |
 
 **Result payloads:**
@@ -177,7 +178,7 @@ Run history for admin-triggered jobs (enrichment, template scraper, and top-2 cl
 - **Top-2 classifier:** `{ "processed_count": number, "failed_count": number }`; during run may include `total_count`
 - **Serviceable name:** `{ "processed_count": number, "failed_count": number }`; during run may include `total_count`
 
-When a run is started from the admin UI, a row is inserted with `status = 'running'`. The script receives `ADMIN_RUN_ID` in the environment and updates the row on exit with `completed_at`, `status`, and `result`. Scripts report progress during runs (e.g. `total_count`, processed/failed) for the admin UI progress bar.
+When a run is started from the admin UI, a row is inserted with `status = 'running'`. The script receives `ADMIN_RUN_ID` in the environment and updates the row on exit with `completed_at`, `status`, and `result`. Scripts report progress during runs (e.g. `total_count`, processed/failed) for the admin UI progress bar. **Status values:** `running` (in progress), `completed` (finished successfully), `failed` (error or stale), `stopped` (user cancelled via "Mark as stopped").
 
 **Functions:**
 

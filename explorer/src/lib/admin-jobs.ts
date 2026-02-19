@@ -93,8 +93,8 @@ export async function getJobHistory(options?: {
 }
 
 /**
- * Mark a job run as stopped (failed). Use when a script stopped without updating the DB
- * (e.g. killed, crashed, or ran outside the admin UI).
+ * Mark a job run as stopped. Use when the user cancels from the admin UI, or when a
+ * script stopped without updating the DB (e.g. killed, crashed, ran outside the admin UI).
  */
 /**
  * Mark stale running runs as failed (no update for 2+ hours).
@@ -119,7 +119,7 @@ export async function markJobRunStopped(runId: string): Promise<{ ok: boolean; e
     const { error } = await supabase
       .from("admin_job_runs")
       .update({
-        status: "failed",
+        status: "stopped",
         completed_at: new Date().toISOString(),
       })
       .eq("id", runId)

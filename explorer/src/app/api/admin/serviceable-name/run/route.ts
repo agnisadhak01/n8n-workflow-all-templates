@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { loadScraperEnvIfNeeded } from "@/lib/load-scraper-env";
-import { startEnrichmentInBackground } from "@/lib/enrich-run";
+import { startServiceableNameInBackground } from "@/lib/service-name-run";
 
 function getSecret(request: Request): string | null {
   const header = request.headers.get("x-admin-secret");
@@ -23,7 +23,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
-  let options: { batchSize?: number; limit?: number } = {};
+  let options: { batchSize?: number; limit?: number; refresh?: boolean } = {};
   try {
     const text = await request.text();
     if (text) {
@@ -34,6 +34,9 @@ export async function POST(request: Request) {
       if (typeof body.limit === "number") {
         options.limit = Math.max(0, Math.floor(body.limit));
       }
+      if (typeof body.refresh === "boolean") {
+        options.refresh = body.refresh;
+      }
     }
   } catch {
     return NextResponse.json(
@@ -43,10 +46,10 @@ export async function POST(request: Request) {
   }
 
   loadScraperEnvIfNeeded();
-  const result = await startEnrichmentInBackground(options);
+  const result = await startServiceableNameInBackground(options);
   if (!result.ok) {
     return NextResponse.json(
-      { error: `Failed to start enrichment: ${result.error}` },
+      { error: `Failed to start serviceable name enrichment: ${result.error}` },
       { status: 500 }
     );
   }
@@ -54,7 +57,7 @@ export async function POST(request: Request) {
   return NextResponse.json(
     {
       message:
-        "Enrichment started in background. Use status endpoint to monitor.",
+        "Serviceable name enrichment started in background. Use status endpoint to monitor.",
     },
     { status: 202 }
   );

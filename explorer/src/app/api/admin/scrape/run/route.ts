@@ -23,8 +23,30 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
+  let options: { batchSize?: number; delay?: number; limit?: number } = {};
+  try {
+    const text = await request.text();
+    if (text) {
+      const body = JSON.parse(text) as Record<string, unknown>;
+      if (typeof body.batchSize === "number") {
+        options.batchSize = Math.max(1, Math.min(500, Math.floor(body.batchSize)));
+      }
+      if (typeof body.delay === "number") {
+        options.delay = Math.max(0, body.delay);
+      }
+      if (typeof body.limit === "number") {
+        options.limit = Math.max(0, Math.floor(body.limit));
+      }
+    }
+  } catch {
+    return NextResponse.json(
+      { error: "Invalid JSON body" },
+      { status: 400 }
+    );
+  }
+
   loadScraperEnvIfNeeded();
-  const result = await startScraperInBackground();
+  const result = await startScraperInBackground(options);
   if (!result.ok) {
     return NextResponse.json(
       { error: `Failed to start scraper: ${result.error}` },

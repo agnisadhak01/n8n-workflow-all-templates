@@ -12,7 +12,7 @@
 | [API Reference](api-reference.md) | Component and hook documentation |
 | [Deployment](deployment.md) | Deployment guides (Vercel, CI/CD) |
 | [Database Schema](database-schema.md) | Supabase schema and migrations |
-| [Enrichment Guide](enrichment-guide.md) | Template analytics enrichment (use case, industries, pricing) |
+| [Enrichment Guide](enrichment-guide.md) | Template analytics enrichment (use case, industries, pricing, serviceable name) |
 | [Scraper Guide](scraper-guide.md) | Python scraper documentation |
 | [Contributing](contributing.md) | Contribution guidelines |
 | [Troubleshooting](troubleshooting.md) | Common issues and solutions |

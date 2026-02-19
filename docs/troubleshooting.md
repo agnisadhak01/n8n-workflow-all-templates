@@ -148,7 +148,7 @@ python run.py --limit 1
 **Cause:** A script was killed, crashed, or lost connection without updating the database. The admin UI cannot detect this directly; runs older than 2 hours with no update show "Possibly stopped".
 
 **Solution:**
-- Use **Mark as stopped** on the specific run to mark it as `failed` manually.
+- Use **Mark as stopped** on the specific run to mark it as `stopped` (user-initiated cancellation).
 - Use **Cleanup stale runs** to mark all runs stuck as "running" for 2+ hours as failed.
 - In production, `admin_mark_stale_job_runs()` runs every 15 minutes via pg_cron (migration `20250219000002`).
 
@@ -157,6 +157,12 @@ python run.py --limit 1
 **Cause:** Older versions of the top-2 script exited when the first batch had all rows already filled, instead of advancing to the next batch. Fixed in recent updates: the script now skips past fully-filled batches and continues until all pending rows are processed or the batch returns empty and exhausted.
 
 **Solution:** Ensure you use the latest `scripts/enrich-top-classifier.ts`. Re-run top-2 to process remaining rows.
+
+### Serviceable name or "Mark as stopped" fails with constraint error
+
+**Cause:** Migrations for `unique_common_serviceable_name`, `serviceable_name` job type, or `stopped` status not applied.
+
+**Solution:** Apply migrations `20250219000003` through `20250219000006` via Supabase MCP `apply_migration` or SQL Editor. See [Enrichment Guide](enrichment-guide.md#setup).
 
 ## Build & Deployment
 

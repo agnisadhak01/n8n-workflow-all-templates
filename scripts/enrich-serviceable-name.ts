@@ -137,11 +137,19 @@ async function fetchAnalyticsBatch(
     refresh: boolean;
   }
 ): Promise<{ data: AnalyticsRow[]; templateTitles: Map<string, string>; exhausted: boolean }> {
-  const { data, error } = await supabase
+  let query = supabase
     .from("template_analytics")
     .select("template_id, use_case_name, use_case_description, unique_node_types, unique_common_serviceable_name")
     .order("updated_at", { ascending: true })
     .range(options.offset, options.offset + FETCH_WINDOW - 1);
+
+  if (!options.refresh) {
+    query = query.or(
+      "unique_common_serviceable_name.is.null,unique_common_serviceable_name.eq."
+    );
+  }
+
+  const { data, error } = await query;
 
   if (error) throw new Error(`Fetch template_analytics: ${error.message}`);
 
